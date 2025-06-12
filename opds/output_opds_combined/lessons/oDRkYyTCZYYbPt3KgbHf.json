@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Word Sounds - 6",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/oDRkYyTCZYYbPt3KgbHf",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.872270"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/oDRkYyTCZYYbPt3KgbHf.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en0905.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en0905.zip",
+      "type": "application/zip"
+    }
+  ]
+}

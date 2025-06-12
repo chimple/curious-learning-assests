@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Revision G - L",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/WdQtgjLwN0khoANb2QJi",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.857552"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/WdQtgjLwN0khoANb2QJi.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en0403.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en0403.zip",
+      "type": "application/zip"
+    }
+  ]
+}

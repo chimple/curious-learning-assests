@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Match Coloured Objects 2",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/9K8TQgR3cDjjkjYYM9i4",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.104512"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/9K8TQgR3cDjjkjYYM9i4.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/puzzle0001.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/puzzle0001.zip",
+      "type": "application/zip"
+    }
+  ]
+}

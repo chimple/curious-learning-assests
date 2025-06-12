@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "c",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/7ZCLZYLysGhpkfimLwy5",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.846264"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/7ZCLZYLysGhpkfimLwy5.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en0002.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en0002.zip",
+      "type": "application/zip"
+    }
+  ]
+}

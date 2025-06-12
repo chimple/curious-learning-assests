@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Write 51-60",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/s7cU2SprGhJLQecszsi8",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.954484"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/s7cU2SprGhJLQecszsi8.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths0707.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0707.zip",
+      "type": "application/zip"
+    }
+  ]
+}

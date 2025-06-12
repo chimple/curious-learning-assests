@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Practice 6",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/K1MRyhlc1JoVDa6b5lvI",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.045222"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/K1MRyhlc1JoVDa6b5lvI.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2205.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2205.zip",
+      "type": "application/zip"
+    }
+  ]
+}

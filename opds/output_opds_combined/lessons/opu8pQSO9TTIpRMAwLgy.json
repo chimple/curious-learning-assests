@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Addition",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/opu8pQSO9TTIpRMAwLgy",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.997280"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/opu8pQSO9TTIpRMAwLgy.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1401.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1401.zip",
+      "type": "application/zip"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Trophy",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/k0iqPAWuU4qXjzhkuS8I",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.116509"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/k0iqPAWuU4qXjzhkuS8I.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/drawshape0011.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/drawshape0011.zip",
+      "type": "application/zip"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Hard",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/3YnpnTwzR8PLeZSJEfAU",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.131035"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/3YnpnTwzR8PLeZSJEfAU.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/matchingcard0007.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/matchingcard0007.zip",
+      "type": "application/zip"
+    }
+  ]
+}

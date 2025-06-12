@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "20 - 99",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/AeWqfaRNFxG52Fp4piIs",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.985861"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/AeWqfaRNFxG52Fp4piIs.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1209.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1209.zip",
+      "type": "application/zip"
+    }
+  ]
+}

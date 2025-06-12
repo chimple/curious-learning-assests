@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Blend - cl",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/B6gPf3mkPlxfG3XeKz6P",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.901853"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/B6gPf3mkPlxfG3XeKz6P.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en1802.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en1802.zip",
+      "type": "application/zip"
+    }
+  ]
+}

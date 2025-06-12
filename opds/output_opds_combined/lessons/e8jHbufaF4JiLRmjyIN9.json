@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Insects",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/e8jHbufaF4JiLRmjyIN9",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.120748"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/e8jHbufaF4JiLRmjyIN9.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/pictureboard0006.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/pictureboard0006.zip",
+      "type": "application/zip"
+    }
+  ]
+}

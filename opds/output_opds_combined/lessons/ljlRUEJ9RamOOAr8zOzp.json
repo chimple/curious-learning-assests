@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Colours",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/ljlRUEJ9RamOOAr8zOzp",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.913206"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/ljlRUEJ9RamOOAr8zOzp.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en2002.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en2002.zip",
+      "type": "application/zip"
+    }
+  ]
+}

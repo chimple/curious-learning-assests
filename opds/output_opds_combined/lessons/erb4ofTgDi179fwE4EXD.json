@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Add 3 Digits - 2",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/erb4ofTgDi179fwE4EXD",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.066444"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/erb4ofTgDi179fwE4EXD.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2505.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2505.zip",
+      "type": "application/zip"
+    }
+  ]
+}

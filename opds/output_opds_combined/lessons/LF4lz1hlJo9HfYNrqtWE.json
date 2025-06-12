@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Subtraction 2",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/LF4lz1hlJo9HfYNrqtWE",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.005259"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/LF4lz1hlJo9HfYNrqtWE.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1507.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1507.zip",
+      "type": "application/zip"
+    }
+  ]
+}

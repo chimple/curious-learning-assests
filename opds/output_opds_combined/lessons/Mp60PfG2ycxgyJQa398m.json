@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Calculator - 4",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/Mp60PfG2ycxgyJQa398m",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.073022"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/Mp60PfG2ycxgyJQa398m.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2614.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2614.zip",
+      "type": "application/zip"
+    }
+  ]
+}

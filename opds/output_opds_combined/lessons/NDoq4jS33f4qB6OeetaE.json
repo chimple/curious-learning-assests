@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Quick  Addition 8",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/NDoq4jS33f4qB6OeetaE",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.049410"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/NDoq4jS33f4qB6OeetaE.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2215.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2215.zip",
+      "type": "application/zip"
+    }
+  ]
+}

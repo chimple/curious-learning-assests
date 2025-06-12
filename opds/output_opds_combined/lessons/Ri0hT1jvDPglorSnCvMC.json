@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "800-999",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/Ri0hT1jvDPglorSnCvMC",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.064137"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/Ri0hT1jvDPglorSnCvMC.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2408.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2408.zip",
+      "type": "application/zip"
+    }
+  ]
+}

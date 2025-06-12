@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Practice 3",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/3BHo9Lo0KdeSlGEqDZPc",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.040508"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/3BHo9Lo0KdeSlGEqDZPc.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2202.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2202.zip",
+      "type": "application/zip"
+    }
+  ]
+}

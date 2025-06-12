@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Practice",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/GgPewY6fjOBNyEOYaK1c",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.081491"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/GgPewY6fjOBNyEOYaK1c.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2709.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2709.zip",
+      "type": "application/zip"
+    }
+  ]
+}

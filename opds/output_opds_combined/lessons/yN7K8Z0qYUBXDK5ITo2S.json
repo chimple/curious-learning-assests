@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Goat",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/yN7K8Z0qYUBXDK5ITo2S",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.122660"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/yN7K8Z0qYUBXDK5ITo2S.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/pictureboard0011.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/pictureboard0011.zip",
+      "type": "application/zip"
+    }
+  ]
+}

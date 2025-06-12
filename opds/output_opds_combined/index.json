@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Chimple Learning"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/index.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "englishgrade1.json",
+      "title": "English Grade 1",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "englishgrade2.json",
+      "title": "English Grade 2",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "mathsgrade1.json",
+      "title": "Maths Grade 1",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "mathsgrade2.json",
+      "title": "Maths Grade 2",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "digitalskills.json",
+      "title": "Digital Skills",
+      "type": "application/opds+json"
+    }
+  ]
+}
