@@ -15,11 +15,9 @@ SKIP_SHEETS = {'All Courses', 'Sheet4', 'Sheet5'}  # adjust as needed
 OUTPUT_DIR = 'output_opds_combined'
 GRADE_DIR = os.path.join(OUTPUT_DIR, 'grades')
 LESSON_DIR = os.path.join(OUTPUT_DIR, 'lessons')
-IMAGE_DIR = os.path.join(OUTPUT_DIR, 'images')
 
 os.makedirs(GRADE_DIR, exist_ok=True)
 os.makedirs(LESSON_DIR, exist_ok=True)
-os.makedirs(IMAGE_DIR, exist_ok=True)
 
 # Load workbook
 print(f"Loading workbook: {EXCEL_FILE}")
@@ -32,7 +30,7 @@ for sheet_name in wb.sheetnames:
         continue
     filename = sheet_name.replace(' ', '').lower() + '.json'
     navigation.append({
-        'href': filename,
+        'href': BASE_URL + filename,
         'title': sheet_name,
         'type': TYPE_OPDS
     })
@@ -93,8 +91,8 @@ for sheet_name in wb.sheetnames:
         images = [{
             "href": f"{image_base}.jpg",
             "type": "image/jpeg",
-            "height": 1400,
-            "width": 800
+            "height": 128,
+            "width": 128
         }]
 
         publication = {
