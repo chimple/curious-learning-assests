@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Quick  Addition 5",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/Kp1ijcbUONa1CemuEzGA",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.048322"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/Kp1ijcbUONa1CemuEzGA.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2212.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2212.zip",
+      "type": "application/zip"
+    }
+  ]
+}

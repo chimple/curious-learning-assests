@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "10's Subtraction",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/vXuYxIGEofprmvtQ4VZE",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.006212"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/vXuYxIGEofprmvtQ4VZE.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1509.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1509.zip",
+      "type": "application/zip"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Squirrel",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/Idwi7kmjuBdni1BfftgY",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.128154"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/Idwi7kmjuBdni1BfftgY.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/pictureboard0019.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/pictureboard0019.zip",
+      "type": "application/zip"
+    }
+  ]
+}

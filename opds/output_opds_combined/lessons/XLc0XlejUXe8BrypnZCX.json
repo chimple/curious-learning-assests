@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Star",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/XLc0XlejUXe8BrypnZCX",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.115901"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/XLc0XlejUXe8BrypnZCX.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/drawshape0009.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/drawshape0009.zip",
+      "type": "application/zip"
+    }
+  ]
+}

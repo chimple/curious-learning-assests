@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ake",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/FI7r1pTvVo6HbhHRYF9w",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.878371"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/FI7r1pTvVo6HbhHRYF9w.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en1102.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en1102.zip",
+      "type": "application/zip"
+    }
+  ]
+}

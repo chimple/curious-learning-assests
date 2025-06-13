@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Good Manners",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/Reb2fDikzKAZC9uP4XRh",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.914485"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/Reb2fDikzKAZC9uP4XRh.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en2010.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en2010.zip",
+      "type": "application/zip"
+    }
+  ]
+}

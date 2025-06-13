@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Puzzle Time 21-30",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/vx6xbBY4D4M6b11d3QzC",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.951652"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/vx6xbBY4D4M6b11d3QzC.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths0700.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0700.zip",
+      "type": "application/zip"
+    }
+  ]
+}

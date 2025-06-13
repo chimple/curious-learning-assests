@@ -1,0 +1,3839 @@
+{
+  "metadata": {
+    "title": "Maths Grade 1"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/mathsgrade1.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "1.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Y4YaWvcp43ldu5NrhiaW",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.931218"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Y4YaWvcp43ldu5NrhiaW.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0000.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "2.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/0yRIsBUW9qRuEeTUuNJ6",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.931596"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/0yRIsBUW9qRuEeTUuNJ6.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0001.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "3.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/fwPdy84EA6acXwo0IlNo",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.931877"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/fwPdy84EA6acXwo0IlNo.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0002.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "4.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/hEBdpIWgY8st8LSW0bAK",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.932151"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/hEBdpIWgY8st8LSW0bAK.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0003.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "5.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/hPwKrfXOZ3NtOR0lSFCT",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.932423"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/hPwKrfXOZ3NtOR0lSFCT.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0004.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/fygxEQv6G5cU2zQeldhK",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.932776"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/fygxEQv6G5cU2zQeldhK.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0100.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/qpu2AzwbeV26093cWbkX",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.933080"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/qpu2AzwbeV26093cWbkX.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0101.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/aBfK6KZlklkB2agLKH0w",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.933379"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/aBfK6KZlklkB2agLKH0w.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0102.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "6.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/KvDIa4yWnEpqncQLoJZ1",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.933784"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/KvDIa4yWnEpqncQLoJZ1.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0200.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "7.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/B9bmAyoc34qK9w82a9ID",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.934079"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/B9bmAyoc34qK9w82a9ID.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0201.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "8.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/dH1qbQZJHnKFm4yDoNNG",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.934374"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/dH1qbQZJHnKFm4yDoNNG.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0202.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "9.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/EeCTKqG95Rc0xIXh6s0o",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.934696"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/EeCTKqG95Rc0xIXh6s0o.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0203.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Lesson caWhJgynIiiDxnR53j22",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/caWhJgynIiiDxnR53j22",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.934986"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/caWhJgynIiiDxnR53j22.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0205.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "10.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/key5KePbROJj9YRhG7jH",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.935261"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/key5KePbROJj9YRhG7jH.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0204.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/iPWGHbTzMTpzev7rfFft",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.936384"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/iPWGHbTzMTpzev7rfFft.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0300.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/2sRZW6UqEzXBqJo3qklC",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.936695"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/2sRZW6UqEzXBqJo3qklC.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0301.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/jyKYR1V4CAWoIBTVTFCT",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.936982"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/jyKYR1V4CAWoIBTVTFCT.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0302.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 4",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/HzmCBycNbRbFIPgd6hIw",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.937257"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/HzmCBycNbRbFIPgd6hIw.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0303.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Match Numbers 5",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/SYfOzPWoSU5sCPffOAjg",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.937535"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/SYfOzPWoSU5sCPffOAjg.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0304.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Order 1-5",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/wahgeasRRrlx5vvewlL8",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.937845"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/wahgeasRRrlx5vvewlL8.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0305.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Order 6-10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Jflv3Qi01zrrWMwnjxt1",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.938161"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Jflv3Qi01zrrWMwnjxt1.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0306.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series 1-8",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/zfpvf9QsZ4xwAgBVhI5g",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.938553"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/zfpvf9QsZ4xwAgBVhI5g.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0307.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series 6-9",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/FrFR94FlfzoFX3uybig2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.938982"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/FrFR94FlfzoFX3uybig2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0308.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series 7-10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/nzFywrGUi9CLSrYLZ91E",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.939692"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/nzFywrGUi9CLSrYLZ91E.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0309.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series 1- 9",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/6e0OMnBZDfXYpgPx4xKP",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.940409"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/6e0OMnBZDfXYpgPx4xKP.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0310.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Big to Small",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/B17DO6pJMUAm4scs1Dxm",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.940977"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/B17DO6pJMUAm4scs1Dxm.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0311.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/RtyG9ffb4FQxw85uYQ3y",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.941748"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/RtyG9ffb4FQxw85uYQ3y.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0400.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/RQ83dPgxtfhiznjdt7PY",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.942414"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/RQ83dPgxtfhiznjdt7PY.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0401.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Gbxyb9ztoJi7ZZUxtidm",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.943374"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Gbxyb9ztoJi7ZZUxtidm.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0402.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes 4",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/4S7bAJbG9Xs4FVlKkgmK",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.944248"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/4S7bAJbG9Xs4FVlKkgmK.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0403.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "11.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/CmhSVLV0W28j1oRxUFGF",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.947212"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/CmhSVLV0W28j1oRxUFGF.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0500.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "12.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/uhRLllHuJIHOny3Sk4FU",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.947651"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/uhRLllHuJIHOny3Sk4FU.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0501.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "13.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/7TdgKoSpOSlEqjScs3AI",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.947907"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/7TdgKoSpOSlEqjScs3AI.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0502.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "14.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/EsCOkp2FWEegalZdcR17",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.948156"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/EsCOkp2FWEegalZdcR17.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0503.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "15.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/DVVJhO7AfxAJmRblE8rP",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.948399"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/DVVJhO7AfxAJmRblE8rP.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0504.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "16.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/BsyMJOlxDsdAT0HSd10r",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.948654"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/BsyMJOlxDsdAT0HSd10r.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0505.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "17.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/9cYsggio6SalwyM4pqGT",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.948943"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/9cYsggio6SalwyM4pqGT.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0506.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "18.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/GBYT8O7zA31pfFNVKy9W",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.949263"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/GBYT8O7zA31pfFNVKy9W.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0507.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "19.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/UKyiSsHJHhuGeSlb7RuV",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.949547"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/UKyiSsHJHhuGeSlb7RuV.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0508.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "20.0",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/EaGHoT8i60uAIm0DMt7E",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.949825"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/EaGHoT8i60uAIm0DMt7E.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0509.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/w4Nj4LFJq9EOa7m8F3Sz",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.950163"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/w4Nj4LFJq9EOa7m8F3Sz.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0600.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/fL4E15IPoP3nImhBzcem",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.950441"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/fL4E15IPoP3nImhBzcem.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0601.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Series 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/rJFWeuEfRLtyncP9LITt",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.950751"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/rJFWeuEfRLtyncP9LITt.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0602.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Order",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/twJ8P6RbEqJm1K3kilwI",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.951032"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/twJ8P6RbEqJm1K3kilwI.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0603.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Big to Small",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/I5cWW0TKEfkoY3RSQIKq",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.951308"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/I5cWW0TKEfkoY3RSQIKq.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0604.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 21-30",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/vx6xbBY4D4M6b11d3QzC",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.951652"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/vx6xbBY4D4M6b11d3QzC.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0700.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 21-30",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/L4KvLWY12O3OG1gEgtdS",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.951931"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/L4KvLWY12O3OG1gEgtdS.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0701.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 31-40",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/EGgj2b2lDCZPot3A15qd",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.952983"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/EGgj2b2lDCZPot3A15qd.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0702.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 31-40",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/JGUitxOxA4yQrVVuET1W",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.953272"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/JGUitxOxA4yQrVVuET1W.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0703.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 41-50",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/ECOhIYIot0aCF8i3gbGU",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.953557"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/ECOhIYIot0aCF8i3gbGU.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0704.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 41--50",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/HvCjFfOkYRsEbvxmh37b",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.953883"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/HvCjFfOkYRsEbvxmh37b.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0705.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 51-60",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/MJU3T4nXQBN7NkS4juUS",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.954178"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/MJU3T4nXQBN7NkS4juUS.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0706.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 51-60",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/s7cU2SprGhJLQecszsi8",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.954484"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/s7cU2SprGhJLQecszsi8.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0707.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 61-70",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/ra0Vv6T7CXJ1IIRhwxmc",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.954778"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/ra0Vv6T7CXJ1IIRhwxmc.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0708.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 61-70",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Ar8nEfXoQMiXi5yQMLkN",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.955058"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Ar8nEfXoQMiXi5yQMLkN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0709.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 71-80",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/nuwtwiKJ9UbckF3EmzZk",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.955350"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/nuwtwiKJ9UbckF3EmzZk.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0710.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 71-80",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/kP1CfIMpueG50Mmhfq88",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.955679"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/kP1CfIMpueG50Mmhfq88.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0711.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 81-90",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/rY1KCsrAa3SHCd8oDPWe",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.956213"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/rY1KCsrAa3SHCd8oDPWe.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0712.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write  81-90",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/GRJuB8YrRFBf9jtUxG5Z",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.956872"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/GRJuB8YrRFBf9jtUxG5Z.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0713.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Puzzle Time 91-100",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/YjbywGnrJwPUDMb96xw6",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.957441"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/YjbywGnrJwPUDMb96xw6.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0714.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 91-100",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/dDQhX0H2ZLriCDtYoewG",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.958057"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/dDQhX0H2ZLriCDtYoewG.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0715.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Order",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Ki3dvoDPnA6MmZ1K07hp",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.958785"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Ki3dvoDPnA6MmZ1K07hp.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0800.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Big & Small 1-5",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/HcEdQujy8lWsmMAmFmxn",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.959719"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/HcEdQujy8lWsmMAmFmxn.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0801.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Compare With 10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/8pvEqfWiwRA6YHPHOQbv",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.960554"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/8pvEqfWiwRA6YHPHOQbv.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0802.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Compare",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/IYaA2iVSZJjpGKsaiZ8O",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.961075"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/IYaA2iVSZJjpGKsaiZ8O.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0803.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Big & Small  1-10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/aWf0nyAkGKGSvHW1VaUZ",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.962735"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/aWf0nyAkGKGSvHW1VaUZ.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0804.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Arrange Numbers 1-100",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/crGGGBr0vuSTXK12NdRA",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.963423"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/crGGGBr0vuSTXK12NdRA.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0805.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "3D shapes",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/IIkQh2y8cSDpSa5Fg8fp",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.964025"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/IIkQh2y8cSDpSa5Fg8fp.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0806.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Add 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/V9OkE5hJVnsBmgIwar4q",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.964533"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/V9OkE5hJVnsBmgIwar4q.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0900.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Add 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/TlJmYpyjAfheoHVhjfXy",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.964858"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/TlJmYpyjAfheoHVhjfXy.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0901.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Add 3 and 4",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/GY4vYRc9uXdP5LzFTN6O",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.965107"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/GY4vYRc9uXdP5LzFTN6O.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0902.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Quick  Addition 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/xtxcloMJsM3CyVKhtbZJ",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.965345"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/xtxcloMJsM3CyVKhtbZJ.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0903.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Quick  Addition 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/FlMLlyT4so8LRe3Fqhtk",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.965594"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/FlMLlyT4so8LRe3Fqhtk.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0904.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Quick  Addition 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/eO3diefHVufiB20maW0A",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.965849"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/eO3diefHVufiB20maW0A.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0905.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Add -1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/OTd66bqKg96dNLqeMIb2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.966100"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/OTd66bqKg96dNLqeMIb2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0906.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Add -2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/SHP6W9uzVBSz6U6gmvQD",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.966344"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/SHP6W9uzVBSz6U6gmvQD.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths0907.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtract 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/XdSQP8tfa3xGBczxbSlL",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.966688"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/XdSQP8tfa3xGBczxbSlL.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1000.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtract 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Op42w0lU69CUSMOV23rb",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.967074"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Op42w0lU69CUSMOV23rb.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1001.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtract 3 & 4",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/t40PaKaq71XPn6uPOa9u",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.967484"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/t40PaKaq71XPn6uPOa9u.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1002.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count & Subtract 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/uPzGm9R2Pvoy5E6oPpiC",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.967907"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/uPzGm9R2Pvoy5E6oPpiC.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1003.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count & Subtract 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/IM4mVXhiHVD5xnuGgYMa",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.968301"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/IM4mVXhiHVD5xnuGgYMa.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1004.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Speed Subtraction 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/QfBZCs3ic9l9GR93PwwY",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.968697"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/QfBZCs3ic9l9GR93PwwY.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1005.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Speed Subtraction 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/sJ2d6oZ0AIh0x62aWaZO",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.970436"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/sJ2d6oZ0AIh0x62aWaZO.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1006.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Write 100-110",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/jNAfRbOLVDMKE2AAllc8",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.971074"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/jNAfRbOLVDMKE2AAllc8.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1100.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "100 -150",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/p1spiUT7VmKtXjOEjiF1",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.971520"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/p1spiUT7VmKtXjOEjiF1.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1101.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "150 -200",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Flxk79TUk29MJGbZ3s6G",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.971988"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Flxk79TUk29MJGbZ3s6G.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1102.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "200 - 250",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/0ZvbyZ4KuszBHM4KzJdg",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.972468"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/0ZvbyZ4KuszBHM4KzJdg.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1103.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "250 - 300",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/D3L5GqJbyp3fEbZ5bxsy",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.973256"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/D3L5GqJbyp3fEbZ5bxsy.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1104.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "300 - 400",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/QHJfSmNqP7n7Fg6LXqbI",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.974034"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/QHJfSmNqP7n7Fg6LXqbI.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1105.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "400 - 500",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/RExbEsR71qJM8KjkobQi",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.974659"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/RExbEsR71qJM8KjkobQi.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1106.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "500 - 600",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/vd035nj1CXBi0IB154UW",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.975312"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/vd035nj1CXBi0IB154UW.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1107.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "600 - 700",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/qxWqfGIRQdRo353rGvYM",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.976084"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/qxWqfGIRQdRo353rGvYM.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1108.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "700 - 800",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/1CUL9Tjnkqn9Rsw6OodF",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.976846"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/1CUL9Tjnkqn9Rsw6OodF.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1109.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "800 - 900",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/iNiBZSrqrJSgVv05JcZ2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.977523"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/iNiBZSrqrJSgVv05JcZ2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1110.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "900 - 999",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/bljnFSEDP4HseVAlqswz",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.978160"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/bljnFSEDP4HseVAlqswz.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1111.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Number Order",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/cU1I8QyHoHw7vIpbutVl",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.978635"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/cU1I8QyHoHw7vIpbutVl.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1112.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "1- 20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/hqkNGwwk2VjxNK2v9Qz9",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.979288"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/hqkNGwwk2VjxNK2v9Qz9.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1200.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "21-30",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/ubyYFe0BWIseENWoUvZm",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.979900"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/ubyYFe0BWIseENWoUvZm.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1201.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "31 - 40",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/jl96kSX43t7YkRRfHMt0",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.983002"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/jl96kSX43t7YkRRfHMt0.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1202.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "41 - 50",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/HcjA9Be25NYBvJ1N01aP",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.983582"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/HcjA9Be25NYBvJ1N01aP.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1203.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "51 - 60",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/6rC9qGvDEZC9kATIFBbu",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.983985"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/6rC9qGvDEZC9kATIFBbu.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1204.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "61 - 70",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/LZY8TM3Ri8EeFpVRKeag",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.984388"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/LZY8TM3Ri8EeFpVRKeag.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1205.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "71 - 80",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Lz9JZd2IzNgQTPUQdqF4",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.984809"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Lz9JZd2IzNgQTPUQdqF4.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1206.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "81 - 90",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/0dpZTyVNrP46aAELu6y8",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.985113"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/0dpZTyVNrP46aAELu6y8.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1207.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "91 - 100",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/dcZAREIBl2ulnFjvvyNP",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.985453"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/dcZAREIBl2ulnFjvvyNP.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1208.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "20 - 99",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/AeWqfaRNFxG52Fp4piIs",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.985861"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/AeWqfaRNFxG52Fp4piIs.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1209.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "100 - 200",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/HVKOmd0RS0CsBQiwpYLJ",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.986235"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/HVKOmd0RS0CsBQiwpYLJ.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1210.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "300 - 900",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/w4OzLIRamKtD7hqRxrcz",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.986625"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/w4OzLIRamKtD7hqRxrcz.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1211.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Small to Big",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/k5H7g7L37XXFvu7Unxou",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.987079"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/k5H7g7L37XXFvu7Unxou.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1300.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Big to Small",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/KrvK01eedOCyiDoOOhgP",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.987453"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/KrvK01eedOCyiDoOOhgP.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1301.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Skip by 2's",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/YtvzXat0kPDESc5yCJO2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.987826"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/YtvzXat0kPDESc5yCJO2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1302.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "More Skip by 2's",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/PAiRpaT8ykRXTLNwVTHt",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.988223"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/PAiRpaT8ykRXTLNwVTHt.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1303.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count Backwards",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/gHkcNtn0oWKLi6kzhubl",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.988766"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/gHkcNtn0oWKLi6kzhubl.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1304.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Place Value 100-300",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/kp0DqciffHrXFNLHXvSn",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.989154"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/kp0DqciffHrXFNLHXvSn.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1305.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Place Value 300-500",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/edlzsjvkBkQP0GCri3XX",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.989812"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/edlzsjvkBkQP0GCri3XX.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1306.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "100-500",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/hCgmmo0yLsJIz8HTnYmv",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.992148"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/hCgmmo0yLsJIz8HTnYmv.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1307.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Even Numbers",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/ag3chhU7f2QKvEAchSd2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.993245"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/ag3chhU7f2QKvEAchSd2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1308.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Odd Numbers",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/PA8WhIQgkJu15ReSg3QV",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.994057"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/PA8WhIQgkJu15ReSg3QV.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1309.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes Advanced",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/UbnQtmEm3eN25coeInb0",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.994823"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/UbnQtmEm3eN25coeInb0.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1310.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "2D & 3D Shapes",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/aUXk8L7tG5zouVTT6etk",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.995375"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/aUXk8L7tG5zouVTT6etk.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1311.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Shapes and Solids",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/8cRyqXWnpn080RFXgLyy",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.995987"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/8cRyqXWnpn080RFXgLyy.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1312.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition Beginners",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/rUWY6E5Pvhp6w3fSxgk8",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.996686"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/rUWY6E5Pvhp6w3fSxgk8.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1400.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/opu8pQSO9TTIpRMAwLgy",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.997280"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/opu8pQSO9TTIpRMAwLgy.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1401.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count & Add 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/OnWWDVwDtc1PGQvjeWQR",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.997812"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/OnWWDVwDtc1PGQvjeWQR.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1402.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count & Add 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/OULLK5gUQQWYKIRw3SHK",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.998201"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/OULLK5gUQQWYKIRw3SHK.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1403.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Family of 10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/VZmXCD6b6b9lT66TAz5z",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.998533"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/VZmXCD6b6b9lT66TAz5z.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1404.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Quick  Addition 1-10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/MoWlY3S8z0n4Jmb0ohZG",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.998900"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/MoWlY3S8z0n4Jmb0ohZG.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1405.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/1w9vwd7jsQON6NfNqsVC",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.999237"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/1w9vwd7jsQON6NfNqsVC.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1406.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/r8jTzlhNrS0vCz2ZGnOs",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.999549"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/r8jTzlhNrS0vCz2ZGnOs.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1407.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/cUvwYIyC17y7wF8ej8tG",
+        "language": "en",
+        "modified": "2025-06-12T15:58:12.999845"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/cUvwYIyC17y7wF8ej8tG.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1408.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition Mastery",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/yW9E11Vi95znQujvl3uu",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.000128"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/yW9E11Vi95znQujvl3uu.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1409.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Family Of 20 - 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/C4hhXd8sYOuB0xAkuDug",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.000411"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/C4hhXd8sYOuB0xAkuDug.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1410.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Family Of 20 - 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/bavZhbDJgxJoiHl2g5zY",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.001452"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/bavZhbDJgxJoiHl2g5zY.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1411.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Beginners  Addition 1-20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/Nox52CgJg3TwfMs4Ghbh",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.001869"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/Nox52CgJg3TwfMs4Ghbh.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1412.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "More Addition 1-20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/GdK0f87Dp7M3q8LrFnXZ",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.002175"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/GdK0f87Dp7M3q8LrFnXZ.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1413.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Quick  Addition 20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/eJZcirOEUOnbxLh65oYT",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.002480"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/eJZcirOEUOnbxLh65oYT.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1414.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Addition 11-20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/TzmNuB1bq0hViCfJuH0M",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.002765"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/TzmNuB1bq0hViCfJuH0M.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1415.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Beginners 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/vO9SwyHhcKZ6I987fqSN",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.003115"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/vO9SwyHhcKZ6I987fqSN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1500.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Beginners 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/0MMhGy6L5JEbWC4IG2Z2",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.003396"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/0MMhGy6L5JEbWC4IG2Z2.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1501.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtract From 10",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/kLNzWG0dTYVP33jMEtUt",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.003709"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/kLNzWG0dTYVP33jMEtUt.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1502.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Subtract 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/sETEbRJjyiWgI2elOc9R",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.004082"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/sETEbRJjyiWgI2elOc9R.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1503.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Subtract 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/jQcI40hH3WmtGTLZYWNB",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.004430"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/jQcI40hH3WmtGTLZYWNB.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1504.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Count and Subtract 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/X8SQsaDFVZv8ndrqiJiq",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.004723"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/X8SQsaDFVZv8ndrqiJiq.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1505.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/8ak8g2ywA3hsCPhiRoJk",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.004982"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/8ak8g2ywA3hsCPhiRoJk.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1506.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/LF4lz1hlJo9HfYNrqtWE",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.005259"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/LF4lz1hlJo9HfYNrqtWE.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1507.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/7l0t7vTEG0t9m8dpwZgc",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.005671"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/7l0t7vTEG0t9m8dpwZgc.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1508.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "10's Subtraction",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/vXuYxIGEofprmvtQ4VZE",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.006212"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/vXuYxIGEofprmvtQ4VZE.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1509.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction Mastery 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/nOgQrP0JZs4TRlbCy75D",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.006683"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/nOgQrP0JZs4TRlbCy75D.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1510.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction Mastery 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/c2thGyQLLbIQrjhPTTpQ",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.007002"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/c2thGyQLLbIQrjhPTTpQ.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1511.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtraction Mastery 3",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/X64ZJdVImrYH5xeTAFkI",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.007298"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/X64ZJdVImrYH5xeTAFkI.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1512.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Subtract From 20",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/o5OCRS8ilKUvtqjgB7CK",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.008072"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/o5OCRS8ilKUvtqjgB7CK.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1513.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Calculator 1",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/JJUAGZHzBIK06RVaOcLl",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.008806"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/JJUAGZHzBIK06RVaOcLl.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1514.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Game",
+        "title": "Calculator 2",
+        "author": "Chimple",
+        "identifier": "http://chimple.cc/opds/id/65zrA3fiZhHxhRvM1oFB",
+        "language": "en",
+        "modified": "2025-06-12T15:58:13.009671"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://chimple.cc/opds/65zrA3fiZhHxhRvM1oFB.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "http://chimple.cc/opds/images/icons/maths1515.jpg",
+          "type": "image/jpeg",
+          "height": 1400,
+          "width": 800
+        }
+      ]
+    }
+  ]
+}

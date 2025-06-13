@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Ending 'i'",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/7lEIsOvmyYxoIuUHVBgv",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.865396"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/7lEIsOvmyYxoIuUHVBgv.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en0702.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en0702.zip",
+      "type": "application/zip"
+    }
+  ]
+}

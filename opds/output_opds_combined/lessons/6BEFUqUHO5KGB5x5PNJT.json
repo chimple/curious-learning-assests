@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Bird",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/6BEFUqUHO5KGB5x5PNJT",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.118962"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/6BEFUqUHO5KGB5x5PNJT.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/pictureboard0000.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/pictureboard0000.zip",
+      "type": "application/zip"
+    }
+  ]
+}

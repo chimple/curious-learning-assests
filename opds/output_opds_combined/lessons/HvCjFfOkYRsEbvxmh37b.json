@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Write 41--50",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/HvCjFfOkYRsEbvxmh37b",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.953883"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/HvCjFfOkYRsEbvxmh37b.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths0705.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0705.zip",
+      "type": "application/zip"
+    }
+  ]
+}

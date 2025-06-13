@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Number Order 7",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/uG3BpZOQQ6oy59NBOD7h",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.032789"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/uG3BpZOQQ6oy59NBOD7h.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1906.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1906.zip",
+      "type": "application/zip"
+    }
+  ]
+}

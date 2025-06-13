@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Vertical  Addition Beginners",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/qd4hpXDiB800wPO3kr9l",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.036625"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/qd4hpXDiB800wPO3kr9l.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2101.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2101.zip",
+      "type": "application/zip"
+    }
+  ]
+}

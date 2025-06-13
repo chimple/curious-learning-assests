@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Count & Subtract 1",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/uPzGm9R2Pvoy5E6oPpiC",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.967907"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/uPzGm9R2Pvoy5E6oPpiC.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths1003.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1003.zip",
+      "type": "application/zip"
+    }
+  ]
+}

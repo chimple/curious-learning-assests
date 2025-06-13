@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Day to day life",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/oiRXl8l8BTk3qo3BdEF5",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.919815"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/oiRXl8l8BTk3qo3BdEF5.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en3204.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en3204.zip",
+      "type": "application/zip"
+    }
+  ]
+}

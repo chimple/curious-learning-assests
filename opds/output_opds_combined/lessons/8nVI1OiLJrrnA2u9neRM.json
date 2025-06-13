@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Simple sentence - 4 words",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/8nVI1OiLJrrnA2u9neRM",
+    "language": "en",
+    "modified": "2025-06-12T15:58:12.919248"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/8nVI1OiLJrrnA2u9neRM.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/en3202.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en3202.zip",
+      "type": "application/zip"
+    }
+  ]
+}

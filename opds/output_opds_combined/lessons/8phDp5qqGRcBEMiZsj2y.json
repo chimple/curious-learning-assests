@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Succession in Shapes",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/8phDp5qqGRcBEMiZsj2y",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.113180"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/8phDp5qqGRcBEMiZsj2y.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/puzzle0104.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/puzzle0104.zip",
+      "type": "application/zip"
+    }
+  ]
+}

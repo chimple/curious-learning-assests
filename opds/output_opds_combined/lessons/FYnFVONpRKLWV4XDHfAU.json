@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Calculator - 3",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/FYnFVONpRKLWV4XDHfAU",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.072016"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/FYnFVONpRKLWV4XDHfAU.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/maths2612.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2612.zip",
+      "type": "application/zip"
+    }
+  ]
+}

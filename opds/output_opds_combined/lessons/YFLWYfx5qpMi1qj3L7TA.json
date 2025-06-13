@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Balloon",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/YFLWYfx5qpMi1qj3L7TA",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.113559"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/YFLWYfx5qpMi1qj3L7TA.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/drawshape0000.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/drawshape0000.zip",
+      "type": "application/zip"
+    }
+  ]
+}

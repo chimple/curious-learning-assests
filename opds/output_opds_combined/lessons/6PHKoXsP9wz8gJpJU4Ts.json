@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Moon",
+    "author": "Chimple",
+    "identifier": "http://chimple.cc/opds/id/6PHKoXsP9wz8gJpJU4Ts",
+    "language": "en",
+    "modified": "2025-06-12T15:58:13.115294"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://chimple.cc/opds/6PHKoXsP9wz8gJpJU4Ts.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "http://chimple.cc/opds/images/icons/drawshape0007.jpg",
+      "type": "image/jpeg",
+      "height": 1400,
+      "width": 800
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/drawshape0007.zip",
+      "type": "application/zip"
+    }
+  ]
+}
