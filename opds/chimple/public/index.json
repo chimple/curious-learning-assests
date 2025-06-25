@@ -1,0 +1,22 @@
+{
+  "name": {
+    "en-US": "Chimple Learning"
+  },
+  "description": {
+    "en-US": "A collection of interactive learning units for children."
+  },
+  "license": "MIT",
+  "website": "https://chimple-respectify.web.app/",
+  "icon": "https://chimple-respectify.web.app/icon.webp",
+  "learningUnits": "https://chimple-respectify.web.app/opds.json",
+  "defaultLaunchUri": "https://chimple-respectify.web.app/grades/englishgrade1.json",
+  "android": {
+    "packageId": "org.chimple.cuba",
+    "stores": [
+      "https://play.google.com/store/apps/details?id=org.chimple.cuba"
+    ]
+  },
+  "web": {
+    "url": "https://chimple-respectify.web.app/"
+  }
+}

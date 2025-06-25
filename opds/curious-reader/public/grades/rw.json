@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Kinyarwanda"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/rw.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Kinyarwanda",
+        "author": "Curious Reader",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/kinyarwanda",
+        "language": "rw",
+        "modified": "2025-06-25T10:55:29.843333+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/kinyarwanda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/kinyarwanda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_kinyarwanda_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

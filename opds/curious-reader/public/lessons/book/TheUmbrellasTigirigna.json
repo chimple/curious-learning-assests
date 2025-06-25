@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Curious Reader The Umbrellas Tigragna",
+    "author": "Curious Reader",
+    "identifier": "https://curious-reader.web.app/id/book/TheUmbrellasTigirigna",
+    "language": "ti",
+    "modified": "2025-06-25T10:55:29.876940+00:00",
+    "published": "2025-06-25T10:55:29.876940+00:00",
+    "description": "Interactive learning lesson: Curious Reader The Umbrellas Tigragna",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/lessons/book/TheUmbrellasTigirigna.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://curious-reader.web.app/download/book/TheUmbrellasTigirigna.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://curious-reader.web.app/appIcons/TheUmbrellas.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://curious-reader.web.app/download/book/TheUmbrellasTigirigna.html",
+      "title": "Curious Reader The Umbrellas Tigragna"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://curious-reader.web.app/appIcons/TheUmbrellas.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://curious-reader.web.app/zips/story/TheUmbrellasTigirigna.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 # Paths
 LANGUAGES_INPUT = 'languages.json'
-OPDS_OUTPUT = os.path.join('public', 'opds.generated.json')
+OPDS_OUTPUT = os.path.join('public', 'opds.json')
 GRADES_DIR = os.path.join('public', 'grades')
 LESSONS_DIR = os.path.join('public', 'lessons')
 
@@ -44,7 +44,7 @@ def generate_grade_catalog(apps, lang_code):
         pub = {
             "metadata": {
                 "title": app["title"],
-                "author": app.get("author", "Chimple"),
+                "author": app.get("author", "Curious Reader"),
                 "identifier": f"https://curious-reader.web.app/id/{type_key}/{value}",
                 "language": lang_code,
                 "modified": datetime.now(timezone.utc).isoformat()
@@ -100,7 +100,7 @@ def generate_lesson_json(pub, type_key, value):
         "metadata": {
             "@type": "https://schema.org/Book",
             "title": title,
-            "author": pub["metadata"].get("author", "Chimple"),
+            "author": pub["metadata"].get("author", "Curious Reader"),
             "identifier": pub["metadata"].get("identifier"),
             "language": pub["metadata"].get("language"),
             "modified": pub["metadata"].get("modified"),
@@ -154,7 +154,7 @@ def main():
 
     new_opds = {
         "metadata": {
-            "title": "Chimple Learning"
+            "title": "Curious Reader",
         },
         "links": [
             {
