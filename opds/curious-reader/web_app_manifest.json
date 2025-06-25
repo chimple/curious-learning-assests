@@ -1,0 +1,1705 @@
+{
+  "version": "1.86",
+  "web_apps": [
+      {
+      "appId": 0,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_english.png",
+      "title": "Feed The Monster US English",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=english",
+      "language": "English - US",
+      "languageInEnglishName":"English"
+    },
+    {
+      "appId": 1,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_hindi.png",
+      "title": "Feed The Monster Hindi",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=hindi",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 2,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_brazilianportuguese_prod.png",
+      "title": "Feed The Monster Brazilianportuguese",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=brazilianportuguese",
+      "language": "Português - Brazilian",
+      "languageInEnglishName":"BrazilianPortuguese"
+    },
+    {
+      "appId": 3,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_somali_prod.png",
+      "title": "Feed The Monster Somali",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=somali",
+      "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 4,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_isixhosa_prod.png",
+      "title": "Feed The Monster Isixhosa",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=isixhosa",
+      "language": "isiXhosa",
+      "languageInEnglishName":"Isixhosa"
+    },
+    {
+      "appId": 5,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_malgache_prod.png",
+      "title": "Feed The Monster Malgache",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=malgache",
+      "language": "Malagasy",
+      "languageInEnglishName":"Malgache"
+    },
+    {
+      "appId": 6,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_afrikaans_prod.png",
+      "title": "Feed The Monster Afrikaans",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=afrikaans",
+      "language": "Afrikaans",
+      "languageInEnglishName":"Afrikaans"
+    },
+    {
+      "appId": 7,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_wolof_prod.png",
+      "title": "Feed The Monster Wolof",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=wolof",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 8,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_shona_prod.png",
+      "title": "Feed The Monster Shona",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=shona",
+      "language": "chiShona",
+      "languageInEnglishName":"Shona"
+    },
+    {
+      "appId": 9,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tagalog_prod.png",
+      "title": "Feed The Monster Tagalog",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=tagalog",
+      "language": "Tagalog",
+      "languageInEnglishName":"Tagalog"
+    },
+    {
+      "appId": 10,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_haitiancreole_prod.png",
+      "title": "Feed The Monster Haitian Creole",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=haitiancreole",
+      "language": "Kreyòl - Ayisyen",
+      "languageInEnglishName":"HaitianCreole"
+    },
+    {
+      "appId": 11,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_georgian_prod.png",
+      "title": "Feed The Monster Georgian",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=georgian",
+      "language": "ქართული" ,
+      "languageInEnglishName":"Georgian"
+    },
+    {
+      "appId": 12,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_kinyarwanda_prod.png",
+      "title": "Feed The Monster Kinyarwanda",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=kinyarwanda",
+      "language": "Kinyarwanda",
+      "languageInEnglishName":"Kinyarwanda"
+    },
+    {
+      "appId": 13,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_swahili_prod.png",
+      "title": "Feed The Monster Swahili",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=swahili",
+      "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 14,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_ukrainian_prod.png",
+      "title": "Feed The Monster Ukrainian",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=ukrainian",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 15,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_yoruba_prod.png",
+      "title": "Feed The Monster Yoruba",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=yoruba",
+      "language": "Yorùbá",
+      "languageInEnglishName":"Yoruba"
+    },
+    {
+      "appId": 16,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_nepali_prod.png",
+      "title": "Feed The Monster Nepali",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=nepali",
+      "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 17,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_siswati_prod.png",
+      "title": "Feed The Monster Siswati",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=siswati",
+      "language": "siSwati",
+      "languageInEnglishName":"Siswati"
+    },
+    {
+      "appId": 18,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_turkish_prod.png",
+      "title": "Feed The Monster Turkish",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=turkish",
+      "language": "Türkçe",
+      "languageInEnglishName":"Turkish"
+    },
+    {
+      "appId": 19,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_englishwestafrican_prod.png",
+      "title": "Feed The Monster English Westafrican",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=englishwestafrican",
+      "language": "English - West African",
+      "languageInEnglishName":"EnglishWestAfrican"
+    },
+    {
+      "appId": 20,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_english_prod.png",
+      "title": "Feed The Monster Tajik",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=tajik",
+      "language": "тоҷикӣ",
+      "languageInEnglishName":"Tajik"
+    },
+    {
+      "appId": 21,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_sesotho_prod.png",
+      "title": "Feed The Monster Sesotho",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=sesotho",
+      "language": "Sesotho",
+      "languageInEnglishName":"Sesotho"
+    },
+    {
+      "appId": 22,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_ndebele_prod.png",
+      "title": "Feed The Monster Ndebele",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=ndebele",
+      "language": "isiNdebele",
+      "languageInEnglishName":"Ndebele"
+    },
+    {
+      "appId": 23,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_sepedi_prod.png",
+      "title": "Feed The Monster Sepedi",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=sepedi",
+      "language": "SePedi",
+      "languageInEnglishName":"Sepedi"
+    },
+    {
+      "appId": 24,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tswana_prod.png",
+      "title": "Feed The Monster Tswana",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=tswana",
+      "language": "Tswana",
+      "languageInEnglishName":"Tswana"
+    },
+    {
+      "appId": 25,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_hausa_prod.png",
+      "title": "Feed The Monster Hausa",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=hausa",
+      "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 26,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_saenglish_prod.png",
+      "title": "Feed The Monster South African English",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=southafricanenglish",
+      "language": "English - South African",
+      "languageInEnglishName":"SAenglish"
+    },
+    {
+      "appId": 27,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_zulu_prod.png",
+      "title": "Feed The Monster Zulu",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=zulu",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 28,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_french_prod.png",
+      "title": "Feed The Monster French",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=french",
+      "language": "Français",
+      "languageInEnglishName":"French"
+    },
+    {
+      "appId": 29,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_azerbaijani_prod.png",
+      "title": "Feed The Monster Azerbaijani",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=azerbaijani",
+      "language": "Azarbaycan dili",
+      "languageInEnglishName":"Azerbaijani"
+    },
+    {
+      "appId": 30,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_venda_prod.png",
+      "title": "Feed The Monster Venda",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=venda",
+      "language": "Tshivenda",
+      "languageInEnglishName":"Venda"
+    },
+    {
+      "appId": 31,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_twi_prod.png",
+      "title": "Feed The Monster Twi",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=twi",
+      "language": "Twi",
+      "languageInEnglishName":"Twi"
+    },
+    {
+      "appId": 32,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyUkrLv6",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyUkrLv6",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 33,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyLugLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyLugLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 34,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_malay_prod.png",
+      "title": "Feed The Monster Malay",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=malay",
+      "language": "Malay",
+      "languageInEnglishName":"Malay"
+    },
+    {
+      "appId": 35,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekUkrLv6",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekUkrLv6",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 36,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyIsiZuluLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyIsiZuluLv4",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 37,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyNepLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyNepLv4",
+      "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 38,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyHindiLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 39,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_igbo_prod.png",
+      "title": "Feed The Monster Igbo",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=igbo",
+      "language": "Igbo",
+      "languageInEnglishName":"Igbo"
+    },
+    {
+      "appId": 40,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_lugandan_prod.png",
+      "title": "Feed The Monster Lugandan",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=lugandan",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 41,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_pashto_prod.png",
+      "title": "Feed The Monster Pashto",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=pashto",
+      "language": "پښتو",
+      "languageInEnglishName":"Pashto"
+    },
+    {
+      "appId": 42,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_kurdish_prod.png",
+      "title": "Feed The Monster Kurdish",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=kurdish",
+      "language": "کوردی",
+      "languageInEnglishName":"Kurdish"
+    },
+    {
+      "appId": 43,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader ColoursUkrLv6",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursUkrLv6",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 44,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader TheBeeAndTheElephantUkrLv6",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantUkrLv6",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 45,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollUkrLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollUkrLv4",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 46,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekLugLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekLugLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 47,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekIsiZuluLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekIsiZuluLv4",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 48,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekHindiLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 49,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekNepLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekNepLv4",
+      "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 50,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_spanish_prod.png",
+      "title": "Feed The Monster Spanish",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=spanish",
+      "language": "Español",
+      "languageInEnglishName":"Spanish"
+    },
+    {
+      "appId": 51,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader ColoursHindiLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 52,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader TheBeeAndTheElephantHindiLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantHindiLv4",
+      "language":"हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 53,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollHindiLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollHindiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 54,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader ColoursLugLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursLugLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 55,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader TheBeeAndTheElephantLugLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantLugLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 56,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollLugLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollLugLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 57,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader ColoursZuluLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursIsiZuluLv4",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 58,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader TheBeeAndTheElephantZuluLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantIsiZuluLv4",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 59,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollZuluLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollIsiZuluLv4",
+      "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 60,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader ColoursNepaliLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursNepLv4",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 61,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader TheBeeAndTheElephantNepaliLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantNepLv4",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 62,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollNepaliLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollNepLv4",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 63,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_prod.png",
+      "title": "Assessment Ukrainian",
+      "appUrl": "https://assessment.curiouscontent.org/?data=ukrainian-lettersounds",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 64,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_thai_prod.png",
+      "title": "Feed The Monster Thai",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=thai",
+      "language": "ภาษาไทย",
+      "languageInEnglishName":"Thai"
+    },
+    {
+      "appId": 65,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_indianenglish_prod.png",
+      "title": "Feed The Monster Indian English",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=indianenglish",
+      "language": "English - Indian",
+      "languageInEnglishName":"IndianEnglish"
+    },
+    {
+      "appId": 66,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_austrailianenglish_prod.png",
+      "title": "Feed The Monster Australian English",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=australianenglish",
+      "language": "English - Australian",
+      "languageInEnglishName":"AustralianEnglish"
+    },
+    {
+      "appId": 67,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_javanese_prod.png",
+      "title": "Feed The Monster Javanese",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=javanese",
+      "language": "Wong Jawa",
+      "languageInEnglishName":"Javanese"
+    },
+    {
+      "appId": 68,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tsonga_prod.png",
+      "title": "Feed The Monster Tsonga",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=tsonga",
+      "language": "Xitsonga",
+      "languageInEnglishName":"Tsonga"
+    },
+    {
+      "appId": 69,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_vietnamese_prod.png",
+      "title": "Feed The Monster Vietnamese",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=vietnamese",
+      "language": "Tiếng Việt",
+      "languageInEnglishName":"Vietnamese"
+    },
+    {
+      "appId": 70,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_kirundi.png",
+      "title": "Feed The Monster Kirundi",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=kirundi",
+      "language": "Kirundi",
+      "languageInEnglishName":"Kirundi"
+    },
+    {
+      "appId": 71,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_prod.png",
+      "title": "Assessment West African English Letter Sounds",
+      "appUrl": "https://assessment.curiouscontent.org/?data=west-african-english-lettersounds",
+      "language": "English - West African",
+      "languageInEnglishName":"EnglishWestAfrican"
+    },
+    {
+      "appId": 72,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_prod.png",
+      "title": "Assessment Hausa",
+      "appUrl": "https://assessment.curiouscontent.org/?data=hausa-lettersounds",
+      "language":"Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 73,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_sight_word.png",
+      "title": "Assessment Hausa Sight Words",
+      "appUrl": "https://assessment.curiouscontent.org/?data=hausa-sightwords",
+      "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 74,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_prod.png",
+      "title": "Assessment Bangla",
+      "appUrl": "https://assessment.curiouscontent.org/?data=bangla-lettersounds",
+      "language":"বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 75,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_sight_word.png",
+      "title": "Assessment Bangla Sight Words",
+      "appUrl": "https://assessment.curiouscontent.org/?data=bangla-sightwords",
+      "language":"বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 76,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_sight_word.png",
+      "title": "Assessment West African English Sight Words",
+      "appUrl": "https://assessment.curiouscontent.org/?data=west-african-sightwords",
+      "language": "English - West African",
+      "languageInEnglishName":"EnglishWestAfrican"
+    },
+    {
+      "appId": 77,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_marathi_prod.png",
+      "title": "Feed The Monster Marathi",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=marathi",
+      "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 78,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_prod.png",
+      "title": "Assessment French",
+      "appUrl": "https://assessment.curiouscontent.org/?data=french-lettersounds",
+      "language": "Français",
+      "languageInEnglishName":"French"
+    },
+    {
+      "appId": 79,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/assessment_icon_sight_word.png",
+      "title": "Assessment French Sight Words",
+      "appUrl": "https://assessment.curiouscontent.org/?data=french-sightwords",
+      "language": "Français",
+      "languageInEnglishName":"French"
+    },
+    {
+      "appId": 80,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 81,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dads Boots Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 82,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs Hausa And The Cow Walks",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 83,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Hausa Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortHausaLv4",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 84,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+      "title": "Curious Reader HideAndSeekWolofLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekWolofLv4",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 85,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_prod.png",
+      "title": "Curious Reader LetsFlyWolofLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyWolofLv4",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 86,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader TheLostDollWolofLv4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollWolofLv4",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 87,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_oromo_prod.png",
+      "title": "Feed The Monster Oromo",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=oromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 88,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_amharic_prod.png",
+      "title": "Feed The Monster Amharic",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=amharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 89,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_generic.png",
+      "title": "Feed The Monster Tigragna",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=tigragna",
+       "language": "ትግርኛ", 
+       "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 90,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksNepali",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 91,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Nepali Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsNepaliLv4",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 92,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dad's Boots Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsNepali",
+      "language":"नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 93,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksUkrainian",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 94,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Ukrainian Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsUkrainianLv4",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 95,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 96,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Hindi Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsHIndiLv4",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 97,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dad's Boots Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsHindi",
+      "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 98,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/IAmFlyingBook.png",
+      "title": "Curious Reader I am Flying Amharic",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=IAmFlyingAmharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 99,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ILoveBook.png",
+      "title": "Curious Reader I Love Amharic",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ILoveAmharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 100,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/TheUmbrellas.png",
+      "title": "Curious Reader The Umbrellas Amharic",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheUmbrellasAmharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 101,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/GuessWhatIAm.png",
+      "title": "Curious Reader Guess What I Am Amharic",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=GuessWhatIAmAmharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 102,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ComeComeBook.png",
+      "title": "Curious Reader Come Come Amharic",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ComeComeAmharic",
+     "language": "አማርኛ",
+      "languageInEnglishName":"Amharic"
+    },
+    {
+      "appId": 103,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/IAmFlyingBook.png",
+      "title": "Curious Reader I am Flying Tigragna",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=IAmFlyingTigirigna",
+     "language": "ትግርኛ",
+      "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 104,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ILoveBook.png",
+      "title": "Curious Reader I Love Tigragna",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ILoveTigirigna",
+     "language": "ትግርኛ",
+      "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 105,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/TheUmbrellas.png",
+      "title": "Curious Reader The Umbrellas Tigragna",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheUmbrellasTigirigna",
+     "language": "ትግርኛ",
+      "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 106,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/GuessWhatIAm.png",
+      "title": "Curious Reader Guess What I Am Tigragna",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=GuessWhatIAmTigirigna",
+     "language": "ትግርኛ",
+      "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 107,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ComeComeBook.png",
+      "title": "Curious Reader Come Come Tigragna",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ComeComeTigirigna",
+     "language": "ትግርኛ",
+      "languageInEnglishName":"Tigragna"
+    },
+    {
+      "appId": 108,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/IAmFlyingBook.png",
+      "title": "Curious Reader I am Flying Somali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=IAmFlyingSomali",
+     "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 109,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ILoveBook.png",
+      "title": "Curious Reader I Love Somali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ILoveSomali",
+     "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 110,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/GuessWhatIAm.png",
+      "title": "Curious Reader Guess What I Am Somali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=GuessWhatIAmSomali",
+     "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 111,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ComeComeBook.png",
+      "title": "Curious Reader Come Come Somali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ComeComeSomali",
+     "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 112,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/IAmFlyingBook.png",
+      "title": "Curious Reader I am Flying Oromo",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=IAmFlyingOromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 113,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ILoveBook.png",
+      "title": "Curious Reader I Love Oromo",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ILoveOromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 114,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/GuessWhatIAm.png",
+      "title": "Curious Reader Guess What I Am Oromo",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=GuessWhatIAmOromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 115,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+      "title": "Curious Reader Colours Wolof Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursWolofLv4",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 116,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader The Bee And The Elephant Wolof Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantWolofLv4",
+      "language": "Wolof",
+      "languageInEnglishName":"Wolof"
+    },
+    {
+      "appId": 117,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 118,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 119,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 120,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 121,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dad's Boots Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 122,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chaku's Cycle Hausa",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleHausa",
+     "language": "Hausa",
+      "languageInEnglishName":"Hausa"
+    },
+    {
+      "appId": 123,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 124,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 125,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortIsiZuluLv4",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 126,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 127,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=MyFirstDayAtTheMarketIsizulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 128,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 129,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chaku's Cycle Cape Verde Portuguese",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleCVPortuguese",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"Cape Verde Portuguese"
+    },
+    {
+      "appId":130,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Cape Verde Portuguese",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundCVPortuguese",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"Cape Verde Portuguese"
+    },
+    {
+      "appId":131,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Cape Verde Portuguese Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortCVPortugueseLv4",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"Cape Verde Portuguese"
+      },
+    {
+      "appId":132,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Cape Verde Portuguese Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsCVPortugueseLv4",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"Cape Verde Portuguese"
+    },
+    {
+      "appId":133,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese ",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksCVPortuguese",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"Cape Verde Portuguese"
+    },
+    {
+      "appId": 134,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/TheUmbrellas.png",
+      "title": "Curious Reader The Umbrellas Oromo",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheUmbrellasOromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 135,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ComeComeBook.png",
+      "title": "Curious Reader Come Come Oromo",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ComeComeOromo",
+     "language": "Afaan Oromoo",
+      "languageInEnglishName":"Oromo"
+    },
+    {
+      "appId": 136,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/TheUmbrellas.png",
+      "title": "Curious Reader The Umbrellas Somali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheUmbrellasSomali",
+     "language": "Af Soomaali",
+      "languageInEnglishName":"Somali"
+    },
+    {
+      "appId": 137,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 138,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Hindi Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortHindiLv4",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 139,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 140,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=MyFirstDayAtTheMarketHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 141,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 142,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },{
+      "appId": 143,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Hindi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItHindi",
+     "language": "हिन्दी",
+      "languageInEnglishName":"Hindi"
+    },
+    {
+      "appId": 144,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 145,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 146,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 147,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=MyFirstDayAtTheMarketUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 148,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 149,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleUkrainian",
+     "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 150,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dad's Boots Ukrainian",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsUkrainian",
+      "language": "українська",
+      "languageInEnglishName":"Ukrainian"
+    },
+    {
+      "appId": 151,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 152,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishSwahili",
+"language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 153,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortSwahiliLv4",
+    "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 154,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dads Boots Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 155,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 156,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 157,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow Walks Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 158,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsSwahiliLv4",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 159,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Swahili",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItSwahili",
+     "language": "Kiswahili",
+      "languageInEnglishName":"Swahili"
+    },
+    {
+      "appId": 160,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 161,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItLuganda",
+    "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 162,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs And The Cow walks Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 163,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortLugandaLv4",
+      "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 164,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 165,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=MyFirstDayAtTheMarketLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 166,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 167,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dads Boots Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsLuganda",
+    "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 168,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Lugandan Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsLugandaLv4",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },
+    {
+      "appId": 169,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Lugandan",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleLuganda",
+     "language": "Oluganda",
+      "languageInEnglishName":"Lugandan"
+    },{
+      "appId": 170,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs Bangla",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksBangla",
+     "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    },{
+      "appId": 171,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeNepali",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 172,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItNepali",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 173,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Nepali Level 4",
+      "appUrl": "https://curiousreaderdev.curiouscontent.org/?book=TallAndShortNepaliLv4",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 174,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundNepali",
+      "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 175,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/my_first_day_at_the_market.png",
+      "title": "Curious Reader My First Day At The Market Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=MyFirstDayAtTheMarketNepali",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId":176,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishNepali",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 177,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Nepali",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleNepali",
+     "language": "नेपाली",
+      "languageInEnglishName":"Nepali"
+    },
+    {
+      "appId": 178,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_bangla_prod.png",
+      "title": "Feed The Monster Bangla",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=bangla",
+      "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 179,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_CapeVerdePortuguese_prod.png",
+      "title": "Feed The Monster Cape Verdean Portuguese",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=caboverdeportuguese",
+     "language": "Português - Cape Verde",
+      "languageInEnglishName":"CabOverdePortuguese"
+    },
+    {
+      "appId": 180,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/the_lion_runs.png",
+      "title": "Curious Reader The Lion Runs Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLionRunsAndTheCowWalksMarathi",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 181,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeMarathi",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 182,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/what_day_is_it.png",
+      "title": "Curious Reader What Day Is It Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhatDayIsItMarathi",
+    "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 183,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortMarathiLv4",
+      "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 184,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+      "title": "Curious Reader Playground Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundMarathi",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 185,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/dads_boots.png",
+      "title": "Curious Reader Dads Boots Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=DadsBootsMarathi",
+    "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 186,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleMarathi",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 187,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_cvcreole_prod.png",
+      "title": "Feed The Monster Cape Verde Creole",
+      "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=caboverdecreole",
+     "language": "Kriolu - Cape Verde",
+      "languageInEnglishName":"CabOverdeCreole"
+    },
+    {
+      "appId":188,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Cape Verde Creole Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortCVCreoleLv4",
+     "language": "Kriolu - Cape Verde",
+      "languageInEnglishName":"CapeVerdeanCreole"
+    },
+    {
+      "appId": 189,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Cape Verde Creole",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeCVCreole",
+     "language": "Kriolu - Cape Verde",
+      "languageInEnglishName":"CapeVerdeanCreole"
+    },
+    {
+      "appId": 190,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chaku's Cycle Cape Verde Creole",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleCVCreole",
+     "language": "Kriolu - Cape Verde",
+      "languageInEnglishName":"CapeVerdeanCreole"
+    },
+    {
+      "appId": 191,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Marathi Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsMarathiLv4",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 192,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/frogs_starry_wish.png",
+      "title": "Curious Reader Frog's Starry Wish Marathi",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FrogsStarryWishMarathi",
+     "language": "मराठी",
+      "languageInEnglishName":"Marathi"
+    },
+    {
+      "appId": 193,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Isizulu",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleIsiZulu",
+     "language": "Isizulu",
+      "languageInEnglishName":"Zulu"
+    },
+    {
+      "appId": 194,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/who_Can_Help_Me.png",
+      "title": "Curious Reader Who Can Help Me Bangla",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=WhoCanHelpMeBangla",
+     "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 195,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/chakus_cycle.png",
+      "title": "Curious Reader Chakus Cycle Bangla",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=ChakusCycleBangla",
+     "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 196,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+      "title": "Curious Reader Friends Bangla Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsBanglaLv4",
+     "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    }, {
+      "appId": 197,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+      "title": "Curious Reader Tall And Short Bangla Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortBanglaLv4",
+      "language": "বাংলা",
+      "languageInEnglishName":"Bangla"
+    },
+    {
+      "appId": 198,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/LetsFly_icon.png",
+      "title": "Curious Reader Let's Fly English Level 2",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=LetsFlyEnLv2",
+      "language": "English - US",
+      "languageInEnglishName":"English"
+    },
+    {
+      "appId": 199,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheLostDoll_prod.png",
+      "title": "Curious Reader The Lost Doll English Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheLostDollEnLv4",
+     "language": "English - US",
+      "languageInEnglishName":"English"
+    },
+     
+    {
+      "appId": 200,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_TheBeeAndTheElephant_prod.png",
+      "title": "Curious Reader The Bee And The Elephant English Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=TheBeeAndTheElephantEnLv4",
+      "language": "English - US",
+      "languageInEnglishName":"English"
+    },
+    {
+      "appId": 201,
+      "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_CicadasSong_prod.png",
+      "title": "Curious Reader Cicadas Song English Level 4",
+      "appUrl": "https://curiousreader.curiouscontent.org/?book=CicadasSongEnLv4",
+      "language": "English - US",
+      "languageInEnglishName":"English"
+    },
+    {
+       "appId": 202,
+       "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_telugu.png",
+       "title": "Feed The Monster Telugu",
+       "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=telugu",
+       "language": "తెలుగు",
+       "languageInEnglishName":"Telugu"
+    },
+    {
+        "appId": 203,
+        "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/colours_of_nature.png",
+        "title": "Curious Colours Of Nature English Level 2",
+        "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursOfNatureEnLv2",
+        "language": "English - US",
+        "languageInEnglishName":"English"
+        },
+        {
+        "appId": 204,
+        "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/i_am_not_afraid.png",
+        "title": "Curious I Am Not Afraid Level 4",
+        "appUrl": "https://curiousreader.curiouscontent.org/?book=IAmNotAfraidEnLv4",
+        "language": "English - US",
+        "languageInEnglishName":"English"
+        },
+        {
+         "appId": 205,
+         "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/playground.png",
+         "title": "Curious Reader Playground Bangla",
+         "appUrl": "https://curiousreader.curiouscontent.org/?book=PlaygroundBangla",
+         "language": "বাংলা",
+        "languageInEnglishName": "Bangla"
+        },
+        {
+            "appId": 206,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_tallandshort_prod.png",
+            "title": "Curious Tall And Short Level 4",
+            "appUrl": "https://curiousreader.curiouscontent.org/?book=TallAndShortEnLv4",
+            "language": "English - US",
+            "languageInEnglishName": "English"
+        },
+        {
+            "appId": 207,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/friends.png",
+            "title": "Curious Reader Friends English Level 2",
+            "appUrl": "https://curiousreader.curiouscontent.org/?book=FriendsEnLv2",
+            "language": "English - US",
+            "languageInEnglishName": "English"
+        },
+        {
+            "appId": 208,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_Colours_prod.png",
+            "title": "Curious Reader Colours Level 4",
+            "appUrl": "https://curiousreader.curiouscontent.org/?book=ColoursEnLv4",
+            "language": "English - US",
+            "languageInEnglishName": "English"
+        },
+        {
+            "appId": 209,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_HideAndSeek_prod.png",
+            "title": "Curious Reader Hide And Seek English Level 2",
+            "appUrl": "https://curiousreader.curiouscontent.org/?book=HideAndSeekEnLv2",
+            "language": "English - US",
+            "languageInEnglishName": "English"
+        },
+        {
+            "appId": 210,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_gujarati_prod.png",
+            "title": "Feed The Monster Gujarati",
+            "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=gujarati",
+            "language": "ગુજરાતી",
+            "languageInEnglishName": "Gujarati"
+        },
+        {
+            "appId": 211,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_punjabi_prod.png",
+            "title": "Feed The Monster Punjabi",
+            "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=punjabi",
+            "language": "ਪੰਜਾਬੀ",
+            "languageInEnglishName": "Punjabi"
+        },{
+            "appId": 212,
+            "appIconUrl": "https://devcuriousreader.wpcomstaging.com/container_app_manifest/icons/ftm_arabic_prod.png",
+            "title": "Feed The Monster Arabic",
+            "appUrl": "https://feedthemonster.curiouscontent.org/?cr_lang=arabictest",
+            "language": "العربية",
+            "languageInEnglishName": "Arabic"
+        }
+  ]
+}
