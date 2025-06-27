@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "h",
+    "author": "Chimple",
+    "identifier": "https://chimple-respectify.web.app/id/Do6HXQP2AzHkYJMdgAcl",
+    "language": "en",
+    "modified": "2025-06-23T05:58:27.614243+00:00",
+    "published": "2025-06-23T05:58:27.614243+00:00",
+    "description": "Interactive learning lesson: h",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/lessons/Do6HXQP2AzHkYJMdgAcl.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple-respectify.web.app/download/Do6HXQP2AzHkYJMdgAcl.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respectify.web.app/images/icons/en0101.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple-respectify.web.app/download/Do6HXQP2AzHkYJMdgAcl.html",
+      "title": "h"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respectify.web.app/images/icons/en0101.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en0101.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

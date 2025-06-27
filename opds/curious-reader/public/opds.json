@@ -1,0 +1,742 @@
+{
+  "metadata": {
+    "title": "Chimple Learning"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/opds.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "grades/en.json",
+      "title": "Feed The Monster US English",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_english.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster US English"
+        }
+      ]
+    },
+    {
+      "href": "grades/hi.json",
+      "title": "Feed The Monster Hindi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_hindi.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Hindi"
+        }
+      ]
+    },
+    {
+      "href": "grades/pt-BR.json",
+      "title": "Feed The Monster Brazilianportuguese",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_brazilianportuguese_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Brazilianportuguese"
+        }
+      ]
+    },
+    {
+      "href": "grades/so.json",
+      "title": "Feed The Monster Somali",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_somali_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Somali"
+        }
+      ]
+    },
+    {
+      "href": "grades/xh.json",
+      "title": "Feed The Monster Isixhosa",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_isixhosa_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Isixhosa"
+        }
+      ]
+    },
+    {
+      "href": "grades/mg.json",
+      "title": "Feed The Monster Malgache",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_malgache_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Malgache"
+        }
+      ]
+    },
+    {
+      "href": "grades/af.json",
+      "title": "Feed The Monster Afrikaans",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_afrikaans_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Afrikaans"
+        }
+      ]
+    },
+    {
+      "href": "grades/wo.json",
+      "title": "Feed The Monster Wolof",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_wolof_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Wolof"
+        }
+      ]
+    },
+    {
+      "href": "grades/sn.json",
+      "title": "Feed The Monster Shona",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_shona_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Shona"
+        }
+      ]
+    },
+    {
+      "href": "grades/tl.json",
+      "title": "Feed The Monster Tagalog",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_tagalog_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Tagalog"
+        }
+      ]
+    },
+    {
+      "href": "grades/ht.json",
+      "title": "Feed The Monster Haitian Creole",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_haitiancreole_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Haitian Creole"
+        }
+      ]
+    },
+    {
+      "href": "grades/ka.json",
+      "title": "Feed The Monster Georgian",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_georgian_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Georgian"
+        }
+      ]
+    },
+    {
+      "href": "grades/rw.json",
+      "title": "Feed The Monster Kinyarwanda",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_kinyarwanda_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "href": "grades/sw.json",
+      "title": "Feed The Monster Swahili",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_swahili_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Swahili"
+        }
+      ]
+    },
+    {
+      "href": "grades/uk.json",
+      "title": "Feed The Monster Ukrainian",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_ukrainian_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Ukrainian"
+        }
+      ]
+    },
+    {
+      "href": "grades/yor.json",
+      "title": "Feed The Monster Yoruba",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_yoruba_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Yoruba"
+        }
+      ]
+    },
+    {
+      "href": "grades/ne.json",
+      "title": "Feed The Monster Nepali",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_nepali_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Nepali"
+        }
+      ]
+    },
+    {
+      "href": "grades/ss.json",
+      "title": "Feed The Monster Siswati",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_siswati_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Siswati"
+        }
+      ]
+    },
+    {
+      "href": "grades/tr.json",
+      "title": "Feed The Monster Turkish",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_turkish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Turkish"
+        }
+      ]
+    },
+    {
+      "href": "grades/en-ng.json",
+      "title": "Feed The Monster English Westafrican",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_englishwestafrican_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster English Westafrican"
+        }
+      ]
+    },
+    {
+      "href": "grades/tg.json",
+      "title": "Feed The Monster Tajik",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_english_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Tajik"
+        }
+      ]
+    },
+    {
+      "href": "grades/st.json",
+      "title": "Feed The Monster Sesotho",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_sesotho_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Sesotho"
+        }
+      ]
+    },
+    {
+      "href": "grades/nde.json",
+      "title": "Feed The Monster Ndebele",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_ndebele_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Ndebele"
+        }
+      ]
+    },
+    {
+      "href": "grades/nso.json",
+      "title": "Feed The Monster Sepedi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_sepedi_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Sepedi"
+        }
+      ]
+    },
+    {
+      "href": "grades/tn.json",
+      "title": "Feed The Monster Tswana",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_tswana_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Tswana"
+        }
+      ]
+    },
+    {
+      "href": "grades/ha.json",
+      "title": "Feed The Monster Hausa",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_hausa_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Hausa"
+        }
+      ]
+    },
+    {
+      "href": "grades/en-za.json",
+      "title": "Feed The Monster South African English",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_saenglish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster South African English"
+        }
+      ]
+    },
+    {
+      "href": "grades/zu.json",
+      "title": "Feed The Monster Zulu",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_zulu_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Zulu"
+        }
+      ]
+    },
+    {
+      "href": "grades/fr.json",
+      "title": "Feed The Monster French",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_french_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster French"
+        }
+      ]
+    },
+    {
+      "href": "grades/az.json",
+      "title": "Feed The Monster Azerbaijani",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_azerbaijani_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Azerbaijani"
+        }
+      ]
+    },
+    {
+      "href": "grades/ve.json",
+      "title": "Feed The Monster Venda",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_venda_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Venda"
+        }
+      ]
+    },
+    {
+      "href": "grades/tw.json",
+      "title": "Feed The Monster Twi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_twi_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Twi"
+        }
+      ]
+    },
+    {
+      "href": "grades/lg.json",
+      "title": "Curious Reader LetsFlyLugLv4",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/LetsFly_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Curious Reader LetsFlyLugLv4"
+        }
+      ]
+    },
+    {
+      "href": "grades/ms.json",
+      "title": "Feed The Monster Malay",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_malay_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Malay"
+        }
+      ]
+    },
+    {
+      "href": "grades/ig.json",
+      "title": "Feed The Monster Igbo",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_igbo_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Igbo"
+        }
+      ]
+    },
+    {
+      "href": "grades/ps.json",
+      "title": "Feed The Monster Pashto",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_pashto_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Pashto"
+        }
+      ]
+    },
+    {
+      "href": "grades/ku.json",
+      "title": "Feed The Monster Kurdish",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_kurdish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Kurdish"
+        }
+      ]
+    },
+    {
+      "href": "grades/es.json",
+      "title": "Feed The Monster Spanish",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_spanish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Spanish"
+        }
+      ]
+    },
+    {
+      "href": "grades/th.json",
+      "title": "Feed The Monster Thai",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_thai_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Thai"
+        }
+      ]
+    },
+    {
+      "href": "grades/en-in.json",
+      "title": "Feed The Monster Indian English",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_indianenglish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Indian English"
+        }
+      ]
+    },
+    {
+      "href": "grades/en-AU.json",
+      "title": "Feed The Monster Australian English",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_austrailianenglish_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Australian English"
+        }
+      ]
+    },
+    {
+      "href": "grades/jv.json",
+      "title": "Feed The Monster Javanese",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_javanese_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Javanese"
+        }
+      ]
+    },
+    {
+      "href": "grades/ts.json",
+      "title": "Feed The Monster Tsonga",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_tsonga_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Tsonga"
+        }
+      ]
+    },
+    {
+      "href": "grades/vi.json",
+      "title": "Feed The Monster Vietnamese",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_vietnamese_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Vietnamese"
+        }
+      ]
+    },
+    {
+      "href": "grades/rn.json",
+      "title": "Feed The Monster Kirundi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_kirundi.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Kirundi"
+        }
+      ]
+    },
+    {
+      "href": "grades/bn.json",
+      "title": "Assessment Bangla",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/assessment_icon_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Assessment Bangla"
+        }
+      ]
+    },
+    {
+      "href": "grades/mr.json",
+      "title": "Feed The Monster Marathi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_marathi_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Marathi"
+        }
+      ]
+    },
+    {
+      "href": "grades/om.json",
+      "title": "Feed The Monster Oromo",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_oromo_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Oromo"
+        }
+      ]
+    },
+    {
+      "href": "grades/am.json",
+      "title": "Feed The Monster Amharic",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_amharic_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Amharic"
+        }
+      ]
+    },
+    {
+      "href": "grades/ti.json",
+      "title": "Feed The Monster Tigragna",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_generic.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Tigragna"
+        }
+      ]
+    },
+    {
+      "href": "grades/pt.json",
+      "title": "Curious Reader Chaku's Cycle Cape Verde Portuguese",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/chakus_cycle.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Curious Reader Chaku's Cycle Cape Verde Portuguese"
+        }
+      ]
+    },
+    {
+      "href": "grades/kea.json",
+      "title": "Feed The Monster Cape Verde Creole",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_cvcreole_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Cape Verde Creole"
+        }
+      ]
+    },
+    {
+      "href": "grades/te.json",
+      "title": "Feed The Monster Telugu",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_telugu.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Telugu"
+        }
+      ]
+    },
+    {
+      "href": "grades/gu.json",
+      "title": "Feed The Monster Gujarati",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_gujarati_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Gujarati"
+        }
+      ]
+    },
+    {
+      "href": "grades/pa.json",
+      "title": "Feed The Monster Punjabi",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_punjabi_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Punjabi"
+        }
+      ]
+    },
+    {
+      "href": "grades/ar.json",
+      "title": "Feed The Monster Arabic",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "appIcons/ftm_arabic_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Feed The Monster Arabic"
+        }
+      ]
+    }
+  ]
+}

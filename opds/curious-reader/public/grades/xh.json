@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Isixhosa"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/xh.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Isixhosa",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/isixhosa",
+        "language": "xh",
+        "modified": "2025-06-25T10:35:59.916678+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/isixhosa.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/isixhosa.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_isixhosa_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Zulu"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/zu.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Zulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/zulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027219+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/zulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/zulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader LetsFlyIsiZuluLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/LetsFlyIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027357+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/LetsFlyIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/LetsFlyIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/LetsFly_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader HideAndSeekIsiZuluLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027465+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/HideAndSeekIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_HideAndSeek_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader ColoursZuluLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ColoursIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027556+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ColoursIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ColoursIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_Colours_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheBeeAndTheElephantZuluLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027670+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheBeeAndTheElephant_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheLostDollZuluLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLostDollIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027768+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLostDollIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLostDollIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheLostDoll_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Lion Runs Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027855+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Dads Boots Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/DadsBootsIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.027974+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/DadsBootsIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/DadsBootsIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Who Can Help Me Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028067+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader What Day Is It Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028152+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhatDayIsItIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Tall And Short Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TallAndShortIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028237+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TallAndShortIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TallAndShortIsiZuluLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Playground Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/PlaygroundIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028320+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/PlaygroundIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/PlaygroundIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/playground.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader My First Day At The Market Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028408+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/MyFirstDayAtTheMarketIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/my_first_day_at_the_market.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Frog's Starry Wish Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028501+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Chakus Cycle Isizulu",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleIsiZulu",
+        "language": "zu",
+        "modified": "2025-06-25T10:36:00.028618+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleIsiZulu.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ChakusCycleIsiZulu.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

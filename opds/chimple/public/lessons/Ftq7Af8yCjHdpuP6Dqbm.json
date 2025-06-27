@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Count & Add",
+    "author": "Chimple",
+    "identifier": "https://chimple-respectify.web.app/id/Ftq7Af8yCjHdpuP6Dqbm",
+    "language": "en",
+    "modified": "2025-06-23T05:58:28.031038+00:00",
+    "published": "2025-06-23T05:58:28.031038+00:00",
+    "description": "Interactive learning lesson: Count & Add",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/lessons/Ftq7Af8yCjHdpuP6Dqbm.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple-respectify.web.app/download/Ftq7Af8yCjHdpuP6Dqbm.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respectify.web.app/images/icons/maths2609.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple-respectify.web.app/download/Ftq7Af8yCjHdpuP6Dqbm.html",
+      "title": "Count & Add"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths2609.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2609.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

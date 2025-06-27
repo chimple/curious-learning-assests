@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "title": "Assessment Bangla"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/bn.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Assessment Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/bangla-lettersounds",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.107984+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/bangla-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/bangla-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Bangla Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/bangla-sightwords",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108119+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/bangla-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/bangla-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Lion Runs Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksBangla",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108225+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksBangla.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksBangla.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Feed The Monster Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/bangla",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108326+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/bangla.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/bangla.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_bangla_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Who Can Help Me Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeBangla",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108415+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeBangla.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeBangla.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Chakus Cycle Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleBangla",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108516+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleBangla.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ChakusCycleBangla.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Friends Bangla Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FriendsBanglaLv4",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108641+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FriendsBanglaLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FriendsBanglaLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/friends.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Tall And Short Bangla Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TallAndShortBanglaLv4",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108801+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TallAndShortBanglaLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TallAndShortBanglaLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Playground Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/PlaygroundBangla",
+        "language": "bn",
+        "modified": "2025-06-25T10:36:00.108919+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/PlaygroundBangla.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/PlaygroundBangla.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/playground.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

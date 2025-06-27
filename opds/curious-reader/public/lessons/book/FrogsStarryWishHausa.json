@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Curious Reader Frog's Starry Wish Hausa",
+    "author": "Chimple",
+    "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishHausa",
+    "language": "ha",
+    "modified": "2025-06-25T10:36:00.009434+00:00",
+    "published": "2025-06-25T10:36:00.009434+00:00",
+    "description": "Interactive learning lesson: Curious Reader Frog's Starry Wish Hausa",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishHausa.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishHausa.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishHausa.html",
+      "title": "Curious Reader Frog's Starry Wish Hausa"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://curious-reader.web.app/zips/story/FrogsStarryWishHausa.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

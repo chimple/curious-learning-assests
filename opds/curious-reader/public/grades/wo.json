@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Wolof"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/wo.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Wolof",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/wolof",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922257+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/wolof.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/wolof.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_wolof_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader HideAndSeekWolofLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekWolofLv4",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922376+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekWolofLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/HideAndSeekWolofLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_HideAndSeek_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader LetsFlyWolofLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/LetsFlyWolofLv4",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922463+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/LetsFlyWolofLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/LetsFlyWolofLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/LetsFly_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheLostDollWolofLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLostDollWolofLv4",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922542+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLostDollWolofLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLostDollWolofLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheLostDoll_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Colours Wolof Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ColoursWolofLv4",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922639+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ColoursWolofLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ColoursWolofLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_Colours_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Bee And The Elephant Wolof Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantWolofLv4",
+        "language": "wo",
+        "modified": "2025-06-25T10:35:59.922734+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantWolofLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantWolofLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheBeeAndTheElephant_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

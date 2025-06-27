@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Tsonga"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/ts.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Tsonga",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/tsonga",
+        "language": "ts",
+        "modified": "2025-06-25T10:36:00.101888+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/tsonga.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/tsonga.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_tsonga_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

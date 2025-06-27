@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Number Order 1-5",
+    "author": "Chimple",
+    "identifier": "https://chimple-respectify.web.app/id/wahgeasRRrlx5vvewlL8",
+    "language": "en",
+    "modified": "2025-06-23T05:58:27.782673+00:00",
+    "published": "2025-06-23T05:58:27.782673+00:00",
+    "description": "Interactive learning lesson: Number Order 1-5",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/lessons/wahgeasRRrlx5vvewlL8.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple-respectify.web.app/download/wahgeasRRrlx5vvewlL8.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respectify.web.app/images/icons/maths0305.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple-respectify.web.app/download/wahgeasRRrlx5vvewlL8.html",
+      "title": "Number Order 1-5"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths0305.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0305.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

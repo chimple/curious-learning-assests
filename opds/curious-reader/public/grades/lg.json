@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "title": "Curious Reader LetsFlyLugLv4"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/lg.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Curious Reader LetsFlyLugLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/LetsFlyLugLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.059395+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/LetsFlyLugLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/LetsFlyLugLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/LetsFly_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Feed The Monster Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/lugandan",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.059550+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/lugandan.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/lugandan.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_lugandan_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader HideAndSeekLugLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekLugLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.059711+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekLugLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/HideAndSeekLugLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_HideAndSeek_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader ColoursLugLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ColoursLugLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.059823+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ColoursLugLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ColoursLugLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_Colours_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheBeeAndTheElephantLugLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantLugLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.059927+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantLugLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantLugLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheBeeAndTheElephant_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheLostDollLugLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLostDollLugLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060034+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLostDollLugLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLostDollLugLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheLostDoll_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Who Can Help Me Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060138+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader What Day Is It Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060234+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhatDayIsItLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Lion Runs And The Cow walks Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060336+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Tall And Short Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TallAndShortLugandaLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060429+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TallAndShortLugandaLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TallAndShortLugandaLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Playground Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/PlaygroundLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060524+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/PlaygroundLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/PlaygroundLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/playground.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader My First Day At The Market Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060652+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/MyFirstDayAtTheMarketLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/my_first_day_at_the_market.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Frog's Starry Wish Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060753+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Dads Boots Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/DadsBootsLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060847+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/DadsBootsLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/DadsBootsLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Friends Lugandan Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FriendsLugandaLv4",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.060944+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FriendsLugandaLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FriendsLugandaLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/friends.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Chakus Cycle Lugandan",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleLuganda",
+        "language": "lg",
+        "modified": "2025-06-25T10:36:00.061041+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleLuganda.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ChakusCycleLuganda.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

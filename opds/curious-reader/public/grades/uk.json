@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Ukrainian"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/uk.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/ukrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.952713+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ukrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/ukrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_ukrainian_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader LetsFlyUkrLv6",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/LetsFlyUkrLv6",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.952848+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/LetsFlyUkrLv6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/LetsFlyUkrLv6.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/LetsFly_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader HideAndSeekUkrLv6",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekUkrLv6",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.952952+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekUkrLv6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/HideAndSeekUkrLv6.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_HideAndSeek_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader ColoursUkrLv6",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ColoursUkrLv6",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953040+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ColoursUkrLv6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ColoursUkrLv6.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_Colours_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheBeeAndTheElephantUkrLv6",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantUkrLv6",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953133+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantUkrLv6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantUkrLv6.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheBeeAndTheElephant_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader TheLostDollUkrLv4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLostDollUkrLv4",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953223+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLostDollUkrLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLostDollUkrLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_TheLostDoll_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/ukrainian-lettersounds",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953310+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/ukrainian-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/ukrainian-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953397+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Friends Ukrainian Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FriendsUkrainianLv4",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953481+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FriendsUkrainianLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FriendsUkrainianLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/friends.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Who Can Help Me Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953567+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader What Day Is It Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953679+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhatDayIsItUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Playground Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/PlaygroundUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953797+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/PlaygroundUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/PlaygroundUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/playground.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader My First Day At The Market Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953889+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/MyFirstDayAtTheMarketUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/my_first_day_at_the_market.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Frog's Starry Wish Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.953975+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Chakus Cycle Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.954061+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ChakusCycleUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Dad's Boots Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/DadsBootsUkrainian",
+        "language": "uk",
+        "modified": "2025-06-25T10:35:59.954147+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/DadsBootsUkrainian.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/DadsBootsUkrainian.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

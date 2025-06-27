@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "title": "Feed The Monster English Westafrican"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/en-ng.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster English Westafrican",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/englishwestafrican",
+        "language": "en-ng",
+        "modified": "2025-06-25T10:35:59.994862+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/englishwestafrican.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/englishwestafrican.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_englishwestafrican_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment West African English Letter Sounds",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/west-african-english-lettersounds",
+        "language": "en-ng",
+        "modified": "2025-06-25T10:35:59.994995+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/west-african-english-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/west-african-english-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment West African English Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/west-african-sightwords",
+        "language": "en-ng",
+        "modified": "2025-06-25T10:35:59.995099+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/west-african-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/west-african-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

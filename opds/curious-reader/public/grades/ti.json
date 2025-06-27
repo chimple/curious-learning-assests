@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Tigragna"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/ti.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/tigragna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147492+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/tigragna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/tigragna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_generic.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader I am Flying Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/IAmFlyingTigirigna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147591+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/IAmFlyingTigirigna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/IAmFlyingTigirigna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/IAmFlyingBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader I Love Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ILoveTigirigna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147697+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ILoveTigirigna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ILoveTigirigna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ILoveBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Umbrellas Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheUmbrellasTigirigna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147764+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheUmbrellasTigirigna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheUmbrellasTigirigna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/TheUmbrellas.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Guess What I Am Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/GuessWhatIAmTigirigna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147818+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/GuessWhatIAmTigirigna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/GuessWhatIAmTigirigna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/GuessWhatIAm.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Come Come Tigragna",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ComeComeTigirigna",
+        "language": "ti",
+        "modified": "2025-06-25T10:36:00.147867+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ComeComeTigirigna.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ComeComeTigirigna.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ComeComeBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

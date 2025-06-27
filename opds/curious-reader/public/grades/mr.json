@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Marathi"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/mr.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/marathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120321+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/marathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/marathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_marathi_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Lion Runs Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120490+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Who Can Help Me Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120634+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader What Day Is It Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120740+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/WhatDayIsItMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Tall And Short Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TallAndShortMarathiLv4",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120831+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TallAndShortMarathiLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TallAndShortMarathiLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Playground Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/PlaygroundMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.120918+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/PlaygroundMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/PlaygroundMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/playground.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Dads Boots Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/DadsBootsMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.121001+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/DadsBootsMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/DadsBootsMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Chakus Cycle Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.121082+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ChakusCycleMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Friends Marathi Level 4",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FriendsMarathiLv4",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.121161+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FriendsMarathiLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FriendsMarathiLv4.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/friends.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Frog's Starry Wish Marathi",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishMarathi",
+        "language": "mr",
+        "modified": "2025-06-25T10:36:00.121273+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishMarathi.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishMarathi.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

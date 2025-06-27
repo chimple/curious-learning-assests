@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Feed The Monster Amharic"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/am.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Feed The Monster Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/cr_lang/amharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142076+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/amharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/cr_lang/amharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_amharic_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader I am Flying Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/IAmFlyingAmharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142180+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/IAmFlyingAmharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/IAmFlyingAmharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/IAmFlyingBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader I Love Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ILoveAmharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142251+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ILoveAmharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ILoveAmharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ILoveBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader The Umbrellas Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/TheUmbrellasAmharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142310+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/TheUmbrellasAmharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/TheUmbrellasAmharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/TheUmbrellas.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Guess What I Am Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/GuessWhatIAmAmharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142365+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/GuessWhatIAmAmharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/GuessWhatIAmAmharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/GuessWhatIAm.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Curious Reader Come Come Amharic",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/book/ComeComeAmharic",
+        "language": "am",
+        "modified": "2025-06-25T10:36:00.142423+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/book/ComeComeAmharic.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/book/ComeComeAmharic.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ComeComeBook.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

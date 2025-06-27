@@ -1,0 +1,23 @@
+{
+  "name": {
+    "en-US": "Curious Reader",
+    "hi-IN": "क्यूरियस रीडर"
+  },
+  "description": {
+    "en-US": "Curious Reader is an interactive platform designed to guide your child through the basics of reading. Through engaging gameplay, kids learn to recognize letters, spell, and read words, boosting their school performance and preparing them to read simple text.This free app makes learning to read fun and empowering by providing interactive tools and resources that encourage children to explore, discover, and learn at their own pace. As a learning app, it includes a variety of games and books allowing children to choose their own learning paths and enhance their literacy journey",
+    "hi-IN": "क्यूरियस रीडर एक इंटरैक्टिव प्लेटफ़ॉर्म है जिसे आपके बच्चे को पढ़ाई की बुनियादी बातों से परिचित कराने के लिए डिज़ाइन किया गया है। मजेदार खेल के माध्यम से, बच्चे अक्षरों को पहचानना, शब्दों का उच्चारण करना और पढ़ना सीखते हैं, जिससे उनके स्कूल प्रदर्शन में सुधार होता है और वे सरल पाठ पढ़ने के लिए तैयार होते हैं। यह मुफ्त ऐप पढ़ाई को मजेदार और सशक्त बनाता है, जो बच्चों को अपने खुद के गति से खोजने, जानने और सीखने के लिए प्रोत्साहित करने वाले इंटरएक्टिव टूल और संसाधन प्रदान करता है। एक शिक्षण ऐप के रूप में, इसमें विभिन्न खेल और किताबें शामिल हैं, जो बच्चों को अपनी खुद की अध्ययन पथ चुनने और उनकी साक्षरता यात्रा को बढ़ाने की अनुमति देती हैं।"
+  },
+  "license": "MIT",
+  "website": "https://curiousreader.curiouslearning.org/",
+  "icon": "https://raw.githubusercontent.com/chimple/CRcontainer/main/app/src/debug/ic_launcher-playstore.png",
+  "learningUnits": "https://curious-reader.web.app/opds.json",
+  "defaultLaunchUri": "https://curiousreader.curiouslearning.org/",
+
+  "android": {
+    "packageId": "org.curiouslearning.container",
+    "stores": [
+      "https://play.google.com/store/apps/details?id=org.curiouslearning.container"
+    ],
+    "sourceCode": "https://github.com/chimple/CRcontainer/tree/RESPECTify"
+  }
+}
