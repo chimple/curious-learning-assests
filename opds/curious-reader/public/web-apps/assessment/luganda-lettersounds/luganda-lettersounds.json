@@ -1,0 +1,181 @@
+{
+  "quizName": "Lugandan Letter Sounds",
+  "appType": "assessment",
+  "assessmentType": "letter-sounds",
+  "feedbackText": "Kirungi!",
+  "contentVersion": "v0.1",
+  "buckets": [
+    {
+      "bucketID": 1,
+      "bucketName": "lugandan-let-b1",
+      "usedItems": [],
+      "items": [
+        { "itemName": "o", "itemText": "o" },
+        { "itemName": "y", "itemText": "y" },
+        { "itemName": "b", "itemText": "b" },
+        { "itemName": "d", "itemText": "d" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "A", "itemText": "A" },
+        { "itemName": "l", "itemText": "l" },
+        { "itemName": "ŋ", "itemText": "ŋ" },
+        { "itemName": "j", "itemText": "j" }
+      ]
+    },
+    {
+      "bucketID": 2,
+      "bucketName": "lugandan-let-b2",
+      "usedItems": [],
+      "items": [
+        { "itemName": "a", "itemText": "a" },
+        { "itemName": "n", "itemText": "n" },
+        { "itemName": "l", "itemText": "l" },
+        { "itemName": "d", "itemText": "d" },
+        { "itemName": "Z", "itemText": "Z" },
+        { "itemName": "y", "itemText": "y" },
+        { "itemName": "s", "itemText": "s" },
+        { "itemName": "g", "itemText": "g" },
+        { "itemName": "k", "itemText": "k" },
+        { "itemName": "m", "itemText": "m" }
+      ]
+    },
+
+    {
+      "bucketID": 3,
+      "bucketName": "lugandan-let-b3",
+      "usedItems": [],
+      "items": [
+        { "itemName": "U", "itemText": "U" },
+        { "itemName": "t", "itemText": "t" },
+        { "itemName": "w", "itemText": "w" },
+        { "itemName": "e", "itemText": "e" },
+        { "itemName": "a", "itemText": "a" },
+        { "itemName": "v", "itemText": "v" },
+        { "itemName": "N", "itemText": "N" },
+        { "itemName": "o", "itemText": "o" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "ŋ", "itemText": "ŋ" }
+      ]
+    },
+
+    {
+      "bucketID": 4,
+      "bucketName": "lugandan-let-b4",
+      "usedItems": [],
+      "items": [
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "a", "itemText": "a" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "Y", "itemText": "Y" },
+        { "itemName": "p", "itemText": "p" },
+        { "itemName": "D", "itemText": "D" },
+        { "itemName": "V", "itemText": "V" },
+        { "itemName": "n", "itemText": "n" },
+        { "itemName": "j", "itemText": "j" },
+        { "itemName": "u", "itemText": "u" }
+      ]
+    },
+    {
+      "bucketID": 5,
+      "bucketName": "lugandan-let-b5",
+      "usedItems": [],
+      "items": [
+        { "itemName": "i", "itemText": "i" },
+        { "itemName": "C", "itemText": "C" },
+        { "itemName": "h", "itemText": "h" },
+        { "itemName": "u", "itemText": "u" },
+        { "itemName": "ŋ", "itemText": "ŋ" },
+        { "itemName": "K", "itemText": "K" },
+        { "itemName": "N", "itemText": "N" },
+        { "itemName": "V", "itemText": "V" },
+        { "itemName": "m", "itemText": "m" },
+        { "itemName": "R", "itemText": "R" }
+      ]
+    },
+    {
+      "bucketID": 6,
+      "bucketName": "lugandan-let-b6",
+      "usedItems": [],
+      "items": [
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "J", "itemText": "J" },
+        { "itemName": "ŋ", "itemText": "ŋ" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "r", "itemText": "r" },
+        { "itemName": "z", "itemText": "z" },
+        { "itemName": "U", "itemText": "U" },
+        { "itemName": "c", "itemText": "c" },
+        { "itemName": "O", "itemText": "O" },
+        { "itemName": "W", "itemText": "W" }
+      ]
+    },
+    {
+      "bucketID": 7,
+      "bucketName": "lugandan-let-b7",
+      "usedItems": [],
+      "items": [
+        { "itemName": "S", "itemText": "S" },
+        { "itemName": "i", "itemText": "i" },
+        { "itemName": "k", "itemText": "k" },
+        { "itemName": "d", "itemText": "d" },
+        { "itemName": "P", "itemText": "P" },
+        { "itemName": "ny", "itemText": "ny" },
+        { "itemName": "L", "itemText": "L" },
+        { "itemName": "H", "itemText": "H" },
+        { "itemName": "f", "itemText": "f" },
+        { "itemName": "G", "itemText": "G" }
+      ]
+    },
+    {
+      "bucketID": 8,
+      "bucketName": "lugandan-let-b8",
+      "usedItems": [],
+      "items": [
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "v", "itemText": "v" },
+        { "itemName": "r", "itemText": "r" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "c", "itemText": "c" },
+        { "itemName": "O", "itemText": "O" },
+        { "itemName": "H", "itemText": "H" },
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "w", "itemText": "w" }
+      ]
+    },
+    {
+      "bucketID": 9,
+      "bucketName": "lugandan-let-b9",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ny", "itemText": "ny" },
+        { "itemName": "L", "itemText": "L" },
+        { "itemName": "F", "itemText": "F" },
+        { "itemName": "i", "itemText": "i" },
+        { "itemName": "p", "itemText": "p" },
+        { "itemName": "h", "itemText": "h" },
+        { "itemName": "k", "itemText": "k" },
+        { "itemName": "t", "itemText": "t" },
+        { "itemName": "s", "itemText": "s" },
+        { "itemName": "z", "itemText": "z" }
+      ]
+    },
+    {
+      "bucketID": 10,
+      "bucketName": "lugandan-let-b10",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ny", "itemText": "ny" },
+        { "itemName": "g", "itemText": "g" },
+        { "itemName": "F", "itemText": "F" },
+        { "itemName": "K", "itemText": "K" },
+        { "itemName": "P", "itemText": "P" },
+        { "itemName": "S", "itemText": "S" },
+        { "itemName": "R", "itemText": "R" },
+        { "itemName": "m", "itemText": "m" },
+        { "itemName": "w", "itemText": "w" },
+        { "itemName": "c", "itemText": "c" }
+      ]
+    }
+  ]
+}

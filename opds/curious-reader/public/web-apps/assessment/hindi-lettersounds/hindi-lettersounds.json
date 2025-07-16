@@ -1,0 +1,180 @@
+{
+  "quizName": "hindi letter sounds",
+  "appType": "assessment",
+  "assessmentType": "letter-sounds",
+  "feedbackText": "बढ़िया काम",
+  "contentVersion": "v0.1",
+  "buckets": [
+    {
+      "bucketID": 1,
+      "bucketName": "hindi-let-b1",
+      "usedItems": [],
+      "items": [
+        { "itemName": "र", "itemText": "र" },
+        { "itemName": "न", "itemText": "न" },
+        { "itemName": "म", "itemText": "म" },
+        { "itemName": "प", "itemText": "प" },
+        { "itemName": "अ", "itemText": "अ" },
+        { "itemName": "त", "itemText": "त" },
+        { "itemName": "ल", "itemText": "ल" },
+        { "itemName": "ब", "itemText": "ब" },
+        { "itemName": "च", "itemText": "च" }
+      ]
+    },
+    {
+      "bucketID": 2,
+      "bucketName": "hindi-let-b2",
+      "usedItems": [],
+      "items": [
+        { "itemName": "य", "itemText": "य" },
+        { "itemName": "द", "itemText": "द" },
+        { "itemName": "ज", "itemText": "ज" },
+        { "itemName": "ए", "itemText": "ए" },
+        { "itemName": "ग", "itemText": "ग" },
+        { "itemName": "व", "itemText": "व" },
+        { "itemName": "ट", "itemText": "ट" },
+        { "itemName": "थ", "itemText": "थ" },
+        { "itemName": "आ", "itemText": "आ" },
+        { "itemName": "त", "itemText": "त" }
+      ]
+    },
+
+    {
+      "bucketID": 3,
+      "bucketName": "hindi-let-b3",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ज", "itemText": "ज" },
+        { "itemName": "ग", "itemText": "ग" },
+        { "itemName": "द", "itemText": "द" },
+        { "itemName": "इ", "itemText": "इ" },
+        { "itemName": "इ", "itemText": "इ" },
+        { "itemName": "उ", "itemText": "उ" },
+        { "itemName": "औ", "itemText": "औ" },
+        { "itemName": "च", "itemText": "च" },
+        { "itemName": "ह", "itemText": "ह" },
+        { "itemName": "उ", "itemText": "उ" }
+      ]
+    },
+
+    {
+      "bucketID": 4,
+      "bucketName": "hindi-let-b4",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ई", "itemText": "ई" },
+        { "itemName": "ठ", "itemText": "ठ" },
+        { "itemName": "ओ", "itemText": "ओ" },
+        { "itemName": "ऊ", "itemText": "ऊ" },
+        { "itemName": "फ", "itemText": "फ" },
+        { "itemName": "ई", "itemText": "ई" },
+        { "itemName": "य", "itemText": "य" },
+        { "itemName": "ण", "itemText": "ण" },
+        { "itemName": "ऐ", "itemText": "ऐ" },
+        { "itemName": "ड", "itemText": "ड" }
+      ]
+    },
+    {
+      "bucketID": 5,
+      "bucketName": "hindi-let-b5",
+      "usedItems": [],
+      "items": [
+        { "itemName": "श", "itemText": "श" },
+        { "itemName": "ठ", "itemText": "ठ" },
+        { "itemName": "का", "itemText": "का" },
+        { "itemName": "की", "itemText": "की" },
+        { "itemName": "ओ", "itemText": "ओ" },
+        { "itemName": "ढ", "itemText": "ढ" },
+        { "itemName": "ऐ", "itemText": "ऐ" },
+        { "itemName": "को", "itemText": "को" },
+        { "itemName": "ध", "itemText": "ध" },
+        { "itemName": "भ", "itemText": "भ" }
+      ]
+    },
+    {
+      "bucketID": 6,
+      "bucketName": "hindi-let-b6",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ष", "itemText": "ष" },
+        { "itemName": "घ", "itemText": "घ" },
+        { "itemName": "फ", "itemText": "फ" },
+        { "itemName": "ष", "itemText": "ष" },
+        { "itemName": "कि ", "itemText": "कि " },
+        { "itemName": "कु ", "itemText": "कु " },
+        { "itemName": "कू", "itemText": "कू" },
+        { "itemName": "कृ ", "itemText": "कृ " },
+        { "itemName": "के", "itemText": "के" },
+        { "itemName": "कै", "itemText": "कै" }
+      ]
+    },
+    {
+      "bucketID": 7,
+      "bucketName": "hindi-let-b7",
+      "usedItems": [],
+      "items": [
+        { "itemName": "झ", "itemText": "झ" },
+        { "itemName": "ढ", "itemText": "ढ" },
+        { "itemName": " को", "itemText": " को" },
+        { "itemName": "ऋ", "itemText": "ऋ" },
+        { "itemName": "कौ", "itemText": "कौ" },
+        { "itemName": "छ", "itemText": "छ" },
+        { "itemName": "ख", "itemText": "ख" },
+        { "itemName": "झ", "itemText": "झ" },
+        { "itemName": "कं ", "itemText": "कं " },
+        { "itemName": "स", "itemText": "स" }
+      ]
+    },
+    {
+      "bucketID": 8,
+      "bucketName": "hindi-let-b8",
+      "usedItems": [],
+      "items": [
+        { "itemName": "सा", "itemText": "सा" },
+        { "itemName": "सि", "itemText": "सि" },
+        { "itemName": "सी", "itemText": "सी" },
+        { "itemName": "सु", "itemText": "सु" },
+        { "itemName": "सू", "itemText": "सू" },
+        { "itemName": "से", "itemText": "से" },
+        { "itemName": "ॅ", "itemText": "ॅ" },
+        { "itemName": "ऋ", "itemText": "ऋ" },
+        { "itemName": "सै", "itemText": "सै" },
+        { "itemName": "सो", "itemText": "सो" }
+      ]
+    },
+    {
+      "bucketID": 9,
+      "bucketName": "hindi-let-b9",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ञ", "itemText": "ञ" },
+        { "itemName": "सौ", "itemText": "सौ" },
+        { "itemName": "फ", "itemText": "फ" },
+        { "itemName": "ष", "itemText": "ष" },
+        { "itemName": "कि ", "itemText": "कि " },
+        { "itemName": "कु ", "itemText": "कु " },
+        { "itemName": "कू", "itemText": "कू" },
+        { "itemName": "कृ ", "itemText": "कृ " },
+        { "itemName": "के", "itemText": "के" },
+        { "itemName": "कै", "itemText": "कै" }
+      ]
+    },
+    {
+      "bucketID": 10,
+      "bucketName": "hindi-let-b10",
+      "usedItems": [],
+      "items": [
+        { "itemName": "झ", "itemText": "झ" },
+        { "itemName": "कः", "itemText": "कः" },
+        { "itemName": "कं ", "itemText": "कं " },
+        { "itemName": "स", "itemText": "स" },
+        { "itemName": "सा", "itemText": "सा" },
+        { "itemName": "सि", "itemText": "सि" },
+        { "itemName": "सी", "itemText": "सी" },
+        { "itemName": "सु", "itemText": "सु" },
+        { "itemName": "सू", "itemText": "सू" },
+        { "itemName": "से", "itemText": "से" }
+      ]
+    }
+  ]
+}

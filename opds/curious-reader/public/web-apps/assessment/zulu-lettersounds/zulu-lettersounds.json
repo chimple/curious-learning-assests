@@ -1,0 +1,181 @@
+{
+  "quizName": "zulu letter sounds",
+  "appType": "assessment",
+  "assessmentType": "letter-sounds",
+  "feedbackText": "kuyancomeka!",
+  "contentVersion": "v0.1",
+  "buckets": [
+    {
+      "bucketID": 1,
+      "bucketName": "zulu-let-b1",
+      "usedItems": [],
+      "items": [
+        { "itemName": "S", "itemText": "S" },
+        { "itemName": "V", "itemText": "V" },
+        { "itemName": "N", "itemText": "N" },
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "L", "itemText": "L" },
+        { "itemName": "Y", "itemText": "Y" },
+        { "itemName": "Z", "itemText": "Z" },
+        { "itemName": "H", "itemText": "H" },
+        { "itemName": "W", "itemText": "W" },
+        { "itemName": "M", "itemText": "M" }
+      ]
+    },
+    {
+      "bucketID": 2,
+      "bucketName": "zulu-let-b2",
+      "usedItems": [],
+      "items": [
+        { "itemName": "K", "itemText": "K" },
+        { "itemName": "TH", "itemText": "TH" },
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "C", "itemText": "C" },
+        { "itemName": "HL", "itemText": "HL" },
+        { "itemName": "Q", "itemText": "Q" },
+        { "itemName": "D", "itemText": "D" },
+        { "itemName": "Z", "itemText": "Z" },
+        { "itemName": "A", "itemText": "A" }
+      ]
+    },
+
+    {
+      "bucketID": 3,
+      "bucketName": "zulu-let-b3",
+      "usedItems": [],
+      "items": [
+        { "itemName": "P", "itemText": "P" },
+        { "itemName": "ND", "itemText": "ND" },
+        { "itemName": "Z", "itemText": "Z" },
+        { "itemName": "U", "itemText": "U" },
+        { "itemName": "NG", "itemText": "NG" },
+        { "itemName": "SH", "itemText": "SH" },
+        { "itemName": "J", "itemText": "J" },
+        { "itemName": "KH", "itemText": "KH" },
+        { "itemName": "X", "itemText": "X" },
+        { "itemName": "A", "itemText": "A" }
+      ]
+    },
+
+    {
+      "bucketID": 4,
+      "bucketName": "zulu-let-b4",
+      "usedItems": [],
+      "items": [
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "SW", "itemText": "SW" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "QH", "itemText": "QH" },
+        { "itemName": "I", "itemText": "I" },
+        { "itemName": "F", "itemText": "F" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "Z", "itemText": "Z" },
+        { "itemName": "R", "itemText": "R" },
+        { "itemName": "I", "itemText": "I" }
+      ]
+    },
+    {
+      "bucketID": 5,
+      "bucketName": "zulu-let-b5",
+      "usedItems": [],
+      "items": [
+        { "itemName": "S", "itemText": "S" },
+        { "itemName": "LW", "itemText": "LW" },
+        { "itemName": "N", "itemText": "N" },
+        { "itemName": "NDL", "itemText": "NDL" },
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "Y", "itemText": "Y" },
+        { "itemName": "TS", "itemText": "TS" },
+        { "itemName": "BH", "itemText": "BH" },
+        { "itemName": "NC", "itemText": "NC" },
+        { "itemName": "E", "itemText": "E" }
+      ]
+    },
+    {
+      "bucketID": 6,
+      "bucketName": "zulu-let-b6",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Y", "itemText": "Y" },
+        { "itemName": "TSH", "itemText": "TSH" },
+        { "itemName": "Q", "itemText": "Q" },
+        { "itemName": "PH", "itemText": "PH" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "V", "itemText": "V" },
+        { "itemName": "O", "itemText": "O" },
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "NY", "itemText": "NY" },
+        { "itemName": "P", "itemText": "P" }
+      ]
+    },
+    {
+      "bucketID": 7,
+      "bucketName": "zulu-let-b7",
+      "usedItems": [],
+      "items": [
+        { "itemName": "DL", "itemText": "DL" },
+        { "itemName": "A", "itemText": "A" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "MP", "itemText": "MP" },
+        { "itemName": "F", "itemText": "F" },
+        { "itemName": "PH", "itemText": "PH" },
+        { "itemName": "H", "itemText": "H" },
+        { "itemName": "U", "itemText": "U" },
+        { "itemName": "P", "itemText": "P" },
+        { "itemName": "R", "itemText": "R" }
+      ]
+    },
+    {
+      "bucketID": 8,
+      "bucketName": "zulu-let-b8",
+      "usedItems": [],
+      "items": [
+        { "itemName": "W", "itemText": "W" },
+        { "itemName": "DW", "itemText": "DW" },
+        { "itemName": "H", "itemText": "H" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "NZ", "itemText": "NZ" },
+        { "itemName": "G", "itemText": "G" },
+        { "itemName": "DL", "itemText": "DL" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "HL", "itemText": "HL" },
+        { "itemName": "I", "itemText": "I" }
+      ]
+    },
+    {
+      "bucketID": 9,
+      "bucketName": "zulu-let-b9",
+      "usedItems": [],
+      "items": [
+        { "itemName": "L", "itemText": "L" },
+        { "itemName": "O", "itemText": "O" },
+        { "itemName": "LW", "itemText": "LW" },
+        { "itemName": "A", "itemText": "A" },
+        { "itemName": "X", "itemText": "X" },
+        { "itemName": "NHL", "itemText": "NHL" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "NY", "itemText": "NY" },
+        { "itemName": "P", "itemText": "P" },
+        { "itemName": "HL", "itemText": "HL" }
+      ]
+    },
+    {
+      "bucketID": 10,
+      "bucketName": "zulu-let-b10",
+      "usedItems": [],
+      "items": [
+        { "itemName": "N", "itemText": "N" },
+        { "itemName": "KW", "itemText": "KW" },
+        { "itemName": "NC", "itemText": "NC" },
+        { "itemName": "D", "itemText": "D" },
+        { "itemName": "NDL", "itemText": "NDL" },
+        { "itemName": "Y", "itemText": "Y" },
+        { "itemName": "MB", "itemText": "MB" },
+        { "itemName": "J", "itemText": "J" },
+        { "itemName": "C", "itemText": "C" },
+        { "itemName": "MV", "itemText": "MV" }
+      ]
+    }
+  ]
+}

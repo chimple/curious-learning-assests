@@ -210,7 +210,12 @@ for sheet_name in wb.sheetnames:
         data = {k: (v.strip() if isinstance(v, str) else v) for k, v in data.items()}
         
         lesson_id = str(data.get('lesson_id', '')).strip()
-        title = str(data.get('title ') or data.get('lesson_name') or '').strip()
+        title = str(
+            data.get('title') or
+            data.get('title ') or
+            data.get('lesson_name') or
+            ''
+        ).strip()
         asset = str(data.get('Asset Link', '')).strip()
         cocos_lesson_code = str(data.get('cocos_lesson_code', '')).strip() or data.get('id') or 'default'
 
@@ -243,7 +248,7 @@ for sheet_name in wb.sheetnames:
         # For OPDS catalog, create a simplified publication entry
         publication = {
             'metadata': {
-                'title': title,
+                'title': lesson_manifest['metadata']['title'],
                 'author': 'Chimple',
                 'identifier': f"https://chimple-respectify.web.app/id/{lesson_id}",
                 'language': 'en',

@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Feed The Monster US English",
+    "author": "Chimple",
+    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_en_128",
+    "language": "en",
+    "modified": "2025-07-03T05:38:32.110696+00:00",
+    "published": "2025-07-03T05:38:32.110696+00:00",
+    "description": "Interactive learning lesson: Feed The Monster US English",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_128.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://curious-reader.web.app/download/cr_lang/ftm_en_128.html",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://curious-reader.web.app/download/cr_lang/ftm_en_128.html",
+      "title": "Feed The Monster US English"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://curious-reader.web.app/zips/ftm/en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}
