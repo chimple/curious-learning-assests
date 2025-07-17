@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "It",
+    "author": "Chimple",
+    "identifier": "https://chimple.cc/?activity_id=zlwDTpUy0XdHmO0sKu50",
+    "language": "en",
+    "modified": "2025-07-17T05:44:41.659750+00:00",
+    "published": "2025-07-17T05:44:41.659750+00:00",
+    "description": "Interactive learning lesson: It",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/lessons/zlwDTpUy0XdHmO0sKu50.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple.cc/?activity_id=zlwDTpUy0XdHmO0sKu50",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respectify.web.app/images/icons/en2504.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/?activity_id=zlwDTpUy0XdHmO0sKu50",
+      "title": "It"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respectify.web.app/images/icons/en2504.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en2504.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

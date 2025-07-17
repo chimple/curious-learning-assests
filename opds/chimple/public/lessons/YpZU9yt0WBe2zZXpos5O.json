@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "World",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/YpZU9yt0WBe2zZXpos5O",
+    "identifier": "https://chimple.cc/?activity_id=YpZU9yt0WBe2zZXpos5O",
     "language": "en",
-    "modified": "2025-07-16T11:53:13.892868+00:00",
-    "published": "2025-07-16T11:53:13.892868+00:00",
+    "modified": "2025-07-17T05:45:15.796555+00:00",
+    "published": "2025-07-17T05:45:15.796555+00:00",
     "description": "Interactive learning lesson: World",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/YpZU9yt0WBe2zZXpos5O.html",
+      "href": "https://chimple.cc/?activity_id=YpZU9yt0WBe2zZXpos5O",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en1907.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/YpZU9yt0WBe2zZXpos5O.html",
+      "href": "https://chimple.cc/?activity_id=YpZU9yt0WBe2zZXpos5O",
       "title": "World"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en1907.png",
       "properties": {
         "width": 128,
         "height": 128

@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Count & Add 1",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/OnWWDVwDtc1PGQvjeWQR",
+    "identifier": "https://chimple.cc/?activity_id=OnWWDVwDtc1PGQvjeWQR",
     "language": "en",
-    "modified": "2025-07-16T11:53:14.222663+00:00",
-    "published": "2025-07-16T11:53:14.222663+00:00",
+    "modified": "2025-07-17T05:45:16.033710+00:00",
+    "published": "2025-07-17T05:45:16.033710+00:00",
     "description": "Interactive learning lesson: Count & Add 1",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/OnWWDVwDtc1PGQvjeWQR.html",
+      "href": "https://chimple.cc/?activity_id=OnWWDVwDtc1PGQvjeWQR",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1402.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/OnWWDVwDtc1PGQvjeWQR.html",
+      "href": "https://chimple.cc/?activity_id=OnWWDVwDtc1PGQvjeWQR",
       "title": "Count & Add 1"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1402.png",
       "properties": {
         "width": 128,
         "height": 128

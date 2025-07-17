@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Beginners 2",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/0MMhGy6L5JEbWC4IG2Z2",
+    "identifier": "https://chimple.cc/?activity_id=0MMhGy6L5JEbWC4IG2Z2",
     "language": "en",
-    "modified": "2025-07-16T11:53:14.256802+00:00",
-    "published": "2025-07-16T11:53:14.256802+00:00",
+    "modified": "2025-07-17T05:45:16.054686+00:00",
+    "published": "2025-07-17T05:45:16.054686+00:00",
     "description": "Interactive learning lesson: Beginners 2",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/0MMhGy6L5JEbWC4IG2Z2.html",
+      "href": "https://chimple.cc/?activity_id=0MMhGy6L5JEbWC4IG2Z2",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1501.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/0MMhGy6L5JEbWC4IG2Z2.html",
+      "href": "https://chimple.cc/?activity_id=0MMhGy6L5JEbWC4IG2Z2",
       "title": "Beginners 2"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1501.png",
       "properties": {
         "width": 128,
         "height": 128

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "Chimple Learning"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/opds.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respectify.web.app/grades/englishgrade1.json",
+      "title": "English Grade 1",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respectify.web.app/images/icons/en0000.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "English Grade 1"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respectify.web.app/grades/englishgrade2.json",
+      "title": "English Grade 2",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respectify.web.app/images/icons/en0000.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "English Grade 2"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respectify.web.app/grades/mathsgrade1.json",
+      "title": "Maths Grade 1",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respectify.web.app/images/icons/maths0000.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Maths Grade 1"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respectify.web.app/grades/mathsgrade2.json",
+      "title": "Maths Grade 2",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respectify.web.app/images/icons/maths0000.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Maths Grade 2"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respectify.web.app/grades/digitalskills.json",
+      "title": "Digital Skills",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respectify.web.app/images/icons/puzzle0000.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Digital Skills"
+        }
+      ]
+    }
+  ]
+}

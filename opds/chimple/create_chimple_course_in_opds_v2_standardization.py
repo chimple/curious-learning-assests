@@ -6,6 +6,8 @@ from urllib.parse import urljoin
 
 # Configuration
 EXCEL_FILE = 'Respect Course Latest All Course Details From dashboard.xlsx'
+# EXCEL_FILE = 'sheet (1).xlsx'
+
 BASE_URL = 'https://chimple-respectify.web.app/'  # Base URL for your OPDS catalog
 TYPE_OPDS = 'application/opds+json'
 PUB_TYPE = 'application/opds-publication+json'
@@ -130,7 +132,7 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
             "@type": "https://schema.org/Book",
             "title": title,
             "author": "Chimple",
-            "identifier": f"https://chimple-respectify.web.app/id/{lesson_id}",
+            "identifier": f"https://chimple.cc/?activity_id={lesson_id}",
             "language": "en",
             "modified": current_time,
             "published": current_time,
@@ -146,7 +148,7 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
             },
             {
                 "rel": "http://opds-spec.org/acquisition/open-access",
-                "href": f"https://chimple-respectify.web.app/download/{lesson_id}.html",
+                "href": f"https://chimple.cc/?activity_id={lesson_id}",
                 "type": "text/html"
             }
         ],
@@ -162,7 +164,7 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
         "readingOrder": [
             {
                 "type": "text/html",
-                "href": f"https://chimple-respectify.web.app/download/{lesson_id}.html",
+                "href": f"https://chimple.cc/?activity_id={lesson_id}",
                 "title": title
             }
         ],
@@ -199,7 +201,9 @@ for sheet_name in wb.sheetnames:
     publications = []
     
     headers = [str(cell.value).strip() if cell.value else '' for cell in next(ws.iter_rows(min_row=1, max_row=1))]
-    print(f"Found columns: {headers}")
+    print(f"Headers (columns) fetched from sheet '{sheet_name}': {headers}")
+    for i, h in enumerate(headers):
+        print(f"Header {i}: '{h}' (len={len(h)})")
 
     row_count = 0
     valid_lessons = 0
@@ -208,21 +212,32 @@ for sheet_name in wb.sheetnames:
         row_count += 1
         data = dict(zip(headers, row))
         data = {k: (v.strip() if isinstance(v, str) else v) for k, v in data.items()}
-        
+        if row_count <= 5:
+            print(f"Row {row_count} keys: {list(data.keys())}")
+            print(f"Row {row_count} values: {list(data.values())}")
+            print(f"Row {row_count} data: {data}")
         lesson_id = str(data.get('lesson_id', '')).strip()
+        if not isinstance(lesson_id, str):
+            print(f"Skipping row {row_count}: lesson_id is not a string: {lesson_id}")
+            continue
+        if not lesson_id or lesson_id.lower() == 'nan':
+            print(f"Skipping row {row_count}: Missing lesson_id (value: '{lesson_id}')")
+            continue
         title = str(
             data.get('title') or
             data.get('title ') or
             data.get('lesson_name') or
             ''
         ).strip()
-        asset = str(data.get('Asset Link', '')).strip()
+        print(f"Row {row_count}: lesson_id={lesson_id}, title='{title}'")
+            
+        asset = str(
+            data.get('Asset Link') or
+            data.get('Asset L') or
+            ''
+        ).strip()
         cocos_lesson_code = str(data.get('cocos_lesson_code', '')).strip() or data.get('id') or 'default'
 
-        if not lesson_id or lesson_id.lower() == 'nan':
-            print(f"Skipping row {row_count}: Missing lesson_id")
-            continue
-            
         if not title or title.lower() == 'nan':
             title = f"Lesson {lesson_id}"
             print(f"Row {row_count}: Using default title: {title}")
@@ -250,7 +265,7 @@ for sheet_name in wb.sheetnames:
             'metadata': {
                 'title': lesson_manifest['metadata']['title'],
                 'author': 'Chimple',
-                'identifier': f"https://chimple-respectify.web.app/id/{lesson_id}",
+                'identifier': f"https://chimple.cc/?activity_id={lesson_id}",
                 'language': 'en',
                 'modified': lesson_manifest['metadata']['modified']
             },
@@ -262,7 +277,7 @@ for sheet_name in wb.sheetnames:
                 },
                 {
                     'rel': 'http://opds-spec.org/acquisition/open-access',
-                    'href': f"https://chimple-respectify.web.app/download/{lesson_id}.html",
+                    'href': f"https://chimple.cc/?activity_id={lesson_id}",
                     'type': 'text/html'
                 }
             ],

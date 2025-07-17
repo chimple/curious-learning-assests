@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "u",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/x5xSWY7D4glj1ODroTVd",
+    "identifier": "https://chimple.cc/?activity_id=x5xSWY7D4glj1ODroTVd",
     "language": "en",
-    "modified": "2025-07-16T11:53:13.540881+00:00",
-    "published": "2025-07-16T11:53:13.540881+00:00",
+    "modified": "2025-07-17T05:45:15.603307+00:00",
+    "published": "2025-07-17T05:45:15.603307+00:00",
     "description": "Interactive learning lesson: u",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/x5xSWY7D4glj1ODroTVd.html",
+      "href": "https://chimple.cc/?activity_id=x5xSWY7D4glj1ODroTVd",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en0301.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/x5xSWY7D4glj1ODroTVd.html",
+      "href": "https://chimple.cc/?activity_id=x5xSWY7D4glj1ODroTVd",
       "title": "u"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en0301.png",
       "properties": {
         "width": 128,
         "height": 128

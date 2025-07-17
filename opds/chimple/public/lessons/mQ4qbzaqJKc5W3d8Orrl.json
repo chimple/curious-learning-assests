@@ -1,0 +1,69 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Number Names 6",
+    "author": "Chimple",
+    "identifier": "https://chimple.cc/?activity_id=mQ4qbzaqJKc5W3d8Orrl",
+    "language": "en",
+    "modified": "2025-07-17T05:44:41.758608+00:00",
+    "published": "2025-07-17T05:44:41.758608+00:00",
+    "description": "Interactive learning lesson: Number Names 6",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respectify.web.app/lessons/mQ4qbzaqJKc5W3d8Orrl.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple.cc/?activity_id=mQ4qbzaqJKc5W3d8Orrl",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/?activity_id=mQ4qbzaqJKc5W3d8Orrl",
+      "title": "Number Names 6"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/en3905.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

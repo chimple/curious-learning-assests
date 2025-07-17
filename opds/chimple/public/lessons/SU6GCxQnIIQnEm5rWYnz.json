@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "About things",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/SU6GCxQnIIQnEm5rWYnz",
+    "identifier": "https://chimple.cc/?activity_id=SU6GCxQnIIQnEm5rWYnz",
     "language": "en",
-    "modified": "2025-07-16T11:53:13.959731+00:00",
-    "published": "2025-07-16T11:53:13.959731+00:00",
+    "modified": "2025-07-17T05:45:15.840948+00:00",
+    "published": "2025-07-17T05:45:15.840948+00:00",
     "description": "Interactive learning lesson: About things",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/SU6GCxQnIIQnEm5rWYnz.html",
+      "href": "https://chimple.cc/?activity_id=SU6GCxQnIIQnEm5rWYnz",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en3205.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/SU6GCxQnIIQnEm5rWYnz.html",
+      "href": "https://chimple.cc/?activity_id=SU6GCxQnIIQnEm5rWYnz",
       "title": "About things"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en3205.png",
       "properties": {
         "width": 128,
         "height": 128

@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Animals",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/qkZEsDvfkyAMpVd5NACF",
+    "identifier": "https://chimple.cc/?activity_id=qkZEsDvfkyAMpVd5NACF",
     "language": "en",
-    "modified": "2025-07-16T11:53:13.863917+00:00",
-    "published": "2025-07-16T11:53:13.863917+00:00",
+    "modified": "2025-07-17T05:45:15.777802+00:00",
+    "published": "2025-07-17T05:45:15.777802+00:00",
     "description": "Interactive learning lesson: Animals",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/qkZEsDvfkyAMpVd5NACF.html",
+      "href": "https://chimple.cc/?activity_id=qkZEsDvfkyAMpVd5NACF",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en1902.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/qkZEsDvfkyAMpVd5NACF.html",
+      "href": "https://chimple.cc/?activity_id=qkZEsDvfkyAMpVd5NACF",
       "title": "Animals"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/en1902.png",
       "properties": {
         "width": 128,
         "height": 128

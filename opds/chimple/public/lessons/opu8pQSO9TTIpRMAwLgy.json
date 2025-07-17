@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Addition",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/opu8pQSO9TTIpRMAwLgy",
+    "identifier": "https://chimple.cc/?activity_id=opu8pQSO9TTIpRMAwLgy",
     "language": "en",
-    "modified": "2025-07-16T11:53:14.220660+00:00",
-    "published": "2025-07-16T11:53:14.220660+00:00",
+    "modified": "2025-07-17T05:45:16.032447+00:00",
+    "published": "2025-07-17T05:45:16.032447+00:00",
     "description": "Interactive learning lesson: Addition",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/opu8pQSO9TTIpRMAwLgy.html",
+      "href": "https://chimple.cc/?activity_id=opu8pQSO9TTIpRMAwLgy",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1401.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/opu8pQSO9TTIpRMAwLgy.html",
+      "href": "https://chimple.cc/?activity_id=opu8pQSO9TTIpRMAwLgy",
       "title": "Addition"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths1401.png",
       "properties": {
         "width": 128,
         "height": 128

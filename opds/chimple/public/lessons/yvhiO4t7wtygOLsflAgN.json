@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Practice 4",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/yvhiO4t7wtygOLsflAgN",
+    "identifier": "https://chimple.cc/?activity_id=yvhiO4t7wtygOLsflAgN",
     "language": "en",
-    "modified": "2025-07-16T11:53:14.819089+00:00",
-    "published": "2025-07-16T11:53:14.819089+00:00",
+    "modified": "2025-07-17T05:45:16.281593+00:00",
+    "published": "2025-07-17T05:45:16.281593+00:00",
     "description": "Interactive learning lesson: Practice 4",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/yvhiO4t7wtygOLsflAgN.html",
+      "href": "https://chimple.cc/?activity_id=yvhiO4t7wtygOLsflAgN",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths2715.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/yvhiO4t7wtygOLsflAgN.html",
+      "href": "https://chimple.cc/?activity_id=yvhiO4t7wtygOLsflAgN",
       "title": "Practice 4"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/default.png",
+      "href": "https://chimple-respectify.web.app/images/icons/maths2715.png",
       "properties": {
         "width": 128,
         "height": 128
