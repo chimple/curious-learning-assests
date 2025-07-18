@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Long Vowels",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/1y2bV6MdsbTPIkERCd9f",
+    "identifier": "https://chimple.cc/?activity_id=1y2bV6MdsbTPIkERCd9f",
     "language": "en",
-    "modified": "2025-06-23T05:58:27.643332+00:00",
-    "published": "2025-06-23T05:58:27.643332+00:00",
+    "modified": "2025-07-17T05:45:15.638113+00:00",
+    "published": "2025-07-17T05:45:15.638113+00:00",
     "description": "Interactive learning lesson: Long Vowels",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/1y2bV6MdsbTPIkERCd9f.html",
+      "href": "https://chimple.cc/?activity_id=1y2bV6MdsbTPIkERCd9f",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/en0505.png",
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/1y2bV6MdsbTPIkERCd9f.html",
+      "href": "https://chimple.cc/?activity_id=1y2bV6MdsbTPIkERCd9f",
       "title": "Long Vowels"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/en0505.png",
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
       "properties": {
         "width": 128,
         "height": 128

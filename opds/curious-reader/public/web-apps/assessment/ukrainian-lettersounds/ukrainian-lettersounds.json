@@ -1,0 +1,139 @@
+{
+  "quizName": "Ukrainian letter sounds",
+  "appType": "assessment",
+  "assessmentType": "letter-sounds",
+  "feedbackText": "дивовижно!",
+  "contentVersion": "v0.2",
+  "buckets": [
+    {
+      "bucketID": 1,
+      "bucketName": "ukrainian-let-b1",
+      "usedItems": [],
+      "items": [
+        { "itemName": "A", "itemText": "A" },
+        { "itemName": "O", "itemText": "O" },
+        { "itemName": "Ь", "itemText": "Ь" },
+        { "itemName": "Ф", "itemText": "Ф" },
+        { "itemName": "Б", "itemText": "Б" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "У", "itemText": "У" },
+        { "itemName": "Я", "itemText": "Я" },
+        { "itemName": "С", "itemText": "С" }
+      ]
+    },
+    {
+      "bucketID": 2,
+      "bucketName": "ukrainian-let-b2",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Ф", "itemText": "Ф" },
+        { "itemName": "Б", "itemText": "Б" },
+        { "itemName": "M", "itemText": "M" },
+        { "itemName": "У", "itemText": "У" },
+        { "itemName": "Я", "itemText": "Я" },
+        { "itemName": "С", "itemText": "С" },
+        { "itemName": "Ц", "itemText": "Ц" },
+        { "itemName": "Ґ", "itemText": "Ґ" },
+        { "itemName": "X", "itemText": "X" }
+      ]
+    },
+
+    {
+      "bucketID": 3,
+      "bucketName": "ukrainian-let-b3",
+      "usedItems": [],
+      "items": [
+        { "itemName": "У", "itemText": "У" },
+        { "itemName": "Я", "itemText": "Я" },
+        { "itemName": "С", "itemText": "С" },
+        { "itemName": "Ц", "itemText": "Ц" },
+        { "itemName": "Ґ", "itemText": "Ґ" },
+        { "itemName": "X", "itemText": "X" },
+        { "itemName": "Ж", "itemText": "Ж" },
+        { "itemName": "І", "itemText": "І" },
+        { "itemName": "З", "itemText": "З" }
+      ]
+    },
+
+    {
+      "bucketID": 4,
+      "bucketName": "ukrainian-let-b4",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Ґ", "itemText": "Ґ" },
+        { "itemName": "X", "itemText": "X" },
+        { "itemName": "Ж", "itemText": "Ж" },
+        { "itemName": "І", "itemText": "І" },
+        { "itemName": "З", "itemText": "З" },
+        { "itemName": "Р", "itemText": "Р" },
+        { "itemName": "Ч", "itemText": "Ч" },
+        { "itemName": "Г", "itemText": "Г" },
+        { "itemName": "Ю", "itemText": "Ю" }
+      ]
+    },
+    {
+      "bucketID": 5,
+      "bucketName": "ukrainian-let-b5",
+      "usedItems": [],
+      "items": [
+        { "itemName": "І", "itemText": "І" },
+        { "itemName": "З", "itemText": "З" },
+        { "itemName": "Р", "itemText": "Р" },
+        { "itemName": "Ч", "itemText": "Ч" },
+        { "itemName": "Г", "itemText": "Г" },
+        { "itemName": "Ю", "itemText": "Ю" },
+        { "itemName": "K", "itemText": "K" },
+        { "itemName": "Ш", "itemText": "Ш" },
+        { "itemName": "E", "itemText": "E" }
+      ]
+    },
+    {
+      "bucketID": 6,
+      "bucketName": "ukrainian-let-b6",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Г", "itemText": "Г" },
+        { "itemName": "Ю", "itemText": "Ю" },
+        { "itemName": "K", "itemText": "K" },
+        { "itemName": "Ш", "itemText": "Ш" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "Д", "itemText": "Д" },
+        { "itemName": "Й", "itemText": "Й" },
+        { "itemName": "И", "itemText": "И" }
+      ]
+    },
+    {
+      "bucketID": 7,
+      "bucketName": "ukrainian-let-b7",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Ш", "itemText": "Ш" },
+        { "itemName": "E", "itemText": "E" },
+        { "itemName": "B", "itemText": "B" },
+        { "itemName": "Д", "itemText": "Д" },
+        { "itemName": "Й", "itemText": "Й" },
+        { "itemName": "И", "itemText": "И" },
+        { "itemName": "ї", "itemText": "ї" },
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "Л", "itemText": "Л" }
+      ]
+    },
+    {
+      "bucketID": 8,
+      "bucketName": "ukrainian-let-b8",
+      "usedItems": [],
+      "items": [
+        { "itemName": "Й", "itemText": "Й" },
+        { "itemName": "И", "itemText": "И" },
+        { "itemName": "ї", "itemText": "ї" },
+        { "itemName": "T", "itemText": "T" },
+        { "itemName": "Л", "itemText": "Л" },
+        { "itemName": "Н", "itemText": "Н" },
+        { "itemName": "Є", "itemText": "Є" },
+        { "itemName": "Щ", "itemText": "Щ" },
+        { "itemName": "П", "itemText": "П" }
+      ]
+    }
+  ]
+}

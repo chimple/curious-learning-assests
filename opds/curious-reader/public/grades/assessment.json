@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "title": "Assessment Ukrainian"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader.web.app/grades/data.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Assessment Ukrainian",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/ukrainian-lettersounds",
+        "language": "uk",
+        "modified": "2025-07-03T05:38:42.183203+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/ukrainian-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/ukrainian-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment West African English Letter Sounds",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/west-african-english-lettersounds",
+        "language": "en-ng",
+        "modified": "2025-07-03T05:38:42.183261+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/west-african-english-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/west-african-english-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Hausa",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/hausa-lettersounds",
+        "language": "ha",
+        "modified": "2025-07-03T05:38:42.183299+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/hausa-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/hausa-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Hausa Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/hausa-sightwords",
+        "language": "ha",
+        "modified": "2025-07-03T05:38:42.183352+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/hausa-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/hausa-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Bangla",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/bangla-lettersounds",
+        "language": "bn",
+        "modified": "2025-07-03T05:38:42.183393+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/bangla-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/bangla-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment Bangla Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/bangla-sightwords",
+        "language": "bn",
+        "modified": "2025-07-03T05:38:42.183428+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/bangla-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/bangla-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment West African English Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/west-african-sightwords",
+        "language": "en-ng",
+        "modified": "2025-07-03T05:38:42.183459+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/west-african-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/west-african-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment French",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/french-lettersounds",
+        "language": "fr",
+        "modified": "2025-07-03T05:38:42.183490+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/french-lettersounds.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/french-lettersounds.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Assessment French Sight Words",
+        "author": "Chimple",
+        "identifier": "https://curious-reader.web.app/id/data/french-sightwords",
+        "language": "fr",
+        "modified": "2025-07-03T05:38:42.183520+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/data/french-sightwords.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curious-reader.web.app/download/data/french-sightwords.html",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/assessment_icon_sight_word.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

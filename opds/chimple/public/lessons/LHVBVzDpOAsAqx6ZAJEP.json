@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "Blend 'ee' 1",
     "author": "Chimple",
-    "identifier": "https://chimple-respectify.web.app/id/LHVBVzDpOAsAqx6ZAJEP",
+    "identifier": "https://chimple.cc/?activity_id=LHVBVzDpOAsAqx6ZAJEP",
     "language": "en",
-    "modified": "2025-06-23T05:58:27.710589+00:00",
-    "published": "2025-06-23T05:58:27.710589+00:00",
+    "modified": "2025-07-17T05:45:15.767646+00:00",
+    "published": "2025-07-17T05:45:15.767646+00:00",
     "description": "Interactive learning lesson: Blend 'ee' 1",
     "subject": [
       "Education",
@@ -26,13 +26,13 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://chimple-respectify.web.app/download/LHVBVzDpOAsAqx6ZAJEP.html",
+      "href": "https://chimple.cc/?activity_id=LHVBVzDpOAsAqx6ZAJEP",
       "type": "text/html"
     }
   ],
   "images": [
     {
-      "href": "https://chimple-respectify.web.app/images/icons/en1809.png",
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -41,14 +41,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple-respectify.web.app/download/LHVBVzDpOAsAqx6ZAJEP.html",
+      "href": "https://chimple.cc/?activity_id=LHVBVzDpOAsAqx6ZAJEP",
       "title": "Blend 'ee' 1"
     }
   ],
   "resources": [
     {
       "type": "image/png",
-      "href": "https://chimple-respectify.web.app/images/icons/en1809.png",
+      "href": "https://chimple-respectify.web.app/images/icons/default.png",
       "properties": {
         "width": 128,
         "height": 128

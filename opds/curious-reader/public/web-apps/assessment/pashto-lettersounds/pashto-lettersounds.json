@@ -1,0 +1,181 @@
+{
+  "quizName": "pashto letter sounds",
+  "appType": "assessment",
+  "assessmentType": "letter-sounds",
+  "feedbackText": "په زړه پورې کار",
+  "contentVersion": "v0.1",
+  "buckets": [
+    {
+      "bucketID": 1,
+      "bucketName": "pashto-let-b1",
+      "usedItems": [],
+      "items": [
+        { "itemName": "و", "itemText": "و" },
+        { "itemName": "ا", "itemText": "ا" },
+        { "itemName": "ه", "itemText": "ه" },
+        { "itemName": "د", "itemText": "د" },
+        { "itemName": "ي", "itemText": "ي" },
+        { "itemName": "ر", "itemText": "ر" },
+        { "itemName": "ل", "itemText": "ل" },
+        { "itemName": "ن", "itemText": "ن" },
+        { "itemName": "ې", "itemText": "ې" },
+        { "itemName": "م", "itemText": "م" }
+      ]
+    },
+    {
+      "bucketID": 2,
+      "bucketName": "pashto-let-b2",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ژ", "itemText": "ژ" },
+        { "itemName": "ض", "itemText": "ض" },
+        { "itemName": "ڼ", "itemText": "ڼ" },
+        { "itemName": "ې", "itemText": "ې" },
+        { "itemName": "م", "itemText": "م" },
+        { "itemName": "ت", "itemText": "ت" },
+        { "itemName": "پ", "itemText": "پ" },
+        { "itemName": "ک", "itemText": "ک" },
+        { "itemName": "س", "itemText": "س" },
+        { "itemName": "ی", "itemText": "ی" }
+      ]
+    },
+
+    {
+      "bucketID": 3,
+      "bucketName": "pashto-let-b3",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ت", "itemText": "ت" },
+        { "itemName": "پ", "itemText": "پ" },
+        { "itemName": "ک", "itemText": "ک" },
+        { "itemName": "س", "itemText": "س" },
+        { "itemName": "ی", "itemText": "ی" },
+        { "itemName": "ب", "itemText": "ب" },
+        { "itemName": "خ", "itemText": "خ" },
+        { "itemName": "ش", "itemText": "ش" },
+        { "itemName": "ړ", "itemText": "ړ" },
+        { "itemName": "ك", "itemText": "ك" }
+      ]
+    },
+
+    {
+      "bucketID": 4,
+      "bucketName": "pashto-let-b4",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ن", "itemText": "ن" },
+        { "itemName": "ې", "itemText": "ې" },
+        { "itemName": "م", "itemText": "م" },
+        { "itemName": "ص", "itemText": "ص" },
+        { "itemName": "ط", "itemText": "ط" },
+        { "itemName": "ت", "itemText": "ت" },
+        { "itemName": "پ", "itemText": "پ" },
+        { "itemName": "ک", "itemText": "ک" },
+        { "itemName": "س", "itemText": "س" },
+        { "itemName": "ی", "itemText": "ی" }
+      ]
+    },
+    {
+      "bucketID": 5,
+      "bucketName": "pashto-let-b5",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ث", "itemText": "ث" },
+        { "itemName": "ډ", "itemText": "ډ" },
+        { "itemName": "م", "itemText": "م" },
+        { "itemName": "ږ", "itemText": "ږ" },
+        { "itemName": "س", "itemText": "س" },
+        { "itemName": "ت", "itemText": "ت" },
+        { "itemName": "ې", "itemText": "ې" },
+        { "itemName": "ک", "itemText": "ک" },
+        { "itemName": "ذ", "itemText": "ذ" },
+        { "itemName": "ظ", "itemText": "ظ" }
+      ]
+    },
+    {
+      "bucketID": 6,
+      "bucketName": "pashto-let-b6",
+      "usedItems": [],
+      "items": [
+        { "itemName": "چ", "itemText": "چ" },
+        { "itemName": "ك", "itemText": "ك" },
+        { "itemName": "س", "itemText": "س" },
+        { "itemName": "ش", "itemText": "ش" },
+        { "itemName": "ړ", "itemText": "ړ" },
+        { "itemName": "غ", "itemText": "غ" },
+        { "itemName": "ی", "itemText": "ی" },
+        { "itemName": "ز", "itemText": "ز" },
+        { "itemName": "خ", "itemText": "خ" },
+        { "itemName": "ب", "itemText": "ب" }
+      ]
+    },
+    {
+      "bucketID": 7,
+      "bucketName": "pashto-let-b7",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ړ", "itemText": "ړ" },
+        { "itemName": "ك", "itemText": "ك" },
+        { "itemName": "ز", "itemText": "ز" },
+        { "itemName": "غ", "itemText": "غ" },
+        { "itemName": "چ", "itemText": "چ" },
+        { "itemName": "و", "itemText": "و" },
+        { "itemName": "ګ", "itemText": "ګ" },
+        { "itemName": "ف", "itemText": "ف" },
+        { "itemName": "ع", "itemText": "ع" },
+        { "itemName": "ځ", "itemText": "ځ" }
+      ]
+    },
+    {
+      "bucketID": 8,
+      "bucketName": "pashto-let-b8",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ك", "itemText": "ك" },
+        { "itemName": "ز", "itemText": "ز" },
+        { "itemName": "غ", "itemText": "غ" },
+        { "itemName": "چ", "itemText": "چ" },
+        { "itemName": "و", "itemText": "و" },
+        { "itemName": "ړ", "itemText": "ړ" },
+        { "itemName": "ش", "itemText": "ش" },
+        { "itemName": "ټ", "itemText": "ټ" },
+        { "itemName": "ح", "itemText": "ح" },
+        { "itemName": "څ", "itemText": "څ" }
+      ]
+    },
+    {
+      "bucketID": 9,
+      "bucketName": "pashto-let-b9",
+      "usedItems": [],
+      "items": [
+        { "itemName": "ښ", "itemText": "ښ" },
+        { "itemName": "ټ", "itemText": "ټ" },
+        { "itemName": "ح", "itemText": "ح" },
+        { "itemName": "څ", "itemText": "څ" },
+        { "itemName": "و", "itemText": "و" },
+        { "itemName": "ګ", "itemText": "ګ" },
+        { "itemName": "ف", "itemText": "ف" },
+        { "itemName": "ع", "itemText": "ع" },
+        { "itemName": "ځ", "itemText": "ځ" },
+        { "itemName": "ج", "itemText": "ج" }
+      ]
+    },
+    {
+      "bucketID": 10,
+      "bucketName": "pashto-let-b10",
+      "usedItems": [],
+      "items": [
+        { "itemName": "و", "itemText": "و" },
+        { "itemName": "ګ", "itemText": "ګ" },
+        { "itemName": "ف", "itemText": "ف" },
+        { "itemName": "ع", "itemText": "ع" },
+        { "itemName": "ځ", "itemText": "ځ" },
+        { "itemName": "ج", "itemText": "ج" },
+        { "itemName": "ښ", "itemText": "ښ" },
+        { "itemName": "ټ", "itemText": "ټ" },
+        { "itemName": "ح", "itemText": "ح" },
+        { "itemName": "څ", "itemText": "څ" }
+      ]
+    }
+  ]
+}
