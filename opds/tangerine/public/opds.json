@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "title": "Tangerine Surveys"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://<your-domain>/opds.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://<your-domain>/groups/group-5407c08a-057e-44b0-b56c-132424e48f4e.json",
+      "title": "Survey Group 5407c08a",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://<your-domain>/icon.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Tangerine"
+        }
+      ]
+    },
+    {
+      "href": "https://<your-domain>/groups/group-e4784a78-2677-494b-9fe8-9004a1907c30.json",
+      "title": "Survey Group e4784a78",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://<your-domain>/icon.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Tangerine"
+        }
+      ]
+    }
+  ]
+}

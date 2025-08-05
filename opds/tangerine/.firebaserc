@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ibiza-stage"
+  },
+  "targets": {
+    "ibiza-stage": {
+      "hosting": {
+        "tangerine": [
+          "ibiza-stage-tangerine-dev"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
