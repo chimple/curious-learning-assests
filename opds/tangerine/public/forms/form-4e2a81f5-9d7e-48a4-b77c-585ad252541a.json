@@ -1,0 +1,58 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Form 4e2a81f5-9d7e-48a4-b77c-585ad252541a",
+    "author": "Tangerine",
+    "identifier": "https://ibiza-stage-tangerine-dev.web.app/forms/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a",
+    "language": "en",
+    "modified": "2025-08-06T08:01:02.557244+00:00",
+    "published": "2025-08-06T08:01:02.557244+00:00",
+    "description": "Tangerine survey form",
+    "subject": [
+      "Survey",
+      "Data Collection"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "http://localhost/releases/prod/online-survey-apps/group-e4784a78-2677-494b-9fe8-9004a1907c30/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a/#/form/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "http://localhost/releases/prod/online-survey-apps/group-e4784a78-2677-494b-9fe8-9004a1907c30/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a/#/form/form-4e2a81f5-9d7e-48a4-b77c-585ad252541a",
+      "title": "Form 4e2a81f5-9d7e-48a4-b77c-585ad252541a"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    }
+  ]
+}
