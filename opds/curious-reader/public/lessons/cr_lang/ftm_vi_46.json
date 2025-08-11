@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Vietnamese",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_vi_46",
+    "title": "46",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=vietnamese&lesson_id=46",
     "language": "vi",
-    "modified": "2025-07-03T05:38:32.140952+00:00",
-    "published": "2025-07-03T05:38:32.140952+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Vietnamese",
+    "modified": "2025-08-11T07:48:50.031053+00:00",
+    "published": "2025-08-11T07:48:50.031053+00:00",
+    "description": "Interactive learning lesson: 46",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_vi_46.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=vietnamese&lesson_id=46",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_vi_46.html",
-      "title": "Feed The Monster Vietnamese"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=vi&lesson_id=46",
+      "title": "46"
     }
   ],
   "resources": [
@@ -55,15 +55,404 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/vi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/amazing.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/bành.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ch.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/chíp.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/cún.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/danh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/fantastic.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/g.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/gh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/gi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/gióng.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/great.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/gục.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/h.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/hoa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/i.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/kh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/khúc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/kích.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/kịch.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/kịp.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/l.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/loa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/loạn.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/lâm.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/mép.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/mẹt.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/n.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ng.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ngh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/nghịch.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ngon.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ngóng.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/nh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/nhanh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/như.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/nút.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/năm.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/nục.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/p.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ph.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/phanh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/pích.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/qu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/quả.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/r.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ru.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/run.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/rùa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/rúc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/rút.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ră.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/s.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/sâu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/sém.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/sét.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/săn.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/t.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/th.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thun.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thúc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thư.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thưa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/thụt.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/tr.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/tre.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/trét.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/tây.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/u.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/v.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/vân.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/vé.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/vét.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/vẹt.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/x.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/xanh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/xăng.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/xưa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/y.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/â.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ê.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ô.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ă.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/đ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/đo.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/đoạt.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/đâu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/đóng.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/được.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ơ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/vietnamese/audios/ư.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

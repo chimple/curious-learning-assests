@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Kirundi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_rn_39",
+    "title": "39",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=kirundi&lesson_id=39",
     "language": "rn",
-    "modified": "2025-07-03T05:38:32.141553+00:00",
-    "published": "2025-07-03T05:38:32.141553+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Kirundi",
+    "modified": "2025-08-11T07:48:50.078261+00:00",
+    "published": "2025-08-11T07:48:50.078261+00:00",
+    "description": "Interactive learning lesson: 39",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_rn_39.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=kirundi&lesson_id=39",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_rn_39.html",
-      "title": "Feed The Monster Kirundi"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=rn&lesson_id=39",
+      "title": "39"
     }
   ],
   "resources": [
@@ -55,15 +55,220 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/rn.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/amahwa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/amata.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/amazing.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/buntu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/dawe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/epfo.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/evyiri.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/fantastic.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/g.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/great.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/guca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/h.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/hasi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/i.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/ifi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/igiti.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/inzoka.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/inzu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/ipera.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/j.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/jého.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/kuduga.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/kugwa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/kwoga.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/kōtsa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/mama.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/n.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/namba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/p.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/pome.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/r.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/s.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/sawa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/t.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/tagisi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/u.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/umubu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/umuco.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/unubu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/v.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/vuba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/w.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/y.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/yambi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/kirundi/audios/z.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

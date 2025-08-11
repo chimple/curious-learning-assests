@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Ukrainian",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_uk_10",
+    "title": "10",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=ukrainian&lesson_id=10",
     "language": "uk",
-    "modified": "2025-07-03T05:38:32.121311+00:00",
-    "published": "2025-07-03T05:38:32.121311+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Ukrainian",
+    "modified": "2025-08-11T07:48:47.653624+00:00",
+    "published": "2025-08-11T07:48:47.653624+00:00",
+    "description": "Interactive learning lesson: 10",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_uk_10.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=ukrainian&lesson_id=10",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_uk_10.html",
-      "title": "Feed The Monster Ukrainian"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=uk&lesson_id=10",
+      "title": "10"
     }
   ],
   "resources": [
@@ -55,15 +55,364 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/uk.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/amazing.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/fantastic.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/great.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/а.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/аж.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/б.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/баба.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/батат.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/будь.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/в.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/весь.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/г.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/гол.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/гул.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/д.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/дає.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/двоє.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/до.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/дог.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/дії.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/е.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ж.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/жаба.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/жук.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/з.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/зими.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/и.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/й.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/йог.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/йод.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/к.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/л.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/луг.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/м.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/має.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ми.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/моє.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/мої.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/н.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/не.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/нерв.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/нюх.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/о.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ого.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/одяг.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ой.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/п.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/під.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/пік.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/піп.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/р.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/рве.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/рев.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/рот.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ряд.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/с.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/синє.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/сік.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/т.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/та.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/у.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/улус.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ус.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ф.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/феї.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/х.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/хмиз.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ц.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ці.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ціп.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ч.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/чую.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ш.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/шафи.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/шеф.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/шию.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/щ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/що.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ь.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ю.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/я.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/язик.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/якір.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/є.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/і.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ї.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/їжа.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/їжак.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/її.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/ukrainian/audios/ґ.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

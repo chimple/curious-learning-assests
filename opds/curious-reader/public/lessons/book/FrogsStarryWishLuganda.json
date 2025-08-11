@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Frog's Starry Wish Lugandan",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishLuganda",
+    "title": "Frog's Starry Wish Lugandan",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishLuganda",
     "language": "lg",
-    "modified": "2025-06-25T10:36:00.060753+00:00",
-    "published": "2025-06-25T10:36:00.060753+00:00",
-    "description": "Interactive learning lesson: Curious Reader Frog's Starry Wish Lugandan",
+    "modified": "2025-08-11T07:48:51.138549+00:00",
+    "published": "2025-08-11T07:48:51.138549+00:00",
+    "description": "Interactive learning lesson: Frog's Starry Wish Lugandan",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishLuganda.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishLuganda",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishLuganda.html",
-      "title": "Curious Reader Frog's Starry Wish Lugandan"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishLuganda",
+      "title": "Frog's Starry Wish Lugandan"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/FrogsStarryWishLuganda.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

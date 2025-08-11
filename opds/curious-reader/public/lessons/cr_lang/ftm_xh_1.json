@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Isixhosa",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_xh_1",
+    "title": "1",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=isixhosa&lesson_id=1",
     "language": "xh",
-    "modified": "2025-07-03T05:38:32.112771+00:00",
-    "published": "2025-07-03T05:38:32.112771+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Isixhosa",
+    "modified": "2025-08-11T07:48:47.118020+00:00",
+    "published": "2025-08-11T07:48:47.118020+00:00",
+    "description": "Interactive learning lesson: 1",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_xh_1.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=isixhosa&lesson_id=1",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_xh_1.html",
-      "title": "Feed The Monster Isixhosa"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=xh&lesson_id=1",
+      "title": "1"
     }
   ],
   "resources": [
@@ -55,15 +55,284 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/xh.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/al.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/amazing.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/av.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/az.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/bala.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/bele.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/bobu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/caca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/cala.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/fantastic.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/great.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/h.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/i.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/il.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/in.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ip.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/is.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/l.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/lala.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/leli.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/lolu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/lula.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/luleka.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/n.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ob.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/of.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ok.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/om.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/p.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/pesi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/q.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/qiqa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/s.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/sa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/se.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/sila.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/sisi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/so.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/u.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/uh.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/uk.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ul.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/um.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ux.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/v.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/va.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/vala.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/ve.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/vi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/vo.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/vu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/w.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/wela.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/x.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/xukuxa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/xula.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/y.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/yena.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/isixhosa/audios/z.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

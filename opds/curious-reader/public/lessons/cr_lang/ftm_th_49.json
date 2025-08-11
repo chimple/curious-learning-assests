@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Thai",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_th_49",
+    "title": "49",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=thai&lesson_id=49",
     "language": "th",
-    "modified": "2025-07-03T05:38:32.137673+00:00",
-    "published": "2025-07-03T05:38:32.137673+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Thai",
+    "modified": "2025-08-11T07:48:49.545857+00:00",
+    "published": "2025-08-11T07:48:49.545857+00:00",
+    "description": "Interactive learning lesson: 49",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_th_49.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=thai&lesson_id=49",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_th_49.html",
-      "title": "Feed The Monster Thai"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=th&lesson_id=49",
+      "title": "49"
     }
   ],
   "resources": [
@@ -55,15 +55,160 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/th.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/amazing.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/fantastic.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/great.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ค.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/คีบ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/คีม.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/งาน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/งีบ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ช.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ชุน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ชุบ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ช้าง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ด.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ดุม.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ด้าม.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/น.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/นาง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/บ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/บีบ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/บ้าน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/ม.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/มีด.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/มุง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/มุด.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/อ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/อา.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เชน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เดน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เบง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เบน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/เมง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โคง.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โชน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โดน.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โดม.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/cr_lang/thai/audios/โมด.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

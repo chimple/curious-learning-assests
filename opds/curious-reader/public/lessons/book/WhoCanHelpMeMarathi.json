@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Who Can Help Me Marathi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeMarathi",
+    "title": "Who Can Help Me Marathi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeMarathi",
     "language": "mr",
-    "modified": "2025-06-25T10:36:00.120634+00:00",
-    "published": "2025-06-25T10:36:00.120634+00:00",
-    "description": "Interactive learning lesson: Curious Reader Who Can Help Me Marathi",
+    "modified": "2025-08-11T07:48:51.141470+00:00",
+    "published": "2025-08-11T07:48:51.141470+00:00",
+    "description": "Interactive learning lesson: Who Can Help Me Marathi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeMarathi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeMarathi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeMarathi.html",
-      "title": "Curious Reader Who Can Help Me Marathi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeMarathi",
+      "title": "Who Can Help Me Marathi"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhoCanHelpMeMarathi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

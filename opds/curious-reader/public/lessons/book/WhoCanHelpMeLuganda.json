@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Who Can Help Me Lugandan",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeLuganda",
+    "title": "Who Can Help Me Lugandan",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeLuganda",
     "language": "lg",
-    "modified": "2025-06-25T10:36:00.060138+00:00",
-    "published": "2025-06-25T10:36:00.060138+00:00",
-    "description": "Interactive learning lesson: Curious Reader Who Can Help Me Lugandan",
+    "modified": "2025-08-11T07:48:51.137126+00:00",
+    "published": "2025-08-11T07:48:51.137126+00:00",
+    "description": "Interactive learning lesson: Who Can Help Me Lugandan",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeLuganda.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeLuganda",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeLuganda.html",
-      "title": "Curious Reader Who Can Help Me Lugandan"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeLuganda",
+      "title": "Who Can Help Me Lugandan"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhoCanHelpMeLuganda.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

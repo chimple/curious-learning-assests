@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Come Come Amharic",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ComeComeAmharic",
+    "title": "Come Come Amharic",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
     "language": "am",
-    "modified": "2025-06-25T10:36:00.142423+00:00",
-    "published": "2025-06-25T10:36:00.142423+00:00",
-    "description": "Interactive learning lesson: Curious Reader Come Come Amharic",
+    "modified": "2025-08-11T07:48:51.122962+00:00",
+    "published": "2025-08-11T07:48:51.122962+00:00",
+    "description": "Interactive learning lesson: Come Come Amharic",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ComeComeAmharic.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ComeComeAmharic.html",
-      "title": "Curious Reader Come Come Amharic"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
+      "title": "Come Come Amharic"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ComeComeAmharic.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

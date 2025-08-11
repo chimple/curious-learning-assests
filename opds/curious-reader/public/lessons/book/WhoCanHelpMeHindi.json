@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Who Can Help Me Hindi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeHindi",
+    "title": "Who Can Help Me Hindi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHindi",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.886468+00:00",
-    "published": "2025-06-25T10:35:59.886468+00:00",
-    "description": "Interactive learning lesson: Curious Reader Who Can Help Me Hindi",
+    "modified": "2025-08-11T07:48:51.131548+00:00",
+    "published": "2025-08-11T07:48:51.131548+00:00",
+    "description": "Interactive learning lesson: Who Can Help Me Hindi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeHindi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHindi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeHindi.html",
-      "title": "Curious Reader Who Can Help Me Hindi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHindi",
+      "title": "Who Can Help Me Hindi"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhoCanHelpMeHindi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

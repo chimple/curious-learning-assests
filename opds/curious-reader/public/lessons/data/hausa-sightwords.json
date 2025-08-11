@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment Hausa Sight Words",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/hausa-sightwords",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=hausa-sightwords",
     "language": "ha",
-    "modified": "2025-06-25T10:36:00.008937+00:00",
-    "published": "2025-06-25T10:36:00.008937+00:00",
+    "modified": "2025-08-11T07:48:51.103637+00:00",
+    "published": "2025-08-11T07:48:51.103637+00:00",
     "description": "Interactive learning lesson: Assessment Hausa Sight Words",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/hausa-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=hausa-sightwords",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/hausa-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=hausa-sightwords",
       "title": "Assessment Hausa Sight Words"
     }
   ],
@@ -55,15 +55,212 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/hausa-sightwords.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/aiki.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/aikin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ajiye.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/alaƙanta.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/amfani.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/answer_feedback.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/cikin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/da.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/dole.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/don.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/fara.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/gane.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/harkar.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/haruffan.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/haƙƙin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/iya.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/iyaye.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/kafin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/kalmomin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/kana.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/karatu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/kasuwanci.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ke.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ko.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/koyon.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/kuma.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/malamai.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/mallaka.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/marubuta.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/mataki.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/sai.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/sauran.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/sauti.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/sautukan.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/sauƙaƙe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/shi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/son.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/su.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/suna.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/tana.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/tsarin.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/wajen.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/wannan.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ya.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/yadda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/yana.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/yarda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/yi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/zayyana.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/zuwa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ɗalibi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/hausa-sightwords/ɗaukar.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

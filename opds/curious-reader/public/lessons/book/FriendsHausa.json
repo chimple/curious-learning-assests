@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Friends Hausa",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/FriendsHausa",
+    "title": "Friends Hausa",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsHausa",
     "language": "ha",
-    "modified": "2025-06-25T10:36:00.009527+00:00",
-    "published": "2025-06-25T10:36:00.009527+00:00",
-    "description": "Interactive learning lesson: Curious Reader Friends Hausa",
+    "modified": "2025-08-11T07:48:51.127394+00:00",
+    "published": "2025-08-11T07:48:51.127394+00:00",
+    "description": "Interactive learning lesson: Friends Hausa",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/FriendsHausa.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsHausa",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/FriendsHausa.html",
-      "title": "Curious Reader Friends Hausa"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsHausa",
+      "title": "Friends Hausa"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/FriendsHausa.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

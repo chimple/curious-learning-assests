@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Umbrellas Tigragna",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheUmbrellasTigirigna",
+    "title": "The Umbrellas Tigragna",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheUmbrellasTigirigna",
     "language": "ti",
-    "modified": "2025-06-25T10:36:00.147764+00:00",
-    "published": "2025-06-25T10:36:00.147764+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Umbrellas Tigragna",
+    "modified": "2025-08-11T07:48:51.123806+00:00",
+    "published": "2025-08-11T07:48:51.123806+00:00",
+    "description": "Interactive learning lesson: The Umbrellas Tigragna",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheUmbrellasTigirigna.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheUmbrellasTigirigna",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheUmbrellasTigirigna.html",
-      "title": "Curious Reader The Umbrellas Tigragna"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheUmbrellasTigirigna",
+      "title": "The Umbrellas Tigragna"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheUmbrellasTigirigna.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

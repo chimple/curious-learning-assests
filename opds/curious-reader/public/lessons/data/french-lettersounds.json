@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment French",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/french-lettersounds",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-lettersounds",
     "language": "fr",
-    "modified": "2025-06-25T10:36:00.048485+00:00",
-    "published": "2025-06-25T10:36:00.048485+00:00",
+    "modified": "2025-08-11T07:48:51.109529+00:00",
+    "published": "2025-08-11T07:48:51.109529+00:00",
     "description": "Interactive learning lesson: Assessment French",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/french-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-lettersounds",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/french-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-lettersounds",
       "title": "Assessment French"
     }
   ],
@@ -55,15 +55,148 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/french-lettersounds.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/an.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/answer_feedback.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/ch.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/g.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/gn.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/i.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/in.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/j.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/l.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/n.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/oi.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/on.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/ou.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/p.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/qu.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/r.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/s.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/t.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/u.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/un.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/v.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/w.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/x.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/y.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/z.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/ç.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/french-lettersounds/é.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

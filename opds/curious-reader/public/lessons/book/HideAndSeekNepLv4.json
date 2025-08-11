@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader HideAndSeekNepLv4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/HideAndSeekNepLv4",
+    "title": "HideAndSeekNepLv4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekNepLv4",
     "language": "ne",
-    "modified": "2025-06-25T10:35:59.973929+00:00",
-    "published": "2025-06-25T10:35:59.973929+00:00",
-    "description": "Interactive learning lesson: Curious Reader HideAndSeekNepLv4",
+    "modified": "2025-08-11T07:48:51.114209+00:00",
+    "published": "2025-08-11T07:48:51.114209+00:00",
+    "description": "Interactive learning lesson: HideAndSeekNepLv4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/HideAndSeekNepLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekNepLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/HideAndSeekNepLv4.html",
-      "title": "Curious Reader HideAndSeekNepLv4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekNepLv4",
+      "title": "HideAndSeekNepLv4"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/HideAndSeekNepLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

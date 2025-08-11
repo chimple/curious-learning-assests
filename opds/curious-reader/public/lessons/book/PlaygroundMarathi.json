@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Playground Marathi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/PlaygroundMarathi",
+    "title": "Playground Marathi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundMarathi",
     "language": "mr",
-    "modified": "2025-06-25T10:36:00.120918+00:00",
-    "published": "2025-06-25T10:36:00.120918+00:00",
-    "description": "Interactive learning lesson: Curious Reader Playground Marathi",
+    "modified": "2025-08-11T07:48:51.142147+00:00",
+    "published": "2025-08-11T07:48:51.142147+00:00",
+    "description": "Interactive learning lesson: Playground Marathi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/PlaygroundMarathi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundMarathi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/PlaygroundMarathi.html",
-      "title": "Curious Reader Playground Marathi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundMarathi",
+      "title": "Playground Marathi"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/PlaygroundMarathi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

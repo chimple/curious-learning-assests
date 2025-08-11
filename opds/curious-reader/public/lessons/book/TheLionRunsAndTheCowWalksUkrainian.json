@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksUkrainian",
+    "title": "The Lion Runs And The Cow Walks Ukrainian",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
     "language": "uk",
-    "modified": "2025-06-25T10:35:59.953397+00:00",
-    "published": "2025-06-25T10:35:59.953397+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Ukrainian",
+    "modified": "2025-08-11T07:48:51.120641+00:00",
+    "published": "2025-08-11T07:48:51.120641+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Ukrainian",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksUkrainian.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksUkrainian.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
+      "title": "The Lion Runs And The Cow Walks Ukrainian"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksUkrainian.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

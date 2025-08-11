@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese ",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksCVPortuguese",
+    "title": "The Lion Runs And The Cow Walks Cape Verde Portuguese",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
     "language": "pt",
-    "modified": "2025-06-25T10:36:00.153221+00:00",
-    "published": "2025-06-25T10:36:00.153221+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese ",
+    "modified": "2025-08-11T07:48:51.130608+00:00",
+    "published": "2025-08-11T07:48:51.130608+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Cape Verde Portuguese",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksCVPortuguese.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksCVPortuguese.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese "
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
+      "title": "The Lion Runs And The Cow Walks Cape Verde Portuguese"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksCVPortuguese.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

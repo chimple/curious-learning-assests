@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader LetsFlyHindiLv4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/LetsFlyHindiLv4",
+    "title": "LetsFlyHindiLv4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyHindiLv4",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.885819+00:00",
-    "published": "2025-06-25T10:35:59.885819+00:00",
-    "description": "Interactive learning lesson: Curious Reader LetsFlyHindiLv4",
+    "modified": "2025-08-11T07:48:51.112489+00:00",
+    "published": "2025-08-11T07:48:51.112489+00:00",
+    "description": "Interactive learning lesson: LetsFlyHindiLv4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/LetsFlyHindiLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyHindiLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/LetsFlyHindiLv4.html",
-      "title": "Curious Reader LetsFlyHindiLv4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyHindiLv4",
+      "title": "LetsFlyHindiLv4"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/LetsFlyHindiLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

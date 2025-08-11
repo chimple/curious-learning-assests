@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment Bangla Sight Words",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/bangla-sightwords",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=bangla-sightwords",
     "language": "bn",
-    "modified": "2025-06-25T10:36:00.108119+00:00",
-    "published": "2025-06-25T10:36:00.108119+00:00",
+    "modified": "2025-08-11T07:48:51.106140+00:00",
+    "published": "2025-08-11T07:48:51.106140+00:00",
     "description": "Interactive learning lesson: Assessment Bangla Sight Words",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/bangla-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=bangla-sightwords",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/bangla-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=bangla-sightwords",
       "title": "Assessment Bangla Sight Words"
     }
   ],
@@ -55,15 +55,232 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/bangla-sightwords.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/answer_feedback.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আঁকে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আকে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আছে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আজ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আবার.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/আরও.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/এসে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/ওপর.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কথা.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/করতে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কাঞ্চা.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কারণ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কি.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কিছু.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কী.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/কোনো.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/খুশি.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/গল্প.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/গেছে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/গেল.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/গেলো.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/চিতকার.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/চিৎকার.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/ছোট.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/তখন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/তাকায়.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/থেকে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/দিন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/দেখলাম.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/দেয়.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/দ্রুত.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/নতুন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/পড়ে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/পারি.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/ফিরে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/বড়.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/বলে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/বলেন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/বাতাস.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/বিশাল.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/ভয়.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/মত.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/মতো.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/মধ্যে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/যখন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/রঙ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/রঙিন.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/শব্দ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/শিক্ষক.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/সবাই.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/সময়.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/সাহায্য.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/সুন্দর.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/স্কুল.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/স্কুলে.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/bangla-sightwords/হঠাৎ.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

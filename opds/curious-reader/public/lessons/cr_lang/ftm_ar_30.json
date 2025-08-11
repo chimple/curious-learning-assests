@@ -5,18 +5,18 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Feed The Monster Arabic",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/cr_lang/ftm_ar_30",
+    "title": "30",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-ftm.web.app/?lang=arabictest&lesson_id=30",
     "language": "ar",
-    "modified": "2025-07-03T05:38:32.148622+00:00",
-    "published": "2025-07-03T05:38:32.148622+00:00",
-    "description": "Interactive learning lesson: Feed The Monster Arabic",
+    "modified": "2025-08-11T07:48:51.089495+00:00",
+    "published": "2025-08-11T07:48:51.089495+00:00",
+    "description": "Interactive learning lesson: 30",
     "subject": [
       "Education",
       "Learning"
     ],
-    "readingProgression": "ltr"
+    "readingProgression": "rtl"
   },
   "links": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_ar_30.html",
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=arabictest&lesson_id=30",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/cr_lang/ftm_ar_30.html",
-      "title": "Feed The Monster Arabic"
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=ar&lesson_id=30",
+      "title": "30"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/ftm/ar.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

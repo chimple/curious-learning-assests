@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment Ukrainian",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/ukrainian-lettersounds",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=ukrainian-lettersounds",
     "language": "uk",
-    "modified": "2025-06-25T10:35:59.953310+00:00",
-    "published": "2025-06-25T10:35:59.953310+00:00",
+    "modified": "2025-08-11T07:48:51.100891+00:00",
+    "published": "2025-08-11T07:48:51.100891+00:00",
     "description": "Interactive learning lesson: Assessment Ukrainian",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/ukrainian-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=ukrainian-lettersounds",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/ukrainian-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=ukrainian-lettersounds",
       "title": "Assessment Ukrainian"
     }
   ],
@@ -55,15 +55,140 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/ukrainian-lettersounds.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/answer_feedback.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/t.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/x.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/б.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/г.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/д.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ж.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/з.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/и.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/й.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/л.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/н.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/п.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/р.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/с.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/у.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ф.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ц.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ч.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ш.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/щ.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ь.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ю.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/я.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/є.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/і.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ї.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/ukrainian-lettersounds/ґ.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

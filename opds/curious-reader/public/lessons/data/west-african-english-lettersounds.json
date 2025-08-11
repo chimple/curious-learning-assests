@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment West African English Letter Sounds",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/west-african-english-lettersounds",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=west-african-english-lettersounds",
     "language": "en-ng",
-    "modified": "2025-06-25T10:35:59.994995+00:00",
-    "published": "2025-06-25T10:35:59.994995+00:00",
+    "modified": "2025-08-11T07:48:51.101698+00:00",
+    "published": "2025-08-11T07:48:51.101698+00:00",
     "description": "Interactive learning lesson: Assessment West African English Letter Sounds",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/west-african-english-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=west-african-english-lettersounds",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/west-african-english-lettersounds.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=west-african-english-lettersounds",
       "title": "Assessment West African English Letter Sounds"
     }
   ],
@@ -55,15 +55,112 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/west-african-english-lettersounds.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/answer_feedback.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/g.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/h.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/i.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/j.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/k.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/l.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/m.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/n.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/o.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/p.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/q.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/r.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/s.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/t.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/u.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/v.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/w.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/x.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/y.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/assets/data/audio/west-african-english-lettersounds/z.mp3",
+      "type": "audio/mpeg"
     }
   ]
 }

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Colours Level 4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ColoursEnLv4",
+    "title": "Colours Level 4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursEnLv4",
     "language": "en",
-    "modified": "2025-06-25T10:35:59.872063+00:00",
-    "published": "2025-06-25T10:35:59.872063+00:00",
-    "description": "Interactive learning lesson: Curious Reader Colours Level 4",
+    "modified": "2025-08-11T07:48:51.147372+00:00",
+    "published": "2025-08-11T07:48:51.147372+00:00",
+    "description": "Interactive learning lesson: Colours Level 4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ColoursEnLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursEnLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ColoursEnLv4.html",
-      "title": "Curious Reader Colours Level 4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursEnLv4",
+      "title": "Colours Level 4"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ColoursEnLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

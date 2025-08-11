@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Chakus Cycle Isizulu",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ChakusCycleIsiZulu",
+    "title": "Chakus Cycle Isizulu",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleIsiZulu",
     "language": "zu",
-    "modified": "2025-06-25T10:36:00.028618+00:00",
-    "published": "2025-06-25T10:36:00.028618+00:00",
-    "description": "Interactive learning lesson: Curious Reader Chakus Cycle Isizulu",
+    "modified": "2025-08-11T07:48:51.143996+00:00",
+    "published": "2025-08-11T07:48:51.143996+00:00",
+    "description": "Interactive learning lesson: Chakus Cycle Isizulu",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleIsiZulu.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleIsiZulu",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleIsiZulu.html",
-      "title": "Curious Reader Chakus Cycle Isizulu"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleIsiZulu",
+      "title": "Chakus Cycle Isizulu"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ChakusCycleIsiZulu.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

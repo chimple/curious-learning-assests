@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader I am Flying Amharic",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/IAmFlyingAmharic",
+    "title": "I am Flying Amharic",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=IAmFlyingAmharic",
     "language": "am",
-    "modified": "2025-06-25T10:36:00.142180+00:00",
-    "published": "2025-06-25T10:36:00.142180+00:00",
-    "description": "Interactive learning lesson: Curious Reader I am Flying Amharic",
+    "modified": "2025-08-11T07:48:51.121962+00:00",
+    "published": "2025-08-11T07:48:51.121962+00:00",
+    "description": "Interactive learning lesson: I am Flying Amharic",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/IAmFlyingAmharic.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=IAmFlyingAmharic",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/IAmFlyingAmharic.html",
-      "title": "Curious Reader I am Flying Amharic"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=IAmFlyingAmharic",
+      "title": "I am Flying Amharic"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/IAmFlyingAmharic.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

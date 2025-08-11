@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Tall And Short Swahili",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TallAndShortSwahiliLv4",
+    "title": "Tall And Short Swahili",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortSwahiliLv4",
     "language": "sw",
-    "modified": "2025-06-25T10:35:59.940342+00:00",
-    "published": "2025-06-25T10:35:59.940342+00:00",
-    "description": "Interactive learning lesson: Curious Reader Tall And Short Swahili",
+    "modified": "2025-08-11T07:48:51.135470+00:00",
+    "published": "2025-08-11T07:48:51.135470+00:00",
+    "description": "Interactive learning lesson: Tall And Short Swahili",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TallAndShortSwahiliLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortSwahiliLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TallAndShortSwahiliLv4.html",
-      "title": "Curious Reader Tall And Short Swahili"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortSwahiliLv4",
+      "title": "Tall And Short Swahili"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TallAndShortSwahiliLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

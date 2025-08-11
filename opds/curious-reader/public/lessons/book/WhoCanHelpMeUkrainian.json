@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Who Can Help Me Ukrainian",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeUkrainian",
+    "title": "Who Can Help Me Ukrainian",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeUkrainian",
     "language": "uk",
-    "modified": "2025-06-25T10:35:59.953567+00:00",
-    "published": "2025-06-25T10:35:59.953567+00:00",
-    "description": "Interactive learning lesson: Curious Reader Who Can Help Me Ukrainian",
+    "modified": "2025-08-11T07:48:51.133248+00:00",
+    "published": "2025-08-11T07:48:51.133248+00:00",
+    "description": "Interactive learning lesson: Who Can Help Me Ukrainian",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeUkrainian.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeUkrainian",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeUkrainian.html",
-      "title": "Curious Reader Who Can Help Me Ukrainian"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeUkrainian",
+      "title": "Who Can Help Me Ukrainian"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhoCanHelpMeUkrainian.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]

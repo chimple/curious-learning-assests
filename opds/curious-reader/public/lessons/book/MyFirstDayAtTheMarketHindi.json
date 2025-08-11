@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader My First Day At The Market Hindi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketHindi",
+    "title": "My First Day At The Market Hindi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketHindi",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.886730+00:00",
-    "published": "2025-06-25T10:35:59.886730+00:00",
-    "description": "Interactive learning lesson: Curious Reader My First Day At The Market Hindi",
+    "modified": "2025-08-11T07:48:51.132284+00:00",
+    "published": "2025-08-11T07:48:51.132284+00:00",
+    "description": "Interactive learning lesson: My First Day At The Market Hindi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketHindi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketHindi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketHindi.html",
-      "title": "Curious Reader My First Day At The Market Hindi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketHindi",
+      "title": "My First Day At The Market Hindi"
     }
   ],
   "resources": [
@@ -52,17 +52,6 @@
       "properties": {
         "width": 128,
         "height": 128
-      }
-    },
-    {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/MyFirstDayAtTheMarketHindi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
       }
     }
   ]
