@@ -130,29 +130,45 @@ def _static_discover_from_html(page_url: str, timeout_ms: int, verbose: bool) ->
     return deduped[:500]
 
 
-def crawl_resources_for_url(open_access_url: str, timeout_ms: int = 15000, max_items: int = 1000, verbose: bool = False) -> List[str]:
+def crawl_resources_for_url(
+    open_access_url: str,
+    base_out_url: str,
+    save_path: Optional[Path] = None,
+    timeout_ms: int = 15000,
+    max_items: int = 1000,
+    verbose: bool = False,
+) -> Tuple[List[str], List[str]]:
     """Best-effort dynamic discovery of network resources used by a web app.
 
     Uses Playwright (if available) to load the page and record network responses.
-    Returns a list of absolute URLs. If Playwright is not installed, returns [].
+    If `save_path` is provided, attempts to save response bodies to disk.
+
+    Returns a tuple:
+    - A list of all discovered absolute resource URLs.
+    - A list of absolute URLs for resources that were successfully saved locally
+      (prefixed with `base_out_url`).
+
+    If Playwright is not installed, falls back to static discovery and returns (urls, []).
     """
     try:
         from playwright.sync_api import sync_playwright
     except Exception:
         if verbose:
             print(f"[crawl] Playwright not available; using static discovery for {open_access_url}")
-        return _static_discover_from_html(open_access_url, timeout_ms, verbose)
+        static_urls = _static_discover_from_html(open_access_url, timeout_ms, verbose)
+        return (static_urls, [])
 
-    collected: List[str] = []
-    seen: set[str] = set()
+    collected_urls: List[str] = []
+    saved_local_urls: List[str] = []
+    seen_urls: set[str] = set()
 
     def add_url(u: str) -> None:
         if not is_http_url(u):
             return
-        if u in seen:
+        if u in seen_urls:
             return
-        seen.add(u)
-        collected.append(u)
+        seen_urls.add(u)
+        collected_urls.append(u)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -162,33 +178,63 @@ def crawl_resources_for_url(open_access_url: str, timeout_ms: int = 15000, max_i
         def handle_response(resp):
             try:
                 url = resp.url
-                # Filter out chrome-extension and data/blob URLs via is_http_url
-                if is_http_url(url):
-                    add_url(url)
-            except Exception:
-                pass
+                if not is_http_url(url):
+                    return
+                add_url(url)
+
+                # If save_path is specified, try to save the response
+                if save_path and resp.ok:
+                    parsed_url = urlparse(url)
+                    # Sanitize path components
+                    host = parsed_url.netloc.replace(":", "_")
+                    rel_path = parsed_url.path.lstrip("/")
+                    if not rel_path:
+                        # Use a default name for root documents
+                        rel_path = "index.html"
+
+                    # Create a file path, ensuring it's within the save_path
+                    local_path = save_path.joinpath(host, rel_path).resolve()
+                    if not str(local_path).startswith(str(save_path.resolve())):
+                        if verbose:
+                            print(f"  [crawl] Skipping save for unsafe path: {rel_path}")
+                        return
+
+                    local_path.parent.mkdir(parents=True, exist_ok=True)
+                    try:
+                        body = resp.body()
+                        if body:
+                            local_path.write_bytes(body)
+                            # Construct the public URL for the saved resource
+                            local_url_path = f"external_resources/{host}/{rel_path}"
+                            local_url = f"{base_out_url}/{local_url_path}"
+                            saved_local_urls.append(local_url)
+                            if verbose:
+                                print(f"  [crawl] Saved {url} -> {local_path}")
+                    except Exception as e:
+                        if verbose:
+                            print(f"  [crawl] Failed to save {url}: {e}")
+
+            except Exception as e:
+                if verbose:
+                    print(f"  [crawl] Error handling response: {e}")
 
         page.on("response", handle_response)
 
         try:
             page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
         except Exception:
-            # Attempt a softer wait to still capture some resources
             try:
                 page.goto(open_access_url, timeout=timeout_ms)
                 page.wait_for_load_state("domcontentloaded", timeout=timeout_ms)
-            except Exception:
-                pass
+            except Exception as e:
+                if verbose:
+                    print(f"  [crawl] Page load failed for {open_access_url}: {e}")
 
-        # Give service worker or lazy assets a brief chance
         time.sleep(min(2.5, max(0.0, timeout_ms / 10000)))
-
         browser.close()
 
     # Limit and return
-    if len(collected) > max_items:
-        return collected[:max_items]
-    return collected
+    return (collected_urls[:max_items], saved_local_urls[:max_items])
 
 
 def build_opds_feed(base_out_url: str, web_apps: List[Dict[str, Any]], out_path: Path) -> None:
@@ -586,16 +632,21 @@ def generate(
         if verbose:
             print(f"\n[FTM] {lang_code} ({slug}) lessons={lessons_count} rtl={right_to_left}")
         # Build lessons. If crawling is enabled, crawl once per language (lesson 1) and reuse
-        per_language_discovered: List[str] = []
+        per_language_saved_urls: List[str] = []
         if crawl_resources_enabled:
+            save_path = public_dir / "external_resources"
             open_access_for_resources = (
                 f"https://curiousreader-respect-ftm.web.app/?lang={slug}&lesson_id=1"
             )
-            per_language_discovered = crawl_resources_for_url(
-                open_access_for_resources, timeout_ms=crawl_timeout_ms, verbose=verbose
+            _, per_language_saved_urls = crawl_resources_for_url(
+                open_access_url=open_access_for_resources,
+                base_out_url=base_out_url,
+                save_path=save_path,
+                timeout_ms=crawl_timeout_ms,
+                verbose=verbose,
             )
             if verbose:
-                print(f"  Crawled FTM shared resources: {len(per_language_discovered)}")
+                print(f"  Crawled and saved FTM shared resources: {len(per_language_saved_urls)}")
 
         for lesson_id in range(1, lessons_count + 1):
             lesson_manifest = build_ftm_lesson_manifest(
@@ -606,7 +657,7 @@ def generate(
                 icon_rel_path=icon_rel,
                 right_to_left=right_to_left,
                 audio_urls=audio_urls,
-                additional_resource_urls=per_language_discovered,
+                additional_resource_urls=per_language_saved_urls,
             )
             lesson_out_path = public_dir / f"lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json"
             write_json(lesson_out_path, lesson_manifest)
@@ -762,14 +813,19 @@ def generate(
         lang_code = app.get("langCode", "")
         title = app.get("title", f"Assessment {dataset}")
         audio_urls = list_audio_urls_for_assessment(base_out_url, assessment_root, dataset)
-        discovered_assess_urls: List[str] = []
+        saved_assess_urls: List[str] = []
         if crawl_resources_enabled:
+            save_path = public_dir / "external_resources"
             open_access_assess = f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}"
-            discovered_assess_urls = crawl_resources_for_url(
-                open_access_assess, timeout_ms=crawl_timeout_ms
+            _, saved_assess_urls = crawl_resources_for_url(
+                open_access_url=open_access_assess,
+                base_out_url=base_out_url,
+                save_path=save_path,
+                timeout_ms=crawl_timeout_ms,
+                verbose=verbose,
             )
         if verbose and crawl_resources_enabled:
-            print(f"\n[ASSESS] dataset={dataset} lang={lang_code}")
+            print(f"\n[ASSESS] dataset={dataset} lang={lang_code} saved_urls={len(saved_assess_urls)}")
         manifest = build_assessment_manifest(
             base_out_url=base_out_url,
             dataset=dataset,
@@ -777,7 +833,7 @@ def generate(
             lang_code=lang_code,
             icon_rel_path=icon_rel,
             audio_urls=audio_urls,
-            additional_resource_urls=discovered_assess_urls,
+            additional_resource_urls=saved_assess_urls,
         )
         write_json(public_dir / f"lessons/data/{dataset}.json", manifest)
         if verbose:
@@ -796,21 +852,26 @@ def generate(
         title_raw = app.get("title", book_name)
         # Drop the leading "Curious Reader " if present to keep parity with examples
         title = title_raw.replace("Curious Reader ", "").strip()
-        discovered_story_urls: List[str] = []
+        saved_story_urls: List[str] = []
         if crawl_resources_enabled:
+            save_path = public_dir / "external_resources"
             open_access_story = f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}"
-            discovered_story_urls = crawl_resources_for_url(
-                open_access_story, timeout_ms=crawl_timeout_ms
+            _, saved_story_urls = crawl_resources_for_url(
+                open_access_url=open_access_story,
+                base_out_url=base_out_url,
+                save_path=save_path,
+                timeout_ms=crawl_timeout_ms,
+                verbose=verbose,
             )
         if verbose and crawl_resources_enabled:
-            print(f"\n[STORY] book={book_name} lang={lang_code}")
+            print(f"\n[STORY] book={book_name} lang={lang_code} saved_urls={len(saved_story_urls)}")
         manifest = build_story_manifest(
             base_out_url=base_out_url,
             book_name=book_name,
             title=title,
             lang_code=lang_code,
             icon_rel_path=icon_rel,
-            additional_resource_urls=discovered_story_urls,
+            additional_resource_urls=saved_story_urls,
         )
         write_json(public_dir / f"lessons/book/{book_name}.json", manifest)
         if verbose:
