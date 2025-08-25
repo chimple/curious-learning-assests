@@ -130,6 +130,8 @@ def _static_discover_from_html(page_url: str, timeout_ms: int, verbose: bool) ->
     return deduped[:500]
 
 
+from tqdm import tqdm
+
 def crawl_resources_for_url(
     open_access_url: str,
     base_out_url: str,
@@ -140,16 +142,16 @@ def crawl_resources_for_url(
 ) -> Tuple[List[str], List[str]]:
     """Best-effort dynamic discovery of network resources used by a web app.
 
-    Uses Playwright (if available) to load the page and record network responses.
+    Uses Playwright to load the page and record network responses.
     If `save_path` is provided, attempts to save response bodies to disk.
+    Shows progress using tqdm progress bars.
 
     Returns a tuple:
     - A list of all discovered absolute resource URLs.
     - A list of absolute URLs for resources that were successfully saved locally
       (prefixed with `base_out_url`).
-
-    If Playwright is not installed, falls back to static discovery and returns (urls, []).
     """
+    print(f"\n{'='*50}\nStarting resource crawl for: {open_access_url}\n{'='*50}")
     try:
         from playwright.sync_api import sync_playwright
     except Exception:
@@ -161,6 +163,15 @@ def crawl_resources_for_url(
     collected_urls: List[str] = []
     saved_local_urls: List[str] = []
     seen_urls: set[str] = set()
+    
+    # Initialize progress bars
+    with tqdm(desc="Crawling resources", unit="res") as pbar_outer:
+        def update_progress():
+            pbar_outer.set_postfix({
+                'found': len(collected_urls),
+                'saved': len(saved_local_urls)
+            })
+            pbar_outer.update(1)
 
     def add_url(u: str) -> None:
         if not is_http_url(u):
@@ -181,6 +192,7 @@ def crawl_resources_for_url(
                 if not is_http_url(url):
                     return
                 add_url(url)
+                update_progress()
 
                 # If save_path is specified, try to save the response
                 if save_path and resp.ok:
@@ -204,10 +216,8 @@ def crawl_resources_for_url(
                         body = resp.body()
                         if body:
                             local_path.write_bytes(body)
-                            # Construct the public URL for the saved resource
-                            local_url_path = f"external_resources/{host}/{rel_path}"
-                            local_url = f"{base_out_url}/{local_url_path}"
-                            saved_local_urls.append(local_url)
+                            # Keep the original URL instead of creating a local one
+                            saved_local_urls.append(url)
                             if verbose:
                                 print(f"  [crawl] Saved {url} -> {local_path}")
                     except Exception as e:
@@ -221,17 +231,31 @@ def crawl_resources_for_url(
         page.on("response", handle_response)
 
         try:
-            page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
-        except Exception:
+            with tqdm(desc="Loading page", bar_format='{l_bar}{bar:30}{r_bar}{bar:-10b}'):
+                page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
+        except Exception as e:
             try:
-                page.goto(open_access_url, timeout=timeout_ms)
-                page.wait_for_load_state("domcontentloaded", timeout=timeout_ms)
+                print(f"\n[WARNING] Initial page load failed, retrying with DOMContentLoaded: {e}")
+                with tqdm(desc="Retrying page load", bar_format='{l_bar}{bar:30}{r_bar}{bar:-10b}'):
+                    page.goto(open_access_url, timeout=timeout_ms)
+                    page.wait_for_load_state("domcontentloaded", timeout=timeout_ms)
             except Exception as e:
-                if verbose:
-                    print(f"  [crawl] Page load failed for {open_access_url}: {e}")
+                print(f"\n[ERROR] Page load failed for {open_access_url}: {e}")
+                return (collected_urls, saved_local_urls)
 
-        time.sleep(min(2.5, max(0.0, timeout_ms / 10000)))
+        # Wait for additional resources with progress
+        print("\nWaiting for additional resources...")
+        with tqdm(desc="Waiting", total=timeout_ms//1000, bar_format='{l_bar}{bar:30}{r_bar}{bar:-10b}') as pbar_wait:
+            for _ in range(timeout_ms // 1000):
+                time.sleep(1)
+                pbar_wait.update(1)
+
         browser.close()
+        print("\n" + "="*50)
+        print(f"Crawl completed for: {open_access_url}")
+        print(f"Total resources found: {len(collected_urls)}")
+        print(f"Resources saved: {len(saved_local_urls)}")
+        print("="*50 + "\n")
 
     # Limit and return
     return (collected_urls[:max_items], saved_local_urls[:max_items])
