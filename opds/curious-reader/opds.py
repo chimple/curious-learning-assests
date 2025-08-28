@@ -377,6 +377,38 @@ def list_audio_urls_for_assessment(base_out_url: str, assess_root: Path, dataset
     return urls
 
 
+def list_common_assets(base_out_url: str, base_dir: Path) -> List[str]:
+    """List common assets from /public/assets/images and /public/assets/audios directories."""
+    urls: List[str] = []
+    public_dir = base_dir / "public"
+    
+    # Define the common directories relative to public/
+    common_dirs = [
+        (public_dir / "assets" / "images", [".png", ".jpg", ".jpeg", ".gif", ".webp"]),
+        (public_dir / "assets" / "audios", [".mp3", ".wav", ".m4a", ".ogg"])
+    ]
+    
+    for dir_path, extensions in common_dirs:
+        if not dir_path.exists():
+            if base_dir.name == 'public':  # If we're already in public directory
+                dir_path = base_dir / "assets" / dir_path.name
+                if not dir_path.exists():
+                    continue
+            else:
+                continue
+                
+        for file in sorted(dir_path.iterdir()):
+            if not file.is_file():
+                continue
+            if file.suffix.lower() not in extensions:
+                continue
+            # Get path relative to public directory
+            rel_path = file.relative_to(public_dir)
+            urls.append(f"{base_out_url}/{rel_path}")
+    
+    return urls
+
+
 def build_ftm_lesson_manifest(
     *,
     base_out_url: str,
@@ -400,8 +432,9 @@ def build_ftm_lesson_manifest(
             "properties": {"width": 128, "height": 128},
         }
     ]
-    for url in audio_urls:
-        resources.append({"href": url, "type": "audio/mpeg" if url.lower().endswith(".mp3") else "audio/wav"})
+    common_assets = list_common_assets(base_out_url, Path(__file__).parent)
+    for url in audio_urls + common_assets:
+        resources.append({"type": guess_mime_type_from_url(url), "href": url})
     if additional_resource_urls:
         for url in additional_resource_urls:
             # Avoid duplicating icon and audio urls
@@ -473,8 +506,9 @@ def build_assessment_manifest(
             "properties": {"width": 128, "height": 128},
         }
     ]
-    for url in audio_urls:
-        resources.append({"href": url, "type": "audio/mpeg" if url.lower().endswith(".mp3") else "audio/wav"})
+    common_assets = list_common_assets(base_out_url, Path(__file__).parent)
+    for url in audio_urls + common_assets:
+        resources.append({"type": guess_mime_type_from_url(url), "href": url})
     if additional_resource_urls:
         for url in additional_resource_urls:
             if url == icon_abs_url or url in (r.get("href") for r in resources):
@@ -914,8 +948,8 @@ def main() -> None:
     )
     parser.add_argument(
         "--base-out-url",
-        default="https://curious-reader.web.app",
-        help="Public base URL used in generated hrefs (default: https://curious-reader.web.app)",
+        default="https://curiousreader-respect-ftm.web.app",
+        help="Public base URL used in generated hrefs (default: https://curiousreader-respect-ftm.web.app)",
     )
     parser.add_argument(
         "--ftm-lessons",
