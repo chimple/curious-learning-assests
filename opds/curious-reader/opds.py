@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import sys
 from pathlib import Path
 import time
 import mimetypes
@@ -621,13 +622,20 @@ def build_story_manifest(
 
 
 def generate(
-    base_dir: Path,
+    base_dir: str | Path,
     base_out_url: str,
     ftm_lessons_count: int,
     crawl_resources_enabled: bool,
     crawl_timeout_ms: int,
     verbose: bool,
+    skip_ftm: bool = False,
 ) -> None:
+    # Ensure base_dir is a Path object and resolve it
+    base_dir = Path(str(base_dir)).resolve()
+    if verbose:
+        print(f"Base directory: {base_dir}")
+        print(f"Base output URL: {base_out_url}")
+        print(f"Skip FTM: {skip_ftm}")
     # Determine the public directory. Prefer the provided base_dir if it already
     # points to a public folder (contains web-apps or manifest), otherwise look
     # for a nested public folder.
@@ -644,20 +652,36 @@ def generate(
 
     # Resolve inputs and outputs relative to public folder
     web_apps_root = public_dir / "web-apps"
+    if verbose:
+        print(f"Web apps root: {web_apps_root}")
+    
     ftm_root = web_apps_root / "ftm"
     assessment_root = web_apps_root / "assessment"
+    
+    # Ensure required directories exist
+    if not web_apps_root.exists():
+        raise FileNotFoundError(f"Web apps directory not found: {web_apps_root}")
+    if not assessment_root.exists():
+        print(f"Warning: Assessment directory not found: {assessment_root}", file=sys.stderr)
+    if not skip_ftm and not ftm_root.exists():
+        print(f"Warning: FTM directory not found: {ftm_root}", file=sys.stderr)
 
-    # languages.json may live alongside public (project root) or inside public
+    # languages.json may live in several locations - check them all
     lang_candidates: List[Path] = [
         public_dir / "languages.json",
         public_dir.parent / "languages.json",
         base_dir / "languages.json",
+        Path.cwd() / "languages.json",
     ]
+    if verbose:
+        print("\nSearching for languages.json in:", ", ".join(f'"{p}"' for p in lang_candidates))
     languages_path: Optional[Path] = next((p for p in lang_candidates if p.exists()), None)
     if languages_path is None:
-        raise FileNotFoundError(
-            f"Missing languages.json. Checked: {', '.join(str(p) for p in lang_candidates)}"
-        )
+        error_msg = f"Missing languages.json. Checked:\n" + "\n".join(f"- {p}" for p in lang_candidates)
+        raise FileNotFoundError(error_msg)
+    
+    if verbose:
+        print(f"Found languages.json at: {languages_path}")
 
     if verbose:
         print(f"Using public dir: {public_dir}")
@@ -669,17 +693,21 @@ def generate(
     # 1) OPDS top-level feed
     build_opds_feed(base_out_url, web_apps, public_dir / "opds.json")
 
-    # 2) FTM lessons + grades per language
-    ftm_apps_by_code: Dict[str, Dict[str, Any]] = {}
-    for app in web_apps:
-        if classify_web_app(app) != "ftm":
-            continue
-        code = app.get("langCode")
-        if not code:
-            continue
-        ftm_apps_by_code[code] = app
+    # 2) FTM lessons + grades per language (skip if --skip-ftm is set)
+    if skip_ftm:
+        if verbose:
+            print("\n[FTM] Skipping FTM lesson generation as requested")
+    else:
+        ftm_apps_by_code: Dict[str, Dict[str, Any]] = {}
+        for app in web_apps:
+            if classify_web_app(app) != "ftm":
+                continue
+            code = app.get("langCode")
+            if not code:
+                continue
+            ftm_apps_by_code[code] = app
 
-    for lang_code, app in ftm_apps_by_code.items():
+    for lang_code, app in (ftm_apps_by_code.items() if not skip_ftm else {}).items():
         icon_rel = app.get("appIconUrl", "")
         slug = parse_query_param(app.get("appUrl", ""), "cr_lang") or app.get("languageInEnglishName", lang_code).lower()
         right_to_left = detect_right_to_left(ftm_root, slug)
@@ -974,21 +1002,31 @@ def main() -> None:
         help="Timeout in milliseconds for each resource crawl (default: 15000)",
     )
     parser.add_argument(
+        "--skip-ftm",
+        action="store_true",
+        help="Skip generation of FTM lesson manifests",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Print progress while generating (paths, writes, crawl counts)",
     )
     args = parser.parse_args()
 
-    base_dir = Path(args.base_dir).resolve()
-    generate(
-        base_dir,
-        args.base_out_url.rstrip("/"),
-        args.ftm_lessons,
-        args.crawl_resources,
-        args.crawl_timeout_ms,
-        args.verbose,
-    )
+    try:
+        base_dir = Path(args.base_dir).resolve()
+        generate(
+            base_dir=base_dir,
+            base_out_url=args.base_out_url.rstrip("/"),
+            ftm_lessons_count=args.ftm_lessons,
+            crawl_resources_enabled=args.crawl_resources,
+            crawl_timeout_ms=args.crawl_timeout_ms,
+            verbose=args.verbose,
+            skip_ftm=args.skip_ftm,
+        )
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
