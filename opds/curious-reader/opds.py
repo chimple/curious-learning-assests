@@ -359,7 +359,8 @@ def list_audio_urls_for_ftm(base_out_url: str, ftm_root: Path, slug: str) -> Lis
             continue
         if file.suffix.lower() not in {".mp3", ".wav", ".m4a", ".ogg"}:
             continue
-        urls.append(f"{base_out_url}/assets/cr_lang/{slug}/audios/{file.name}")
+        # Use the new domain for all audio URLs
+        urls.append(f"{base_out_url}/lang/{slug}/audios/{file.name}")
     return urls
 
 
@@ -373,6 +374,7 @@ def list_audio_urls_for_assessment(base_out_url: str, assess_root: Path, dataset
             continue
         if file.suffix.lower() not in {".mp3", ".wav", ".m4a", ".ogg"}:
             continue
+        # Use the new domain for all assessment audio URLs
         urls.append(f"{base_out_url}/assets/data/audio/{dataset}/{file.name}")
     return urls
 
