@@ -366,18 +366,59 @@ def list_audio_urls_for_ftm(base_out_url: str, ftm_root: Path, slug: str) -> Lis
 
 
 def list_audio_urls_for_assessment(base_out_url: str, assess_root: Path, dataset: str) -> List[str]:
-    ds_dir = assess_root / dataset
+    """Extract all audio URLs from the web-apps folder for the given assessment.
+    
+    Scans the web-apps/assessment/{dataset} directory and its subdirectories
+    to find all audio files, including those in the audioAsset folder.
+    """
     urls: List[str] = []
-    if not ds_dir.exists():
-        return urls
-    for file in sorted(ds_dir.iterdir()):
-        if not file.is_file():
+    
+    # Define the base directories to scan for audio files
+    base_dirs = [
+        assess_root.parent / "web-apps" / "assessment" / dataset,
+        assess_root.parent / "web-apps" / "assessment" / "audioAsset",
+        assess_root.parent / "web-apps" / "assessment" / "audios"
+    ]
+    
+    # Audio file extensions to include
+    audio_extensions = {".mp3", ".wav", ".m4a", ".ogg"}
+    
+    # Scan each directory for audio files
+    for base_dir in base_dirs:
+        if not base_dir.exists():
             continue
-        if file.suffix.lower() not in {".mp3", ".wav", ".m4a", ".ogg"}:
-            continue
-        # Use the new domain for all assessment audio URLs
-        urls.append(f"{base_out_url}/assets/data/audio/{dataset}/{file.name}")
-    return urls
+            
+        # Walk through all subdirectories
+        for file_path in base_dir.rglob('*'):
+            if not file_path.is_file():
+                continue
+                
+            # Check if the file has an audio extension
+            if file_path.suffix.lower() in audio_extensions:
+                # Get the relative path from the web-apps directory
+                rel_path = file_path.relative_to(assess_root.parent / "web-apps")
+                # Convert Windows paths to forward slashes for URLs
+                rel_path_str = str(rel_path).replace('\\', '/')
+                # Add the base URL and path
+                urls.append(f"{base_out_url}/web-apps/{rel_path_str}")
+    
+    # Also check the assessment's own directory
+    if (assess_root / dataset).exists():
+        for file in (assess_root / dataset).iterdir():
+            if not file.is_file():
+                continue
+            if file.suffix.lower() in audio_extensions:
+                urls.append(f"{base_out_url}/web-apps/assessment/{dataset}/{file.name}")
+    
+    # Add common assessment audio files if they weren't found
+    common_audio_files = ["Correct.wav", "Incorrect.wav", "Tap.wav", "correct.mp3", "incorrect.mp3"]
+    for audio_file in common_audio_files:
+        url = f"{base_out_url}/web-apps/assessment/audioAsset/{audio_file}"
+        if url not in urls:
+            urls.append(url)
+    
+    # Remove duplicates and sort
+    return sorted(list(set(urls)))
 
 
 def list_common_assets(base_out_url: str, base_dir: Path) -> List[str]:
@@ -509,8 +550,8 @@ def build_assessment_manifest(
             "properties": {"width": 128, "height": 128},
         }
     ]
-    common_assets = list_common_assets(base_out_url, Path(__file__).parent)
-    for url in audio_urls + common_assets:
+    # common_assets = list_common_assets(base_out_url, Path(__file__).parent)
+    for url in audio_urls:
         resources.append({"type": guess_mime_type_from_url(url), "href": url})
     if additional_resource_urls:
         for url in additional_resource_urls:
