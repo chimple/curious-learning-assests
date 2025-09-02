@@ -751,9 +751,12 @@ def build_story_manifest(
     lang_code: str,
     icon_rel_path: str,
     additional_resource_urls: Optional[List[str]] = None,
+    assets_base_url: Optional[str] = None,
+    self_base_url: Optional[str] = None,
 ) -> Dict[str, Any]:
     modified = now_iso8601()
-    icon_abs_url = f"{base_out_url}/{icon_rel_path}"
+    assets_base = (assets_base_url or base_out_url).rstrip("/")
+    icon_abs_url = f"{assets_base}/{icon_rel_path}"
     open_access = f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}"
 
     return {
@@ -776,7 +779,7 @@ def build_story_manifest(
         "links": [
             {
                 "rel": "self",
-                "href": f"{base_out_url}/lessons/book/{book_name}.json",
+                "href": f"{(self_base_url or base_out_url).rstrip('/')}/lessons/book/{book_name}.json",
                 "type": "application/webpub+json",
             },
             {
@@ -1192,6 +1195,8 @@ def generate(
                 lang_code=lang_code,
                 icon_rel_path=icon_rel,
                 additional_resource_urls=merged_urls,
+                assets_base_url=story_assets_base_url,
+                self_base_url=story_assets_base_url,
             )
             write_json(public_dir / f"lessons/book/{book_name}.json", manifest)
             if verbose:
