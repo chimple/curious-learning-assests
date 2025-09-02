@@ -144,7 +144,81 @@ def _static_discover_from_html(page_url: str, timeout_ms: int, verbose: bool) ->
     return deduped[:500]
 
 
-from tqdm import tqdm
+def _collect_media_paths_from_json(node: Any, out: List[str]) -> None:
+    """Recursively collect media file paths from a story content.json structure.
+
+    Captures strings that look like relative media paths such as:
+    - images/file-....jpg/png/webp/gif/svg
+    - audios/file-....mp3/wav/m4a/ogg
+    - videos/file-....mp4/webm/ogg
+    The function is resilient to different H5P schemas (slides/chapters/etc.).
+    """
+    try:
+        media_exts = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".mp3", ".wav", ".m4a", ".ogg", ".mp4", ".webm"}
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if k == "path" and isinstance(v, str):
+                    # Typical H5P file object: { file: { path: "images/..." } }
+                    if any(v.lower().endswith(ext) for ext in media_exts):
+                        out.append(v.lstrip("/"))
+                else:
+                    _collect_media_paths_from_json(v, out)
+        elif isinstance(node, list):
+            for item in node:
+                _collect_media_paths_from_json(item, out)
+        elif isinstance(node, str):
+            # Fallback: capture plain strings that look like media relative paths
+            if "/" in node and any(node.lower().endswith(ext) for ext in media_exts):
+                out.append(node.lstrip("/"))
+    except Exception:
+        return
+
+
+def list_story_resources_from_content(web_apps_root: Path, book_name: str, assets_base_url: str) -> List[str]:
+    """Parse content.json for a storybook and return absolute URLs for media resources.
+
+    URLs are constructed under the assets domain (e.g., https://curious-reader.web.app)
+    in the form:
+      <assets_base_url>/web-apps/story/{book_name}/content/<relative_path>
+    """
+    content_dir = web_apps_root / "story" / book_name / "content"
+    content_json_path = content_dir / "content.json"
+    if not content_json_path.exists():
+        return []
+    try:
+        data = read_json(content_json_path)
+    except Exception:
+        return []
+
+    rel_paths: List[str] = []
+    _collect_media_paths_from_json(data, rel_paths)
+    # Deduplicate while preserving order
+    seen: set[str] = set()
+    urls: List[str] = []
+    prefix = f"{assets_base_url.rstrip('/')}/web-apps/story/{book_name}/content/"
+    for rel in rel_paths:
+        rel_norm = encode_path_segments(rel.replace("\\", "/"))
+        if rel_norm not in seen:
+            seen.add(rel_norm)
+            urls.append(prefix + rel_norm)
+    return urls
+
+
+try:
+    from tqdm import tqdm
+except Exception:
+    # Provide a minimal no-op tqdm fallback
+    class tqdm:  # type: ignore
+        def __init__(self, *args, **kwargs):
+            pass
+        def __enter__(self):
+            return self
+        def __exit__(self, exc_type, exc, tb):
+            return False
+        def update(self, *args, **kwargs):
+            pass
+        def set_postfix(self, *args, **kwargs):
+            pass
 
 def crawl_resources_for_url(
     open_access_url: str,
@@ -741,6 +815,8 @@ def generate(
     crawl_timeout_ms: int,
     verbose: bool,
     skip_ftm: bool = False,
+    skip_assessment: bool = False,
+    skip_book: bool = False,
 ) -> None:
     # Ensure base_dir is a Path object and resolve it
     base_dir = Path(str(base_dir)).resolve()
@@ -748,6 +824,8 @@ def generate(
         print(f"Base directory: {base_dir}")
         print(f"Base output URL: {base_out_url}")
         print(f"Skip FTM: {skip_ftm}")
+        print(f"Skip Assessment: {skip_assessment}")
+        print(f"Skip Book: {skip_book}")
     # Determine the public directory. Prefer the provided base_dir if it already
     # points to a public folder (contains web-apps or manifest), otherwise look
     # for a nested public folder.
@@ -818,8 +896,10 @@ def generate(
             if not code:
                 continue
             ftm_apps_by_code[code] = app
-
-    for lang_code, app in (ftm_apps_by_code.items() if not skip_ftm else {}).items():
+    
+    # Iterate over FTM apps only when not skipping; avoid chaining .items() on dict_items
+    iter_items = ftm_apps_by_code.items() if not skip_ftm else []
+    for lang_code, app in iter_items:
         icon_rel = app.get("appIconUrl", "")
         slug = parse_query_param(app.get("appUrl", ""), "cr_lang") or app.get("languageInEnglishName", lang_code).lower()
         right_to_left = detect_right_to_left(ftm_root, slug)
@@ -900,93 +980,95 @@ def generate(
             )
 
         # Append assessment publications for this language
-        for assess_app in web_apps:
-            if classify_web_app(assess_app) != "assessment":
-                continue
-            if assess_app.get("langCode") != lang_code:
-                continue
-            app_url = assess_app.get("appUrl", "")
-            dataset = parse_query_param(app_url, "data")
-            if not dataset:
-                continue
-            assess_icon_rel = assess_app.get("appIconUrl", "appIcons/assessment_icon_prod.png")
-            assess_title = assess_app.get("title", f"Assessment {dataset}")
-            publications.append(
-                {
-                    "metadata": {
-                        "title": assess_title,
-                        "author": "Curious Reader",
-                        "identifier": f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}",
-                        "language": lang_code,
-                        "modified": now_iso8601(),
-                    },
-                    "links": [
-                        {
-                            "rel": "self",
-                            "href": f"{base_out_url}/lessons/data/{dataset}.json",
-                            "type": "application/webpub+json",
+        if not skip_assessment:
+            for assess_app in web_apps:
+                if classify_web_app(assess_app) != "assessment":
+                    continue
+                if assess_app.get("langCode") != lang_code:
+                    continue
+                app_url = assess_app.get("appUrl", "")
+                dataset = parse_query_param(app_url, "data")
+                if not dataset:
+                    continue
+                assess_icon_rel = assess_app.get("appIconUrl", "appIcons/assessment_icon_prod.png")
+                assess_title = assess_app.get("title", f"Assessment {dataset}")
+                publications.append(
+                    {
+                        "metadata": {
+                            "title": assess_title,
+                            "author": "Curious Reader",
+                            "identifier": f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}",
+                            "language": lang_code,
+                            "modified": now_iso8601(),
                         },
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}",
-                            "type": "text/html",
-                        },
-                    ],
-                    "images": [
-                        {
-                            "href": f"{base_out_url}/{assess_icon_rel}",
-                            "type": "image/png",
-                            "height": 128,
-                            "width": 128,
-                        }
-                    ],
-                }
-            )
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": f"{base_out_url}/lessons/data/{dataset}.json",
+                                "type": "application/webpub+json",
+                            },
+                            {
+                                "rel": "http://opds-spec.org/acquisition/open-access",
+                                "href": f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}",
+                                "type": "text/html",
+                            },
+                        ],
+                        "images": [
+                            {
+                                "href": f"{base_out_url}/{assess_icon_rel}",
+                                "type": "image/png",
+                                "height": 128,
+                                "width": 128,
+                            }
+                        ],
+                    }
+                )
 
         # Append storybook publications for this language
-        for story_app in web_apps:
-            if classify_web_app(story_app) != "story":
-                continue
-            if story_app.get("langCode") != lang_code:
-                continue
-            story_url = story_app.get("appUrl", "")
-            book_name = parse_query_param(story_url, "book")
-            if not book_name:
-                continue
-            story_icon_rel = story_app.get("appIconUrl", "appIcons/ftm_generic.png")
-            title_raw = story_app.get("title", book_name)
-            story_title = title_raw.replace("Curious Reader ", "").strip()
-            publications.append(
-                {
-                    "metadata": {
-                        "title": story_title,
-                        "author": "Curious Reader",
-                        "identifier": f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}",
-                        "language": lang_code,
-                        "modified": now_iso8601(),
-                    },
-                    "links": [
-                        {
-                            "rel": "self",
-                            "href": f"{base_out_url}/lessons/book/{book_name}.json",
-                            "type": "application/webpub+json",
+        if not skip_book:
+            for story_app in web_apps:
+                if classify_web_app(story_app) != "story":
+                    continue
+                if story_app.get("langCode") != lang_code:
+                    continue
+                story_url = story_app.get("appUrl", "")
+                book_name = parse_query_param(story_url, "book")
+                if not book_name:
+                    continue
+                story_icon_rel = story_app.get("appIconUrl", "appIcons/ftm_generic.png")
+                title_raw = story_app.get("title", book_name)
+                story_title = title_raw.replace("Curious Reader ", "").strip()
+                publications.append(
+                    {
+                        "metadata": {
+                            "title": story_title,
+                            "author": "Curious Reader",
+                            "identifier": f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}",
+                            "language": lang_code,
+                            "modified": now_iso8601(),
                         },
-                        {
-                            "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}",
-                            "type": "text/html",
-                        },
-                    ],
-                    "images": [
-                        {
-                            "href": f"{base_out_url}/{story_icon_rel}",
-                            "type": "image/png",
-                            "height": 128,
-                            "width": 128,
-                        }
-                    ],
-                }
-            )
+                        "links": [
+                            {
+                                "rel": "self",
+                                "href": f"{base_out_url}/lessons/book/{book_name}.json",
+                                "type": "application/webpub+json",
+                            },
+                            {
+                                "rel": "http://opds-spec.org/acquisition/open-access",
+                                "href": f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}",
+                                "type": "text/html",
+                            },
+                        ],
+                        "images": [
+                            {
+                                "href": f"{base_out_url}/{story_icon_rel}",
+                                "type": "image/png",
+                                "height": 128,
+                                "width": 128,
+                            }
+                        ],
+                    }
+                )
 
         grades_feed = {
             "metadata": {"title": app.get("title", f"Feed The Monster {lang_code}")},
@@ -1002,111 +1084,118 @@ def generate(
         write_json(public_dir / f"grades/{lang_code}.json", grades_feed)
 
     # 3) Assessment lessons (data/*)
-    # Domains:
-    # - Common assets (img/css/etc.) stay on assessment domain
-    # - Web app assets under /web-apps/assessment/* must use curious-reader.web.app
-    assessment_common_base_url = "https://curiousreader-respect-assessment.web.app"
-    web_apps_assets_base_url = "https://curious-reader.web.app"
-    # Load common assessment assets once (uses assessment domain)
-    common_assessment_urls = load_assessment_common_assets(assessment_common_base_url, Path(__file__).parent)
+    if not skip_assessment:
+        # Domains:
+        # - Common assets (img/css/etc.) stay on assessment domain
+        # - Web app assets under /web-apps/assessment/* must use curious-reader.web.app
+        assessment_common_base_url = "https://curiousreader-respect-assessment.web.app"
+        web_apps_assets_base_url = "https://curious-reader.web.app"
+        # Load common assessment assets once (uses assessment domain)
+        common_assessment_urls = load_assessment_common_assets(assessment_common_base_url, Path(__file__).parent)
 
-    for app in web_apps:
-        if classify_web_app(app) != "assessment":
-            continue
-        app_url = app.get("appUrl", "")
-        dataset = parse_query_param(app_url, "data")
-        if not dataset:
-            continue
-        icon_rel = app.get("appIconUrl", "appIcons/assessment_icon_prod.png")
-        lang_code = app.get("langCode", "")
-        title = app.get("title", f"Assessment {dataset}")
-        audio_urls = list_audio_urls_for_assessment(base_out_url, assessment_root, dataset)
-        # Remap any /web-apps/assessment URLs to the curious-reader domain
-        audio_urls = [
-            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
-            if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else
-            (
-                u.replace(f"{assessment_common_base_url}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
-                if u.startswith(f"{assessment_common_base_url}/web-apps/assessment/") else u
-            )
-            for u in audio_urls
-        ]
-        saved_assess_urls: List[str] = []
-        if crawl_resources_enabled:
-            save_path = public_dir / "external_resources"
-            open_access_assess = f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}"
-            _, saved_assess_urls = crawl_resources_for_url(
-                open_access_url=open_access_assess,
-                base_out_url=base_out_url,
-                save_path=save_path,
-                timeout_ms=crawl_timeout_ms,
-                verbose=verbose,
-            )
-        if verbose and crawl_resources_enabled:
-            print(f"\n[ASSESS] dataset={dataset} lang={lang_code} saved_urls={len(saved_assess_urls)}")
-        # Merge common assessment assets with any crawled URLs
-        # Ensure any crawled /web-apps/assessment URLs also use the curious-reader domain
-        saved_assess_urls = [
-            (
+        for app in web_apps:
+            if classify_web_app(app) != "assessment":
+                continue
+            app_url = app.get("appUrl", "")
+            dataset = parse_query_param(app_url, "data")
+            if not dataset:
+                continue
+            icon_rel = app.get("appIconUrl", "appIcons/assessment_icon_prod.png")
+            lang_code = app.get("langCode", "")
+            title = app.get("title", f"Assessment {dataset}")
+            audio_urls = list_audio_urls_for_assessment(base_out_url, assessment_root, dataset)
+            # Remap any /web-apps/assessment URLs to the curious-reader domain
+            audio_urls = [
                 u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
-                if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/")
-                else u
+                if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else
+                (
+                    u.replace(f"{assessment_common_base_url}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
+                    if u.startswith(f"{assessment_common_base_url}/web-apps/assessment/") else u
+                )
+                for u in audio_urls
+            ]
+            saved_assess_urls: List[str] = []
+            if crawl_resources_enabled:
+                save_path = public_dir / "external_resources"
+                open_access_assess = f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}"
+                _, saved_assess_urls = crawl_resources_for_url(
+                    open_access_url=open_access_assess,
+                    base_out_url=base_out_url,
+                    save_path=save_path,
+                    timeout_ms=crawl_timeout_ms,
+                    verbose=verbose,
+                )
+            if verbose and crawl_resources_enabled:
+                print(f"\n[ASSESS] dataset={dataset} lang={lang_code} saved_urls={len(saved_assess_urls)}")
+            # Merge common assessment assets with any crawled URLs
+            # Ensure any crawled /web-apps/assessment URLs also use the curious-reader domain
+            saved_assess_urls = [
+                (
+                    u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
+                    if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/")
+                    else u
+                )
+                for u in (saved_assess_urls or [])
+            ]
+            addl_urls = list(dict.fromkeys(saved_assess_urls + common_assessment_urls))
+            manifest = build_assessment_manifest(
+                base_out_url=base_out_url,
+                dataset=dataset,
+                title=title,
+                lang_code=lang_code,
+                icon_rel_path=icon_rel,
+                audio_urls=audio_urls,
+                additional_resource_urls=addl_urls,
+                assets_base_url=web_apps_assets_base_url,
+                self_base_url=web_apps_assets_base_url,
             )
-            for u in (saved_assess_urls or [])
-        ]
-        addl_urls = list(dict.fromkeys(saved_assess_urls + common_assessment_urls))
-        manifest = build_assessment_manifest(
-            base_out_url=base_out_url,
-            dataset=dataset,
-            title=title,
-            lang_code=lang_code,
-            icon_rel_path=icon_rel,
-            audio_urls=audio_urls,
-            additional_resource_urls=addl_urls,
-            assets_base_url=web_apps_assets_base_url,
-            self_base_url=web_apps_assets_base_url,
-        )
-        write_json(public_dir / f"lessons/data/{dataset}.json", manifest)
-        if verbose:
-            print(f"  Wrote {public_dir / f'lessons/data/{dataset}.json'}")
+            write_json(public_dir / f"lessons/data/{dataset}.json", manifest)
+            if verbose:
+                print(f"  Wrote {public_dir / f'lessons/data/{dataset}.json'}")
 
     # 4) Story lessons (book/*)
-    for app in web_apps:
-        if classify_web_app(app) != "story":
-            continue
-        app_url = app.get("appUrl", "")
-        book_name = parse_query_param(app_url, "book")
-        if not book_name:
-            continue
-        icon_rel = app.get("appIconUrl", "appIcons/ftm_generic.png")
-        lang_code = app.get("langCode", "")
-        title_raw = app.get("title", book_name)
-        # Drop the leading "Curious Reader " if present to keep parity with examples
-        title = title_raw.replace("Curious Reader ", "").strip()
-        saved_story_urls: List[str] = []
-        if crawl_resources_enabled:
-            save_path = public_dir / "external_resources"
-            open_access_story = f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}"
-            _, saved_story_urls = crawl_resources_for_url(
-                open_access_url=open_access_story,
+    if not skip_book:
+        for app in web_apps:
+            if classify_web_app(app) != "story":
+                continue
+            app_url = app.get("appUrl", "")
+            book_name = parse_query_param(app_url, "book")
+            if not book_name:
+                continue
+            icon_rel = app.get("appIconUrl", "appIcons/ftm_generic.png")
+            lang_code = app.get("langCode", "")
+            title_raw = app.get("title", book_name)
+            # Drop the leading "Curious Reader " if present to keep parity with examples
+            title = title_raw.replace("Curious Reader ", "").strip()
+            saved_story_urls: List[str] = []
+            # Extract static media URLs directly from content.json using curious-reader assets domain
+            story_assets_base_url = "https://curious-reader.web.app"
+            content_urls = list_story_resources_from_content(web_apps_root, book_name, story_assets_base_url)
+            if crawl_resources_enabled:
+                save_path = public_dir / "external_resources"
+                open_access_story = f"https://curiousreader-respect-story.web.app/?lesson_id={book_name}"
+                _, saved_story_urls = crawl_resources_for_url(
+                    open_access_url=open_access_story,
+                    base_out_url=base_out_url,
+                    save_path=save_path,
+                    timeout_ms=crawl_timeout_ms,
+                    verbose=verbose,
+                )
+            if verbose and crawl_resources_enabled:
+                print(f"\n[STORY] book={book_name} lang={lang_code} saved_urls={len(saved_story_urls)}")
+            # Merge content.json derived URLs with any crawled URLs, de-duping
+            merged_urls: List[str] = list(dict.fromkeys((content_urls or []) + (saved_story_urls or [])))
+            manifest = build_story_manifest(
                 base_out_url=base_out_url,
-                save_path=save_path,
-                timeout_ms=crawl_timeout_ms,
-                verbose=verbose,
+                book_name=book_name,
+                title=title,
+                lang_code=lang_code,
+                icon_rel_path=icon_rel,
+                additional_resource_urls=merged_urls,
             )
-        if verbose and crawl_resources_enabled:
-            print(f"\n[STORY] book={book_name} lang={lang_code} saved_urls={len(saved_story_urls)}")
-        manifest = build_story_manifest(
-            base_out_url=base_out_url,
-            book_name=book_name,
-            title=title,
-            lang_code=lang_code,
-            icon_rel_path=icon_rel,
-            additional_resource_urls=saved_story_urls,
-        )
-        write_json(public_dir / f"lessons/book/{book_name}.json", manifest)
-        if verbose:
-            print(f"  Wrote {public_dir / f'lessons/book/{book_name}.json'}")
+            write_json(public_dir / f"lessons/book/{book_name}.json", manifest)
+            if verbose:
+                print(f"  Wrote {public_dir / f'lessons/book/{book_name}.json'}")
 
 
 def main() -> None:
@@ -1150,6 +1239,16 @@ def main() -> None:
         help="Skip generation of FTM lesson manifests",
     )
     parser.add_argument(
+        "--skip-assessment",
+        action="store_true",
+        help="Skip generation of assessment manifests",
+    )
+    parser.add_argument(
+        "--skip-book",
+        action="store_true",
+        help="Skip generation of story book manifests",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Print progress while generating (paths, writes, crawl counts)",
@@ -1166,6 +1265,8 @@ def main() -> None:
             crawl_timeout_ms=args.crawl_timeout_ms,
             verbose=args.verbose,
             skip_ftm=args.skip_ftm,
+            skip_assessment=args.skip_assessment,
+            skip_book=args.skip_book,
         )
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
