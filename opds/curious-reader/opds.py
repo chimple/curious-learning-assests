@@ -635,9 +635,13 @@ def build_ftm_lesson_manifest(
     right_to_left: bool,
     audio_urls: List[str],
     additional_resource_urls: Optional[List[str]] = None,
+    assets_base_url: Optional[str] = None,
+    self_base_url: Optional[str] = None,
 ) -> Dict[str, Any]:
     modified = now_iso8601()
-    icon_abs_url = f"{base_out_url}/{icon_rel_path}"
+    # Allow overriding asset domain (e.g., curious-reader.web.app) for icon and self link
+    assets_base = (assets_base_url or base_out_url).rstrip("/")
+    icon_abs_url = f"{assets_base}/{icon_rel_path}"
     open_access_by_slug = f"https://curiousreader-respect-ftm.web.app/?lang={ftm_slug}&lesson_id={lesson_id}"
     open_access_by_code = f"https://curiousreader-respect-ftm.web.app/?lang={lang_code}&lesson_id={lesson_id}"
 
@@ -678,7 +682,8 @@ def build_ftm_lesson_manifest(
         "links": [
             {
                 "rel": "self",
-                "href": f"{base_out_url}/lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json",
+                # Self link may be served from a different base (e.g., curious-reader.web.app)
+                "href": f"{(self_base_url or base_out_url).rstrip('/')}/lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json",
                 "type": "application/webpub+json",
             },
             {
@@ -973,6 +978,8 @@ def generate(
                 right_to_left=right_to_left,
                 audio_urls=audio_urls,
                 additional_resource_urls=per_language_saved_urls,
+                assets_base_url="https://curious-reader.web.app",
+                self_base_url="https://curious-reader.web.app",
             )
             lesson_out_path = public_dir / f"lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json"
             write_json(lesson_out_path, lesson_manifest)

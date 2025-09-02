@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=19",
     "language": "af",
-    "modified": "2025-09-02T10:29:28.068194+00:00",
-    "published": "2025-09-02T10:29:28.068194+00:00",
+    "modified": "2025-09-02T12:01:46.514440+00:00",
+    "published": "2025-09-02T12:01:46.514440+00:00",
     "description": "Interactive learning lesson: 19",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/cr_lang/ftm_af_19.json",
+      "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_19.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_afrikaans_prod.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,7 +48,7 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_afrikaans_prod.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
       "properties": {
         "width": 128,
         "height": 128
@@ -1051,6 +1051,10 @@
       "type": "text/javascript"
     },
     {
+      "href": "https://connect.facebook.net/en_US/fbevents.js",
+      "type": "text/javascript"
+    },
+    {
       "href": "https://curiousreader-respect-ftm.web.app/assets/fonts/Consolas.ttf",
       "type": "font/ttf"
     },
@@ -1059,32 +1063,28 @@
       "type": "text/javascript"
     },
     {
+      "href": "https://connect.facebook.net/signals/config/3165489767069069?v=2.9.227&r=stable&domain=curiousreader-respect-ftm.web.app&hme=98a01a771f1571b63142a5ab6b1965d297e9ee4aa2fec3ece59f72d8c5b28e26&ex_m=86%2C148%2C128%2C19%2C121%2C60%2C41%2C122%2C67%2C59%2C135%2C75%2C13%2C85%2C27%2C116%2C107%2C65%2C68%2C115%2C132%2C94%2C137%2C7%2C3%2C4%2C6%2C5%2C2%2C76%2C84%2C138%2C212%2C160%2C54%2C217%2C214%2C215%2C47%2C175%2C26%2C64%2C221%2C220%2C163%2C29%2C53%2C8%2C56%2C80%2C81%2C82%2C87%2C111%2C28%2C25%2C114%2C110%2C109%2C129%2C66%2C131%2C130%2C43%2C112%2C52%2C104%2C12%2C134%2C38%2C203%2C205%2C170%2C22%2C23%2C24%2C16%2C17%2C37%2C34%2C35%2C71%2C77%2C79%2C92%2C120%2C123%2C39%2C93%2C20%2C18%2C98%2C61%2C32%2C125%2C124%2C126%2C117%2C21%2C31%2C51%2C91%2C133%2C62%2C15%2C30%2C185%2C156%2C262%2C201%2C146%2C188%2C181%2C89%2C113%2C70%2C102%2C46%2C40%2C100%2C101%2C106%2C50%2C14%2C108%2C99%2C57%2C42%2C95%2C45%2C48%2C0%2C83%2C136%2C1%2C105%2C11%2C103%2C9%2C49%2C78%2C55%2C127%2C58%2C97%2C74%2C73%2C44%2C118%2C72%2C69%2C63%2C96%2C88%2C36%2C119%2C33%2C90%2C10%2C139",
+      "type": "application/octet-stream"
+    },
+    {
       "href": "https://curiousreader-respect-ftm.web.app/assets/fonts/Atma-SemiBold.ttf",
       "type": "font/ttf"
-    },
-    {
-      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Monster%20Spits%20wrong%20stones-01.mp3",
-      "type": "audio/mpeg"
-    },
-    {
-      "href": "https://connect.facebook.net/en_US/fbevents.js",
-      "type": "text/javascript"
     },
     {
       "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:a63f4eaddc949f539de10c/webConfig",
       "type": "application/octet-stream"
     },
     {
-      "href": "https://connect.facebook.net/signals/config/3165489767069069?v=2.9.227&r=stable&domain=curiousreader-respect-ftm.web.app&hme=98a01a771f1571b63142a5ab6b1965d297e9ee4aa2fec3ece59f72d8c5b28e26&ex_m=86%2C148%2C128%2C19%2C121%2C60%2C41%2C122%2C67%2C59%2C135%2C75%2C13%2C85%2C27%2C116%2C107%2C65%2C68%2C115%2C132%2C94%2C137%2C7%2C3%2C4%2C6%2C5%2C2%2C76%2C84%2C138%2C212%2C160%2C54%2C217%2C214%2C215%2C47%2C175%2C26%2C64%2C221%2C220%2C163%2C29%2C53%2C8%2C56%2C80%2C81%2C82%2C87%2C111%2C28%2C25%2C114%2C110%2C109%2C129%2C66%2C131%2C130%2C43%2C112%2C52%2C104%2C12%2C134%2C38%2C203%2C205%2C170%2C22%2C23%2C24%2C16%2C17%2C37%2C34%2C35%2C71%2C77%2C79%2C92%2C120%2C123%2C39%2C93%2C20%2C18%2C98%2C61%2C32%2C125%2C124%2C126%2C117%2C21%2C31%2C51%2C91%2C133%2C62%2C15%2C30%2C185%2C156%2C262%2C201%2C146%2C188%2C181%2C89%2C113%2C70%2C102%2C46%2C40%2C100%2C101%2C106%2C50%2C14%2C108%2C99%2C57%2C42%2C95%2C45%2C48%2C0%2C83%2C136%2C1%2C105%2C11%2C103%2C9%2C49%2C78%2C55%2C127%2C58%2C97%2C74%2C73%2C44%2C118%2C72%2C69%2C63%2C96%2C88%2C36%2C119%2C33%2C90%2C10%2C139",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Monster%20Spits%20wrong%20stones-01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FVLSN7D7NM",
       "type": "application/octet-stream"
     },
     {
       "href": "https://curiousreader-respect-ftm.web.app/lang/afrikaans/ftm_afrikaans.json",
       "type": "application/json"
-    },
-    {
-      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FVLSN7D7NM",
-      "type": "application/octet-stream"
     },
     {
       "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",

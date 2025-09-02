@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=31",
     "language": "en",
-    "modified": "2025-09-02T10:28:01.876983+00:00",
-    "published": "2025-09-02T10:28:01.876983+00:00",
+    "modified": "2025-09-02T12:03:28.957707+00:00",
+    "published": "2025-09-02T12:03:28.957707+00:00",
     "description": "Interactive learning lesson: 31",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/cr_lang/ftm_en_31.json",
+      "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_31.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_english.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,7 +48,7 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_english.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
       "properties": {
         "width": 128,
         "height": 128
@@ -1231,11 +1231,11 @@
       "type": "font/ttf"
     },
     {
-      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "href": "https://connect.facebook.net/en_US/fbevents.js",
       "type": "text/javascript"
     },
     {
-      "href": "https://connect.facebook.net/en_US/fbevents.js",
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
       "type": "text/javascript"
     },
     {
@@ -1259,11 +1259,11 @@
       "type": "application/json"
     },
     {
-      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FVLSN7D7NM",
       "type": "application/octet-stream"
     },
     {
-      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FVLSN7D7NM",
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
       "type": "application/octet-stream"
     }
   ]
