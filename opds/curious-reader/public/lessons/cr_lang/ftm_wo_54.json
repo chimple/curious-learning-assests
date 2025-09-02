@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-ftm.web.app/?lang=wolof&lesson_id=54",
     "language": "wo",
-    "modified": "2025-08-11T07:48:47.345993+00:00",
-    "published": "2025-08-11T07:48:47.345993+00:00",
+    "modified": "2025-09-02T10:29:41.913470+00:00",
+    "published": "2025-09-02T10:29:41.913470+00:00",
     "description": "Interactive learning lesson: 54",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_wo_54.json",
+      "href": "https://curiousreader-respect-ftm.web.app/lessons/cr_lang/ftm_wo_54.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curious-reader.web.app/appIcons/ftm_wolof_prod.png",
+      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_wolof_prod.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,399 +48,935 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curious-reader.web.app/appIcons/ftm_wolof_prod.png",
+      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_wolof_prod.png",
       "properties": {
         "width": 128,
         "height": 128
       }
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/a.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/a.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/aa.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/aa.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/aar.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/aar.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/aay.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/aay.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/am.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/am.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/amazing.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/amazing.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ana.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ana.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/b.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/b.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/baal.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/baal.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/baat.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/baat.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/bépp.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/bépp.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/c.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/c.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/cees.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/cees.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/cinn.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/cinn.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/dig.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/dig.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/digg.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/digg.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/e.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/e.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ee.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ee.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/f.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/f.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/fann.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/fann.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/fantastic.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/fantastic.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/g.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/g.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/gg.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/gg.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/gis.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/gis.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/great.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/great.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/i.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/i.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ii.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ii.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/j.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/j.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/jiit.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/jiit.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/jj.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/jj.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/jàmm.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/jàmm.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/jëkk.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/jëkk.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/jën.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/jën.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/k.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/k.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/kër.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/kër.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/l.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/l.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/lew.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/lew.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/léb.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/léb.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/lénn.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/lénn.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/m.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/m.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/maam.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/maam.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/mbër.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/mbër.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/moom.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/moom.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/mp.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/mp.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/n.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/n.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nc.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nc.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nd.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nd.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ndél.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ndél.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ng.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ng.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nga.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nga.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nk.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nk.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nt.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nt.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/nàr.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/nàr.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/néen.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/néen.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/o.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/o.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/p.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/p.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/pank.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/pank.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/pecc.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/pecc.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/peer.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/peer.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/q.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/q.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/qel.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/qel.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/r.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/r.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/réen.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/réen.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/s.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/s.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/saan.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/saan.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/sell.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/sell.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/set.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/set.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/siddiit.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/siddiit.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/siggi.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/siggi.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/siis.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/siis.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/siit.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/siit.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/sow.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/sow.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/t.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/t.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/teen.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/teen.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/tijji.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/tijji.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/tooy.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/tooy.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/w.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/w.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/woo.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/woo.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/wow.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/wow.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/woy.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/woy.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/wéen.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/wéen.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/wéey.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/wéey.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/xol.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/xol.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/xont.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/xont.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/xoox.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/xoox.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/y.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/y.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/à.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/à.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/àgg.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/àgg.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/àll.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/àll.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/àrr.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/àrr.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/é.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/é.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ée.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ée.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ë.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ë.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ëmb.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ëmb.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ëtt.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ëtt.mp3"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ŋ.mp3",
-      "type": "audio/mpeg"
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ŋ.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/audios/ŋas.mp3"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_FG_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_bg_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_fence_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_fence_v01.webp"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_hill_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_sign_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Autumn_sign_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/FG_a_v01.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Play_button.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Play_button.webp"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Totem_v02_v01.webp"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/WIN_screen_bg.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_FG_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_bg_01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_fence_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_fence_v01.webp"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_hill_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_sign_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/Winter_sign_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/back_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/back_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/bar_empty_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/bar_empty_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/bar_full_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/bar_full_v01.webp"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/bg_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/close_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/close_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/cloud_01.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/cloud_02.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/cloud_03.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/confirm_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/confirm_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/drag11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/drag12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/drag13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/drag14.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/eat11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/eat12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/eat13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/eat14.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/favicon.png"
     },
     {
-      "href": "https://curious-reader.web.app/assets/cr_lang/wolof/audios/ŋas.mp3",
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/fence_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/ftm_bonus_level_monsters.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/happy11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/happy12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/happy13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/happy14.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/hill_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/idle11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/idle12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/idle13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/idle14.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/idle4.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/levels_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/levels_v01.webp"
+    },
+    {
+      "type": "image/gif",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/loadingImg.gif"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/map.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/mapIcon.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/mapIcon.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/mapLock.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/mapLock.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/map_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/map_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/map_icon_monster_level_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/map_icon_monster_level_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/next_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/next_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pause_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pause_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar1.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar1.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar2.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar2.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar3.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/pinStar3.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/popup_bg_v01.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/popup_bg_v01.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/promptPlayButton.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/promptPlayButton.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/promptTextBg.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/promptTextBg.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/retry_btn.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/retry_btn.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/sad11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/sad12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/sad13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/sad14.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/score_v01.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/spit11.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/spit12.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/spit13.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/spit14.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/star.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/star.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/stone_pink.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/stone_pink.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/stone_pink_v02.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/timer.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/timer.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/timer_empty.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/timer_empty.webp"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/timer_full.png"
+    },
+    {
+      "type": "image/png",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/tutorial_hand.png"
+    },
+    {
+      "type": "image/webp",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/images/tutorial_hand.webp"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/ButtonClick.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Cheering-01.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Cheering-02.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Cheering-03.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/CorrectStoneFinal.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Disapointed-05.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Eat.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/LevelLoseFanfare.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/LevelWinFanfare.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Monster Spits wrong stones-01.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/MonsterSpit.mp3"
+    },
+    {
+      "type": "audio/x-wav",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/PointsAdd.wav"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/are-you-sure.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/intro.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/onDrag.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/timeout.mp3"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/?lang=wolof&lesson_id=1",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/index.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/feedTheMonster.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/assets/fonts/Consolas.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://connect.facebook.net/en_US/fbevents.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/assets/fonts/Atma-SemiBold.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "href": "https://connect.facebook.net/signals/config/3165489767069069?v=2.9.227&r=stable&domain=curiousreader-respect-ftm.web.app&hme=98a01a771f1571b63142a5ab6b1965d297e9ee4aa2fec3ece59f72d8c5b28e26&ex_m=86%2C148%2C128%2C19%2C121%2C60%2C41%2C122%2C67%2C59%2C135%2C75%2C13%2C85%2C27%2C116%2C107%2C65%2C68%2C115%2C132%2C94%2C137%2C7%2C3%2C4%2C6%2C5%2C2%2C76%2C84%2C138%2C212%2C160%2C54%2C217%2C214%2C215%2C47%2C175%2C26%2C64%2C221%2C220%2C163%2C29%2C53%2C8%2C56%2C80%2C81%2C82%2C87%2C111%2C28%2C25%2C114%2C110%2C109%2C129%2C66%2C131%2C130%2C43%2C112%2C52%2C104%2C12%2C134%2C38%2C203%2C205%2C170%2C22%2C23%2C24%2C16%2C17%2C37%2C34%2C35%2C71%2C77%2C79%2C92%2C120%2C123%2C39%2C93%2C20%2C18%2C98%2C61%2C32%2C125%2C124%2C126%2C117%2C21%2C31%2C51%2C91%2C133%2C62%2C15%2C30%2C185%2C156%2C262%2C201%2C146%2C188%2C181%2C89%2C113%2C70%2C102%2C46%2C40%2C100%2C101%2C106%2C50%2C14%2C108%2C99%2C57%2C42%2C95%2C45%2C48%2C0%2C83%2C136%2C1%2C105%2C11%2C103%2C9%2C49%2C78%2C55%2C127%2C58%2C97%2C74%2C73%2C44%2C118%2C72%2C69%2C63%2C96%2C88%2C36%2C119%2C33%2C90%2C10%2C139",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/assets/audios/Monster%20Spits%20wrong%20stones-01.mp3",
       "type": "audio/mpeg"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:a63f4eaddc949f539de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FVLSN7D7NM",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/lang/wolof/ftm_wolof.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundLuganda",
     "language": "lg",
-    "modified": "2025-09-02T07:15:26.521318+00:00",
-    "published": "2025-09-02T07:15:26.521318+00:00",
+    "modified": "2025-09-02T11:17:35.001897+00:00",
+    "published": "2025-09-02T11:17:35.001897+00:00",
     "description": "Interactive learning lesson: Playground Lugandan",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundLuganda.json",
+      "href": "https://curious-reader.web.app/lessons/book/PlaygroundLuganda.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,359 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-65771e0ae63e0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-6577290f7836f.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318cc30150c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318cd97af65.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318cf1a3ee7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318d13036e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66318c7be8f41.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-65771ef884e6f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318e9b10470.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318ec06609e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318ed3059e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66318e7f00aac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-65772c8628500.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f002a90c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f1515629.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f2a198f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66318ee9b1160.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-65772f77b3a8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f57b4684.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f788d77f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318f974ecea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66318f4476bb7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-65772fd79f9c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318fcd0b463.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66318fe526264.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631901d32f3f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631903d05078.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66318fb47b46f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657730203cd25.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66319077ab72b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663190cedbdc9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663190f7b325e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663191104686c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663191387002c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66319155c8a55.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66319060a4fe7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-6577306a54903.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663196ee8f1e2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631970c2286c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631971c92538.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663197351c5c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631975a8127c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663197804f36a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631978f3732d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-663196ca95e39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657730ac1c0b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631929547fcb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663192b2e7fe7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663192d0a9c7b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663192e39ffcc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-6631927b6a3a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657730e66c7cb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631931dc2212.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663193356f468.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631934eca0f2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663193a3e4f90.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-66319301baf47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-6577312023aac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663193d2dc085.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663193e81cb30.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663193fb33b29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-663193ba69343.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657732a5856b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631941faed28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66319432eeb28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663194478f699.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631945c1b344.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-6631940cce76d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657733414a4c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-66319482c4834.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-6631949500fce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/wordfile-663194a4d3c79.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/audios/files-663194702880e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657734c6867b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657734db6bc33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/images/file-657734e7ce435.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundLuganda",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundLuganda/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

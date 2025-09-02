@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundMarathi",
     "language": "mr",
-    "modified": "2025-09-02T07:15:26.527756+00:00",
-    "published": "2025-09-02T07:15:26.527756+00:00",
+    "modified": "2025-09-02T11:23:05.576519+00:00",
+    "published": "2025-09-02T11:23:05.576519+00:00",
     "description": "Interactive learning lesson: Playground Marathi",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundMarathi.json",
+      "href": "https://curious-reader.web.app/lessons/book/PlaygroundMarathi.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,379 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-65771e0ae63e0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-6577290f7836f.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e5a7a4a1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e5b7b4ad9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e5ca36ae3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e5dc6d6a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e5f496da8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732e5803026a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-65771ef884e6f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e82f52c98.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e83eb6ecb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e851b0247.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e8621eebc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732e623f19d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-65772c8628500.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e89eccff4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e8ae5b2f3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e8c8a1f38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e8d79e9b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732e8875ef5f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-65772f77b3a8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e909e779d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e92117383.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e932d746d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e9434f45b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732e8f6638a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-65772fd79f9c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732e97988d6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732eda067b9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732edb2d5a3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732edc40bcda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732edd6848a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732e964a264d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657730203cd25.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ee12db02e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ee4a8f764.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ee5b314a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ee6caae7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732edfc97a58.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-6577306a54903.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732eeaea262b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732eebe8d8b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732eecdc6c18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732eee1b5c87.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732ee8b8121d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657730ac1c0b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ef5003fa2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ef5022839.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ef5002e23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ef5dd3cc1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732ef708a1df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732ef18578cb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657730e66c7cb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732efa52ccfb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732efb529935.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732efc580e1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732efd6294b6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732efe576b75.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732ef8f73a34.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-6577312023aac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f01690374.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f02738756.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f03528dae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f044f2742.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732f003b1d27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657732a5856b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f07a1b6c1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f08b304bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f09d8f467.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f0ada439d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f0bd8f653.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732f06579601.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657733414a4c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f16f33cb1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f1816c564.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f192c3680.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/wordfile-6732f1a21ecc7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/audios/files-6732f156899d7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657734c6867b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657734db6bc33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/images/file-657734e7ce435.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundMarathi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundMarathi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

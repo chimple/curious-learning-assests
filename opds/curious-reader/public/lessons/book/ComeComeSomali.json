@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeSomali",
     "language": "so",
-    "modified": "2025-09-02T07:15:26.481113+00:00",
-    "published": "2025-09-02T07:15:26.481113+00:00",
+    "modified": "2025-09-02T11:02:23.000057+00:00",
+    "published": "2025-09-02T11:02:23.000057+00:00",
     "description": "Interactive learning lesson: Come Come Somali",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ComeComeSomali.json",
+      "href": "https://curious-reader.web.app/lessons/book/ComeComeSomali.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ComeComeBook.png",
+      "href": "https://curious-reader.web.app/appIcons/ComeComeBook.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,651 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ComeComeBook.png",
+      "href": "https://curious-reader.web.app/appIcons/ComeComeBook.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d36de633a.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d4535ed07.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-6708e566046b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e59892c1d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e5b3aad81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e5c9d9dfd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e5e913e64.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e5f86cc31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e61daaa56.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e64164ef7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e65b1b70c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e66d6c1db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e68107627.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e69e1e9db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e6af356da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e6c297f80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e6d715cae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e6ea0eb7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6708e6f981257.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-6711fea3d7289.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075f6073de9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075f6cbde2d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075f8337a4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075f902eeca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075fa150456.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075faf420c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075fca171f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075fdb1cb38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075fed4be74.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67075ffa55394.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670769fbcb7d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076032a31fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670760423629d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707605210f83.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670760620d107.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707606f7eed6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-6707131ce1a7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d48ae4414.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076ac3eb510.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076aded8c72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076af89af81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076b0cbfe8a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076b2be58db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076b42025c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076b5929a86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076b9ba4fca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076bbf3f326.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076bee81df7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076c25707e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076c4591444.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076c5f5d41d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076c81b66d8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076c9a4d31c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076cbf08605.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-67071353141a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d4a510695.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076ce7f2a00.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d07be154.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d30e9ab4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d5355846.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d718dec0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d8279c31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076d957305c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076da4789ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076db71dd2d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076dc61aac6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076dd2776bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076ddcec408.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076de83df3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076df608140.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076e0745ede.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67076e1361a5d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-67071395a71f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d4c23c73c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707706e55abe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707708892090.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670770a222b5f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670770b4e5aea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670770d2934ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670770e7a7fae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670771045a070.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707712aac1bc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077147d1687.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707715f030d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670771713bcda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670771800750a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707718fae10a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707719be7375.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670771a98ebc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670771b47b945.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-670713ac3d1d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d5154174a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670772d6e2654.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670772f4489e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077309a8582.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707731e2e22e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077332d1c4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707733ec7532.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707736bbed97.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077382a2337.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670773969015c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670773ac4454c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670773c2c90e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670773d9d9f8a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670773eac45c7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707741ce7218.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077428cd1ab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707744cbd438.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-670713bd86191.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d52d34d6a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077c9054b1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077caca49c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077cc5f0375.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077cdc567a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077cee572e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d08c8178.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d1daf82b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d2c5bc37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d39b1a7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d842b0dd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077d9602f76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077da835604.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077db73662e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077dc4ee994.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077dd6ebd79.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077de4860bc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-670713ce20375.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d5767a89b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707764e9bfc0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707766736435.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707767bd9ceb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707769bb579a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670776b56a1eb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670776cda62a9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670776ef8d6e0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077720145fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-670777389c8ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077758f3427.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077771aaeba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077c117a827.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707780ee20d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077c0005a10.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077bed063e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-67077bd94f431.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-670713e319e7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-66f3d59c5e7dc.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/wordfile-6707140e09db5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/audios/files-670713f4e6124.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/images/file-672f0d6877ef7.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeSomali",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeSomali/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

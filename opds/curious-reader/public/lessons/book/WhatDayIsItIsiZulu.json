@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItIsiZulu",
     "language": "zu",
-    "modified": "2025-09-02T07:15:26.493823+00:00",
-    "published": "2025-09-02T07:15:26.493823+00:00",
+    "modified": "2025-09-02T11:06:18.742188+00:00",
+    "published": "2025-09-02T11:06:18.742188+00:00",
     "description": "Interactive learning lesson: What Day Is It Isizulu",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhatDayIsItIsiZulu.json",
+      "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItIsiZulu.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/what_day_is_it.png",
+      "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,695 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/what_day_is_it.png",
+      "href": "https://curious-reader.web.app/appIcons/what_day_is_it.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583236a69c90.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-658328e766fda.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd4494ed8e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd45cc0a48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd4760b687.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd48e43253.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd49dd7cb3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbd43271a80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832a5032f10.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd4f645bec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd507a234f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd51f7c923.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd53548ca5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd54480f31.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbd4bc4b05a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832b0b0d2b0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd5a64bcd6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd5c4c4696.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd5df01421.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd5f60c58e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd61c3f0f2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbd594283d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832c012cdae.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd89caabe8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd8b1e05af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd8d789df0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd8f98bc1b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd90f7b187.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd926c590c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd93f11559.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd959b2484.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd974a2832.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd98e227e1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd9b173c89.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd9cc3d8c1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd9dc6f622.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbd9f0738e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbda015c8e9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbda12589a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbd84ab0cbc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832d06b9d3c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdbe60842e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdc0359e91.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdc481fcf1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdc5ba0a1f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdc757523c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdcb2489e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdcc6aed48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdde4ebd87.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbde158633b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdf30a7f96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdfc3c55a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbdff1d0e01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe0121df62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe04179a4e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe05d97f66.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe07c33f04.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe09c817a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe0b68bf62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbdb9347ea0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832daf4b9a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe18b2b780.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe1a04c11f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe1d81b0b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe1f070ef7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe20b62752.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe22bbd335.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe245d3db0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe25e137a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe272ec4d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe299824a4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe2b045abe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbe15669d16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832df23c7df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe3555e7ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe37a49ffb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe39234041.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe3cdb52de.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbe2c7ab5c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832e622eb7a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe4e1696c9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe4ff487d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe516e95fb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe53003e60.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe5485ccc6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe55a1d0fa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe57ca0169.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe59f00e51.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe5b5db420.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe5da8b6db.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe5f212131.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbe4bfea052.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832ed786e36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe726f39a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe7436f81d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe76f9ed73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe7854e6c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe79a45818.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe7d5419cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe7f43e9fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe8176c376.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe84466523.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe85b1004f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe873cff78.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe88f791f7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe8a06a52b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe8b7cd629.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bbe8cc51711.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bbe6eee39a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-65832f211fed6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc093a5b7f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc094d163ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc097a60309.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc09963fdd9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc09ad05090.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc09d459057.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc09f1b8f11.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0a3e2cc47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0a55c11db.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0a6fc82b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0a8466533.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0aa7df7dc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0abe63e45.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0adbca446.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bc090c57335.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583300a91ffe.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0b297ce3d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0b5a6cfff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0b75e0795.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0ba107945.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0bd295abe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0c03289a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0c298c2df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bc0afcb7b22.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583305d21bdd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0d2dcb19a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0d6936e15.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0e07bde1a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0e37ee8f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bc0c4c7a4a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-658330d744eb4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0f1be0b9c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc0f6218afa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc106bf1e9c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc111f3d622.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc119096b5e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc12202a07b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bc0e55d9c7f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583312339a2f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc12d2a362d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc12f3508fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc16b1436e2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc16c948746.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc16f283a28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc170c9e38c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/wordfile-65bc173c64f98.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/audios/files-65bc128562882.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-658332336bb23.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583323f17c54.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/images/file-6583324d18788.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItIsiZulu",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItIsiZulu/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

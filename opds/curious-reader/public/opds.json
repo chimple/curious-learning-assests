@@ -5,18 +5,18 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curious-reader.web.app/opds.json",
+      "href": "https://curiousreader-respect-ftm.web.app/opds.json",
       "type": "application/opds+json"
     }
   ],
   "navigation": [
     {
-      "href": "https://curious-reader.web.app/grades/en.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/en.json",
       "title": "Curious Reader US English",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_english.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader US English"
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/hi.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/hi.json",
       "title": "Curious Reader Hindi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_hindi.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Hindi"
@@ -37,12 +37,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/pt-BR.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/pt-BR.json",
       "title": "Curious Reader Brazilianportuguese",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_brazilianportuguese_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_brazilianportuguese_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Brazilianportuguese"
@@ -50,12 +50,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/so.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/so.json",
       "title": "Curious Reader Somali",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_somali_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_somali_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Somali"
@@ -63,12 +63,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/xh.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/xh.json",
       "title": "Curious Reader Isixhosa",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_isixhosa_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_isixhosa_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Isixhosa"
@@ -76,12 +76,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/mg.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/mg.json",
       "title": "Curious Reader Malgache",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_malgache_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_malgache_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Malgache"
@@ -89,12 +89,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/af.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/af.json",
       "title": "Curious Reader Afrikaans",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_afrikaans_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Afrikaans"
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/wo.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/wo.json",
       "title": "Curious Reader Wolof",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_wolof_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_wolof_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Wolof"
@@ -115,12 +115,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/sn.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/sn.json",
       "title": "Curious Reader Shona",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_shona_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_shona_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Shona"
@@ -128,12 +128,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/tl.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/tl.json",
       "title": "Curious Reader Tagalog",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_tagalog_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_tagalog_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Tagalog"
@@ -141,12 +141,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ht.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ht.json",
       "title": "Curious Reader Haitian Creole",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_haitiancreole_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_haitiancreole_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Haitian Creole"
@@ -154,12 +154,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ka.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ka.json",
       "title": "Curious Reader Georgian",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_georgian_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_georgian_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Georgian"
@@ -167,12 +167,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/rw.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/rw.json",
       "title": "Curious Reader Kinyarwanda",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_kinyarwanda_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_kinyarwanda_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Kinyarwanda"
@@ -180,12 +180,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/sw.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/sw.json",
       "title": "Curious Reader Swahili",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_swahili_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_swahili_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Swahili"
@@ -193,12 +193,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/uk.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/uk.json",
       "title": "Curious Reader Ukrainian",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_ukrainian_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_ukrainian_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Ukrainian"
@@ -206,12 +206,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/yor.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/yor.json",
       "title": "Curious Reader Yoruba",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_yoruba_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_yoruba_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Yoruba"
@@ -219,12 +219,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ne.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ne.json",
       "title": "Curious Reader Nepali",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_nepali_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_nepali_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Nepali"
@@ -232,12 +232,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ss.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ss.json",
       "title": "Curious Reader Siswati",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_siswati_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_siswati_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Siswati"
@@ -245,12 +245,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/tr.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/tr.json",
       "title": "Curious Reader Turkish",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_turkish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_turkish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Turkish"
@@ -258,12 +258,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/en-ng.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/en-ng.json",
       "title": "Curious Reader English Westafrican",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_englishwestafrican_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_englishwestafrican_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader English Westafrican"
@@ -271,12 +271,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/tg.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/tg.json",
       "title": "Curious Reader Tajik",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_english_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_english_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Tajik"
@@ -284,12 +284,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/st.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/st.json",
       "title": "Curious Reader Sesotho",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_sesotho_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_sesotho_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Sesotho"
@@ -297,12 +297,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/nde.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/nde.json",
       "title": "Curious Reader Ndebele",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_ndebele_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_ndebele_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Ndebele"
@@ -310,12 +310,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/nso.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/nso.json",
       "title": "Curious Reader Sepedi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_sepedi_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_sepedi_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Sepedi"
@@ -323,12 +323,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/tn.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/tn.json",
       "title": "Curious Reader Tswana",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_tswana_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_tswana_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Tswana"
@@ -336,12 +336,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ha.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ha.json",
       "title": "Curious Reader Hausa",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_hausa_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_hausa_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Hausa"
@@ -349,12 +349,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/en-za.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/en-za.json",
       "title": "Curious Reader South African English",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_saenglish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_saenglish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader South African English"
@@ -362,12 +362,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/zu.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/zu.json",
       "title": "Curious Reader Zulu",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_zulu_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Zulu"
@@ -375,12 +375,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/fr.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/fr.json",
       "title": "Curious Reader French",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_french_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_french_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader French"
@@ -388,12 +388,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/az.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/az.json",
       "title": "Curious Reader Azerbaijani",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_azerbaijani_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_azerbaijani_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Azerbaijani"
@@ -401,12 +401,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ve.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ve.json",
       "title": "Curious Reader Venda",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_venda_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_venda_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Venda"
@@ -414,12 +414,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/tw.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/tw.json",
       "title": "Curious Reader Twi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_twi_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_twi_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Twi"
@@ -427,25 +427,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/lg.json",
-      "title": "Curious Reader Lugandan",
-      "type": "application/opds+json",
-      "alternate": [
-        {
-          "href": "https://curious-reader.web.app/appIcons/ftm_lugandan_prod.png",
-          "rel": "icon",
-          "type": "image/png",
-          "title": "Curious Reader Lugandan"
-        }
-      ]
-    },
-    {
-      "href": "https://curious-reader.web.app/grades/ms.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ms.json",
       "title": "Curious Reader Malay",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_malay_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_malay_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Malay"
@@ -453,12 +440,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ig.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ig.json",
       "title": "Curious Reader Igbo",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_igbo_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_igbo_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Igbo"
@@ -466,12 +453,25 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ps.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/lg.json",
+      "title": "Curious Reader Lugandan",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_lugandan_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Curious Reader Lugandan"
+        }
+      ]
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ps.json",
       "title": "Curious Reader Pashto",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_pashto_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_pashto_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Pashto"
@@ -479,12 +479,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ku.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ku.json",
       "title": "Curious Reader Kurdish",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_kurdish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_kurdish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Kurdish"
@@ -492,12 +492,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/es.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/es.json",
       "title": "Curious Reader Spanish",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_spanish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_spanish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Spanish"
@@ -505,12 +505,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/th.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/th.json",
       "title": "Curious Reader Thai",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_thai_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_thai_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Thai"
@@ -518,12 +518,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/en-in.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/en-in.json",
       "title": "Curious Reader Indian English",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_indianenglish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_indianenglish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Indian English"
@@ -531,12 +531,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/en-AU.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/en-AU.json",
       "title": "Curious Reader Australian English",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_austrailianenglish_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_austrailianenglish_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Australian English"
@@ -544,12 +544,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/jv.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/jv.json",
       "title": "Curious Reader Javanese",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_javanese_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_javanese_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Javanese"
@@ -557,12 +557,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ts.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ts.json",
       "title": "Curious Reader Tsonga",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_tsonga_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_tsonga_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Tsonga"
@@ -570,12 +570,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/vi.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/vi.json",
       "title": "Curious Reader Vietnamese",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_vietnamese_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_vietnamese_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Vietnamese"
@@ -583,12 +583,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/rn.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/rn.json",
       "title": "Curious Reader Kirundi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_kirundi.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_kirundi.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Kirundi"
@@ -596,25 +596,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/bn.json",
-      "title": "Curious Reader Bangla",
-      "type": "application/opds+json",
-      "alternate": [
-        {
-          "href": "https://curious-reader.web.app/appIcons/ftm_bangla_prod.png",
-          "rel": "icon",
-          "type": "image/png",
-          "title": "Curious Reader Bangla"
-        }
-      ]
-    },
-    {
-      "href": "https://curious-reader.web.app/grades/mr.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/mr.json",
       "title": "Curious Reader Marathi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_marathi_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_marathi_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Marathi"
@@ -622,12 +609,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/om.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/om.json",
       "title": "Curious Reader Oromo",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_oromo_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_oromo_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Oromo"
@@ -635,12 +622,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/am.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/am.json",
       "title": "Curious Reader Amharic",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_amharic_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_amharic_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Amharic"
@@ -648,12 +635,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ti.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ti.json",
       "title": "Curious Reader Tigragna",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_generic.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_generic.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Tigragna"
@@ -661,25 +648,38 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/pt.json",
-      "title": "Curious Reader Cape Verde Portuguese",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/bn.json",
+      "title": "Curious Reader Bangla",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_CapeVerdePortuguese_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_bangla_prod.png",
           "rel": "icon",
           "type": "image/png",
-          "title": "Curious Reader Cape Verde Portuguese"
+          "title": "Curious Reader Bangla"
         }
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/kea.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/pt.json",
+      "title": "Curious Reader Cape Verdean Portuguese",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_CapeVerdePortuguese_prod.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Curious Reader Cape Verdean Portuguese"
+        }
+      ]
+    },
+    {
+      "href": "https://curiousreader-respect-ftm.web.app/grades/kea.json",
       "title": "Curious Reader Cape Verde Creole",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_cvcreole_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_cvcreole_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Cape Verde Creole"
@@ -687,12 +687,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/te.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/te.json",
       "title": "Curious Reader Telugu",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_telugu.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_telugu.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Telugu"
@@ -700,12 +700,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/gu.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/gu.json",
       "title": "Curious Reader Gujarati",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_gujarati_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_gujarati_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Gujarati"
@@ -713,12 +713,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/pa.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/pa.json",
       "title": "Curious Reader Punjabi",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_punjabi_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_punjabi_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Punjabi"
@@ -726,12 +726,12 @@
       ]
     },
     {
-      "href": "https://curious-reader.web.app/grades/ar.json",
+      "href": "https://curiousreader-respect-ftm.web.app/grades/ar.json",
       "title": "Curious Reader Arabic",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://curious-reader.web.app/appIcons/ftm_arabic_prod.png",
+          "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_arabic_prod.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Curious Reader Arabic"

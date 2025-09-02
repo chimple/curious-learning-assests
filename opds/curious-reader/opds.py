@@ -273,6 +273,9 @@ def crawl_resources_for_url(
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
+        # Track the last time we observed any network response so we can
+        # avoid closing the browser while responses are still arriving.
+        last_event_time = time.time()
 
         def handle_response(resp):
             try:
@@ -281,6 +284,9 @@ def crawl_resources_for_url(
                     return
                 add_url(url)
                 update_progress()
+                # Mark activity
+                nonlocal last_event_time
+                last_event_time = time.time()
 
                 # If save_path is specified, try to save the response
                 if save_path and resp.ok:
@@ -302,15 +308,29 @@ def crawl_resources_for_url(
                     local_path.parent.mkdir(parents=True, exist_ok=True)
                     try:
                         body = resp.body()
+                    except Exception as e:
+                        body = None
+                        if verbose:
+                            print(f"  [crawl] Playwright body() failed for {url}: {e}. Falling back to direct download...")
+                        # Fallback: try direct HTTP GET (best-effort; some opaque responses may still fail)
+                        try:
+                            with urllib.request.urlopen(url, timeout=max(5, min(30, int(timeout_ms/1000)))) as r:
+                                # Only save successful responses
+                                if getattr(r, 'status', 200) < 400:
+                                    body = r.read()
+                        except Exception as e2:
+                            if verbose:
+                                print(f"  [crawl] Fallback download failed for {url}: {e2}")
+                    try:
                         if body:
                             local_path.write_bytes(body)
                             # Keep the original URL instead of creating a local one
                             saved_local_urls.append(url)
                             if verbose:
                                 print(f"  [crawl] Saved {url} -> {local_path}")
-                    except Exception as e:
+                    except Exception as e3:
                         if verbose:
-                            print(f"  [crawl] Failed to save {url}: {e}")
+                            print(f"  [crawl] Failed to write body for {url}: {e3}")
 
             except Exception as e:
                 if verbose:
@@ -337,6 +357,18 @@ def crawl_resources_for_url(
             for _ in range(timeout_ms // 1000):
                 time.sleep(1)
                 pbar_wait.update(1)
+
+        # Grace period: keep the page open a bit longer if network activity
+        # is still occurring, up to a small cap, to reduce "context closed" races.
+        grace_cap_seconds = 10
+        start_grace = time.time()
+        while (time.time() - last_event_time) < 2 and (time.time() - start_grace) < grace_cap_seconds:
+            time.sleep(0.5)
+        # One last attempt to ensure network is idle before closing.
+        try:
+            page.wait_for_load_state("networkidle", timeout=min(5000, timeout_ms))
+        except Exception:
+            pass
 
         browser.close()
         print("\n" + "="*50)

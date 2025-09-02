@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeBangla",
     "language": "bn",
-    "modified": "2025-09-02T07:15:26.530706+00:00",
-    "published": "2025-09-02T07:15:26.530706+00:00",
+    "modified": "2025-09-02T11:26:59.270733+00:00",
+    "published": "2025-09-02T11:26:59.270733+00:00",
     "description": "Interactive learning lesson: Who Can Help Me Bangla",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeBangla.json",
+      "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeBangla.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,415 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-65789116ed4b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-657891ce69d36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721f91fcf2ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721f9410b0cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721f963401af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721f97c897fb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721f9925c376.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682ee623e4b6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-65789225cad34.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fa016d4ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fa1c7c02e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fa335d560.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fa524f39e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682f0ee5a2f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-657892de5ad39.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fa720371c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721faa008523.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fab5179de.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fac976447.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fadc27ca0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721faf7b2d52.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb0b0d857.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb2942fbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb42779d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb595de69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682f20e8bf09.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-65789326ca3ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb760688d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fb9037a03.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fba478a5e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fbc794e9b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fbdd9e1f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fbf20f2e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc0a362ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc1ce0a06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc312efc2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc4766ec5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682f4ca234fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-6578937a365f7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc6089440.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc7761f03.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc898eca3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fc9c31b0d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fcb0dd8c2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fdb93b748.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fdcf2673e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fde50c31e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fdff8d832.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe160783d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682fa76e848d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-657893cd148ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe407bdf2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe536c7d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe65bb2ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe7922a28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fe8df1970.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-67511feb9bf30.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fec75ed99.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fed8b0f3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fef0c71c5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff050ea21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-6682fe9c10ea2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-6578941542f1f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff234dd32.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff34f080a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff45024f4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff5842fed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff68dabf1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff80f3680.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ff925b964.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ffa2c05e8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ffb89b85d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ffcba8228.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721ffde352a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-668301c6a0c92.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-6578945856864.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6721fffb65125.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6722000d1a01e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6722002024b12.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-672200325810f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-67220044dd794.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-672200583eeb9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-67220069d4cbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-67220079c5df2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6722008c6cda8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/wordfile-6722009dae91c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/audios/files-66838744ae02c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-67630f3f768e9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-67630f509d579.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/images/file-67630f63817da.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeBangla",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeBangla/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

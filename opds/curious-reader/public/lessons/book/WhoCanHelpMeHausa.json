@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHausa",
     "language": "ha",
-    "modified": "2025-09-02T07:15:26.487529+00:00",
-    "published": "2025-09-02T07:15:26.487529+00:00",
+    "modified": "2025-09-02T11:04:38.085102+00:00",
+    "published": "2025-09-02T11:04:38.085102+00:00",
     "description": "Interactive learning lesson: Who Can Help Me Hausa",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeHausa.json",
+      "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeHausa.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,439 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-65789116ed4b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-657891ce69d36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0da71a09e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0da91af32d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0daa8883ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dad38140e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dae9c8249.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0da4eb056a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-65789225cad34.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0db341b9a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0db475a54e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0db5d37157.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0db0c5a9fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-657892de5ad39.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dbd031f9b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dbe961986.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dbfc5ba34.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dc1288102.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dc37bdf62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dc4dc9792.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dc6a35201.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dc9018359.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dccf83f65.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dce90b536.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dcfce3ffd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dd0fce004.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0dbb737a78.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-65789326ca3ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dd4f8bba4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dd64a1516.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dd92e3ff5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0ddb18f20f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0ddd189f44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0ddec10a60.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de0446d60.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de2001d21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de379867a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de57699ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de72f26b6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0de8c49bc3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0deb38dfc1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0dd2b9c7ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-6578937a365f7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0df030f262.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0df4ae7847.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0df5ea7710.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0df75ce5a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0df908c112.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dfab35e00.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dfc2aecb9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0dff55c0e2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e00a515ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0ded59c186.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-657893cd148ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e068642ae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e084856f9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e0b8ddb89.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e0cbcd439.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e0e093dc8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e0fb6eff0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e11911d4a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e12e7ed27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e14fbadfb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e16144738.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0e038ecc1d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-6578941542f1f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e1a724153.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e1c50c07b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e1d992ca4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e1ec37aa6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2168d9ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2309dc96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e24aad01f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2603f938.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e28c56d96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2a982a90.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2cac4d29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e2fd66c82.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e31269af3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e337f0b63.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0e184a3577.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-6578945856864.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e3738b79a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e38a25730.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e3a3d1495.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e3ca6518d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e3df363af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e3f3e53c8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e40d9c560.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e4258bd9c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e44b5f88b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/wordfile-66a0e45f83c43.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/audios/files-66a0e357bc70d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-65789558544e6.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-6578956aa2732.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/images/file-6578957d13a9b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHausa",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeHausa/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

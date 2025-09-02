@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeNepali",
     "language": "ne",
-    "modified": "2025-09-02T07:15:26.524216+00:00",
-    "published": "2025-09-02T07:15:26.524216+00:00",
+    "modified": "2025-09-02T11:19:33.067698+00:00",
+    "published": "2025-09-02T11:19:33.067698+00:00",
     "description": "Interactive learning lesson: Who Can Help Me Nepali",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeNepali.json",
+      "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeNepali.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,391 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-65789116ed4b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-657891ce69d36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4ceae56a3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cec678db5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cedd57036.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cef722649.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cf0e8c25c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4ce961895f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-65789225cad34.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cfa4d3bb9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cfbb75729.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4cfd0e3381.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4cf882f474.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-657892de5ad39.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d00d515d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d02edbb91.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d04612427.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d060d8018.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d07a90e18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d0963fbe0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d0af7b645.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d0caea3a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d0e456f5c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d10259a99.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4cff509452.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-65789326ca3ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d13dcab3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d157b10dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d17633230.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d18d78771.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d1af6ab35.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d1c9c513f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-6605fbca2a934.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d2a537f81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d2bac10f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d2d00166b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4d1234d5fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-6578937a365f7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d33f3c447.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d350ab0a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d363655aa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d37799617.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d38d27a1d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d3a11019e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d3b5c5e15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d3ca02df7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d3dc835ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4d32c812b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-657893cd148ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d48725ee0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d499a3417.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d4abbbdd8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d4c137c85.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d4d806231.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d4f18d490.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d50bd1140.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d53704e6c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d54b6bc46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4d47571b0b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-6578941542f1f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d57c10485.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d58deba6d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d5a1a7961.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d5b29d08f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d5c79242e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d5da1340a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d5eebd10f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d600604b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6132ed09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d62557ed3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d639709cf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4d56adc8d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-6578945856864.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d66ac5f52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d67f8f8b3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6913d322.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6a6e5876.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6b921d99.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6ca2246d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/wordfile-65e4d6dc683ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/audios/files-65e4d651bb13f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-65789558544e6.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-6578956aa2732.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/images/file-6578957d13a9b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeNepali",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeNepali/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksMarathi",
     "language": "mr",
-    "modified": "2025-09-02T07:15:26.526333+00:00",
-    "published": "2025-09-02T07:15:26.526333+00:00",
+    "modified": "2025-09-02T11:21:56.649441+00:00",
+    "published": "2025-09-02T11:21:56.649441+00:00",
     "description": "Interactive learning lesson: The Lion Runs Marathi",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLionRunsAndTheCowWalksMarathi.json",
+      "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksMarathi.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/the_lion_runs.png",
+      "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,239 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/the_lion_runs.png",
+      "href": "https://curious-reader.web.app/appIcons/the_lion_runs.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-658319096f767.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-6583197217324.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f42301734.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f4338b274.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f404ac323.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831a8a29b4c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f474c443c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f48736123.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f45ecc600.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831ad1bdd16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f4bb17b95.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f4cd2b322.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f4dea9037.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f4a71e2ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831b138940b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f5103ca7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f522f33e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f532eea28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f54854032.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f4fe433f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831b5ea0e18.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f57a6c44d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f58ac5f95.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f59b5d94c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f5ae0260a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f56970150.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831ba2ca3fa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f6141a62b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f62b437db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f6429b096.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-66911dfe54342.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831be285345.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f6775d88f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f68a1c455.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f69a5da2f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f6ab4f603.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f66473a59.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831d4baff8f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f6ea00f7b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f71a7c3e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/wordfile-6732f729490ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/audios/files-6732f6cb2e58d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831df5f06a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831e32b2800.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831e42c1cf9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/images/file-65831e5ad7945.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksMarathi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksMarathi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

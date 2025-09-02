@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishSwahili",
     "language": "sw",
-    "modified": "2025-09-02T07:15:26.517040+00:00",
-    "published": "2025-09-02T07:15:26.517040+00:00",
+    "modified": "2025-09-02T11:14:45.586481+00:00",
+    "published": "2025-09-02T11:14:45.586481+00:00",
     "description": "Interactive learning lesson: Frog's Starry Wish Swahili",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FrogsStarryWishSwahili.json",
+      "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishSwahili.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/frogs_starry_wish.png",
+      "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,775 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/frogs_starry_wish.png",
+      "href": "https://curious-reader.web.app/appIcons/frogs_starry_wish.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df71f3927b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df7a785438.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35bd8ba059.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35bef87083.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35c00968be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35c11ebfd0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35c51cca6f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35c66c11cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd3d1dc28b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67175bdc226d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35cb520c91.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67182fcbca74b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35ce5d9aac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35d0994aa0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35d31566c2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35d4904371.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35d5de50a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b35bc562693.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df80298cc6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721de62d301e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721de7d316d5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721de957bc72.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721deae64e2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721decc9ba29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721dee292317.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721def91694d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df18c2b1f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df28ce9bb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df45dc384.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df60accf7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df76e24c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721df9257950.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-6721de430b741.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df8424f4bc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35f8f8fd48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35fa94ee7d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35fbaaf873.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b35fd4b051a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd41d1d1d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3600011a2f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4515cb58.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3602ea1e2e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36042bbd48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67183003f1f99.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3608a9cc5e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b360a228e6b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b360b672f53.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3613e3905c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3618681964.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b35f7460c87.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df87feb70b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b362580c749.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3626b3aa14.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3627fd5fe6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3629124105.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b362b1431a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67175c0523a4a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b362f7d864e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3630881cd0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36321a7fa3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b363339af42.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36343ebab7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36356933d1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3636d45a59.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36381bd855.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b362191b11d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df8ace4f8b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3683f0a2c2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36886ba15d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd60f32676.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b368ab27ad9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b368ef0836b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b369062fa27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3691cafe2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b36933822d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b3682b2331b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658f1d15629c9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e33255427.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e351c3358.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e3686764b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e37d0a97f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e393b54c2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e3ab167ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e3c7c3119.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e3dbcba86.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e3ef4075c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6721e40494dc9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-6721e3114c0bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df917ad6db.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3703303f2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b370482d0d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3705b328ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b37070a7741.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3708700c54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3709b33087.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4ae81ce8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4b828606.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b370e40e91c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3710798c65.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b3711a5481f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b37130910e2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b370136b687.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df944012f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45f91ac66a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45fa8912e5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4db650fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4e3cd47e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd4eddb632.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b46006861f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd50785187.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b4603b51df0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b460520a428.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b46068d80be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b4607d868cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b4608fba157.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b45f7578f97.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df972e32bc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b456aee8768.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67182f760082c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b457550b326.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45775ea74c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45792db589.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b457b37caac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b457c9eb119.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd52ed0ce7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b457f450e15.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b4568183761.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df9b523787.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45844aaf0b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45861745a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6718301c35501.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67175c2983caa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b458ae24b16.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b458c51d2fd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b458db6dc14.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5502c858.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b4590d60beb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b4580f8dd02.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658df9e59e470.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45951151bc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45964d34d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45995ba50b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b459aac5422.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b459bdbe2a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b459d58f115.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-6718303181e91.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b45926e5bea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfa16bfa36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45a1ccd02f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45a3036425.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd57aed7b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5880e82b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45a7a14c16.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67175c59cf67b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45aa457288.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b45a0022d94.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfa677daf7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45ad5c0151.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45af4c2c3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45b0a9e43b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67175c6e03dfb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45b3168135.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45b4931c2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5b110d4a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45b6d17921.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b45ac0f3c7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfa9da35ef.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45b9f84f44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5c450006.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45bc964838.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45bdf3bd07.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67182f8f067aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-67182f9618f8c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5db2daf7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-670fd5e6dcd34.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/wordfile-66b45ca04fadb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/audios/files-66b45b85a0569.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfacb8bd23.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfaf2aec33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/images/file-658dfb05d6fea.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

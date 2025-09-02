@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleUkrainian",
     "language": "uk",
-    "modified": "2025-09-02T07:15:26.515996+00:00",
-    "published": "2025-09-02T07:15:26.515996+00:00",
+    "modified": "2025-09-02T11:13:58.814251+00:00",
+    "published": "2025-09-02T11:13:58.814251+00:00",
     "description": "Interactive learning lesson: Chakus Cycle Ukrainian",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ChakusCycleUkrainian.json",
+      "href": "https://curious-reader.web.app/lessons/book/ChakusCycleUkrainian.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/chakus_cycle.png",
+      "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,547 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/chakus_cycle.png",
+      "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f61cdb6a9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f6cf13510.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658460c4c460a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658460eb31cf4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846116e024f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584613075b72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584615138d52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658461774c467.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-6584609e19f76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f72bd78b8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846238e2a92.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584625cf093a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584628272a1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658462a99fd1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658461dba7a6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f7eede908.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658462e4725f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658463075091e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584632fc939f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584635477e1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658463820b15c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658463ad94cd8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658462cb7c70c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f82e21dc4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658463dda929f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658463fac7832.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846418c193f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658463c5f009a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f8657e7fd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658464dcca8da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658464f985ba7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846512bd677.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846550711ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584656aa954b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658465ebe4660.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584661733203.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65846631dce04.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584664be3af3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658464c0db5b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f8a2a9d1c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584667c228a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584669bc70cd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658466d02196a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658466e49efad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584670cd57be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584672622d3a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-6584674f5c90e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-65846664bb57e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f8d53e48b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f44d428459.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f44f79f402.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4517003d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f456375fb8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f457d6e70c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f45a2ce26d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f45cf330b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f45e59723f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f460a7df47.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4624decb8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f44b3ce0d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f91783856.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f46542f690.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f46681fa8d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f467dac7c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f469c055f1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f46b527f50.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f46cb650af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f464200d5d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f95489ed3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f46efa887b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f47046714e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f47280cc36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f46df5213f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f9838dd11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab38174fd1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab395e407f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab3aeacfdb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab3e471c60.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab4057dd11.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab4193c3c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab4411fa53.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-65aab460c8e8c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-65aab2f705eff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582f9c9f38f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4906c8623.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f49268edf9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4940e1aa0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f49573d77d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4978d9bda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f49964ba58.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f49b6176b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f48a4dd881.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582fa0e7a729.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f49df25861.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4a015ebe7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4adbf1333.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4afdbd8ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4b1cb4370.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f49cc6eeec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582fa801b2bb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4b48be649.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4b7c32e6f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4b92bf414.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4ba5d4b0a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4bba1505c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4bce795e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4beb5de24.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f4b3134045.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582fab2e8792.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4c1926227.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4c3910904.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4c51a9403.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4c71d1cb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4c8bed2af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4dad236f9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4dd426bf3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4f0b8acae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4e70c53b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/wordfile-658f4e8d9211e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/audios/files-658f4c00ad7c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582faf97f388.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582fb0bd1481.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/images/file-6582fb223475c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleUkrainian",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleUkrainian/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

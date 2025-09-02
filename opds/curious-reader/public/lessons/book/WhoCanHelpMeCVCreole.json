@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeCVCreole",
     "language": "kea",
-    "modified": "2025-09-02T07:15:26.529099+00:00",
-    "published": "2025-09-02T07:15:26.529099+00:00",
+    "modified": "2025-09-02T11:24:38.386183+00:00",
+    "published": "2025-09-02T11:24:38.386183+00:00",
     "description": "Interactive learning lesson: Who Can Help Me Cape Verde Creole",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeCVCreole.json",
+      "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeCVCreole.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,363 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/who_Can_Help_Me.png",
+      "href": "https://curious-reader.web.app/appIcons/who_Can_Help_Me.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-65789116ed4b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-657891ce69d36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077019d485d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670770383b70f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707704b68d3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670770708e6b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077087970ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-67076ff6025d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-65789225cad34.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670770c854533.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670770e5e7ae6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670770f97d65d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707710a71051.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077120dcf9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670770a7b04c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-657892de5ad39.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077170a6959.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707718a181a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077199e7f27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670771b232894.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670771c8578d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670771e4d7b7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670771f908c41.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670771468bd1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-65789326ca3ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707722ef2878.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670772413311a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707725b883dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707726d80680.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077286b34a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707729f4c191.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670772b49cb75.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670772da07f39.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670772153a279.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-6578937a365f7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707730fb8efa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707732c5968d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707734736c10.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707735b8bd1a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707736eafa84.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707738298c43.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670773962d8ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670773b1cb750.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670772f68b4e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-657893cd148ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670773e7089bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707740205f18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670774178d482.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077431cf066.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670774466af78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670774608f66b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077479663b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707748e39d0d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670773cca1af4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-6578941542f1f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670774e6d7d09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670774fca0baa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077511eaec6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077528842a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707753d13acf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707755589f7c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707756a26fff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707757e15bcb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-670774abb1733.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-6578945856864.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670775ba03441.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670775cb9bc9f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670775dd52aa7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-670775f1673eb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-67077604a9f27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707761cdeea8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707762fbd461.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/wordfile-6707764284b0b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/audios/files-67077595d1663.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-65789558544e6.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-6578956aa2732.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/images/file-6578957d13a9b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeCVCreole",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeCVCreole/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

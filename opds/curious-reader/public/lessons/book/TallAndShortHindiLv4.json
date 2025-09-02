@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortHindiLv4",
     "language": "hi",
-    "modified": "2025-09-02T07:15:26.509707+00:00",
-    "published": "2025-09-02T07:15:26.509707+00:00",
+    "modified": "2025-09-02T11:10:59.975279+00:00",
+    "published": "2025-09-02T11:10:59.975279+00:00",
     "description": "Interactive learning lesson: Tall And Short Hindi Level 4",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TallAndShortHindiLv4.json",
+      "href": "https://curious-reader.web.app/lessons/book/TallAndShortHindiLv4.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_tallandshort_prod.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,687 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/ftm_tallandshort_prod.png",
+      "href": "https://curious-reader.web.app/appIcons/ftm_tallandshort_prod.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8a2cc3689.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8a6738172.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d45c800a2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d7ea3950e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d802eeef0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d81b14548.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d830ce91c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d85912631.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601d4420c707.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8aa4e43d4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d8894a475.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d8a04dbdd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d8d881bf2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601d86fa9c38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8ad1200cf.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d90450bda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d92236399.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d956593a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d99a5508d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d9b518b20.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601d9d345d46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601d8efbf802.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8b1736f35.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601da088c499.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601da28c54ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601da435f04b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601da5e71f62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601da71ee8ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601d9e950533.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8b4901fed.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6616ea4f9fd44.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dac2e4388.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6616ea6070e20.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dbd702bec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dbf89759f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dc1ec6d5d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dc398e38d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601da8ca0f39.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8b7b9c561.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dc9c4773b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dcbb93a31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dcd21aa56.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dce5e2f4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dcff559dd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd120d5c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601dc821bf2d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8bb185c3e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd3e82a01.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd55a7444.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd6832c03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd7aedf9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dd909778b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dda6610b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601ddd2afa7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601dd2abad23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8be87d7ce.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-660db7ca30d28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601de1cdb85f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601de338d06e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601de4668adc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601de9237e57.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601deb094efc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dec8573d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601ddee5d892.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8c22dbcda.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601df540af1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601df708588f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601df83561f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dfa00cdbd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dfb702753.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601df3438a79.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8c5c30c01.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dfe3ddfe4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601dff85b351.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e00daadb2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e02373c32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e03c2e74d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e055e61cb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601dfd3c8174.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8c9aa16a1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0820c529.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0996d24f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0ac9414e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0cc9579d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0e176784.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e0f452ce3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e10b82652.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e073180b3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8cddb99ae.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e140e8a48.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-660db81639964.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e16c6ca1a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e195617bf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e1ab482cf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e1d7a8eb2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e123977d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8d0a066ff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e225da141.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2493f8cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e25fb7d19.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2709de79.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e28541322.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e1f4d657e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8d312228a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2b49e2f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2d2c9ba6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2e5e3dac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e2fea472f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e313be188.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e325c9d32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e29d678fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8d58bb16b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e362197a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e37917fd0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e398ab0f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e3af1ed93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e3c637d4e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e3d9d5685.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e34d9f779.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8da1ca430.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e40008583.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e41884d28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e433be216.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e44a881f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e46411404.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e47a1e07b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e48c4153e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e3f0f1711.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8dcd7ce8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-660db84ec417f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e4cfe63f9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e4e2c1c0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e4f72a776.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e5096cb25.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e51b80eeb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e4a481635.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8e258bed1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e548b736f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-660db894f26fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e57a08954.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e5942f5db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e5a67e17a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e535bc5fa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-620d8e5f7c6e2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e5cd10d77.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e5e8d653e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e60017ad3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e61a1d890.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e62e0efae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e640606b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e65fc5088.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e6761cf78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e68906dcd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/wordfile-6601e69d179c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/audios/files-6601e5c4b54ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-621416dbd21d6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-621417de42c38.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/images/file-6214180a8b815.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortHindiLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TallAndShortHindiLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

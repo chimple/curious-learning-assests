@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=IAmFlyingTigirigna",
     "language": "ti",
-    "modified": "2025-09-02T07:15:26.478957+00:00",
-    "published": "2025-09-02T07:15:26.478957+00:00",
+    "modified": "2025-09-02T10:58:03.833476+00:00",
+    "published": "2025-09-02T10:58:03.833476+00:00",
     "description": "Interactive learning lesson: I am Flying Tigragna",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/IAmFlyingTigirigna.json",
+      "href": "https://curious-reader.web.app/lessons/book/IAmFlyingTigirigna.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/IAmFlyingBook.png",
+      "href": "https://curious-reader.web.app/appIcons/IAmFlyingBook.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,615 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/IAmFlyingBook.png",
+      "href": "https://curious-reader.web.app/appIcons/IAmFlyingBook.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0d1f34d2c.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0d32e233d.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6eb7638df9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6eba30fec0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ebbc8d096.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ebe090449.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ec1f4fdde.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ec4939d83.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ec66c9c88.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ec8b8d193.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ecaa20ee3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ecfe7bd26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6ed12ecc68.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f6eb50a4d80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0d5806742.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6efb51d967.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6efe88e2a2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f0278e9bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f03feb9e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f6ef945ce05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0d813f4e1.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f24c3571d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f2a53954f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f2bf64025.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f2d3a17f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f6f22e17cd0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0d96e8227.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f33fc4791.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f37f3b55b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f39ddbf1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f3ba2015b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f3f665601.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f40f5798c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f43c035ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f6f44e458ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f6f32626a6f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0db0a8c24.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fbaaa28d7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fbc599d8b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fbda33707.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fbf0ea495.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fbfe1c764.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fc0e516cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fc427026b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-6708fc53088a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-6708fb1933b5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0dc6b39f0.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98905937a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f989223370a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f989398c712.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f9895a0d44e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f9898bdc997.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f989a3e9685.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f989bae7102.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f989cd9e593.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f988dad3586.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0de9ba495.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98b88157f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98ba485db9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98bbc49002.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98bdaa9c1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98bf5099f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98c1eb6013.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f98b5c708f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0e0e0872e.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98c950206a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98cd663d05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f98c7de089e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0e42d657d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f990125fbd2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f99029c5799.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f99047bb84a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f9907d3d677.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f9909903fcb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f990b51e5c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f992406b59a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f98feed8b19.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0e72c2060.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98eed62302.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98f0f14d8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98f374c59a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f98f621658c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f98ecc69412.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0eb36f5c0.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f992e9a5e03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f9931c9e92b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f99332e81f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f992d57f5b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0ed6a6380.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f99389f3076.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66f993c7845b6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f9937625461.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0f4bd7802.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2ffd72e62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa3013719cf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa3030da5fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa304f030be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa305d9b21f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa306d64f9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa30844e465.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa309448560.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f99434bb8e4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0f7123bf8.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2e9cc6fff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2eb5d7e62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2ede0fa7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2f1b3066d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2f3c9b95b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2f91620c3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2fa98eecf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2fbbba8dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f9948a7dd69.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0f8fb4beb.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2d06f058e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2d2f45a16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2d6eaddc9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2d99f2fd8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2de33b1b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2dfebc7c2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2e1fbfe88.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2e48916b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f994e81f369.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0fac1d18b.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2c1a66775.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2c3729067.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2c5b1fa62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2c7eeb5ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2cb994da9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2cd37989c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f9958030ac4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-670e0fc2e8e1a.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2ac71a9d8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2ae677c2a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2b1079ce6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2b409f221.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2b72d7102.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2bacc0389.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/wordfile-66fa2bd1bb766.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/audios/files-66f9956c5bed4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/images/file-672f0df4234c5.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=IAmFlyingTigirigna",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/IAmFlyingTigirigna/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

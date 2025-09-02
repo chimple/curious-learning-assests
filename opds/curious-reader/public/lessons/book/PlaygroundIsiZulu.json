@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundIsiZulu",
     "language": "zu",
-    "modified": "2025-09-02T07:15:26.495508+00:00",
-    "published": "2025-09-02T07:15:26.495508+00:00",
+    "modified": "2025-09-02T11:06:48.709109+00:00",
+    "published": "2025-09-02T11:06:48.709109+00:00",
     "description": "Interactive learning lesson: Playground Isizulu",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundIsiZulu.json",
+      "href": "https://curious-reader.web.app/lessons/book/PlaygroundIsiZulu.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,315 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-65771e0ae63e0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-6577290f7836f.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b97f714c96b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b97f851c9e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b97f9b80b21.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b97fafe198c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b97f5086f65.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-65771ef884e6f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b97ff3e6d5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b980099e6f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9802637ab7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b97fd65973f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-65772c8628500.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98072df7db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9808af3864.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9809b2b8cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b9803fd6b8e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-65772f77b3a8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b980e0c8e87.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9810e55854.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9812d89fcb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b980b6522ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-65772fd79f9c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98c5006a5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98c65d0498.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98c78baf7b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b98c1f45938.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657730203cd25.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98b541374e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98b74d8d34.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98b982410f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98bc5269bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b98b342e5de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-6577306a54903.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b985a6e261f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b985c04d890.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b985e3c56a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b9857532951.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657730ac1c0b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b98675e89ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9868c039eb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b986a10131c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b986531c3c1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657730e66c7cb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b986ebb4119.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b987039dc6d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9871c26dd2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b986b9e09d8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-6577312023aac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9876a25981.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9878868005.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b9874737317.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657732a5856b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b987d2d4b01.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b987ea9df3a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b987fdcb33b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b987a54f90a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657733414a4c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9883ed7f4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b9885148a72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/wordfile-65b988618a1bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/audios/files-65b9881844212.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657734c6867b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657734db6bc33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/images/file-657734e7ce435.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundIsiZulu",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundIsiZulu/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

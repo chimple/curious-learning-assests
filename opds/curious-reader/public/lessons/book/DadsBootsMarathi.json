@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsMarathi",
     "language": "mr",
-    "modified": "2025-09-02T07:15:26.528092+00:00",
-    "published": "2025-09-02T07:15:26.528092+00:00",
+    "modified": "2025-09-02T11:23:26.307091+00:00",
+    "published": "2025-09-02T11:23:26.307091+00:00",
     "description": "Interactive learning lesson: Dads Boots Marathi",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/DadsBootsMarathi.json",
+      "href": "https://curious-reader.web.app/lessons/book/DadsBootsMarathi.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/dads_boots.png",
+      "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,1091 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/dads_boots.png",
+      "href": "https://curious-reader.web.app/appIcons/dads_boots.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-65830dff293f9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-65830ff3694ad.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7beb6c12c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7bfb09388.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c0a21796.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c1952aef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c2c158e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c3a88491.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c4adf1f7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c5939cbf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c6aa3ed4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c7c2c51e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7c91c9e46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7cf034869.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d0172bc2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d134d150.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d23472e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d3503109.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d452b457.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d5cef920.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d6c3ea83.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7d7cdc2e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c7bbac122f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-65831056ee6df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dfbf399bbf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dfc069b72b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dfc1639a31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dfc2ec5330.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dfec2f33dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dff0d87d68.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dff2b2fbfd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dff51edea4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dff82e8218.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dffa02ff01.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dffbf51894.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673dffdd1efb9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673e0004377c2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673e00260790e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673e0066afacd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673e007cb66d7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673dfbd4da3e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-6583109f83a69.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f38bbe5b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f4c5f585.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f5ab5fb6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f6d28b11.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f7d08c7f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f906ec81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7f9fc9e4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7faeaf2ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7fbe4bccf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7fcd1d1e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7fda76c8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7fedac969.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c7ffc9f2a2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c800b9dc7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c801d95ae8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c7f008990a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658310e3bc4fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c805e80b89.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c806d7a010.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80802dc0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c808d9510d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c809b60ef8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80abc8d69.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80ba7feeb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80c85dfa5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80d5a6a31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80e45b8d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c80f28d97b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c80404a8ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-6583112a01c00.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8155187e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8172300b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8180da5ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c818f0b476.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c819cc47c3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81aa7c5ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81b95a3de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81cbc4533.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81dac6204.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81e98870c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c81f786a46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8207a577e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c81282bc7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-6583116977715.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c82fa7e492.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c830b590ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c831a2fc0f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8327a44d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c833640fd3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8345bc444.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83528731e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8362e98bc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83727da9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c838475450.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8392cdeb2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83a17f411.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83ae8041c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83bd2d0a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83cb2da8e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83d778e49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83e621320.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c83f88b217.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8408a3b21.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8416a5e07.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c842493ab4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c843427165.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84416857e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c82dde3c75.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658311ac61736.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c848e280cf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c849bba181.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84a958dad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84b706285.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84c461e05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84d33b1f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84e0a4263.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84ed54126.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c84fc56e1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c850c04ba3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c851aaeaad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c852764a2c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8534bebaf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c85428166a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8574aab2e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8583572ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c8471782b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658311ea80c9e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86253406d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86328ad49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c863f739c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c864ddaadb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c865a9d81a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c866901cd6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c867601561.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8682eb8e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8690638d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c869f437d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86ab94996.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86bc7490a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86cbca1a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c86d796495.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c85d3b6f37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658312267dec7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c870e909f3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c871ac51f9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8727a4b08.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87366ee74.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87936502b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87a24c2b1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87b141017.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87c21e7e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673e0d25f3385.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87e2a02b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87f0cd0d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c87ff5c253.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c880bb054c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c86fd71d13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-65831263c39f8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a1098aac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a1f358a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a2c82318.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a3c714d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a4a64b68.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a5e87d28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8a6d2430f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ab5f3316.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ac40920c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ad2383bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ae39f0a9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8af1e7f83.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8b0d793ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8b2109356.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c89087a3bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658312a85afa6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e09a18dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e190b425.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e273e38d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e387dfa5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e49dfa67.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e5766ee5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e6964f23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e771c722.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e84d4ddd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8e92d7e26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ea1144c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8eba6b48a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c8df42a5b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658312ec26f2b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8f58db582.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8f6f6ad2f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8f804e188.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8f8c05531.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8f9b7ed9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8fae60b0a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8fbfd7033.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8fd2de017.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8fe3ba67e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c8ff259f80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9001d60ab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c901324346.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9024b961a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c8ee456d2c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658313261d5f4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9059cacd4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9071ef4ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c90821bce5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c90946e00d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673ecb34a4186.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c90d877330.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c90f537ee9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c91084bd23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9117b06b3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c912574b1d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c913761d5e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c9049cf3dd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658313710a42f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c928a8f888.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9297baee3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92a488b88.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92b306ac9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92bfd61ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92cde530b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92da9fa82.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92e7b6853.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c92f8cec43.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c930914d48.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c931ac9a0f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c9279dce15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658313aab727d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93766df1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c938525340.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9395809d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93a672de4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93b6750c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93c6b6ed0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93d805ae0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93e7c6b70.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c93f8bff03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94102f51d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9421a935c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9432ea4a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c935e589e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658313f38edff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c948842906.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94976c517.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94a47d255.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94db5f04e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94ed4d74f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c94fc61ebc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c951d3839d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c952eb1e52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c9540f175f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/wordfile-673c955fd9e3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/audios/files-673c945eeb4f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658314686128c.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-65831478b28e9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/images/file-658314869f634.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsMarathi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsMarathi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHindi",
     "language": "hi",
-    "modified": "2025-09-02T07:15:26.512089+00:00",
-    "published": "2025-09-02T07:15:26.512089+00:00",
+    "modified": "2025-09-02T11:12:05.265105+00:00",
+    "published": "2025-09-02T11:12:05.265105+00:00",
     "description": "Interactive learning lesson: Chakus Cycle Hindi",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ChakusCycleHindi.json",
+      "href": "https://curious-reader.web.app/lessons/book/ChakusCycleHindi.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/chakus_cycle.png",
+      "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,735 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/chakus_cycle.png",
+      "href": "https://curious-reader.web.app/appIcons/chakus_cycle.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f61cdb6a9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f6cf13510.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d29e5cfaa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d2bf6fd0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d2d4886b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d2f8dc40a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8d2f46fe0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d32ad4c92.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d351a8fd6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d36a95754.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d37fdf601.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d2855c807.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f72bd78b8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d3c079f5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d3e96a36e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d48d25fb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d4a4b9177.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d4bcd4294.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d4d99ce9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d4f6720e4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d3ad7c8a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f7eede908.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d5257c0b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d53fd4dfd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d58b3cdad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d59ff0e3a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d5c0b5747.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d5d742adf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d5ec17fe5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d60482177.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d5166c066.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f82e21dc4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d62d1b1df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d6443434c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d65a9b4ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d67ca41fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d61b330fe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f8657e7fd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d6a80fc15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d6bbc7841.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d6d577f61.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d7035b90d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d720505df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d734cde0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d753c2f30.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d76c4a837.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d796cad75.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d7b76ca05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d7d402abb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d7e90ccc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d80490490.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d695a9b3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f8a2a9d1c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d85cbb948.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d8876f2f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d8b53baf8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8d6126a54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d90864506.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d91ab506d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9339d08e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9484bae5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d95b5c320.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9705f765.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d815683a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f8d53e48b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d99c1e615.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8d8647b9b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9c2caf9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9dbd84a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604d9ee31748.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da0ea60fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da294fd13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da3d6afa5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da4f8a853.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da6229f46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604da86a4066.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604daa5e9e7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dac9b68a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dadc9a7d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604daf2b1f5c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604db04d5dd0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604d987ef7c3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f91783856.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604db4d7dd42.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604db653c5a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604db7d50513.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604db91da2cb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8dc8bef13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dbc477c6f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dbddb239c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc024196a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc1a5499e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc30e792e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc43449a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc5c2770a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604db388daf3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f95489ed3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc7ec7f16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dc9333bab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dca5da6a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dcf34ac29.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd0b2053a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604dc6eb8f60.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f9838dd11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd363bed4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd494edc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd6138bed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd7872af9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dd8b45c29.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ddd90727d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ddf9be2ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de0c1b07e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de1de683b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604dd1e5c449.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582f9c9f38f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de45e444a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de56ee472.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de703c2a2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604de94c98cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604deab5ddbe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dee7b6846.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604defd0584e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df1a9454b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df2f6c46d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df4395837.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df57e9200.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df6ce60e0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604de3198f73.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582fa0e7a729.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604df8ed1fd4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dfaca6387.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dfc371141.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dfd3b397a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604dfe9e2543.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e00e1923b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e024aadb1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e038378e4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604df7f843d6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582fa801b2bb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e05fc1b23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e06fd1370.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0800bf71.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e097709c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0a6d57e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0bc03448.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0d14816e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0e5ca436.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e0fca7806.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604e04d1af37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582fab2e8792.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e122ad8cf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e13f5d380.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e19d6dd9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e1d971683.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e1f78ce8d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e239d1569.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e97143fb1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8eff85206.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604e9d7e485e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-662a8f4bceabd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea0bdb201.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea2c3af52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea43a853e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea5650602.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea750f50e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/wordfile-6604ea8d2ec55.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/audios/files-6604e11022c8a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582faf97f388.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582fb0bd1481.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/images/file-6582fb223475c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHindi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHindi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

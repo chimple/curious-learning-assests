@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundSwahili",
     "language": "sw",
-    "modified": "2025-09-02T07:15:26.516696+00:00",
-    "published": "2025-09-02T07:15:26.516696+00:00",
+    "modified": "2025-09-02T11:14:31.092751+00:00",
+    "published": "2025-09-02T11:14:31.092751+00:00",
     "description": "Interactive learning lesson: Playground Swahili",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundSwahili.json",
+      "href": "https://curious-reader.web.app/lessons/book/PlaygroundSwahili.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,383 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-65771e0ae63e0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-6577290f7836f.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac888177d4f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66bce03b4e1da.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f1eb9683.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac88de0539c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7efee054d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac890b29c99.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac84d3715a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-65771ef884e6f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8967380fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8991a47a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac8951b75ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-65772c8628500.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac89dc05ce1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac89ed6e6df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8a4089cf6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac89b6eeb06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-65772f77b3a8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8c66a6d87.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8ce9e8b15.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8d039b301.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac8c50ec794.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-65772fd79f9c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8d942aad9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8dba6c848.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8e113c35c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f3a2cde3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8e4790ac8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8e5e25dd7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac8d809aa44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657730203cd25.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8e9eb3e11.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66bce18047572.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8ee17db47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8f02275af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8f1b25381.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f50ad62b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8f3b3d37f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac8e87dfb39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-6577306a54903.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8f7727746.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66bce25f06205.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f79003da.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac8ff129310.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f82d5684.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac905a74b80.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7f90c7bfe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-671af359e417f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac8f61d8d1e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657730ac1c0b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac910197cf3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac911af3456.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac91556d28d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-670f7fac697f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac919797723.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac90f2298e5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657730e66c7cb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac91c76a4b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac91d99f64c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac91ece6046.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac92033a4ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac91b069f58.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-6577312023aac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac9233f0cca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66bce27ea396e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-67175f5e2e9a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac928146afc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac9223b0793.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657732a5856b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac92d2798e6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac92e3d5d3e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac92fad9d5a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac92c300187.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657733414a4c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac933e28d5b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac93591fb76.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/wordfile-66ac936984fa8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/audios/files-66ac932b3ba5f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657734c6867b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657734db6bc33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/images/file-657734e7ce435.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

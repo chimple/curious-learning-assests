@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsLugandaLv4",
     "language": "lg",
-    "modified": "2025-09-02T07:15:26.522767+00:00",
-    "published": "2025-09-02T07:15:26.522767+00:00",
+    "modified": "2025-09-02T11:18:43.263793+00:00",
+    "published": "2025-09-02T11:18:43.263793+00:00",
     "description": "Interactive learning lesson: Friends Lugandan Level 4",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FriendsLugandaLv4.json",
+      "href": "https://curious-reader.web.app/lessons/book/FriendsLugandaLv4.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/friends.png",
+      "href": "https://curious-reader.web.app/appIcons/friends.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,531 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/friends.png",
+      "href": "https://curious-reader.web.app/appIcons/friends.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eec172dba8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eefbd78740.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd19e40762.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd1b434759.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd1d08cef7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd1ed2df7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbd11a75251.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eaa5be44fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd36584b26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd38382362.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd39c7e1db.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbd20e8346e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eaaf72c1e1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd555239d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd62508f53.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd679513ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd68c33bb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd6a3330f1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd6ba71c88.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd6c9ae6d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd6df32186.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd6f07233f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbd46163b4f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ead11f0668.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd73c46184.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd77169921.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd782c4aac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd79f0b9a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd7d1a4fdf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd7edbbb85.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbd71cac7eb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eb063ee94e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd840eadc8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd8537cf98.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd8679a0d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd87cc7de8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbd89606daf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbd8211131c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ecc59ee8f9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe761d08b7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe77c13cdf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe7932fb1e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe7a7c2a73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe7d4735ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe7ed81868.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe806f2734.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbe742decd1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eb37e56dd2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe845bde41.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe85c5be7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe872b90d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe882e63d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe897885f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbe82b2f836.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eb73d03969.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe8daeb315.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe8f57c937.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe90fd4a83.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe928272f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe976d5357.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe98d0d1ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe9a2b3b36.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbe8be4d7c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eb89609ed6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbe9f607788.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea0c08595.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea1c22aab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea2ae9fb1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbe9d93b066.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618eb96526d0d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea62f34a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea72b21ce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65cbea856246e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65cbea478ccde.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ebb55f4134.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd265addf1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd2955c0e5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd2c1227fa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd2d47d736.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd2f088788.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd243507a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ecd7fc659d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd33681b32.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd3477a691.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd35cb23ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd31935ef9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ebd51e59a0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd3a0a6e16.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd3bbc86d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd3d48046d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd41c979ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd3824bb7a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ebe5e14981.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd47129069.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd4929c4d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd4a48dbd0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd44f6a088.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ebfb3bf920.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd4decaf25.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd4ee14bb1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd4bff09d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ecf61254ef.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd53423249.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd617b9dd4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd631e5974.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd640658f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd517a2cee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ec1d1dba5b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd682dc234.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd6941ab71.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd66281c77.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-618ec2e9676e8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd6cf6171e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd767df52a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/wordfile-65ccd7e1a37fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/audios/files-65ccd6b5dfe64.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-61faf81aea46b.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-61f9b09eb5330.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/images/file-61f9b3987a86d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsLugandaLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsLugandaLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundUkrainian",
     "language": "uk",
-    "modified": "2025-09-02T07:15:26.514677+00:00",
-    "published": "2025-09-02T07:15:26.514677+00:00",
+    "modified": "2025-09-02T11:13:02.918982+00:00",
+    "published": "2025-09-02T11:13:02.918982+00:00",
     "description": "Interactive learning lesson: Playground Ukrainian",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundUkrainian.json",
+      "href": "https://curious-reader.web.app/lessons/book/PlaygroundUkrainian.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,435 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/playground.png",
+      "href": "https://curious-reader.web.app/appIcons/playground.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-65771e0ae63e0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-6577290f7836f.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773b3e464f7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773b5435978.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773b6b81683.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773b824f4ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773b9f8626a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65773bb979bd5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65773b198ac6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-65771ef884e6f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657748a8317e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774880d76bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774927186ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577494364374.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577495929f3d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-657748503e127.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-65772c8628500.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657749b0ea18c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657749cbabf43.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657749e4a6271.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657749fcaca31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774a163e627.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774997576c4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-65772f77b3a8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774a7973e52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774a8db62d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774aa68758a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774aca1b743.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ae2174f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774a643b79f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-65772fd79f9c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774b11e6080.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774b279db51.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774b3804ed2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774b522670a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774b67e7631.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774afd1b6df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657730203cd25.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ba387f15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774bc0db28c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774bd659066.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774be67da93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774bfe9085a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c11ce3ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c263a8f9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774b8350944.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-6577306a54903.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c58df4af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c6d768aa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c80628d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774c966c707.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774cade05af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774cc3baeef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ce225211.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774c401f6ab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657730ac1c0b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774d1206066.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774d2f2360a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774d4a65f50.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774e1330b8d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774e2e461f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774e52b2cca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774d0057f3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657730e66c7cb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774e849abe2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774e975eba3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ea8910cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ebe007fe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774ed439f7f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774eecb1015.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774e6a1eb02.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-6577312023aac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774f17088b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774f3490342.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774f47c77b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774f5e895ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774f9585f16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774f030b467.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657732a5856b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774fc2ac2e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774fd688f18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65774fec30c49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-65775006a5f78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577501934473.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-65774faced734.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657733414a4c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577503d4c379.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577504f5e629.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577505f5d04d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-6577507e22f7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/wordfile-657750987b0d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/audios/files-6577502b4f632.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657734c6867b2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657734db6bc33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/images/file-657734e7ce435.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundUkrainian",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/PlaygroundUkrainian/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

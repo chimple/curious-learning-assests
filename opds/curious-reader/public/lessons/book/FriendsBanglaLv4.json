@@ -9,8 +9,8 @@
     "author": "Curious Reader",
     "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsBanglaLv4",
     "language": "bn",
-    "modified": "2025-09-02T07:15:26.531179+00:00",
-    "published": "2025-09-02T07:15:26.531179+00:00",
+    "modified": "2025-09-02T11:27:27.025344+00:00",
+    "published": "2025-09-02T11:27:27.025344+00:00",
     "description": "Interactive learning lesson: Friends Bangla Level 4",
     "subject": [
       "Education",
@@ -21,7 +21,7 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FriendsBanglaLv4.json",
+      "href": "https://curious-reader.web.app/lessons/book/FriendsBanglaLv4.json",
       "type": "application/webpub+json"
     },
     {
@@ -32,7 +32,7 @@
   ],
   "images": [
     {
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/friends.png",
+      "href": "https://curious-reader.web.app/appIcons/friends.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -48,11 +48,651 @@
   "resources": [
     {
       "type": "image/png",
-      "href": "https://curiousreader-respect-ftm.web.app/appIcons/friends.png",
+      "href": "https://curious-reader.web.app/appIcons/friends.png",
       "properties": {
         "width": 128,
         "height": 128
       }
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eec172dba8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eefbd78740.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67517f4170bd2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67517f53e0df1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67517f6708063.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668bf5c1dcbef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eaa5be44fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6763124ac7cd3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6763127c5ff27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-676312cd969d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-676312f4893cc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-6763121139127.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eaaf72c1e1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675183786816d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67518389793f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67583523c6890.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67518fbaf2c90.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67518fce5d3ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67518fe2e9829.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67518ff67d4e0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751900c6ceac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668bf821a55f8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ead11f0668.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675190b17aa8b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675190c7c1a92.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675190db35a0e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675190eca8fc1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675190fcd9a86.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751910c55245.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751911dc8f2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668bfb089b2aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eb063ee94e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751913d6b103.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191535b711.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191651dbc7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191780f310.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751918869f54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751919818db0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191ac25e15.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-6735754005d7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ecc59ee8f9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191c6bf171.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191d8dbec7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191ecb4bc6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675191fd34762.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751920d5d645.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751921f36105.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67519233751e6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668bffba44ab9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eb37e56dd2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192645ceea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67519279c1f9d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751928aa4f30.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751929b655e2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192aae2231.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192bb162d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192cc9e392.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c020f90459.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eb73d03969.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192e6a9069.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675192f61b122.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-67519306a8b5a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751931771a11.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675193297009a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751933a7bbb9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751934b6f35e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751935c2cdf8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751936ca52b1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751937d47bda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751938e3c97d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751939f8e2c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c2541cd6a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eb89609ed6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675193b5e9f90.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675193c680fb3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675193db1ce56.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675193ed73a64.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751940016d6c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c28c9d4a31.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618eb96526d0d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b0b55b174.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b0e7cb837.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b0f894d82.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b10b0c183.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b11c83adc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c2b0c7374d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ebb55f4134.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b135bdee6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b14794d97.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b15b5f61b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b16c8d44a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b17bb9294.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c2d96ddcfb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ecd7fc659d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b196b8d8c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b1a7d9ca8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b1b85cfc0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b1c8f291e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b1d901ec3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c2f8962e2f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ebd51e59a0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b1f039052.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b201b5194.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b213b6512.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b2276af41.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b239255d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b248d4165.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6752879eb3db8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c314090f76.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ebe5e14981.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b27ecee56.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b2918ef60.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b2a1512ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b2b06c9c9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675835aa09cb5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c33eeb4186.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ebfb3bf920.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b30b466c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b3258140e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b337b437b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b34ae754d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b35c618b5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c355a3dd7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ecf61254ef.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b37490648.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b38850fdd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b398d1fe8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b3b70e6f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-675835c8796a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c36de6ef91.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ec1d1dba5b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b3e2ab56c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b3f5846d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b4079a92f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b417d8810.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b4293f8f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c384c62308.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-618ec2e9676e8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b4427a381.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b4539bf24.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b465a2c69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b47936b23.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b48a4f9b5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b49b66a5b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/wordfile-6751b4b107000.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/audios/files-668c39c5f266e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-61faf81aea46b.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-61f9b09eb5330.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/images/file-61f9b3987a86d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsBanglaLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FriendsBanglaLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }
