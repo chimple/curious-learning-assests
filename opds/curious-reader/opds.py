@@ -481,12 +481,7 @@ def list_audio_urls_for_assessment(base_out_url: str, assess_root: Path, dataset
             if file.suffix.lower() in audio_extensions:
                 urls.append(f"{base_out_url}/web-apps/assessment/{dataset}/{file.name}")
     
-    # Add common assessment audio files if they weren't found
-    common_audio_files = ["Correct.wav", "Incorrect.wav", "Tap.wav", "correct.mp3", "incorrect.mp3"]
-    for audio_file in common_audio_files:
-        url = f"{base_out_url}/web-apps/assessment/audioAsset/{audio_file}"
-        if url not in urls:
-            urls.append(url)
+
     
     # Remove duplicates and sort
     return sorted(list(set(urls)))
