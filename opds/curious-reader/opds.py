@@ -604,9 +604,13 @@ def build_assessment_manifest(
     icon_rel_path: str,
     audio_urls: List[str],
     additional_resource_urls: Optional[List[str]] = None,
+    assets_base_url: Optional[str] = None,
+    self_base_url: Optional[str] = None,
 ) -> Dict[str, Any]:
     modified = now_iso8601()
-    icon_abs_url = f"{base_out_url}/{icon_rel_path}"
+    # For assessment, allow overriding the asset base domain (e.g., curious-reader.web.app)
+    assets_base = (assets_base_url or base_out_url).rstrip("/")
+    icon_abs_url = f"{assets_base}/{icon_rel_path}"
     open_access = f"https://curiousreader-respect-assessment.web.app/?lesson_id={dataset}"
 
     resources: List[Dict[str, Any]] = [
@@ -645,7 +649,8 @@ def build_assessment_manifest(
         "links": [
             {
                 "rel": "self",
-                "href": f"{base_out_url}/lessons/data/{dataset}.json",
+                # Allow self link to be served from a different base (e.g., curious-reader.web.app)
+                "href": f"{(self_base_url or base_out_url).rstrip('/')}/lessons/data/{dataset}.json",
                 "type": "application/webpub+json",
             },
             {
@@ -1058,6 +1063,8 @@ def generate(
             icon_rel_path=icon_rel,
             audio_urls=audio_urls,
             additional_resource_urls=addl_urls,
+            assets_base_url=web_apps_assets_base_url,
+            self_base_url=web_apps_assets_base_url,
         )
         write_json(public_dir / f"lessons/data/{dataset}.json", manifest)
         if verbose:
