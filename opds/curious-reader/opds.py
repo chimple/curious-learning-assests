@@ -1002,10 +1002,13 @@ def generate(
         write_json(public_dir / f"grades/{lang_code}.json", grades_feed)
 
     # 3) Assessment lessons (data/*)
-    # Use assessment domain for assessment assets regardless of --base-out-url
-    assessment_base_url = "https://curiousreader-respect-assessment.web.app"
-    # Load common assessment assets once
-    common_assessment_urls = load_assessment_common_assets(assessment_base_url, Path(__file__).parent)
+    # Domains:
+    # - Common assets (img/css/etc.) stay on assessment domain
+    # - Web app assets under /web-apps/assessment/* must use curious-reader.web.app
+    assessment_common_base_url = "https://curiousreader-respect-assessment.web.app"
+    web_apps_assets_base_url = "https://curious-reader.web.app"
+    # Load common assessment assets once (uses assessment domain)
+    common_assessment_urls = load_assessment_common_assets(assessment_common_base_url, Path(__file__).parent)
 
     for app in web_apps:
         if classify_web_app(app) != "assessment":
@@ -1018,11 +1021,14 @@ def generate(
         lang_code = app.get("langCode", "")
         title = app.get("title", f"Assessment {dataset}")
         audio_urls = list_audio_urls_for_assessment(base_out_url, assessment_root, dataset)
-        # Remap any audio URLs rooted at /web-apps/assessment to assessment domain
+        # Remap any /web-apps/assessment URLs to the curious-reader domain
         audio_urls = [
-            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{assessment_base_url}/web-apps/assessment/")
-            if 
-            u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else u
+            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
+            if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else
+            (
+                u.replace(f"{assessment_common_base_url}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
+                if u.startswith(f"{assessment_common_base_url}/web-apps/assessment/") else u
+            )
             for u in audio_urls
         ]
         saved_assess_urls: List[str] = []
@@ -1039,10 +1045,13 @@ def generate(
         if verbose and crawl_resources_enabled:
             print(f"\n[ASSESS] dataset={dataset} lang={lang_code} saved_urls={len(saved_assess_urls)}")
         # Merge common assessment assets with any crawled URLs
-        # Ensure any crawled /web-apps/assessment URLs also use assessment domain
+        # Ensure any crawled /web-apps/assessment URLs also use the curious-reader domain
         saved_assess_urls = [
-            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{assessment_base_url}/web-apps/assessment/")
-            if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else u
+            (
+                u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{web_apps_assets_base_url}/web-apps/assessment/")
+                if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/")
+                else u
+            )
             for u in (saved_assess_urls or [])
         ]
         addl_urls = list(dict.fromkeys(saved_assess_urls + common_assessment_urls))
