@@ -12,6 +12,7 @@ from urllib.parse import urljoin
 import urllib.request
 from typing import Dict, List, Any, Optional, Tuple
 from urllib.parse import urlparse, parse_qs
+from urllib.parse import quote as urlquote
 from datetime import datetime, timezone
 
 
@@ -86,6 +87,18 @@ def guess_mime_type_from_url(url: str) -> str:
     if lowered.endswith(".map"):
         return "application/json"
     return "application/octet-stream"
+
+
+def encode_path_segments(path: str) -> str:
+    """Percent-encode each segment of a URL path, preserving slashes.
+
+    Example: "img/survey/hot plate.jpeg" -> "img/survey/hot%20plate.jpeg"
+    """
+    try:
+        parts = [p for p in path.split("/")]
+        return "/".join(urlquote(p, safe="") for p in parts)
+    except Exception:
+        return path
 
 
 def _static_discover_from_html(page_url: str, timeout_ms: int, verbose: bool) -> List[str]:
@@ -260,6 +273,64 @@ def crawl_resources_for_url(
 
     # Limit and return
     return (collected_urls[:max_items], saved_local_urls[:max_items])
+
+
+def _collect_files_from_tree(node: Dict[str, Any], out: List[str]) -> None:
+    """Recursively collect file 'path' entries from a tree object.
+
+    The input is expected to follow the structure in
+    `assessment_common_assests.json`, with keys: name, type, path, children.
+    """
+    try:
+        ntype = node.get("type")
+        if ntype == "file":
+            p = node.get("path")
+            if isinstance(p, str) and p:
+                out.append(p.lstrip("/"))
+        elif ntype == "folder":
+            for child in node.get("children", []) or []:
+                _collect_files_from_tree(child, out)
+    except Exception:
+        # Be resilient to malformed nodes
+        return
+
+
+def load_assessment_common_assets(assets_base_url: str, base_dir: Path) -> List[str]:
+    """Load common assessment assets from assessment_common_assests.json and
+    map them to absolute URLs under /web-apps/assessment/.
+
+    Returns a list of absolute URLs suitable for inclusion in manifest resources.
+    """
+    json_path = base_dir / "assessment_common_assests.json"
+    if not json_path.exists():
+        return []
+    try:
+        tree = read_json(json_path)
+    except Exception:
+        return []
+
+    file_paths: List[str] = []
+    _collect_files_from_tree(tree, file_paths)
+
+    urls: List[str] = []
+    # For assessment common assets, they are expected to be served from the domain root
+    # e.g., https://curiousreader-respect-assessment.web.app/img/... (strip leading 'dist/')
+    prefix = f"{assets_base_url.rstrip('/')}/"
+    for rel in file_paths:
+        # Ensure forward slashes and trim leading ./ if any
+        rel_norm = rel.replace("\\", "/").lstrip("./")
+        if rel_norm.startswith("dist/"):
+            rel_norm = rel_norm[len("dist/"):]
+        rel_norm = encode_path_segments(rel_norm)
+        urls.append(prefix + rel_norm)
+    # Deduplicate while preserving order
+    seen: set[str] = set()
+    deduped: List[str] = []
+    for u in urls:
+        if u not in seen:
+            seen.add(u)
+            deduped.append(u)
+    return deduped
 
 
 def build_opds_feed(base_out_url: str, web_apps: List[Dict[str, Any]], out_path: Path) -> None:
@@ -931,6 +1002,11 @@ def generate(
         write_json(public_dir / f"grades/{lang_code}.json", grades_feed)
 
     # 3) Assessment lessons (data/*)
+    # Use assessment domain for assessment assets regardless of --base-out-url
+    assessment_base_url = "https://curiousreader-respect-assessment.web.app"
+    # Load common assessment assets once
+    common_assessment_urls = load_assessment_common_assets(assessment_base_url, Path(__file__).parent)
+
     for app in web_apps:
         if classify_web_app(app) != "assessment":
             continue
@@ -942,6 +1018,13 @@ def generate(
         lang_code = app.get("langCode", "")
         title = app.get("title", f"Assessment {dataset}")
         audio_urls = list_audio_urls_for_assessment(base_out_url, assessment_root, dataset)
+        # Remap any audio URLs rooted at /web-apps/assessment to assessment domain
+        audio_urls = [
+            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{assessment_base_url}/web-apps/assessment/")
+            if 
+            u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else u
+            for u in audio_urls
+        ]
         saved_assess_urls: List[str] = []
         if crawl_resources_enabled:
             save_path = public_dir / "external_resources"
@@ -955,6 +1038,14 @@ def generate(
             )
         if verbose and crawl_resources_enabled:
             print(f"\n[ASSESS] dataset={dataset} lang={lang_code} saved_urls={len(saved_assess_urls)}")
+        # Merge common assessment assets with any crawled URLs
+        # Ensure any crawled /web-apps/assessment URLs also use assessment domain
+        saved_assess_urls = [
+            u.replace(f"{base_out_url.rstrip('/')}/web-apps/assessment/", f"{assessment_base_url}/web-apps/assessment/")
+            if u.startswith(f"{base_out_url.rstrip('/')}/web-apps/assessment/") else u
+            for u in (saved_assess_urls or [])
+        ]
+        addl_urls = list(dict.fromkeys(saved_assess_urls + common_assessment_urls))
         manifest = build_assessment_manifest(
             base_out_url=base_out_url,
             dataset=dataset,
@@ -962,7 +1053,7 @@ def generate(
             lang_code=lang_code,
             icon_rel_path=icon_rel,
             audio_urls=audio_urls,
-            additional_resource_urls=saved_assess_urls,
+            additional_resource_urls=addl_urls,
         )
         write_json(public_dir / f"lessons/data/{dataset}.json", manifest)
         if verbose:
