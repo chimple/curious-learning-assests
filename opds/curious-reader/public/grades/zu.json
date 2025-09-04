@@ -12,21 +12,21 @@
   "publications": [
     {
       "metadata": {
-        "title": "Feed The Monster Zulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/cr_lang/zulu",
+        "title": "1",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=1",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027219+00:00"
+        "modified": "2025-09-02T10:34:47.926545+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/cr_lang/zulu.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_1.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/cr_lang/zulu.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=1",
           "type": "text/html"
         }
       ],
@@ -41,21 +41,2312 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader LetsFlyIsiZuluLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/LetsFlyIsiZuluLv4",
+        "title": "2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=2",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027357+00:00"
+        "modified": "2025-09-02T10:34:47.926569+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/LetsFlyIsiZuluLv4.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/LetsFlyIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=2",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=3",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926577+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_3.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=3",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=4",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926584+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=4",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "5",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=5",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926590+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_5.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=5",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "6",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=6",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926596+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=6",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "7",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=7",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926601+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_7.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=7",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "8",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=8",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926606+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_8.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=8",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "9",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=9",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926613+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_9.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=9",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "10",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=10",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926619+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_10.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=10",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "11",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=11",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926625+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_11.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=11",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "12",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=12",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926630+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_12.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=12",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "13",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=13",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926635+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_13.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=13",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "14",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=14",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926641+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_14.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=14",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "15",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=15",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926647+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_15.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=15",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "16",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=16",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926652+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_16.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=16",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "17",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=17",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926657+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_17.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=17",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "18",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=18",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926663+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_18.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=18",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "19",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=19",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926668+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_19.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=19",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=20",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926673+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_20.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=20",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "21",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=21",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926678+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_21.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=21",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "22",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=22",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926684+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_22.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=22",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "23",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=23",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926689+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_23.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=23",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "24",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=24",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926694+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_24.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=24",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "25",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=25",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926700+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_25.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=25",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "26",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=26",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926705+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_26.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=26",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "27",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=27",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926711+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_27.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=27",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "28",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=28",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926718+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_28.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=28",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "29",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=29",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926725+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_29.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=29",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "30",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=30",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926731+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_30.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=30",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "31",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=31",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926738+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_31.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=31",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "32",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=32",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926744+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_32.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=32",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "33",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=33",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926751+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_33.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=33",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "34",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=34",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926757+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_34.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=34",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "35",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=35",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926763+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_35.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=35",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "36",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=36",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926769+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_36.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=36",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "37",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=37",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926775+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_37.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=37",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "38",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=38",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926781+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_38.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=38",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "39",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=39",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926787+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_39.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=39",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "40",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=40",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926793+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_40.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=40",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "41",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=41",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926799+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_41.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=41",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "42",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=42",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926805+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_42.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=42",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "43",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=43",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926811+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_43.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=43",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "44",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=44",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926817+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_44.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=44",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "45",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=45",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926824+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_45.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=45",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "46",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=46",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926830+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_46.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=46",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "47",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=47",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926836+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_47.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=47",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "48",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=48",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926841+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_48.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=48",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "49",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=49",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926846+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_49.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=49",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "50",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=50",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926852+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_50.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=50",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "51",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=51",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926858+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_51.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=51",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "52",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=52",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926865+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_52.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=52",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "53",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=53",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926871+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_53.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=53",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "54",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=54",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926877+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_54.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=54",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "55",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=55",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926883+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_55.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=55",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "56",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=56",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926889+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_56.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=56",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "57",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=57",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926895+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_57.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=57",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "58",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=58",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926901+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_58.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=58",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "59",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=59",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926907+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_59.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=59",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "60",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=60",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926914+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_60.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=60",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "61",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=61",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926920+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_61.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=61",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "62",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=62",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926926+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_62.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=62",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "63",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=63",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926932+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_63.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=63",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "64",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=64",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926938+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_64.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=64",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "65",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=65",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926944+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_65.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=65",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "66",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=66",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926951+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_66.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=66",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "67",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=67",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926957+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_67.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=67",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "68",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=68",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926963+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_68.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=68",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "69",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=69",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926970+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_69.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=69",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "70",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=70",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926976+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_70.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=70",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "71",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=71",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926982+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_71.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=71",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "72",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=72",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926988+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_72.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=72",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "73",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=73",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.926994+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_73.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=73",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "74",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=74",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.927001+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_74.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=74",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "75",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=75",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.932960+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_75.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=75",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "76",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=76",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.932975+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_76.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=76",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "77",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=77",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.932982+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_77.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=77",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "78",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=78",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.932990+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_78.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=78",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "79",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=79",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.932995+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_79.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=79",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "80",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=80",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.933001+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_zu_80.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=zulu&lesson_id=80",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_zulu_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "LetsFlyIsiZuluLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyIsiZuluLv4",
+        "language": "zu",
+        "modified": "2025-09-02T10:34:47.933240+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/LetsFlyIsiZuluLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -70,21 +2361,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader HideAndSeekIsiZuluLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekIsiZuluLv4",
+        "title": "HideAndSeekIsiZuluLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekIsiZuluLv4",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027465+00:00"
+        "modified": "2025-09-02T10:34:47.933288+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekIsiZuluLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/HideAndSeekIsiZuluLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/HideAndSeekIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -99,21 +2390,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader ColoursZuluLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ColoursIsiZuluLv4",
+        "title": "ColoursZuluLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursIsiZuluLv4",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027556+00:00"
+        "modified": "2025-09-02T10:34:47.933325+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ColoursIsiZuluLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ColoursIsiZuluLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ColoursIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -128,21 +2419,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader TheBeeAndTheElephantZuluLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantIsiZuluLv4",
+        "title": "TheBeeAndTheElephantZuluLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantIsiZuluLv4",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027670+00:00"
+        "modified": "2025-09-02T10:34:47.933353+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantIsiZuluLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheBeeAndTheElephantIsiZuluLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -157,21 +2448,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader TheLostDollZuluLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheLostDollIsiZuluLv4",
+        "title": "TheLostDollZuluLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollIsiZuluLv4",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027768+00:00"
+        "modified": "2025-09-02T10:34:47.933378+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheLostDollIsiZuluLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLostDollIsiZuluLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheLostDollIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -186,21 +2477,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader The Lion Runs Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksIsiZulu",
+        "title": "The Lion Runs Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027855+00:00"
+        "modified": "2025-09-02T10:34:47.933418+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLionRunsAndTheCowWalksIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksIsiZulu",
           "type": "text/html"
         }
       ],
@@ -215,21 +2506,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Dads Boots Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/DadsBootsIsiZulu",
+        "title": "Dads Boots Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.027974+00:00"
+        "modified": "2025-09-02T10:34:47.933443+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/DadsBootsIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/DadsBootsIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/DadsBootsIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsIsiZulu",
           "type": "text/html"
         }
       ],
@@ -244,21 +2535,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Who Can Help Me Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeIsiZulu",
+        "title": "Who Can Help Me Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028067+00:00"
+        "modified": "2025-09-02T10:34:47.933500+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeIsiZulu",
           "type": "text/html"
         }
       ],
@@ -273,21 +2564,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader What Day Is It Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItIsiZulu",
+        "title": "What Day Is It Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028152+00:00"
+        "modified": "2025-09-02T10:34:47.933523+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhatDayIsItIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/WhatDayIsItIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItIsiZulu",
           "type": "text/html"
         }
       ],
@@ -302,21 +2593,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Tall And Short Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TallAndShortIsiZuluLv4",
+        "title": "Tall And Short Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortIsiZuluLv4",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028237+00:00"
+        "modified": "2025-09-02T10:34:47.933547+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TallAndShortIsiZuluLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TallAndShortIsiZuluLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TallAndShortIsiZuluLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortIsiZuluLv4",
           "type": "text/html"
         }
       ],
@@ -331,21 +2622,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Playground Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/PlaygroundIsiZulu",
+        "title": "Playground Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028320+00:00"
+        "modified": "2025-09-02T10:34:47.933571+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/PlaygroundIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/PlaygroundIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundIsiZulu",
           "type": "text/html"
         }
       ],
@@ -360,21 +2651,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader My First Day At The Market Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketIsiZulu",
+        "title": "My First Day At The Market Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028408+00:00"
+        "modified": "2025-09-02T10:34:47.933595+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/MyFirstDayAtTheMarketIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/MyFirstDayAtTheMarketIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
           "type": "text/html"
         }
       ],
@@ -389,21 +2680,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Frog's Starry Wish Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishIsiZulu",
+        "title": "Frog's Starry Wish Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028501+00:00"
+        "modified": "2025-09-02T10:34:47.933771+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FrogsStarryWishIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishIsiZulu",
           "type": "text/html"
         }
       ],
@@ -418,21 +2709,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Chakus Cycle Isizulu",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleIsiZulu",
+        "title": "Chakus Cycle Isizulu",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleIsiZulu",
         "language": "zu",
-        "modified": "2025-06-25T10:36:00.028618+00:00"
+        "modified": "2025-09-02T10:34:47.933852+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleIsiZulu.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ChakusCycleIsiZulu.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ChakusCycleIsiZulu.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleIsiZulu",
           "type": "text/html"
         }
       ],

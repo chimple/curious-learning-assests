@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader What Day Is It Lugandan",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItLuganda",
+    "title": "What Day Is It Lugandan",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItLuganda",
     "language": "lg",
-    "modified": "2025-06-25T10:36:00.060234+00:00",
-    "published": "2025-06-25T10:36:00.060234+00:00",
-    "description": "Interactive learning lesson: Curious Reader What Day Is It Lugandan",
+    "modified": "2025-09-02T11:16:50.300338+00:00",
+    "published": "2025-09-02T11:16:50.300338+00:00",
+    "description": "Interactive learning lesson: What Day Is It Lugandan",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhatDayIsItLuganda.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItLuganda",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhatDayIsItLuganda.html",
-      "title": "Curious Reader What Day Is It Lugandan"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItLuganda",
+      "title": "What Day Is It Lugandan"
     }
   ],
   "resources": [
@@ -55,15 +55,732 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhatDayIsItLuganda.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583236a69c90.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-658328e766fda.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9cf5a4c89.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9d06e27a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9d18953a2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9d8415c33.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9d9b6004b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9dbd460b9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9dd162807.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cb9c33cd2df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832a5032f10.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9e65b343f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9e7ce463c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9e935021c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9eb9ba60b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9eed5b666.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9f3e0ebf6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9f56845d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cb9f68a3561.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cb9e48f30f8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832b0b0d2b0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba1819b7ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba192e5343.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba1a8847e5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba1fb70b05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba21592832.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba22fb2d0d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba262eefab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cba16c29a5e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832c012cdae.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba2b9cc61c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba2d1e21ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba2e3388d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba32854153.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba3446538f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba35660ed4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba368f24a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba37c242e8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba394894bb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba3a62bb1b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba5657f31c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba5815116b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba59c6bc2c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba5b56a040.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba5c6484cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba5da1433a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cba299aabb0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832d06b9d3c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba80f7ee85.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba827efdce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba850a6ca9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba87509a6a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba88b03802.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba8a5d71e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba8bf5d611.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba8e21611d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba8f7cad3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba9088f666.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba99586aed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba9b303836.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba9d2589ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cba9e7a8778.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaa05dbc44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaa222bbfe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaa3b93307.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaa53c3d66.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cba7f789a33.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832daf4b9a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbacfe38e9e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad146adf8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad2544061.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad41b00e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad675af3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad7750c73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbad8e6d98d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbada0864f0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbadb4185c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbadc7509d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbacd7a6a48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832df23c7df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbae514f5a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbae9d730b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaec72fd71.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaedb1a99b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbaeedbf848.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbae221a02f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832e622eb7a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb18767c52.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb344d5952.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb35b28af1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb3701ec62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb3868abe8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb397510ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb3bd8d912.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb3ce1bdcb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb3ddb62b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb48fcd144.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb4aecb251.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb4c09b126.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbb0ac31f73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832ed786e36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7638aaee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb77ae6cc2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb78f08f33.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7a290d2f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7bbb80b5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7cba79b9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7ea29c2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb7ffabf7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb811a3c37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb8cb195ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb8e81d7b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb905eaebd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb9190d4d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb936bc0a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbb94dbe3d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbb74b7a543.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-65832f211fed6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbae6721d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbafe51fd4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbb192ddb8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbb2850e93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbb910aade.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbba2d0d2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbbda8fa46.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbbf2cec2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbc05d7cf9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbc17826ab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbc7d0bfc9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbc93ed0d1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbcb1f18d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbcc5afdc4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbcd4ca702.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbd15436ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbd2689240.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbb97b3a197.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583300a91ffe.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbdd7a6eb3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbdec1f3b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe0165bf2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe1504abc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe38152ea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe4a39e16.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe5b8b9b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe712d370.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbe87be792.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbbd910f4eb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583305d21bdd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbec164af4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbf01e9225.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbf3067751.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbf6151e29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbbead091be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-658330d744eb4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbf9d0b167.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbfb1275f7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbbfc103681.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbbf7f46d6d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583312339a2f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc042b5eb6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc0651c054.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc07664d67.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc0bd0b686.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc0d60976f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc0e67fbfa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc10041b93.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/wordfile-65cbc112aa280.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/audios/files-65cbbfe518dd9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-658332336bb23.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583323f17c54.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/images/file-6583324d18788.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItLuganda",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItLuganda/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

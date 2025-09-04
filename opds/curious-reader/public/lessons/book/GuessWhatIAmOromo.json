@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Guess What I Am Oromo",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/GuessWhatIAmOromo",
+    "title": "Guess What I Am Oromo",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=GuessWhatIAmOromo",
     "language": "om",
-    "modified": "2025-06-25T10:36:00.134895+00:00",
-    "published": "2025-06-25T10:36:00.134895+00:00",
-    "description": "Interactive learning lesson: Curious Reader Guess What I Am Oromo",
+    "modified": "2025-09-02T11:03:56.992623+00:00",
+    "published": "2025-09-02T11:03:56.992623+00:00",
+    "description": "Interactive learning lesson: Guess What I Am Oromo",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/GuessWhatIAmOromo.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=GuessWhatIAmOromo",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/GuessWhatIAmOromo.html",
-      "title": "Curious Reader Guess What I Am Oromo"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=GuessWhatIAmOromo",
+      "title": "Guess What I Am Oromo"
     }
   ],
   "resources": [
@@ -55,15 +55,744 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/GuessWhatIAmOromo.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3df5ab2d30.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3df8b1702f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f491f6c03f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f493c1ea36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-6721e57759e1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4977ce023.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f49a13e8c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-6721e58531332.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e3196abd81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3df9e47757.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a021c1b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a17aaadf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a4b03968.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a5a7a64f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a87aa324.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4a9e301ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4acb47300.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4ae55735b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4af8f002b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31a89dd13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708dafb0faa1.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4b4f4bc70.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4b5c28877.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4b6b2daf2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31b59b36b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dfab1ca79.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4d02f1709.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4d1f72d3f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4d3f8b53c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4d6fc693b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4d8eb1fc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4da6093b3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4db5d8f88.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4de1761ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4def1f595.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31c9af8a9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708db5878032.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4e183a28e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4e2694aa8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4e4113d10.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31d95e8bf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dfb6e1fb1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4e8464d0a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4e96c1321.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4ea8a2464.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4ed483a7d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4f092c6ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4f2c64502.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4f3c66c7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4f4bd41f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4f5c34403.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31e90b260.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708dba293fc9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4fc034e0a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4fcd6969a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f4febc6743.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e31f65ff05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dfc3c6e00.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f51594d1a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f51833d2fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f51b1c4389.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f51da81753.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f521a8dd54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f523140c1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f524f88ed7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f526d2e443.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f52885f1bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e32075a622.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708df08aa0a0.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f52ad5039a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f52b9448db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f52c6e15ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e321704daa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dfd4b9228.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f53294ac63.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5338d8f6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-6721e5b12b96a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5359c7c7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f539881715.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f53f0956d6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f53fb8aae6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5409bdc34.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e322991613.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708df235c554.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f548879508.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f54934970d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f549fc6b86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e323a0fea6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dfe3283b6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f552c9d7ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f553cef223.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f554978e3f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f55580c12e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f556a15c4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f557ec95dd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f559213429.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f55ae1e32d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f55bebb210.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e3259c060f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708df3ab2ff1.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f567625354.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f56837bb79.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5692748c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e326cc0dda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3dff3586c9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f571adb928.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f573b5c388.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f574a14e30.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f575b4ae0b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f579df0896.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f57abc4f7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f57bd66a6c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f57d3d9512.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f57e494b14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e328105665.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708df8baf33c.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f584564637.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5851b3ea7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f585f8f0e0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670e32921451d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3e00922ecd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f59e68c9be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f59f732591.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a11ded77.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a39505be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a4b982fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a64e3244.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a7a2da51.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5a8ceedd1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5aa0a59b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f59d329b26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708dfa9a8531.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5ac9e9870.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5ad5e732e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5ae63b582.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f5ab8a83c7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3e0185f129.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b3a3b5e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b4d430cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b5dcb10c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b7100700.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b7f7bf69.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b8cc45a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5b9f952fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5bac4c304.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5bba9d1b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5bc8260b1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5bd93fcb1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f5b2fa4927.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708dfc4d5860.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5cacd1607.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5cb98f5be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5cdcde65f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f5c9d34a9f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-66f3e02675b95.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5d3f6ea38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5d52cb62e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5d61aa678.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5da90f54b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5dbccc709.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5dd5bdc3a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5dec908ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e081da64.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e260b6ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e3987018.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e4eb2d49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f5d3046bd3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-6708e00670df8.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e8ae44b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5e9b2266c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5eb85f3b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/wordfile-670f5ecb7838d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/audios/files-670f5e7cc11eb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/images/file-672f13b1c74f4.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=GuessWhatIAmOromo",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/GuessWhatIAmOromo/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

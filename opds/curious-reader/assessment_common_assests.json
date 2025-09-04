@@ -1,0 +1,376 @@
+
+{
+  "name": "dist",
+  "type": "folder",
+  "path": "dist",
+  "children": [
+    {
+      "name": "animation",
+      "type": "folder",
+      "path": "dist/animation",
+      "children": [
+        {
+          "name": "SoundButton.gif",
+          "type": "file",
+          "path": "dist/animation/SoundButton.gif"
+        },
+        {
+          "name": "Star.gif",
+          "type": "file",
+          "path": "dist/animation/Star.gif"
+        }
+      ]
+    },
+    {
+      "name": "img",
+      "type": "folder",
+      "path": "dist/img",
+      "children": [
+        {
+          "name": "SoundButton_Idle.png",
+          "type": "file",
+          "path": "dist/img/SoundButton_Idle.png"
+        },
+        {
+          "name": "Correct.wav",
+          "type": "file",
+          "path": "audioAsset/Correct.wav"
+        },
+        {
+          "name": "bg_crayon-1.png",
+          "type": "file",
+          "path": "dist/img/bg_crayon-1.png"
+        },
+        {
+          "name": "bg_v01.jpg",
+          "type": "file",
+          "path": "dist/img/bg_v01.jpg"
+        },
+        {
+          "name": "chest.png",
+          "type": "file",
+          "path": "dist/img/chest.png"
+        },
+        {
+          "name": "chestprogression",
+          "type": "folder",
+          "path": "dist/img/chestprogression",
+          "children": [
+            {
+              "name": "TreasureChestOpen01.svg",
+              "type": "file",
+              "path": "dist/img/chestprogression/TreasureChestOpen01.svg"
+            },
+            {
+              "name": "TreasureChestOpen02.svg",
+              "type": "file",
+              "path": "dist/img/chestprogression/TreasureChestOpen02.svg"
+            },
+            {
+              "name": "TreasureChestOpen03.svg",
+              "type": "file",
+              "path": "dist/img/chestprogression/TreasureChestOpen03.svg"
+            },
+            {
+              "name": "TreasureChestOpen04.svg",
+              "type": "file",
+              "path": "dist/img/chestprogression/TreasureChestOpen04.svg"
+            }
+          ]
+        },
+        {
+          "name": "hill_v01.png",
+          "type": "file",
+          "path": "dist/img/hill_v01.png"
+        },
+        {
+          "name": "loadingImg.gif",
+          "type": "file",
+          "path": "dist/img/loadingImg.gif"
+        },
+        {
+          "name": "monster.png",
+          "type": "file",
+          "path": "dist/img/monster.png"
+        },
+        {
+          "name": "peekingMonster.js",
+          "type": "file",
+          "path": "dist/img/peekingMonster.js"
+        },
+        {
+          "name": "sound-play-button.svg",
+          "type": "file",
+          "path": "dist/img/sound-play-button.svg"
+        },
+        {
+          "name": "star.png",
+          "type": "file",
+          "path": "dist/img/star.png"
+        },
+        {
+          "name": "star_after_animation.gif",
+          "type": "file",
+          "path": "dist/img/star_after_animation.gif"
+        },
+        {
+          "name": "survey",
+          "type": "folder",
+          "path": "dist/img/survey",
+          "children": [
+            {
+              "name": "Dining table.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/Dining table.jpeg"
+            },
+            {
+              "name": "Hand fan Nigeria.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/Hand fan Nigeria.jpeg"
+            },
+            {
+              "name": "Well and buckets.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/Well and buckets.jpeg"
+            },
+            {
+              "name": "Wood fire.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/Wood fire.jpeg"
+            },
+            {
+              "name": "apartment building.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/apartment building.jpeg"
+            },
+            {
+              "name": "auto_rickshaw.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/auto_rickshaw.jpeg"
+            },
+            {
+              "name": "basket.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/basket.jpeg"
+            },
+            {
+              "name": "car.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/car.jpeg"
+            },
+            {
+              "name": "ceiling fan.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/ceiling fan.jpeg"
+            },
+            {
+              "name": "charcoal cooker.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/charcoal cooker.jpeg"
+            },
+            {
+              "name": "desktop pc.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/desktop pc.jpeg"
+            },
+            {
+              "name": "eat outside.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/eat outside.jpeg"
+            },
+            {
+              "name": "eating at table.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/eating at table.jpeg"
+            },
+            {
+              "name": "eating on the floor.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/eating on the floor.jpeg"
+            },
+            {
+              "name": "gas burners.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/gas burners.jpeg"
+            },
+            {
+              "name": "getting water from river.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/getting water from river.jpeg"
+            },
+            {
+              "name": "hand fan.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/hand fan.jpeg"
+            },
+            {
+              "name": "heat pump unit.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/heat pump unit.jpeg"
+            },
+            {
+              "name": "hot plate.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/hot plate.jpeg"
+            },
+            {
+              "name": "indian stove.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/indian stove.jpeg"
+            },
+            {
+              "name": "laptop.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/laptop.jpeg"
+            },
+            {
+              "name": "laptop_and_phone.jpg",
+              "type": "file",
+              "path": "dist/img/survey/laptop_and_phone.jpg"
+            },
+            {
+              "name": "minibus.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/minibus.jpeg"
+            },
+            {
+              "name": "motor scooter.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/motor scooter.jpeg"
+            },
+            {
+              "name": "none.jpg",
+              "type": "file",
+              "path": "dist/img/survey/none.jpg"
+            },
+            {
+              "name": "over fire.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/over fire.jpeg"
+            },
+            {
+              "name": "public bus.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/public bus.jpeg"
+            },
+            {
+              "name": "refrigerator.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/refrigerator.jpeg"
+            },
+            {
+              "name": "revised_ceiling_fan_split_unit.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/revised_ceiling_fan_split_unit.jpeg"
+            },
+            {
+              "name": "revised_eating_on_the_floor.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/revised_eating_on_the_floor.jpeg"
+            },
+            {
+              "name": "revised_minivan_with_people.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/revised_minivan_with_people.jpeg"
+            },
+            {
+              "name": "revised_open_fridge.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/revised_open_fridge.jpeg"
+            },
+            {
+              "name": "revised_stainless_steel_containers.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/revised_stainless_steel_containers.jpeg"
+            },
+            {
+              "name": "rondoval.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/rondoval.jpeg"
+            },
+            {
+              "name": "small house.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/small house.jpeg"
+            },
+            {
+              "name": "smartphone.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/smartphone.jpeg"
+            },
+            {
+              "name": "standing fan.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/standing fan.jpeg"
+            },
+            {
+              "name": "stove.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/stove.jpeg"
+            },
+            {
+              "name": "sylvanaz-attachments.zip",
+              "type": "file",
+              "path": "dist/img/survey/sylvanaz-attachments.zip"
+            },
+            {
+              "name": "tin containers.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/tin containers.jpeg"
+            },
+            {
+              "name": "tin hut.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/tin hut.jpeg"
+            },
+            {
+              "name": "walking.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/walking.jpeg"
+            },
+            {
+              "name": "wall ac unit.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/wall ac unit.jpeg"
+            },
+            {
+              "name": "water from a truck.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/water from a truck.jpeg"
+            },
+            {
+              "name": "water from the pump.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/water from the pump.jpeg"
+            },
+            {
+              "name": "water tap.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/water tap.jpeg"
+            },
+            {
+              "name": "wooden hut.jpeg",
+              "type": "file",
+              "path": "dist/img/survey/wooden hut.jpeg"
+            },
+            {
+              "name": "BalooBhai2-VariableFont_wght.ttf",
+              "type": "file",
+              "path": "css/BalooBhai2-VariableFont_wght.ttf"
+            },
+            {
+              "name": "Kalam-Bold.ttf",
+              "type": "file",
+              "path": "css/Kalam-Bold.ttf"
+            },
+            {
+              "name": "style.css",
+              "type": "file",
+              "path": "css/style.css"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Come Come Amharic",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ComeComeAmharic",
+    "title": "Come Come Amharic",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
     "language": "am",
-    "modified": "2025-06-25T10:36:00.142423+00:00",
-    "published": "2025-06-25T10:36:00.142423+00:00",
-    "description": "Interactive learning lesson: Curious Reader Come Come Amharic",
+    "modified": "2025-09-02T10:57:43.172186+00:00",
+    "published": "2025-09-02T10:57:43.172186+00:00",
+    "description": "Interactive learning lesson: Come Come Amharic",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ComeComeAmharic.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ComeComeAmharic.html",
-      "title": "Curious Reader Come Come Amharic"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
+      "title": "Come Come Amharic"
     }
   ],
   "resources": [
@@ -55,15 +55,484 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ComeComeAmharic.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-6707bfeec30d6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-67077013b53b3.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae1e08f795.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae1fb7ad38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae2157b191.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae23f225a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae25411e9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae26f9793d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae29b70f31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae2c5c7d0d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae2df9b823.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d54438a2f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d5384ea66.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eae1c51eb40.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-6711fcb45c50a.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae7be52bc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae7d7e56e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae7f5f1712.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae820e86df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae83f21219.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae86077df6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae8b246982.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae8ce3cac4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eae8e803071.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d71ee193c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d7150b005.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eae7a1ac146.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-6707705713647.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaeb6f406b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaeb9810e04.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaebc119090.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaebe20ca93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaebfc367b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaec1253956.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaec2fb5d77.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaec4f4d2bf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaec6c0bdaf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d8a8ae768.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d89f29671.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaeb5b05c55.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d4a510695.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaed94ba1ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaedafa2a54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaedd2cef05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaedeee5c4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaee05ae27f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaee1a2c8a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaee4524ac4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaee69c19bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaee7f99a7d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d8898728a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d87736623.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaed7b83994.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d4c23c73c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf038de52a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf05442e7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf0721cf72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf08d30e56.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf0a477e13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf0d23eb03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf0ea12266.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf1072bbb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf1e928653.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d85a58212.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d84e9bc1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaf01db6050.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d5154174a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf30a64e6c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf3266b95e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf344b9165.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf35e6d3ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf37908597.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf39092187.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf3b625f37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf3ce981fe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf3e09fd6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d8309d93b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d82616469.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaf2ede7ff4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d52d34d6a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf5c80a4af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf5db1f614.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf5fcb1740.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf61b3c5d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf6340c62c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf64a6d645.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf66857121.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf69a70ef9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eaf6c86620d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d80d98a65.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d7fd4da82.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaf5ae7cc14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d5767a89b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafa04bb84f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafa1fe4575.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafa3c3ca21.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafa53df525.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafa7acbb5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafab606157.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafb2a34d99.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafb3edae1d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafb52e2efa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d7dbac100.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-6710d7d112cd4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eaf9efa7313.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-66f3d59c5e7dc.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/wordfile-66eafc6e3380a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/audios/files-66eafc5989928.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/images/file-672f0a9371af7.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ComeComeAmharic",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ComeComeAmharic/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

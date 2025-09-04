@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader HideAndSeekHindiLv4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/HideAndSeekHindiLv4",
+    "title": "HideAndSeekHindiLv4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.885915+00:00",
-    "published": "2025-06-25T10:35:59.885915+00:00",
-    "description": "Interactive learning lesson: Curious Reader HideAndSeekHindiLv4",
+    "modified": "2025-09-02T10:47:49.899749+00:00",
+    "published": "2025-09-02T10:47:49.899749+00:00",
+    "description": "Interactive learning lesson: HideAndSeekHindiLv4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/HideAndSeekHindiLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/HideAndSeekHindiLv4.html",
-      "title": "Curious Reader HideAndSeekHindiLv4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
+      "title": "HideAndSeekHindiLv4"
     }
   ],
   "resources": [
@@ -55,15 +55,408 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/HideAndSeekHindiLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61b119d8b91b9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0f25319ee4.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b0e9ceaa5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b185a224e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b1ed3dfcd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b332d8414.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b39b8b3d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b3c47ffef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b43797ade.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b461ba14e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523b0baeec1a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0f2bf916c1.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b55b04673.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b577621a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b5eb049e1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b62a1a39c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b64eb5884.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523b52cbb2a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0f50c26444.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b68019a2c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b69d26059.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b6d311828.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b6f96cc50.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b712c13d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523b6605d33a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0f78984cdd.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523b75768c48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523bba14dd6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523beacc8091.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523beee118b5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523bf0660291.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523b72d09c42.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0f97f5a778.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c05c8e7d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c09127ec0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c0b11d6b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c15d49ff0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c17c821b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523c02b10e5e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0faa8193a4.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c2145d39f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c235be19c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c269613a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c28b50b6c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c2a19e7c7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523c1f425306.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0fb083e1bb.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c2e9c7e51.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c3152667b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c3470668a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c37337290.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523c3929a34a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523c2cf90e95.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0fbe47eb09.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-652872caab650.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-652872edef56f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6528730d3e4c9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-65287333a749d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6528736722964.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6528737b85785.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-65287393cf7e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-652872b01ac70.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0fc644df28.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cd95ce075.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523ce189f8ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523ce429a94d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523ce72d8fb4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cea29c2b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cebaa105a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523cd73b4aab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0fdae0857e.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cf176469f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cf656e774.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cfb58fd26.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cfcf97e3a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523cfecbbbdd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523cef98e8af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61c0fea69e424.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d04d4ea75.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d06ac59fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d3d7d1d2c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d4160008d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d45644527.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d48dc9a07.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d4b0e2dc6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/wordfile-6523d4e2eceac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/audios/files-6523d020c84cc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/HideAndSeekHindiLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

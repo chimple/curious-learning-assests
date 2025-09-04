@@ -12,21 +12,21 @@
   "publications": [
     {
       "metadata": {
-        "title": "Feed The Monster Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/cr_lang/hindi",
+        "title": "1",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=1",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.885690+00:00"
+        "modified": "2025-09-02T12:03:43.978843+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/cr_lang/hindi.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_1.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/cr_lang/hindi.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=1",
           "type": "text/html"
         }
       ],
@@ -41,21 +41,2225 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader LetsFlyHindiLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/LetsFlyHindiLv4",
+        "title": "2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=2",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.885819+00:00"
+        "modified": "2025-09-02T12:03:43.978867+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/LetsFlyHindiLv4.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/LetsFlyHindiLv4.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=2",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=3",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978875+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_3.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=3",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=4",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978882+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=4",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "5",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=5",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978888+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_5.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=5",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "6",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=6",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978895+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=6",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "7",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=7",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978901+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_7.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=7",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "8",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=8",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978907+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_8.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=8",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "9",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=9",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978913+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_9.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=9",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "10",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=10",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978920+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_10.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=10",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "11",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=11",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978926+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_11.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=11",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "12",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=12",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978932+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_12.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=12",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "13",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=13",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978938+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_13.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=13",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "14",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=14",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978944+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_14.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=14",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "15",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=15",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978950+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_15.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=15",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "16",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=16",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978956+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_16.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=16",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "17",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=17",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978963+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_17.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=17",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "18",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=18",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978969+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_18.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=18",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "19",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=19",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978975+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_19.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=19",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=20",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978982+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_20.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=20",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "21",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=21",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978988+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_21.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=21",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "22",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=22",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.978994+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_22.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=22",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "23",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=23",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979001+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_23.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=23",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "24",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=24",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979019+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_24.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=24",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "25",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=25",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979026+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_25.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=25",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "26",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=26",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979033+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_26.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=26",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "27",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=27",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979040+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_27.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=27",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "28",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=28",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979046+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_28.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=28",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "29",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=29",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979052+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_29.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=29",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "30",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=30",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979058+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_30.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=30",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "31",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=31",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979064+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_31.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=31",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "32",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=32",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979070+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_32.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=32",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "33",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=33",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979076+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_33.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=33",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "34",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=34",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979083+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_34.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=34",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "35",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=35",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979089+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_35.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=35",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "36",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=36",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979094+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_36.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=36",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "37",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=37",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979100+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_37.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=37",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "38",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=38",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979106+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_38.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=38",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "39",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=39",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979112+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_39.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=39",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "40",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=40",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979118+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_40.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=40",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "41",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=41",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979125+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_41.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=41",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "42",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=42",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979132+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_42.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=42",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "43",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=43",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979138+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_43.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=43",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "44",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=44",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979143+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_44.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=44",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "45",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=45",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979150+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_45.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=45",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "46",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=46",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979156+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_46.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=46",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "47",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=47",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979162+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_47.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=47",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "48",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=48",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979169+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_48.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=48",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "49",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=49",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979175+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_49.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=49",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "50",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=50",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979181+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_50.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=50",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "51",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=51",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979187+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_51.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=51",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "52",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=52",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979193+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_52.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=52",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "53",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=53",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979199+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_53.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=53",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "54",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=54",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979206+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_54.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=54",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "55",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=55",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979213+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_55.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=55",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "56",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=56",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979219+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_56.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=56",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "57",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=57",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979225+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_57.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=57",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "58",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=58",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979232+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_58.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=58",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "59",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=59",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979238+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_59.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=59",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "60",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=60",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979244+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_60.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=60",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "61",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=61",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979250+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_61.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=61",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "62",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=62",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979256+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_62.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=62",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "63",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=63",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979263+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_63.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=63",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "64",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=64",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979269+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_64.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=64",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "65",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=65",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979275+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_65.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=65",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "66",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=66",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979282+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_66.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=66",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "67",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=67",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979288+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_67.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=67",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "68",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=68",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979295+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_68.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=68",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "69",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=69",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979302+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_69.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=69",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "70",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=70",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979309+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_70.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=70",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "71",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=71",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979316+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_71.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=71",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "72",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=72",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979323+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_72.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=72",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "73",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=73",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979330+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_73.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=73",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "74",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=74",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979337+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_74.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=74",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "75",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=75",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979344+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_75.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=75",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "76",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=76",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979350+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_76.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=76",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "77",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=77",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979358+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_hi_77.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=77",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_hindi.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "LetsFlyHindiLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyHindiLv4",
+        "language": "hi",
+        "modified": "2025-09-02T12:03:43.979600+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/LetsFlyHindiLv4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyHindiLv4",
           "type": "text/html"
         }
       ],
@@ -70,21 +2274,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader HideAndSeekHindiLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekHindiLv4",
+        "title": "HideAndSeekHindiLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.885915+00:00"
+        "modified": "2025-09-02T12:03:43.979643+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekHindiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/HideAndSeekHindiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/HideAndSeekHindiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekHindiLv4",
           "type": "text/html"
         }
       ],
@@ -99,21 +2303,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader ColoursHindiLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ColoursHindiLv4",
+        "title": "ColoursHindiLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursHindiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.885999+00:00"
+        "modified": "2025-09-02T12:03:43.979673+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ColoursHindiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ColoursHindiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ColoursHindiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursHindiLv4",
           "type": "text/html"
         }
       ],
@@ -128,21 +2332,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader TheBeeAndTheElephantHindiLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantHindiLv4",
+        "title": "TheBeeAndTheElephantHindiLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantHindiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886076+00:00"
+        "modified": "2025-09-02T12:03:43.979701+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantHindiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheBeeAndTheElephantHindiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantHindiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantHindiLv4",
           "type": "text/html"
         }
       ],
@@ -157,21 +2361,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader TheLostDollHindiLv4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheLostDollHindiLv4",
+        "title": "TheLostDollHindiLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886171+00:00"
+        "modified": "2025-09-02T12:03:43.979729+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheLostDollHindiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLostDollHindiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheLostDollHindiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
           "type": "text/html"
         }
       ],
@@ -186,21 +2390,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader The Lion Runs And The Cow Walks Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksHindi",
+        "title": "The Lion Runs And The Cow Walks Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886249+00:00"
+        "modified": "2025-09-02T12:03:43.979787+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheLionRunsAndTheCowWalksHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLionRunsAndTheCowWalksHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
           "type": "text/html"
         }
       ],
@@ -215,21 +2419,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Friends Hindi Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/FriendsHIndiLv4",
+        "title": "Friends Hindi Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsHIndiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886321+00:00"
+        "modified": "2025-09-02T12:03:43.979815+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/FriendsHIndiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FriendsHIndiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/FriendsHIndiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsHIndiLv4",
           "type": "text/html"
         }
       ],
@@ -244,21 +2448,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Dad's Boots Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/DadsBootsHindi",
+        "title": "Dad's Boots Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886394+00:00"
+        "modified": "2025-09-02T12:03:43.979840+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/DadsBootsHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/DadsBootsHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/DadsBootsHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsHindi",
           "type": "text/html"
         }
       ],
@@ -273,21 +2477,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Who Can Help Me Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeHindi",
+        "title": "Who Can Help Me Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886468+00:00"
+        "modified": "2025-09-02T12:03:43.979896+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/WhoCanHelpMeHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhoCanHelpMeHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeHindi",
           "type": "text/html"
         }
       ],
@@ -302,21 +2506,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Tall And Short Hindi Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TallAndShortHindiLv4",
+        "title": "Tall And Short Hindi Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortHindiLv4",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886544+00:00"
+        "modified": "2025-09-02T12:03:43.979921+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TallAndShortHindiLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TallAndShortHindiLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TallAndShortHindiLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortHindiLv4",
           "type": "text/html"
         }
       ],
@@ -331,21 +2535,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Playground Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/PlaygroundHindi",
+        "title": "Playground Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886635+00:00"
+        "modified": "2025-09-02T12:03:43.979946+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/PlaygroundHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/PlaygroundHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/PlaygroundHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=PlaygroundHindi",
           "type": "text/html"
         }
       ],
@@ -360,21 +2564,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader My First Day At The Market Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketHindi",
+        "title": "My First Day At The Market Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886730+00:00"
+        "modified": "2025-09-02T12:03:43.979972+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/MyFirstDayAtTheMarketHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/MyFirstDayAtTheMarketHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketHindi",
           "type": "text/html"
         }
       ],
@@ -389,21 +2593,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Frog's Starry Wish Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishHindi",
+        "title": "Frog's Starry Wish Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886813+00:00"
+        "modified": "2025-09-02T12:03:43.979997+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/FrogsStarryWishHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FrogsStarryWishHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/FrogsStarryWishHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishHindi",
           "type": "text/html"
         }
       ],
@@ -418,21 +2622,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Chakus Cycle Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ChakusCycleHindi",
+        "title": "Chakus Cycle Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886885+00:00"
+        "modified": "2025-09-02T12:03:43.980033+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ChakusCycleHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ChakusCycleHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ChakusCycleHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHindi",
           "type": "text/html"
         }
       ],
@@ -447,21 +2651,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader What Day Is It Hindi",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItHindi",
+        "title": "What Day Is It Hindi",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItHindi",
         "language": "hi",
-        "modified": "2025-06-25T10:35:59.886961+00:00"
+        "modified": "2025-09-02T12:03:43.980058+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/WhatDayIsItHindi.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/WhatDayIsItHindi.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/WhatDayIsItHindi.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItHindi",
           "type": "text/html"
         }
       ],

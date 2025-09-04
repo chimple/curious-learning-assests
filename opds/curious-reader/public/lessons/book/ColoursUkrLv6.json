@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader ColoursUkrLv6",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ColoursUkrLv6",
+    "title": "ColoursUkrLv6",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursUkrLv6",
     "language": "uk",
-    "modified": "2025-06-25T10:35:59.953040+00:00",
-    "published": "2025-06-25T10:35:59.953040+00:00",
-    "description": "Interactive learning lesson: Curious Reader ColoursUkrLv6",
+    "modified": "2025-09-02T10:46:35.393644+00:00",
+    "published": "2025-09-02T10:46:35.393644+00:00",
+    "description": "Interactive learning lesson: ColoursUkrLv6",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ColoursUkrLv6.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursUkrLv6",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ColoursUkrLv6.html",
-      "title": "Curious Reader ColoursUkrLv6"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursUkrLv6",
+      "title": "ColoursUkrLv6"
     }
   ],
   "resources": [
@@ -55,15 +55,536 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ColoursUkrLv6.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-619419a152c82.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192c60b0c3ff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a180af90204.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18669bb239.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1869f213d0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18779a45cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a187af0104c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1886de40aa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a188d9e6940.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18916d129e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18959d88d8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a189a43e523.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18a154392d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18a2d734e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192ca6194d20.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a180fbdcca6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18a87672c2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18b1ea74e0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18b5044f46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18babc1acf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18bc98e0d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192cdb96ece5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192cdeb36256.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a1815851d14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18c3158869.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18c88a8107.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18ce494161.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18d0f383e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18d31cef66.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18d6a6a6d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18db4c8ef0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18dd583462.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192cf30c0d11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192cf701173e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a181a7b881f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18e6c8956c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18ec4ca223.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18ee3714ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18fa3d9880.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a18fe5d306d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a190013824a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a190627a23c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1908a5d1b1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a190aebee63.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6192d11771f42.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6194035e7ece6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a182023c2e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1918f81807.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a191df5a24d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19256474fa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a192af7239c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a192d7aa5c6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1931fa21f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1933b2db22.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193ed5b8592f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6195a426e66be.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a182681be1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a193bf75d3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1940f61fd5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1948cb3c00.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a194fe66cbb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1953dcdf1a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1955ceb029.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a195e362fa8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1961c8d045.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193eea91df22.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193ef231da7c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a182aa268e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1968be48ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a196fa42877.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19765e5e59.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a197ce135a2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a197ef49a44.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19811aca4a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1989c22022.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a198adbd75e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1991228850.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f02cab490.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f06ce0659.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a1833c06adc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19a4e96652.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19a84033c2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19abf84315.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a94258bdb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19b26202d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19bbc076ca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19bef98d26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19c28de5d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19c6634140.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19c7a6ffa9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f18373075.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a183a78a052.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19f1659816.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19f33ed3df.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19f657ae9b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a19f960b51a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a002e94f3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a032d4a77.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a06c0562b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a081bde42.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a0a3d8857.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f33076eb9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f352af4e7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f364db3db.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-6193f39fd5849.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/files-62a1845d65d83.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a12e0c06b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a1add0e45.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a1cb2850d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a340ee5fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a3803175f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a4920812e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a51843ae3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a5471e937.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a58d998b1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a6370a0a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a66cbd910.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a6b54296d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/audios/wordfile-62a1a6d303c22.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursUkrLv6",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursUkrLv6/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

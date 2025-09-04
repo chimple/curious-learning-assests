@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader TheBeeAndTheElephantNepaliLv4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantNepLv4",
+    "title": "TheBeeAndTheElephantNepaliLv4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantNepLv4",
     "language": "ne",
-    "modified": "2025-06-25T10:35:59.974024+00:00",
-    "published": "2025-06-25T10:35:59.974024+00:00",
-    "description": "Interactive learning lesson: Curious Reader TheBeeAndTheElephantNepaliLv4",
+    "modified": "2025-09-02T10:51:27.309639+00:00",
+    "published": "2025-09-02T10:51:27.309639+00:00",
+    "description": "Interactive learning lesson: TheBeeAndTheElephantNepaliLv4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantNepLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantNepLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantNepLv4.html",
-      "title": "Curious Reader TheBeeAndTheElephantNepaliLv4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantNepLv4",
+      "title": "TheBeeAndTheElephantNepaliLv4"
     }
   ],
   "resources": [
@@ -55,15 +55,320 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheBeeAndTheElephantNepLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-6218feaadd814.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-6218ffb5ab0a2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350d389f2be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350d61b912d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350d80868a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350da0721a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350e2e0c24c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350e8071175.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350ec079fc6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350f07444e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350f26b282b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-65350d16b6a3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-6218ffe4e89b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350fb65ca13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65350fe789f7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653510213b633.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351042dcf5c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-65350f8d6bd26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-622968c200f21.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535108fadc14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653510b0aec5b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653510cff1260.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653510ef33eb5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-65351078daeaa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-62190037abe9d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535112db5fcf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653511623538e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535119266d3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653511c0bd463.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-653511128236a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-6219006a2ebe7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351201ca337.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535122eed5b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351252cce36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535126e7a90c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-653511e82690f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-621900957ede6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351b8a72fd3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351bad51994.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351bdd27b9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351bf9c0373.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-65351b7606ab2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-621900bb6d423.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653513697ba50.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653513849920b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653513ac111a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653513c9b2d8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535142bbb6fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535145f6ea4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-6535133636d2e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-621900f617966.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653514bc836ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653514e092287.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653514ffaa525.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535151251a38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-65351530d3ffb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535154de8726.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-653514928ec23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-6219013254d0f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-6535157ed567b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653515947b998.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653515abb9f19.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653515c4c8dac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/wordfile-653515e10f97d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/audios/files-6535156699e8e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantNepLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheBeeAndTheElephantNepLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

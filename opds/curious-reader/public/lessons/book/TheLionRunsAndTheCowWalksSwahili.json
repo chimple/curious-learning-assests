@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Swahili",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksSwahili",
+    "title": "The Lion Runs And The Cow Walks Swahili",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksSwahili",
     "language": "sw",
-    "modified": "2025-06-25T10:35:59.940654+00:00",
-    "published": "2025-06-25T10:35:59.940654+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Swahili",
+    "modified": "2025-09-02T11:15:54.356868+00:00",
+    "published": "2025-09-02T11:15:54.356868+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Swahili",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksSwahili.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksSwahili",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksSwahili.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Swahili"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksSwahili",
+      "title": "The Lion Runs And The Cow Walks Swahili"
     }
   ],
   "resources": [
@@ -55,15 +55,236 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksSwahili.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-658319096f767.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-6583197217324.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7133ec854.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac71441e2fb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac7124e8533.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831a8a29b4c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7182bdf2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7194ab987.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac71680d2ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831ad1bdd16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac71e3b1563.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac71f9238a4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-670f7cbad5531.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac722c372b1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac71cec765b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831b138940b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac72a893f9b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac72bc54348.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac72cf3666b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac72e623237.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac72944d094.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831b5ea0e18.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7314adb13.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac732ca5ef9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac734549d66.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-670f7cd2d4a4e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7369f12ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac72fea62bf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831ba2ca3fa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac73ecc7198.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac73ff13c48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac740f5967b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac73dcc1a3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831be285345.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7460b17ab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac7478eca43.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac74908e962.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac744822932.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831d4baff8f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac74dd95af2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac74eede16f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/wordfile-66ac75007e1c8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/audios/files-66ac74c62f15f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831df5f06a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831e32b2800.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831e42c1cf9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/images/file-65831e5ad7945.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

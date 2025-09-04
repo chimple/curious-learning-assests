@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Dads Boots Swahili",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/DadsBootsSwahili",
+    "title": "Dads Boots Swahili",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsSwahili",
     "language": "sw",
-    "modified": "2025-06-25T10:35:59.940414+00:00",
-    "published": "2025-06-25T10:35:59.940414+00:00",
-    "description": "Interactive learning lesson: Curious Reader Dads Boots Swahili",
+    "modified": "2025-09-02T11:15:15.084701+00:00",
+    "published": "2025-09-02T11:15:15.084701+00:00",
+    "description": "Interactive learning lesson: Dads Boots Swahili",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsSwahili.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsSwahili",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsSwahili.html",
-      "title": "Curious Reader Dads Boots Swahili"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsSwahili",
+      "title": "Dads Boots Swahili"
     }
   ],
   "resources": [
@@ -55,15 +55,1056 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/DadsBootsSwahili.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-65830dff293f9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-65830ff3694ad.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4681e4b8d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b05addc9e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4687e843b7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46894d0eae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b468b190546.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b468cf63c20.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b06badbd2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b468f61f546.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4690a50f55.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46917c1aa0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b469290d769.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4693e2eab0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4696b3ed0a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4697ee8b19.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b469979b692.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b469aecaf9c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b469c313cf6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b467e701eed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-65831056ee6df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46a39da917.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46a498d631.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46a5e9c229.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-671afac9edd9c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46aba214b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b09ef21a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46af3c8c27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b0834708.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b1d5bc67.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b3133633.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b49af329.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b0b951cd1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b75e3674.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46b8da6b9f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b0c592ddb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b46a12e5cbe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-6583109f83a69.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b0d79d3d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b0e17fc5a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c0f444f1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c27180a4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c3ac6165.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c4e25315.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c6552ada.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c78cd2d5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46c8db5fb4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46cac404be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46cc4d485d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b0fc17e3f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46ce96cf5f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46cf7103a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46d0bd6c3f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b46bd15c942.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658310e3bc4fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46d5493550.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b10fc3c94.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b11904b3f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b121a726b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b133009cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46dc05244c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b1430c6d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b14c0b7be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46e07e9653.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46e1e85498.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-67175a33cb7dc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46e4d87865.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b46d3d008c3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-6583112a01c00.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46e9024677.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b16316d44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b16b37eb4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46ed107966.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46ee74eccf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46efd469a2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f10ba5af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f237afff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f38610a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f4b6d13e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f5c1db24.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-67175a4a25d8a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f852cfcc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46f950e85c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b46e73e4878.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-6583116977715.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46fe50a81f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b46ff8b980c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4700f25624.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4702a022b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47047ec557.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47064069a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b19573c6d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4708db3772.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b470a5876e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b1a18778a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b470d4d45cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b470e7dfced.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-671afb6761819.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-671afb74e9e93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-671afb85110e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47157bd199.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4716e4dbe1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47182efc31.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b471971bed1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b1bcb691b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b471bd6262e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b471ce555d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b471dec2159.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b46fc36b606.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658311ac61736.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4722b89e82.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b472403c4ce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b472554371c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4726f8f466.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47297e5e33.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47301db234.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-671afbc04fc2e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4732e6c92e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47343b80aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4735928103.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4737db5908.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b1dca455c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b473ae9caeb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b473bfb774b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b47213600e3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658311ea80c9e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b474021d669.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-67175ada58307.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b474369ec37.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47482c5a1a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4749ed3dd5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b474aee0690.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b474c8199df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b474e5acbd2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b475309a87a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47542e3431.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b473e5c21e3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658312267dec7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b475b5c830f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b475cd4dfbc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b475e1e77c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b475ff30489.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b476108b747.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b476223d798.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4763ea80e8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4765913f1f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b20fc9368.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47684f094e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b4759586724.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-65831263c39f8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b476c821d1d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b476e79c497.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47702ba645.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4771db265e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47739709a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47758e3fda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b477724fe54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b477a297d18.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b477c7da9d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b477dbda7b6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b477f48bbc9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b2c78c123.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b47821dfc54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b476b3d89a2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658312a85afa6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c0631895.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c156954b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c2e1315b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b2e14fa6b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c5f9dc36.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b2ed6ac3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c86420c7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48c9a57fa5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48cb40981d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d0d8a381.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d2679b0a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d4281f3d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d567ae67.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d6a42e2c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48d814d76d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b48bf0796be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658312ec26f2b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48db9c5ea5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48dd890246.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48df90b312.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e0dd6364.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e2c697bf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e40a2b06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b33b8324c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e6dd5744.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e83db813.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48e9dc8566.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48eb095f48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b349f2a00.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48ee983080.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48efddfc96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b48daa4c522.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658313261d5f4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48f4971960.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48f71536b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48f8771217.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48fb6e1933.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48fcaabc06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b36367c6f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b48ffab5776.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b490127cc1f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b49029c729a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b3701a06d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4905a633fd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4906f2829d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b48f300ac9e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658313710a42f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b490a0138d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b490b1187e8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b490d0b41c7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b490e9b24b1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b387561aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4911c22655.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b491395923f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4915310404.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4916b25ffc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4918a9215b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b491a1f0acf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b4908be6bf7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658313aab727d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b492504299e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b49267e3da7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b49280bc283.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4929553071.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b492b47469a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b492d704f75.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4930414881.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4931a77b41.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4932b6853c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4933dc3b78.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4934f4edd5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4936714f42.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4937d75e4f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b4923aaf86d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658313f38edff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-6710b3b351bad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b493cb436b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b493de3037a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b493f707341.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4941627a9f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4942d4d687.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4944ece961.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/wordfile-66b4946424f83.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/audios/files-66b4939a28ff5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658314686128c.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-65831478b28e9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/images/file-658314869f634.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

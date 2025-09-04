@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Who Can Help Me Swahili",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhoCanHelpMeSwahili",
+    "title": "Who Can Help Me Swahili",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeSwahili",
     "language": "sw",
-    "modified": "2025-06-25T10:35:59.940559+00:00",
-    "published": "2025-06-25T10:35:59.940559+00:00",
-    "description": "Interactive learning lesson: Curious Reader Who Can Help Me Swahili",
+    "modified": "2025-09-02T11:15:41.193843+00:00",
+    "published": "2025-09-02T11:15:41.193843+00:00",
+    "description": "Interactive learning lesson: Who Can Help Me Swahili",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeSwahili.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeSwahili",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhoCanHelpMeSwahili.html",
-      "title": "Curious Reader Who Can Help Me Swahili"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeSwahili",
+      "title": "Who Can Help Me Swahili"
     }
   ],
   "resources": [
@@ -55,15 +55,320 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhoCanHelpMeSwahili.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-65789116ed4b7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-657891ce69d36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66abc0bd2f943.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66abc0d76124b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66abc0e77ff0a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66abc0a117d80.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-65789225cad34.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-670e718c199fa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bbfca466c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bc0bda0ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bc1dabe59.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1bbc2074ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-657892de5ad39.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bc6a853d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bc82b2091.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bc93833c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bcac42e34.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bcc0e61c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bcd14c954.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1bc4bac69b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-65789326ca3ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd06d2332.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd1741cb3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd4734a39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd597e6e0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd71ad352.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd8608f29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bd987718e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1bcf396fb0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-6578937a365f7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bde1bf5a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bdf36687a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1be1402988.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1be271b93e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1be3aced2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1be5259a74.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1be6327d48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1bdc69ca2f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-657893cd148ab.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1beb86f0f4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bec9a3514.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bee1411a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bef181a69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf041d2a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf1967dc3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf2b82314.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1be9f0eafb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-6578941542f1f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf6acfbc1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf80b3adf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bf97637c6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bfa8bdd85.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bfc38e813.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bfd7f26ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bfed044a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1bffbeb416.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1bf4e33ee2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-6578945856864.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c03b1b75c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c056b70a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c06d62566.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c084d2c93.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c09e872c7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/wordfile-66b1c0b0e389d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/audios/files-66b1c0252cd0f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-65789558544e6.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-6578956aa2732.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/images/file-6578957d13a9b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhoCanHelpMeSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhoCanHelpMeSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksUkrainian",
+    "title": "The Lion Runs And The Cow Walks Ukrainian",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
     "language": "uk",
-    "modified": "2025-06-25T10:35:59.953397+00:00",
-    "published": "2025-06-25T10:35:59.953397+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Ukrainian",
+    "modified": "2025-09-02T10:54:32.227914+00:00",
+    "published": "2025-09-02T10:54:32.227914+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Ukrainian",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksUkrainian.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksUkrainian.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Ukrainian"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
+      "title": "The Lion Runs And The Cow Walks Ukrainian"
     }
   ],
   "resources": [
@@ -55,15 +55,240 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksUkrainian.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-658319096f767.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-6583197217324.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-65906689414a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590669fb94d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-6590667413065.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831a8a29b4c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590631715e07.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659063300880c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-659062fbed67c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831ad1bdd16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590635705140.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-65906374a00d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590638864a3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659063a047c82.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-65906342261c1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831b138940b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659063d17b4e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659063e28f425.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659063f6debc9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590640d3d5d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-659063ba68caa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831b5ea0e18.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-65906431bedc0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590644f8648f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-65906462a0499.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659064812b510.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-6590641f83a14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831ba2ca3fa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659065365f3f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659065485b37e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590656171d71.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-65906492a3299.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831be285345.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590658de6e28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-6590659e06d18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659065b25f614.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659065c8c2250.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-65906573c7439.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831d4baff8f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659065f17c861.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659066120258f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-659066240b7ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/wordfile-65906635731e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/audios/files-659065dc24793.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831df5f06a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831e32b2800.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831e42c1cf9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/images/file-65831e5ad7945.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksUkrainian",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksUkrainian/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

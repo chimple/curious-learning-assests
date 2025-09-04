@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader TheLostDollHindiLv4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLostDollHindiLv4",
+    "title": "TheLostDollHindiLv4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.886171+00:00",
-    "published": "2025-06-25T10:35:59.886171+00:00",
-    "description": "Interactive learning lesson: Curious Reader TheLostDollHindiLv4",
+    "modified": "2025-09-02T10:49:06.356439+00:00",
+    "published": "2025-09-02T10:49:06.356439+00:00",
+    "description": "Interactive learning lesson: TheLostDollHindiLv4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLostDollHindiLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLostDollHindiLv4.html",
-      "title": "Curious Reader TheLostDollHindiLv4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
+      "title": "TheLostDollHindiLv4"
     }
   ],
   "resources": [
@@ -55,15 +55,580 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLostDollHindiLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef2b43e729d.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef2d37250d0.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cafd7419a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cb15952f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cb2f832cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cb9c52aac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cc1453284.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cc5fe67a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6526cad19d8bd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef2ec0dfac0.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cd55830b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cd973f8b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cdae6e9e6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526cde2c7fe1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526ce10af4a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526ce36b9186.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526ce522ca7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6526cd3d42392.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef31140c3a9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526d9fbeb5cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526da3b151ae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526da555f51f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526da73ca70a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526da9da0780.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526e767594cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526e7dcea3e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526e7f6cd26f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526e81fd11cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526e83f4245f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6526d9dba2a76.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef32ab45f04.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526eda7976de.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526edc495e20.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526edda9d60a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6526edfc876af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271aa2294ae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271ac881fd7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271b00cb19a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271b3b0b8a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6526ed807525b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef35cbdad1b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271bb08d74c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271c229fa67.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271c53a8097.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271c70d2885.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271ca4017ca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65271ccd40b65.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-65271b972618c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef37fb18d59.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652789a547149.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652789db4005b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65278ab5684d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65278aecb793e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65278b264c321.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-65278981d6ebc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef3e474be2b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527acca38b83.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ad0c15de2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ad27c7006.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ad57e7993.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ad790dbba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6527aca02d419.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef404802c5b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527adf5ea6cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ae3a4a3ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527ae746de36.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527aea63eac7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6527adc501313.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef40a401d18.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527af090ee56.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527af923ccbe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527afc1a6bd9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6527afea2a3bb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6527aedce004c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef411337e88.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652856e488ae8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652856ff3520c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528573bdf448.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652857501327c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528578eb9fa7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652857b29f3d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285806e5080.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285868f3f44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652858b505ee9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6528568f39c8d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef41647463b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652853cfe5844.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652853fc64b10.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652854207e2b6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652854577d9ce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-652853649702c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef4227352f2.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285a26f119f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285a4fb8986.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285a830aef9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285a9e0e211.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285ab87781a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285af96f45f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285b440612f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285b6d205e9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285ba738bae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-652859db2f696.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef428f3c6ba.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285d6aba99b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285eb711abb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285ef3d5dc9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65285f648dbb5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-65285d2ba7501.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef430c0d077.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65286047d6862.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528605bb6a09.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528608ea7463.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652860a6c0200.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652860c031cbc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652861103978b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652861517d827.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528617be1be8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652861e984276.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-65285ff201ef4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61ef4ba5e2239.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652862ecbb050.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65286347ad9b7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528638f2c1cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652863cd1a22b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65286422711da.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65286445f1844.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-65286462cadb5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-652864bd897bd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/wordfile-6528652c365c9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/audios/files-6528625135b2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollHindiLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollHindiLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader What Day Is It Nepali",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/WhatDayIsItNepali",
+    "title": "What Day Is It Nepali",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItNepali",
     "language": "ne",
-    "modified": "2025-06-25T10:35:59.974269+00:00",
-    "published": "2025-06-25T10:35:59.974269+00:00",
-    "description": "Interactive learning lesson: Curious Reader What Day Is It Nepali",
+    "modified": "2025-09-02T11:20:28.094387+00:00",
+    "published": "2025-09-02T11:20:28.094387+00:00",
+    "description": "Interactive learning lesson: What Day Is It Nepali",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/WhatDayIsItNepali.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItNepali",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/WhatDayIsItNepali.html",
-      "title": "Curious Reader What Day Is It Nepali"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItNepali",
+      "title": "What Day Is It Nepali"
     }
   ],
   "resources": [
@@ -55,15 +55,812 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/WhatDayIsItNepali.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583236a69c90.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-658328e766fda.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d831ab350.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d84ddba6d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d8677c777.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d87a86766.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d88cc4b6f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d89e0b5ac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e4d817b5168.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832a5032f10.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d8e8513cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d8f9bd9da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d90bcabd2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d9236e151.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d9370c3b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d94bdbbb5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e4d8d036098.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832b0b0d2b0.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d98499c9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d99681543.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d9bcc2d6f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d9cf40360.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4d9e1946f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070d1f79eee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4da07d4aaa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e4d96d0f00a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832c012cdae.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4daa173e56.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dab6bdab1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dae4e0414.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dafa9e63e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db1866c31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db39ab251.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db4ddce4a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db62d0a16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db7c3fa49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4db9be0833.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dbd7781e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dbf4a6e16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc087e359.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc1a982da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc2f430fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc53a5e8b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc6cc7561.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dc9bcf898.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e4dcc7eb7a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e4da8d0de03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832d06b9d3c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e501533a17f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5016777425.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070e15908ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070e379b2e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e501d19a714.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e501ef02f1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5020668802.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5021a0c532.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502328b5b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5024d008b8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e50262cc487.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5027850434.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502920c509.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502a97936e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502be3a513.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502d439759.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e502e9a870a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e50302b93be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e503210c53f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5033f30aca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e503557adc7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5036a77019.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5037d5fac2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5039032b38.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e5013897e93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832daf4b9a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e503c648ede.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5059b3d321.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070f54128a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e505cf15051.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e505f603922.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070ea82bb5c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5062cae539.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e506478a6dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5065bcb337.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5066b27a76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66070f78921c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5068e9cea6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e506a148fe6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832df23c7df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e506cfc9675.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e506e12d754.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e506f791681.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5070a4dd2e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e5071daa9d7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e506c1d0107.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832e622eb7a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61c85e43d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61c9933bf3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61cab5a534.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61cd0c3b72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61cfa87ce8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d12dd014.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d270409b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d3dc1167.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d519b9cb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d64addec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d7743ea9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61d9796ae7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61dad15dd7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61dc1b6e8c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e61c66c9335.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832ed786e36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61e5630ed4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61e6c0d7bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61e8033b20.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61e9e04fc7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61eb24a736.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e61faba1632.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6203b37f09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6213889ee4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62150ed78f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e621663bad3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6217e9b66c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6218e55574.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e621a5b17a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e621b6e786d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e621cb2fba7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e621e35d4e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6220354150.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6221e1c43f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62230548ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62243ae9bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6225725d66.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e61e405b490.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-65832f211fed6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e622a51c8a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6607102464434.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e622cf49aa4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e622de5fe53.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e622f09a679.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6230a3ed6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623244c76d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6233b3d404.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623505b397.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6607103b2963d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62382d06e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6239abc5b6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623aa6bfe0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623c1adf4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623d669452.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e623eeec66b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62402afb76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62415d6528.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62428a0cca.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6243ba14ac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e622909908c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583300a91ffe.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7189b1b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f73f07c14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f75511ac5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f777c10fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7a149432.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7ba06e0c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7cdd4752.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7e6cbc4e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-6605f7fb8395b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-6605f70826544.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583305d21bdd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6259ac2654.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-66071089f16e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e625c1e038e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e625d66d6f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e625e807d48.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e6258c756a3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-658330d744eb4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62611a86ab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62627a2ffd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62637dcf54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e62601461fa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583312339a2f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e626631bd3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e62677b1085.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6268db84b6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e6269f4b91f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e626bd2cb02.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e626d0723bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e626e2675da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/wordfile-65e626f4bf149.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/audios/files-65e62651851dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-658332336bb23.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583323f17c54.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/images/file-6583324d18788.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=WhatDayIsItNepali",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/WhatDayIsItNepali/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

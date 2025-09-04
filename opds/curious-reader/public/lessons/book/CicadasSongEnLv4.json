@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Cicadas Song English Level 4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/CicadasSongEnLv4",
+    "title": "Cicadas Song English Level 4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
     "language": "en",
-    "modified": "2025-06-25T10:35:59.871667+00:00",
-    "published": "2025-06-25T10:35:59.871667+00:00",
-    "description": "Interactive learning lesson: Curious Reader Cicadas Song English Level 4",
+    "modified": "2025-09-02T11:29:42.550778+00:00",
+    "published": "2025-09-02T11:29:42.550778+00:00",
+    "description": "Interactive learning lesson: Cicadas Song English Level 4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/CicadasSongEnLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/CicadasSongEnLv4.html",
-      "title": "Curious Reader Cicadas Song English Level 4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
+      "title": "Cicadas Song English Level 4"
     }
   ],
   "resources": [
@@ -55,15 +55,672 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/CicadasSongEnLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-620403997bd32.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040629d1095.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d4e2d51e65.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d63671df19.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6486ebf61.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d649c37c87.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d64ce1d2c6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d64f59a84d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-6204067822660.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d4e92395ae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d65fec346e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d661c55dc0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d66361c2ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d665b88b89.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d66cbd0933.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d66d7e71f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6700f3d99.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d671237dd6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-620407e88a641.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d4f564410b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d673fc3d4d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d67543c81a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d676bdbd36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d677d69165.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d679ed1f54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d67ad759d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d67ec0805e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d67fb2b485.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-620408725ea15.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d4fc158527.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6860c1033.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d688885f45.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d68a2419c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d69043a155.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d691dec39f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d69566851d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d697092656.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6992e0be7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d69a5afece.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d69c121558.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6a0ade0a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6a2095744.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040913edb6b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d503b942f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6a9f44249.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6ace199a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6af6c8c3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b0a49b79.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b22d4f82.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b33908dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b48e1d6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b5bdefbe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b71affc0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6b8b54484.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6ba71bbc4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6bbc6a9fe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040997971fb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d50ed4ab1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6c1599daf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6c20dd7da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6c55dd483.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6c8b72849.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6c9d9b108.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6cb73e6aa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6cd6258b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6cea06472.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6cfe15c0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6d157768a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6d2c4f1b8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6d41b0200.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040af7a43ea.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d523fe4db1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6d9c71e22.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6dd85ff36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6df11e0e6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e0ea0b4a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e2a3f3e4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e42742d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e6656cda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e73328ee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6e8c7e0a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6ea29d471.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040c7266e1e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620444870e78d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620444d352d7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620444e536bae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620444fabcf37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-6204451888457.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-6204454e9b436.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-62044564ed7ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-6204458585315.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-62059d8d6bae3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-6204461558d09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-62044636b8188.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-6204464a56d4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040d2f72ebd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d52ceb3f1b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6f356abc4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6f6239a16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6f7a312bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d6f95c1e44.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-62190ec8717c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d702018a76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d703761c33.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d704961af0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d705e7ec35.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d70765d5ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d70a1d66ae.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040dc74dcb4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d5326cabbc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d710506165.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7132b0169.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d714706ff6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d716428f61.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d717e03711.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d719b7055a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d71c38cd9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d71d373156.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040e45cc034.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d539eaa7c3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d722e1743a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7241aff2b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d725eb87d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7277b8d6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d729035c4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d72a3757f5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d72b959dbe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040eb232941.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d53de77c93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d735d59fb0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7370d1704.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d738b753b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d73a2c17e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d73b6090dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d73c6d957a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d73e897446.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-62040f1d01716.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d547340809.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d744ccd40d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d74610b0b8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d747b895ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7490d361d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d74bc6cdef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-620d550eab2aa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/../content/75/images/file-62040fabc2854.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/files-620d54cf797ef.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d752f50723.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d7550af628.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d756638f51.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d758609dff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d759826dba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d75aee1458.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/audios/wordfile-620d75c2cf9c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/CicadasSongEnLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

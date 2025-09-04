@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Dads Boots Lugandan",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/DadsBootsLuganda",
+    "title": "Dads Boots Lugandan",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsLuganda",
     "language": "lg",
-    "modified": "2025-06-25T10:36:00.060847+00:00",
-    "published": "2025-06-25T10:36:00.060847+00:00",
-    "description": "Interactive learning lesson: Curious Reader Dads Boots Lugandan",
+    "modified": "2025-09-02T11:18:29.281459+00:00",
+    "published": "2025-09-02T11:18:29.281459+00:00",
+    "description": "Interactive learning lesson: Dads Boots Lugandan",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsLuganda.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsLuganda",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsLuganda.html",
-      "title": "Curious Reader Dads Boots Lugandan"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsLuganda",
+      "title": "Dads Boots Lugandan"
     }
   ],
   "resources": [
@@ -55,15 +55,884 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/DadsBootsLuganda.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-65830dff293f9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-65830ff3694ad.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634633ccc1cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634634e92c6a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663463608f629.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346373b29ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346386ebce7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663463a58e3af.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663463bce8919.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663463e6f371a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663464029043f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663464278026d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663464405c7b1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634645e19645.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634648b6238c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634629333f0e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-65831056ee6df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663464bc94791.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663464d79a963.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634650cbe150.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634651b16060.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634652ccadc5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634655a8bb43.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346577c6274.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634659698ddc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663465aa5c169.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663465be0454d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663465d9a1c1e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663465f0553b7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663466028e9b7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-663464a699d85.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-6583109f83a69.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663467879ed22.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663467bf824a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663467dd8c77e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634680000630.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634682d01d6e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663468597e78a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663468741db38.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663468a851134.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663468c28cd1d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663468f935839.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346922adc32.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663469359716a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634695321541.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634661e080ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658310e3bc4fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663469a4ad263.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663469e2ca78c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663469f586bdc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a078e36f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a1b5484e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a42c4ee2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a5c5bdbe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a6c186f8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346a7fca2e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634696c1def0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-6583112a01c00.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346aecee400.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b03cdcce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b174e5c9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b4ccb433.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b5ee133f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b722bf52.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346b88cede3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346ba4ea476.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66346a9a9ae8d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-6583116977715.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c023198e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c1d72376.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c37d5cbb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c53e2b2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c786885a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346c94b4b0c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346cc948ccd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346ce29d9b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346d0d07804.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346d457c210.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346d5ccace2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346d8922ba2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346db9ad7e8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346dd346496.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346df247b47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346e0bbf342.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66346bd545936.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658311ac61736.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346e3ce2a7b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346e567c5ea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346e72f398c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346e8a59d66.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346ebb14efc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346ed68d221.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346eed01145.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346f598cd51.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346f8066a30.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346f9f3b4d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346fb6ad045.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66346e2bc4bc5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658311ea80c9e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66346ff8ac2f4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634703ca52f5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663470660c325.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347084644fa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634709a11577.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663470b0d25d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663470cb90c31.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347101029e6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634712460e10.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634713aea7f2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66346fe1617d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658312267dec7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663471679eb4b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634717cd2dcb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663471a6dba21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663471ca1e90a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663471e0eb964.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663471fbedd6e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634720e2bc29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634715327db3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-65831263c39f8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663474c01cd19.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663474da1c6a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663474ec386ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634750bd6a01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634752d4336b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634754de65d5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663475616a2b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634758255d29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634759c60161.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634765875db0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347674f0a22.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66347491387db.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658312a85afa6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663476a9c2f2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663476c64be23.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663476d9a6c31.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663476f15321f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634770992594.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347744e4882.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663477591141e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663477712ba1a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634778adb7e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634779a79d15.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663477aaad77e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663477ba154d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634769708dd0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658312ec26f2b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634781cafc54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478533fe8c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478677af7f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347878c91de.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634788e62f42.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478b4a0085.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478cf35a39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478e0916c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663478ff079a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663479573cb09.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634794a55f60.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-6634798bdc56b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663479a350db7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-663479be61883.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-6634780c07bb7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658313261d5f4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347a2d4f518.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347a4eb0d73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347a785ae54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347a8751325.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347a9c5f0fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347ab21dedd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347ac3e771c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347ad41d2b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347aea1c5c5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347b086a08c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347b2f7e700.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-663479e16ccda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658313710a42f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c0f88979.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c246dac6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c4a8d5a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c60d50ff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c70da8c8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c83ba9a6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347c94df84a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347cb223fdd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347cc3560e0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66347c00cff92.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658313aab727d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347cf658916.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347d130d944.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347d3717556.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347d64ebfa7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347d7520a3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347d90df693.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347da1a1931.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347db5af238.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347dcf0c966.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66347ce3ce664.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658313f38edff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347df66d4fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e0bd5d97.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e1f32e84.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e34eebeb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e4fc6b38.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e64849ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/wordfile-66347e77837ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/audios/files-66347de385a49.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658314686128c.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-65831478b28e9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/images/file-658314869f634.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsLuganda",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsLuganda/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

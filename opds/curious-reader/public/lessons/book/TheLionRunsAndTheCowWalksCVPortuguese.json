@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese ",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksCVPortuguese",
+    "title": "The Lion Runs And The Cow Walks Cape Verde Portuguese",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
     "language": "pt",
-    "modified": "2025-06-25T10:36:00.153221+00:00",
-    "published": "2025-06-25T10:36:00.153221+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese ",
+    "modified": "2025-09-02T11:09:03.427522+00:00",
+    "published": "2025-09-02T11:09:03.427522+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Cape Verde Portuguese",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksCVPortuguese.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksCVPortuguese.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Cape Verde Portuguese "
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
+      "title": "The Lion Runs And The Cow Walks Cape Verde Portuguese"
     }
   ],
   "resources": [
@@ -55,15 +55,256 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksCVPortuguese.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-658319096f767.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-6583197217324.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cd9405cb37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cd9530e06e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cd914eb098.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831a8a29b4c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cd9f053c15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cda02c5991.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cd9d5ad431.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831ad1bdd16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cda449fe1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cda6020c6c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cda727a954.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cda908f8ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cda2367a61.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831b138940b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdacfd5a3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdae832a2f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdaffa0b58.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdb18a3c56.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdb2ca9fd9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cdab095474.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831b5ea0e18.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdb6c1976b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdb809d7c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdb92a56ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdbb988935.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdbcebc6b8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdbe29622c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cdb4c3d0e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831ba2ca3fa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdc2488b9b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdc3963195.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdc4ca01a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdc613168b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cdc0a1af9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831be285345.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdc9d70df6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdcb9ad8ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdcde7368c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdcfc7b8e2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cdc864fe18.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831d4baff8f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdd8474d6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdd9f580fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cddbecbb27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/wordfile-670cdddb035f2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/audios/files-670cdd1903634.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831df5f06a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831e32b2800.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831e42c1cf9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/images/file-65831e5ad7945.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksCVPortuguese",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksCVPortuguese/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

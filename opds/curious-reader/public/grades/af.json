@@ -12,21 +12,3240 @@
   "publications": [
     {
       "metadata": {
-        "title": "Feed The Monster Afrikaans",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/cr_lang/afrikaans",
+        "title": "1",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=1",
         "language": "af",
-        "modified": "2025-06-25T10:35:59.920271+00:00"
+        "modified": "2025-09-02T12:01:47.511850+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/cr_lang/afrikaans.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_1.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/cr_lang/afrikaans.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=1",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=2",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511871+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_2.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=2",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=3",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511878+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_3.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=3",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=4",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511885+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=4",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "5",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=5",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511891+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_5.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=5",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "6",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=6",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511897+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=6",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "7",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=7",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511902+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_7.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=7",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "8",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=8",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511908+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_8.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=8",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "9",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=9",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511913+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_9.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=9",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "10",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=10",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511919+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_10.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=10",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "11",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=11",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511925+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_11.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=11",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "12",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=12",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511930+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_12.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=12",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "13",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=13",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511936+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_13.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=13",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "14",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=14",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511942+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_14.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=14",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "15",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=15",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511947+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_15.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=15",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "16",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=16",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511953+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_16.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=16",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "17",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=17",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511959+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_17.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=17",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "18",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=18",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511965+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_18.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=18",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "19",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=19",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511971+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_19.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=19",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=20",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511978+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_20.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=20",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "21",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=21",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511993+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_21.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=21",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "22",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=22",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.511999+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_22.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=22",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "23",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=23",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512020+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_23.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=23",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "24",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=24",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512027+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_24.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=24",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "25",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=25",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512033+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_25.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=25",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "26",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=26",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512039+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_26.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=26",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "27",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=27",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512046+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_27.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=27",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "28",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=28",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512052+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_28.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=28",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "29",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=29",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512058+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_29.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=29",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "30",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=30",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512065+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_30.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=30",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "31",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=31",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512070+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_31.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=31",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "32",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=32",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512076+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_32.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=32",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "33",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=33",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512082+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_33.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=33",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "34",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=34",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512088+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_34.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=34",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "35",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=35",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512108+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_35.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=35",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "36",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=36",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512114+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_36.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=36",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "37",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=37",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512120+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_37.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=37",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "38",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=38",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512126+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_38.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=38",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "39",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=39",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512132+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_39.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=39",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "40",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=40",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512138+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_40.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=40",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "41",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=41",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512145+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_41.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=41",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "42",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=42",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512151+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_42.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=42",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "43",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=43",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512157+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_43.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=43",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "44",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=44",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512163+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_44.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=44",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "45",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=45",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512169+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_45.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=45",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "46",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=46",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512174+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_46.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=46",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "47",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=47",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512180+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_47.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=47",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "48",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=48",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512185+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_48.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=48",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "49",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=49",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512191+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_49.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=49",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "50",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=50",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512196+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_50.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=50",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "51",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=51",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512202+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_51.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=51",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "52",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=52",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512207+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_52.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=52",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "53",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=53",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512212+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_53.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=53",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "54",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=54",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512218+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_54.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=54",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "55",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=55",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512224+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_55.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=55",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "56",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=56",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512229+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_56.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=56",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "57",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=57",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512235+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_57.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=57",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "58",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=58",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512240+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_58.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=58",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "59",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=59",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512246+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_59.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=59",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "60",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=60",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512251+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_60.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=60",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "61",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=61",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512257+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_61.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=61",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "62",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=62",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512263+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_62.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=62",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "63",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=63",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512268+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_63.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=63",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "64",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=64",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512273+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_64.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=64",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "65",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=65",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512279+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_65.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=65",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "66",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=66",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512284+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_66.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=66",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "67",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=67",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512290+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_67.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=67",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "68",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=68",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512295+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_68.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=68",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "69",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=69",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512301+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_69.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=69",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "70",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=70",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512306+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_70.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=70",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "71",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=71",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512312+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_71.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=71",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "72",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=72",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512318+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_72.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=72",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "73",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=73",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512324+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_73.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=73",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "74",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=74",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512329+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_74.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=74",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "75",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=75",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512335+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_75.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=75",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "76",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=76",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512341+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_76.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=76",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "77",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=77",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512346+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_77.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=77",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "78",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=78",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512353+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_78.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=78",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "79",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=79",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512358+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_79.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=79",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "80",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=80",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512364+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_80.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=80",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "81",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=81",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512370+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_81.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=81",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "82",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=82",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512375+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_82.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=82",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "83",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=83",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512381+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_83.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=83",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "84",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=84",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512387+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_84.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=84",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "85",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=85",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512392+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_85.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=85",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "86",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=86",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512397+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_86.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=86",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "87",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=87",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512403+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_87.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=87",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "88",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=88",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512408+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_88.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=88",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "89",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=89",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512413+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_89.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=89",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "90",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=90",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512418+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_90.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=90",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "91",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=91",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512424+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_91.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=91",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "92",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=92",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512429+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_92.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=92",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "93",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=93",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512434+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_93.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=93",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "94",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=94",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512440+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_94.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=94",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "95",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=95",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512445+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_95.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=95",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "96",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=96",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512451+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_96.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=96",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "97",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=97",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512456+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_97.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=97",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "98",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=98",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512463+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_98.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=98",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "99",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=99",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512468+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_99.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=99",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "100",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=100",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512474+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_100.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=100",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "101",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=101",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512480+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_101.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=101",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "102",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=102",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512486+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_102.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=102",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "103",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=103",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512492+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_103.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=103",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "104",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=104",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512497+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_104.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=104",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "105",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=105",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512502+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_105.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=105",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "106",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=106",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512508+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_106.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=106",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "107",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=107",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512513+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_107.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=107",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "108",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=108",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512519+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_108.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=108",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "109",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=109",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512524+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_109.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=109",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "110",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=110",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512532+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_110.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=110",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "111",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=111",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512538+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_111.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=111",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_afrikaans_prod.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "112",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=112",
+        "language": "af",
+        "modified": "2025-09-02T12:01:47.512544+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_af_112.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=112",
           "type": "text/html"
         }
       ],

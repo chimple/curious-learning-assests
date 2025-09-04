@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Chakus Cycle Swahili",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ChakusCycleSwahili",
+    "title": "Chakus Cycle Swahili",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleSwahili",
     "language": "sw",
-    "modified": "2025-06-25T10:35:59.940488+00:00",
-    "published": "2025-06-25T10:35:59.940488+00:00",
-    "description": "Interactive learning lesson: Curious Reader Chakus Cycle Swahili",
+    "modified": "2025-09-02T11:15:28.527411+00:00",
+    "published": "2025-09-02T11:15:28.527411+00:00",
+    "description": "Interactive learning lesson: Chakus Cycle Swahili",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleSwahili.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleSwahili",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleSwahili.html",
-      "title": "Curious Reader Chakus Cycle Swahili"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleSwahili",
+      "title": "Chakus Cycle Swahili"
     }
   ],
   "resources": [
@@ -55,15 +55,616 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ChakusCycleSwahili.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f61cdb6a9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f6cf13510.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1c7fbd4c04.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1c80e12485.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1c825d0ef0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175d3e1bcc7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd1d4d554c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1c873d8c1f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1c7e71a414.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f72bd78b8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cac9d867a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd1ea33f1b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175d5016be2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cb09baa56.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd1f9143d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cb40132a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cb56d052d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1cab5e7949.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f7eede908.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cb8618989.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cb9c9ef22.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cbb200868.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd21649e83.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cbdb6f53f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cbef9e1ce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175d620566f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cc1dd001f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cc3931c3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1cb706d44f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f82e21dc4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cc6471f6f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cc75c0f07.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cc85c73a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1cc5253521.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f8657e7fd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ccc5e0087.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cce021193.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ccff5d85f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cd131b78e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cdb0daf19.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cdc64b3be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175d77d4a82.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cde711cdb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175d81afdbb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ce08d5512.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1ccb3d42a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f8a2a9d1c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ce3b2bc26.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ce4fcf113.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-671832cdd34f1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd24d6e2ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ce970466a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1ceb52770e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cec557658.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1ce27cf4ca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f8d53e48b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cf1fb82ab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cf326fd2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cf47cbe83.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cf689d809.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cf7db9910.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd267474c1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cfaa1296a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cfbe34231.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cfda80a30.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1cff42efc4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1cefb52c78.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f91783856.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d03a96b0c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d056315cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d0679686b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d10862eeb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d11db90f8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d13993d01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d14d6883e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175da0d807f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d1738cdc1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d188646ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d02745cab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f95489ed3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d1bd42653.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d1d05cf57.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d1e60660e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d1a941957.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f9838dd11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd29b806fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175db2074fc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d27e71791.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d29aedbb0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175dd94918d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d2c943cc3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d2de031b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d2fa0c992.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d31625bb6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d33be95d1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d20d81081.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582f9c9f38f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d38a31a76.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d39ee4ec2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d3b19dcdb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d3cd3c65a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175dec945ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d3ed9b101.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d4032e5b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d41b281b6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d374defc8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582fa0e7a729.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d459658e5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d479b46dc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd2dfb2672.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175e088e26a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d4c0c00c3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d4f01c8bd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d50399906.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d4473101a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582fa801b2bb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d542b5a25.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d567038eb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd3169f15c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d59d147d4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175e1a096c5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d5d1ec957.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d5e846dd1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d5fdeec4e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d60ed237d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d52f847a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582fab2e8792.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d644a6c29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d65b87b2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d66fe2b62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d68c52d48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d6ac17eb8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-67175e2e1b98e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d6d514cca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d6f5de9eb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-670fd33cb6266.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d726f3808.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/wordfile-66b1d737e1693.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/audios/files-66b1d6317671b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582faf97f388.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582fb0bd1481.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/images/file-6582fb223475c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleSwahili",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleSwahili/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

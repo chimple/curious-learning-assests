@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Curious Colours Of Nature English Level 2",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ColoursOfNatureEnLv2",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
     "language": "en",
-    "modified": "2025-06-25T10:35:59.871753+00:00",
-    "published": "2025-06-25T10:35:59.871753+00:00",
+    "modified": "2025-09-02T11:29:58.476070+00:00",
+    "published": "2025-09-02T11:29:58.476070+00:00",
     "description": "Interactive learning lesson: Curious Colours Of Nature English Level 2",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ColoursOfNatureEnLv2.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ColoursOfNatureEnLv2.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
       "title": "Curious Colours Of Nature English Level 2"
     }
   ],
@@ -55,15 +55,616 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ColoursOfNatureEnLv2.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb13956d34d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1a0df2e8c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc500459613.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc502c0730e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc504b67305.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc506b0cb65.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc508c76e8d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc50af2beb0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1a810806e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc51669f540.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5182479a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc51a9206f7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5323ee200.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc535297b2c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc53828085e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1afd48ff7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc541b6bc00.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5468d105d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5499a71e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc54f1534e3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc551c5381f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc555009fd6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1b79d161c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc55e90c117.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc562607c9b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc56637d897.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5684052f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc56a2e3d86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc56c0d0ce9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc56e039ff0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc570d9dc1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1bffd8605.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc57860ebe4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc57a7d3cc3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc57df9310c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc58032792c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc58232dbe3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc584e45b76.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5883a78cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc58cccb900.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1d0abcfea.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc595686946.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc598265910.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc59ae248a0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc59d44f389.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc59f9d78db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5a1c48e1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5a470b453.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5a5ed84da.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1edbd34d6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc5c460b3b5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5c8dc4e6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5cc1b2cb2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5ce8c13cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5d14d7bf5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5d650789f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5e15a1e78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5ebf50c15.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5eec85e0f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc5f0d27ca5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb1f74d3a6c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc689dac327.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc68c038e09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc68eef00c3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc69190470d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc695992312.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc69819358a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc69c59b9c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6a0556096.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6a2d5d4af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6a4ac82d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb207e656e1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fc6c1e76b0d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6ccbda730.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6cf348f72.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6d1f014ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6d4640a4f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6d7385455.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6d961da86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fc6dbd572e0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb217f41714.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd402e0e1fa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd405de109a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd407833191.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd40b0b8df8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd40d94bf92.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd412e92bf3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd41653d8d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb22ce75958.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd4319b74fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd43382010c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd43696c050.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4394470af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd43b4359fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd43dfdaff6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd43fbc5c59.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd44204a3b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd444138708.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb23c287e16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd44dd97418.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd453897e47.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4553d3e1f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd456bc159a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd458a31ac2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd45aa5f9d9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd45cd19425.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb24d94e8c5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-62052e30c252d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052e4d3ae01.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052e72b5c3d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052e8d1e126.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052ea3af27a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052ee15a46c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052ef416c08.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-62052f064142e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb25a8ae7db.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd4815b8ffe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4867f3981.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd489d5f5c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4927052c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4951e388b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4971458c4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd499454362.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb266bc3819.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd4b0532d32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4b35dbb5b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4bf997d39.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4c0deeb8e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4c32bc7f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4c632ac9f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4d13088ac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb27b4b4c5e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/files-61fd4e54d7405.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4e91a57af.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4eb612f67.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4edaead81.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4f0b68d5e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4f27d7483.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/audios/wordfile-61fd4f47b26a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ColoursOfNatureEnLv2/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

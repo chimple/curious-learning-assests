@@ -12,21 +12,21 @@
   "publications": [
     {
       "metadata": {
-        "title": "Feed The Monster US English",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/cr_lang/english",
+        "title": "1",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=1",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871124+00:00"
+        "modified": "2025-09-02T12:03:30.392909+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/cr_lang/english.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_1.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/cr_lang/english.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=1",
           "type": "text/html"
         }
       ],
@@ -41,21 +41,4342 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Let's Fly English Level 2",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/LetsFlyEnLv2",
+        "title": "2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=2",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871323+00:00"
+        "modified": "2025-09-02T12:03:30.392932+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/LetsFlyEnLv2.json",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/LetsFlyEnLv2.html",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=2",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=3",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392939+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_3.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=3",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=4",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392946+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_4.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=4",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "5",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=5",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392952+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_5.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=5",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "6",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=6",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392958+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_6.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=6",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "7",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=7",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392964+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_7.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=7",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "8",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=8",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392970+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_8.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=8",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "9",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=9",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392976+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_9.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=9",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "10",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=10",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392983+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_10.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=10",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "11",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=11",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392989+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_11.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=11",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "12",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=12",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.392995+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_12.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=12",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "13",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=13",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393000+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_13.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=13",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "14",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=14",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393018+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_14.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=14",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "15",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=15",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393025+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_15.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=15",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "16",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=16",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393031+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_16.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=16",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "17",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=17",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393037+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_17.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=17",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "18",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=18",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393043+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_18.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=18",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "19",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=19",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393049+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_19.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=19",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=20",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393055+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_20.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=20",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "21",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=21",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393061+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_21.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=21",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "22",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=22",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393067+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_22.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=22",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "23",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=23",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393073+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_23.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=23",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "24",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=24",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393079+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_24.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=24",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "25",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=25",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393084+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_25.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=25",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "26",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=26",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393091+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_26.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=26",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "27",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=27",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393097+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_27.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=27",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "28",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=28",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393103+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_28.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=28",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "29",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=29",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393108+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_29.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=29",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "30",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=30",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393114+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_30.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=30",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "31",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=31",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393120+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_31.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=31",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "32",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=32",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393126+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_32.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=32",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "33",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=33",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393131+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_33.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=33",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "34",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=34",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393137+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_34.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=34",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "35",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=35",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393144+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_35.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=35",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "36",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=36",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393150+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_36.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=36",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "37",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=37",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393156+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_37.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=37",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "38",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=38",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393162+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_38.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=38",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "39",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=39",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393168+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_39.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=39",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "40",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=40",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393173+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_40.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=40",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "41",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=41",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393179+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_41.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=41",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "42",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=42",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393185+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_42.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=42",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "43",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=43",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393191+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_43.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=43",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "44",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=44",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393196+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_44.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=44",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "45",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=45",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393202+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_45.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=45",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "46",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=46",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393207+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_46.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=46",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "47",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=47",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393213+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_47.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=47",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "48",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=48",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393219+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_48.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=48",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "49",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=49",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393225+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_49.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=49",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "50",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=50",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393231+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_50.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=50",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "51",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=51",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393236+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_51.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=51",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "52",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=52",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393242+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_52.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=52",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "53",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=53",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393248+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_53.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=53",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "54",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=54",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393254+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_54.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=54",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "55",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=55",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393259+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_55.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=55",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "56",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=56",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393265+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_56.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=56",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "57",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=57",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393271+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_57.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=57",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "58",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=58",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393276+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_58.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=58",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "59",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=59",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393282+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_59.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=59",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "60",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=60",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393288+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_60.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=60",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "61",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=61",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393293+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_61.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=61",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "62",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=62",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393299+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_62.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=62",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "63",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=63",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393305+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_63.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=63",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "64",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=64",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393311+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_64.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=64",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "65",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=65",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393317+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_65.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=65",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "66",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=66",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393323+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_66.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=66",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "67",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=67",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393329+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_67.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=67",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "68",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=68",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393335+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_68.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=68",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "69",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=69",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393341+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_69.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=69",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "70",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=70",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393346+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_70.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=70",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "71",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=71",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393352+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_71.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=71",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "72",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=72",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393357+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_72.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=72",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "73",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=73",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393363+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_73.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=73",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "74",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=74",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393369+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_74.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=74",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "75",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=75",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393374+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_75.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=75",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "76",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=76",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393380+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_76.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=76",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "77",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=77",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393386+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_77.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=77",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "78",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=78",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393393+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_78.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=78",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "79",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=79",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393399+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_79.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=79",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "80",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=80",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393405+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_80.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=80",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "81",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=81",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393410+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_81.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=81",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "82",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=82",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393416+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_82.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=82",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "83",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=83",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393422+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_83.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=83",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "84",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=84",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393428+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_84.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=84",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "85",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=85",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393434+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_85.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=85",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "86",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=86",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393439+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_86.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=86",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "87",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=87",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393445+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_87.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=87",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "88",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=88",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393451+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_88.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=88",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "89",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=89",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393456+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_89.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=89",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "90",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=90",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393462+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_90.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=90",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "91",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=91",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393468+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_91.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=91",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "92",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=92",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393474+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_92.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=92",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "93",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=93",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393479+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_93.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=93",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "94",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=94",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393486+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_94.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=94",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "95",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=95",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393493+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_95.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=95",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "96",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=96",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393499+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_96.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=96",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "97",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=97",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393505+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_97.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=97",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "98",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=98",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393626+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_98.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=98",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "99",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=99",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393633+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_99.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=99",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "100",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=100",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393638+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_100.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=100",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "101",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=101",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393643+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_101.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=101",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "102",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=102",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393648+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_102.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=102",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "103",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=103",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393653+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_103.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=103",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "104",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=104",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393658+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_104.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=104",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "105",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=105",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393664+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_105.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=105",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "106",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=106",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393670+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_106.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=106",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "107",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=107",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393675+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_107.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=107",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "108",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=108",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393681+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_108.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=108",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "109",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=109",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393687+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_109.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=109",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "110",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=110",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393694+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_110.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=110",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "111",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=111",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393700+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_111.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=111",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "112",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=112",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393706+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_112.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=112",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "113",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=113",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393711+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_113.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=113",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "114",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=114",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393717+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_114.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=114",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "115",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=115",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393723+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_115.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=115",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "116",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=116",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393729+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_116.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=116",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "117",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=117",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393734+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_117.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=117",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "118",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=118",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393740+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_118.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=118",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "119",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=119",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393746+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_119.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=119",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "120",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=120",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393752+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_120.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=120",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "121",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=121",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393758+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_121.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=121",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "122",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=122",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393764+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_122.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=122",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "123",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=123",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393770+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_123.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=123",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "124",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=124",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393775+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_124.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=124",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "125",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=125",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393781+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_125.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=125",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "126",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=126",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393787+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_126.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=126",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "127",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=127",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393792+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_127.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=127",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "128",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=128",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393799+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_128.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=128",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "129",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=129",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393805+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_129.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=129",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "130",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=130",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393811+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_130.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=130",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "131",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=131",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393816+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_131.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=131",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "132",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=132",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393822+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_132.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=132",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "133",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=133",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393828+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_133.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=133",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "134",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=134",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393834+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_134.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=134",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "135",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=135",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393840+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_135.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=135",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "136",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=136",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393845+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_136.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=136",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "137",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=137",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393851+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_137.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=137",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "138",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=138",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393855+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_138.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=138",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "139",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=139",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393860+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_139.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=139",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "140",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=140",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393865+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_140.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=140",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "141",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=141",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393871+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_141.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=141",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "142",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=142",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393876+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_142.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=142",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "143",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=143",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393882+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_143.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=143",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "144",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=144",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393887+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_144.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=144",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "145",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=145",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393892+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_145.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=145",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "146",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=146",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393897+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_146.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=146",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "147",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=147",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393901+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_147.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=147",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "148",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=148",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393906+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_148.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=148",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "149",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=149",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393911+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_149.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=149",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "150",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=150",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.393916+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curious-reader.web.app/lessons/cr_lang/ftm_en_150.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=150",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://curious-reader.web.app/appIcons/ftm_english.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Let's Fly English Level 2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyEnLv2",
+        "language": "en",
+        "modified": "2025-09-02T12:03:30.394256+00:00"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/LetsFlyEnLv2.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=LetsFlyEnLv2",
           "type": "text/html"
         }
       ],
@@ -70,21 +4391,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader The Lost Doll English Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheLostDollEnLv4",
+        "title": "The Lost Doll English Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871451+00:00"
+        "modified": "2025-09-02T12:03:30.394294+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheLostDollEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheLostDollEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheLostDollEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
           "type": "text/html"
         }
       ],
@@ -99,21 +4420,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader The Bee And The Elephant English Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TheBeeAndTheElephantEnLv4",
+        "title": "The Bee And The Elephant English Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871555+00:00"
+        "modified": "2025-09-02T12:03:30.394327+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TheBeeAndTheElephantEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TheBeeAndTheElephantEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TheBeeAndTheElephantEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheBeeAndTheElephantEnLv4",
           "type": "text/html"
         }
       ],
@@ -128,21 +4449,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Cicadas Song English Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/CicadasSongEnLv4",
+        "title": "Cicadas Song English Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871667+00:00"
+        "modified": "2025-09-02T12:03:30.394358+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/CicadasSongEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/CicadasSongEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/CicadasSongEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=CicadasSongEnLv4",
           "type": "text/html"
         }
       ],
@@ -158,20 +4479,20 @@
     {
       "metadata": {
         "title": "Curious Colours Of Nature English Level 2",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ColoursOfNatureEnLv2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871753+00:00"
+        "modified": "2025-09-02T12:03:30.394385+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ColoursOfNatureEnLv2.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ColoursOfNatureEnLv2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ColoursOfNatureEnLv2.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursOfNatureEnLv2",
           "type": "text/html"
         }
       ],
@@ -187,20 +4508,20 @@
     {
       "metadata": {
         "title": "Curious I Am Not Afraid Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/IAmNotAfraidEnLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=IAmNotAfraidEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871830+00:00"
+        "modified": "2025-09-02T12:03:30.394410+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/IAmNotAfraidEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/IAmNotAfraidEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/IAmNotAfraidEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=IAmNotAfraidEnLv4",
           "type": "text/html"
         }
       ],
@@ -216,20 +4537,20 @@
     {
       "metadata": {
         "title": "Curious Tall And Short Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/TallAndShortEnLv4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871916+00:00"
+        "modified": "2025-09-02T12:03:30.394438+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/TallAndShortEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/TallAndShortEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/TallAndShortEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=TallAndShortEnLv4",
           "type": "text/html"
         }
       ],
@@ -244,21 +4565,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Friends English Level 2",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/FriendsEnLv2",
+        "title": "Friends English Level 2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsEnLv2",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.871990+00:00"
+        "modified": "2025-09-02T12:03:30.394463+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/FriendsEnLv2.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/FriendsEnLv2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/FriendsEnLv2.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=FriendsEnLv2",
           "type": "text/html"
         }
       ],
@@ -273,21 +4594,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Colours Level 4",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/ColoursEnLv4",
+        "title": "Colours Level 4",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursEnLv4",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.872063+00:00"
+        "modified": "2025-09-02T12:03:30.394488+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/ColoursEnLv4.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/ColoursEnLv4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/ColoursEnLv4.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=ColoursEnLv4",
           "type": "text/html"
         }
       ],
@@ -302,21 +4623,21 @@
     },
     {
       "metadata": {
-        "title": "Curious Reader Hide And Seek English Level 2",
-        "author": "Chimple",
-        "identifier": "https://curious-reader.web.app/id/book/HideAndSeekEnLv2",
+        "title": "Hide And Seek English Level 2",
+        "author": "Curious Reader",
+        "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekEnLv2",
         "language": "en",
-        "modified": "2025-06-25T10:35:59.872146+00:00"
+        "modified": "2025-09-02T12:03:30.394511+00:00"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://curious-reader.web.app/lessons/book/HideAndSeekEnLv2.json",
+          "href": "https://curiousreader-respect-ftm.web.app/lessons/book/HideAndSeekEnLv2.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://curious-reader.web.app/download/book/HideAndSeekEnLv2.html",
+          "href": "https://curiousreader-respect-story.web.app/?lesson_id=HideAndSeekEnLv2",
           "type": "text/html"
         }
       ],

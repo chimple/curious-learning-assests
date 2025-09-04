@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Frog's Starry Wish Marathi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/FrogsStarryWishMarathi",
+    "title": "Frog's Starry Wish Marathi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishMarathi",
     "language": "mr",
-    "modified": "2025-06-25T10:36:00.121273+00:00",
-    "published": "2025-06-25T10:36:00.121273+00:00",
-    "description": "Interactive learning lesson: Curious Reader Frog's Starry Wish Marathi",
+    "modified": "2025-09-02T11:26:10.479765+00:00",
+    "published": "2025-09-02T11:26:10.479765+00:00",
+    "description": "Interactive learning lesson: Frog's Starry Wish Marathi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishMarathi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishMarathi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/FrogsStarryWishMarathi.html",
-      "title": "Curious Reader Frog's Starry Wish Marathi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishMarathi",
+      "title": "Frog's Starry Wish Marathi"
     }
   ],
   "resources": [
@@ -55,15 +55,844 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/FrogsStarryWishMarathi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df71f3927b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df7a785438.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745920ccdee4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745922a8288b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745925722aff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745926fc1711.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745928d7d495.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674592aae524b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674592ce0f1e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674592f635a63.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745931657a25.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745934151003.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745935468a7d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745937838305.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67459394cc9d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674593a729b16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674593ca02043.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674593ee4a4cd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745940f671ed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745942e3dd1c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67459441246f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-674591e955bdb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df80298cc6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733344af31bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733345b7e6d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733346c7a372.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333480b7cb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333491f2c31.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334a15905c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334b40ee8b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334c4a7a43.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334d50829e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334e3f335f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673334f40e65c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333504e71b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673335169a1ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333527ea4a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733353a7ed16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733354bd13a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733355fcbfa4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333570e864b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333582e820b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6733341c57563.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df8424f4bc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673335ce72ee4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673335de62f2a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673335f04fce7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333609d9e0a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733361a4f0fc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733362a31bd0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733363b9e250.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733364cdcfe5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733366b2a006.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673336729c5e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673336c72660e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673336d9cc3ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673336f1a62de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673337023cd67.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733371334b96.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333722d3792.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333736e5ff0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333748b7ded.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733375992e8d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-673335af6acda.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df87feb70b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733396ee2ec6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733399438741.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339a502e9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339b49d0ac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339c445517.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339d4ca002.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339e59e76c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673339f5aec5e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a05b942f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a162212a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a26e2b62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a397f1ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a4a51434.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a5aa88fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a6f5ed09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333a80e93e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-673338a06ccc4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df8ace4f8b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333ae4e460d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333af7068b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b05b8dde.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b1699e32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b2803534.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b3b33b2e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b4dee297.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b5f6b64a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333b751ea95.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-67333aa5a372d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658f1d15629c9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333bd044e29.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333bdfd09e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333bf00fbed.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c0278bc2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c155751c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c28b328a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c3776aec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c482e517.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c58a42f3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333c6744443.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-67333bbf52774.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df917ad6db.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333ca870131.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333cbb4188d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333cccb1b10.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333ce18ae8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333d76bd908.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333d85d6771.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333d945b9a9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333da53ab02.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333db5078f1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333dca123ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333dd89fc45.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67333deaa8112.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-67333c8d4e9d6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df944012f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a2c015756.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a2df495de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a312e314b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a3312a8ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a352a9a2a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a37d281d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a3a035406.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674e2136ef015.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a3dcc62fa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a3fba0d05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a40f666d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a4242efcd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a442e9564.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a4557c3a9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745a28e1dc49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df972e32bc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673341045efc9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-67334118840b2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673341287c678.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673341383ec39.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733414b49d8a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733415c443b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733416dd0e93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-673341804d968.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6733418fc63a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6733403bb570a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df9b523787.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674e20b65fe2b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a670d1a8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a6904860c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a6b6d9ca7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a6ddc1056.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a8efd758e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a909ea508.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a92890592.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a946f3924.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-674e20dd7a942.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745a98664811.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745a6253918f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658df9e59e470.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b3219fb2a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b34b30943.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b35f079c0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b38befeb7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b3b53e636.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b3c810446.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b3ec70a26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b404dcb8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b424b807b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b44a1d2e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b4723c464.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b4858091a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745b2f256ff3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfa16bfa36.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b4e149f27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b4fe11c05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b532556ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b5577a1e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b574ec90f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745b4a47b79a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfa677daf7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b5eb61678.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b60f8c8f1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b62f512ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b64bc2a86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b65eabd19.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745b5b5c5047.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfa9da35ef.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b6aaaef98.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b6d132550.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b6ed74693.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b70d4caf9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b72861279.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b74412b87.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/wordfile-6745b75dc731d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/audios/files-6745b680889aa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfacb8bd23.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfaf2aec33.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/images/file-658dfb05d6fea.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=FrogsStarryWishMarathi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/FrogsStarryWishMarathi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
     }
   ]
 }

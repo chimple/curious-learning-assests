@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader My First Day At The Market Isizulu",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/MyFirstDayAtTheMarketIsiZulu",
+    "title": "My First Day At The Market Isizulu",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
     "language": "zu",
-    "modified": "2025-06-25T10:36:00.028408+00:00",
-    "published": "2025-06-25T10:36:00.028408+00:00",
-    "description": "Interactive learning lesson: Curious Reader My First Day At The Market Isizulu",
+    "modified": "2025-09-02T11:07:05.328716+00:00",
+    "published": "2025-09-02T11:07:05.328716+00:00",
+    "description": "Interactive learning lesson: My First Day At The Market Isizulu",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketIsiZulu.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/MyFirstDayAtTheMarketIsiZulu.html",
-      "title": "Curious Reader My First Day At The Market Isizulu"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
+      "title": "My First Day At The Market Isizulu"
     }
   ],
   "resources": [
@@ -55,15 +55,1692 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/MyFirstDayAtTheMarketIsiZulu.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-65837015bc1ea.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658370fdb68dd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11439f1d6d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1146926f4d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11484247a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c114d9c3f29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c114f7a6958.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1153852015.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1157ddd848.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c115a37017e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c115da8ba01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c115f99a86e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11618728a4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1163baa04d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1165a7bf07.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11712864df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1174ace3f9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11777018da.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11792660b3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c117b758517.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c117d94ef7a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c117fbcc495.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1181459432.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c118370b60f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1185b36083.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c1187c6b791.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11a47dfa98.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c11a60e4ad3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c1135814929.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-65837156ca220.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91553214b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c915679503a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9157c7a2d1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c915a5a6b34.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c915d56f94c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c915ee24374.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9160feb929.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c916325e8ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9164f66e91.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9166762850.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9167e1c8c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9169aad2ab.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c916aea8db3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c916c9ec06f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c916e2e10ef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c916fc9b52e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917122de23.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917289b487.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9173e199c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9176111a3d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9177a9a546.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9179703d43.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917ac0669b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917c5f3854.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917dc4bd82.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c917f3b1a19.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9180b9e04b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c918298c658.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9183e9495b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91865cd53b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9188023a01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9189a9b4d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c918aeac380.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c919010c692.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c919321cdff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c919550e044.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9197065c8a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c915231e3d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-65837191de9ff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91b136fb88.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91b447eb62.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91b6bd85c1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91b8f677cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91bb2ba1a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91bd9d7a87.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91bf4b8521.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91c12ac9e1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91c3c3e217.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91c5fafaf7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91c84a65cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91caad0cb9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91cd0bacbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91cf4e1b06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91d1c48b35.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91d48a06ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91d633eb46.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91d8568ff6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91daa13301.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91dcae6842.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91de6d6fe2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91e04e56ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91e24eafff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91e41d7eb5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91e6c8bb75.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91ea5bf723.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91ecdbc34b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91ee99f4d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91f0d65d72.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91f414584b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c91f5c9efb2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9214433ace.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c921690b19c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c91ad782c3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658371d36f689.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9233f76524.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92394b30e6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c923cd2895f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92516e957c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c925622ead9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92698edd96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c926f165eb4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92710d6b8a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92731d4163.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c927670e214.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9279251380.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c927b7bb7cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c927d1ea415.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c927f0b5adf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92813848e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9284f0cc1e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92899662d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c9229609c36.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-6583720fe9216.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92c60d0794.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92c967c85b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92cc65ecbb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92d0d53b99.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92d3a9e809.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92d69582f5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92d910a63a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92dc1b03d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92ded08560.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92e1d96b56.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92e480c561.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92e738458b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92e9b1a6ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92ecf69847.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92efe8444e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92f2da2f96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92f5373a8f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92f7706477.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92fac85d54.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c92fdf0c06c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93010c42cc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9302c81ed9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93047455de.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c930825f263.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c930a83d13a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c930cf0a4b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c930f6961a2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9313563086.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c931781296a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c931b0c996c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c931e2c0781.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9321477cdc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9323c7748c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9326b9f286.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9329a0f37c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c932b782d9b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c932cde3e5f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c932f0ce68c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9331e1d2f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9334376b16.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c934119f39a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93441c8407.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c92c1c817e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-6583724ce2d8a.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c937384c197.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93761b51ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93790e2f3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c937c66ca03.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c937e4ae65f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c938115ca41.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9383cea8ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9386883bda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9389009037.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c938ae5b46b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c938cb59e69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c938edaee42.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9391a4cbb0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9393d245a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93964d4041.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9398f0cff1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c939af9234a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c939d3141c3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c939f841390.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93a2f4bdde.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93a58a7535.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93a7f6ed69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93a9e7e205.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93acf44077.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93ae22dfbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93b05c6d66.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93b2ece3d5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93bfda2f63.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93c1577f86.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93c37b8566.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c9370c6e533.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-65837281ee003.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93dee00eaa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93e1e7e154.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93e59be0a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93e891709b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93eb207638.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93edaaad27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93f0c0dac6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93f3b731d8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93f71d7aad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93f9339802.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93fbbd85d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c93fe0193a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9400bf3a7f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9404dc8e27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c940859257c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c940ab6cd7c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c940d6902fd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c940f8e5d1a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c941269588a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9414da40db.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c93d62e24bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658372b4f08f4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9493969153.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9495be6e4b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c949c76635c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c949ec474dd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94a0e16a90.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94a363d3c3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94a5d00626.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94a8f45762.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94abace112.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94ae8defe3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94b1053253.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94b3095209.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94b538c2a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94b7d44f32.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94b9a93cd0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94bc984278.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94bffea736.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94c28f077c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94c4e0d1cc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94c785c671.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94c98e52f1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94cb44739e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94ced59e25.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94d1095903.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94d2bd98d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94d4c56001.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c94d699aace.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c946eb7f2bd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658372ddddd48.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c957cd11c01.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c957ff5796e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c958312f3c5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9585e272be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95888439b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c958ae40ec9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c958d08e666.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95916d6052.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9593708bd4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9595963427.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c959868351b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c959fa4f48d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c959dfce09f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95a302ce21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95a5268306.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95a99d1d2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95ad2b03c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95af7e8a2b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95b35b9703.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95b576f3ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95b7adb831.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95baacfdd2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95bdbce959.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95c391a396.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95c7738be0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95c9c33dbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95ccbc9e12.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95ceba04e7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95d21c7a64.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95d449f432.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c95783852d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-6583731424523.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95ee100d46.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95f0f03574.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95f429a10b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95f8dc8fbb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95fc1e37f2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c95ff46c5b0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9603144768.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c960500663f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c960aa16ba9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c960d20304d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c960eec14ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9610b66556.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9613043af0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c96159ee8b9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9617d41687.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c962222ba3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c96268cdf1c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9628c3bf8f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c962a135c26.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c962e1c3086.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9630b11589.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c9633a13673.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c96389b731e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65c963aa22fa6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65c95ea9847ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-6583734a0d8c7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca43f6d2108.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca44197d6c7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca44412dc5c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca44941bab4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca44c359a3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca44dc23e3a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca450adab12.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca454c6195c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4572932d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4597cec27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca45b9394bb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca45da6ee0a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca45fe2e41e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca46219e614.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca463eecc38.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca466675e6d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca46a050127.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca46eba962e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca47198cf9b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4764c1d3a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca47928184f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca47bed52c0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca47de970f9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca48eab6939.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca491c104ba.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca494b2afff.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca497c0bd92.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca49a5ebd4a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca49ec799a2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4a39af303.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4a883ca74.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4aa8d3626.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4ace87b1e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4af0ec5cb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4b1aa9b94.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65ca43ab3e03e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-6583737d427c4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4cfac1eb9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4d3419680.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4d6a1551b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4d91cfb44.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4e0c5eea8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4e373b5b2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4ede8fb7d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4f19cffef.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4f578a7b0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca4f98685b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca506d7832f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca50a33f81a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca50ce4113a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca50fb2d963.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca515363e0d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca518777736.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65ca4c85c9aab.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658373ae6f832.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca528f3776c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca52ade4b28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca52f030b64.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca531086631.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5350c4767.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca536426db1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5386cc20e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca541a2bca8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5435e0c27.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca544aeb8d8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca54724de58.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca54c8d178e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca552036056.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca553f10433.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65ca5207e00eb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658373d46a8ed.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5673f200a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca569e0f217.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5724234a1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca575076fe9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5776219fe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca578a2cf65.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca57a20c277.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca57c2326c5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca57dbc2972.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca581cc94d5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca583509732.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5850b1605.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca58745756a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca588c2713e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca58aaeaf32.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca58c77a1ee.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca58ded6973.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca58fe98fe7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5916c1fd8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5931d8ec2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca59525ebf3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5a47a02f3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5a6554c4d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5a8778742.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5a9f242df.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5ab307f37.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5ac6803a8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/wordfile-65ca5adde6bbc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/audios/files-65ca5641dd86d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658373febdd05.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658374413febd.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/images/file-658374505e13b.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=MyFirstDayAtTheMarketIsiZulu",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/MyFirstDayAtTheMarketIsiZulu/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lion Runs And The Cow Walks Hindi",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLionRunsAndTheCowWalksHindi",
+    "title": "The Lion Runs And The Cow Walks Hindi",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
     "language": "hi",
-    "modified": "2025-06-25T10:35:59.886249+00:00",
-    "published": "2025-06-25T10:35:59.886249+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lion Runs And The Cow Walks Hindi",
+    "modified": "2025-09-02T10:55:01.424740+00:00",
+    "published": "2025-09-02T10:55:01.424740+00:00",
+    "description": "Interactive learning lesson: The Lion Runs And The Cow Walks Hindi",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksHindi.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLionRunsAndTheCowWalksHindi.html",
-      "title": "Curious Reader The Lion Runs And The Cow Walks Hindi"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
+      "title": "The Lion Runs And The Cow Walks Hindi"
     }
   ],
   "resources": [
@@ -55,15 +55,288 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLionRunsAndTheCowWalksHindi.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-658319096f767.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-6583197217324.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b42fc11cfa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b430dd6542.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43243eff4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b42e7ced4a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831a8a29b4c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b434f1ec9a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b436207339.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43747f245.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b433d4702b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831ad1bdd16.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b439b0db7f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43af7dfa7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43c749d59.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43ddcbff9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b43eef3492.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b440520ba3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b4389ad8be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831b138940b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b44382743c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b444d61bdb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b446498a02.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b447663e35.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b448c3341d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b449e6098d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b4425aa306.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831b5ea0e18.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b44cee3bd2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b44e9dfcf3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b45057c1e8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-662a91070a072.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b4536eb1d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b454e01a8a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b456234041.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b44bb8beb7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831ba2ca3fa.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b458a4c17a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b459c2b201.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b45ae7f5bb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b45c1d123a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b4578c10b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831be285345.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b45e5b062e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b45f71f275.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b4607aad80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b461bdf9e4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b4631eb4f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b45d61eec6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831d4baff8f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b4656138b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b466b3a38f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b468188c03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b469489b93.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/wordfile-660b46a5aeff5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/audios/files-660b4646bf035.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831df5f06a6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831e32b2800.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831e42c1cf9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/images/file-65831e5ad7945.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLionRunsAndTheCowWalksHindi",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLionRunsAndTheCowWalksHindi/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

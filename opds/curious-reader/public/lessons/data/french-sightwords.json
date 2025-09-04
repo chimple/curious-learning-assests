@@ -6,11 +6,11 @@
   "metadata": {
     "@type": "https://schema.org/Book",
     "title": "Assessment French Sight Words",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/data/french-sightwords",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-sightwords",
     "language": "fr",
-    "modified": "2025-06-25T10:36:00.048593+00:00",
-    "published": "2025-06-25T10:36:00.048593+00:00",
+    "modified": "2025-09-02T10:43:42.996870+00:00",
+    "published": "2025-09-02T10:43:42.996870+00:00",
     "description": "Interactive learning lesson: Assessment French Sight Words",
     "subject": [
       "Education",
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/data/french-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-sightwords",
       "type": "text/html"
     }
   ],
@@ -41,7 +41,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/data/french-sightwords.html",
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-sightwords",
       "title": "Assessment French Sight Words"
     }
   ],
@@ -55,15 +55,520 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/assessment/french-sightwords.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/ami.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/answer_feedback.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/beau.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/bleu.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/blé.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/bébé.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/chaise.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/cil.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/cri.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/date.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/douze.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/faire.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/fin.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/fleur.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/garde.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/il.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/kilo.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/lire.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/ma.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/mal.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/mil.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/monde.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/moto.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/mur.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/or.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/ou.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/pain.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/papa.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/par.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/peau.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/peur.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/porter.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/posé.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/pré.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/ronde.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/rougir.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/sa.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/sage.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/six.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/sol.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/sur.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/table.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/tarte.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/tour.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/tu.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/vache.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/vide.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/vol.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/vole.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/vélo.mp3"
+    },
+    {
+      "type": "audio/mpeg",
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/été.mp3"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/?lesson_id=french-sightwords",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/css/style.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.0/gsap.min.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/css/BalooBhai2-VariableFont_wght.ttf",
+      "type": "font/ttf"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/chestprogression/TreasureChestOpen01.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/monster.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/bundle.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/french-sightwords.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/audioAsset/Correct.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/b%C3%A9b%C3%A9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/assessment/french-sightwords/bl%C3%A9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:7b1b1181864d28b49de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://ipinfo.io/json?token=b6268727178610",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-FF1159TGCF",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/animation/SoundButton.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/animation/Star.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/SoundButton_Idle.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/bg_crayon-1.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/bg_v01.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/chest.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/chestprogression/TreasureChestOpen02.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/chestprogression/TreasureChestOpen03.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/chestprogression/TreasureChestOpen04.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/hill_v01.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/peekingMonster.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/sound-play-button.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/star.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/star_after_animation.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/Dining%20table.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/Hand%20fan%20Nigeria.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/Well%20and%20buckets.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/Wood%20fire.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/apartment%20building.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/auto_rickshaw.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/basket.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/car.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/ceiling%20fan.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/charcoal%20cooker.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/desktop%20pc.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/eat%20outside.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/eating%20at%20table.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/eating%20on%20the%20floor.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/gas%20burners.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/getting%20water%20from%20river.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/hand%20fan.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/heat%20pump%20unit.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/hot%20plate.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/indian%20stove.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/laptop.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/laptop_and_phone.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/minibus.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/motor%20scooter.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/none.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/over%20fire.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/public%20bus.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/refrigerator.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/revised_ceiling_fan_split_unit.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/revised_eating_on_the_floor.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/revised_minivan_with_people.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/revised_open_fridge.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/revised_stainless_steel_containers.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/rondoval.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/small%20house.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/smartphone.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/standing%20fan.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/stove.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/sylvanaz-attachments.zip",
+      "type": "application/zip"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/tin%20containers.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/tin%20hut.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/walking.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/wall%20ac%20unit.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/water%20from%20a%20truck.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/water%20from%20the%20pump.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/water%20tap.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/img/survey/wooden%20hut.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-assessment.web.app/css/Kalam-Bold.ttf",
+      "type": "font/ttf"
     }
   ]
 }

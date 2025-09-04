@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Dad's Boots Nepali",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/DadsBootsNepali",
+    "title": "Dad's Boots Nepali",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsNepali",
     "language": "ne",
-    "modified": "2025-06-25T10:35:59.974187+00:00",
-    "published": "2025-06-25T10:35:59.974187+00:00",
-    "description": "Interactive learning lesson: Curious Reader Dad's Boots Nepali",
+    "modified": "2025-09-02T10:54:19.157256+00:00",
+    "published": "2025-09-02T10:54:19.157256+00:00",
+    "description": "Interactive learning lesson: Dad's Boots Nepali",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsNepali.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsNepali",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/DadsBootsNepali.html",
-      "title": "Curious Reader Dad's Boots Nepali"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsNepali",
+      "title": "Dad's Boots Nepali"
     }
   ],
   "resources": [
@@ -55,15 +55,1028 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/DadsBootsNepali.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-65830dff293f9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-65830ff3694ad.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88dfc71d6a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88e1595e61.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88e2a514dd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88f361f69b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88f4c3451c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88f5bc7135.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88f73cc2de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88f8cdda52.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88fa462a6c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e88fce11d7e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e892d6cfdac.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e892ed8e3f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8930ac4bb7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8931e3f226.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8933ab8624.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8934beaf25.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8936255699.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8937a7b05d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e893940fdbe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e893a69c730.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e88de244d39.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-65831056ee6df.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8946f635e6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8948011d9e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89495098ff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e894aff394d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e894ca1a5f6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e894e2db4f2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e894f558e46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8950ef2947.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e895235340e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89534c10f7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8954db719b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89564dafc8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89578f364a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8958e57973.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8959fb2ff8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e895b770096.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e895ca768ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8945b3afb6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-6583109f83a69.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89601e766f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89613ba743.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8962576629.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e896405d30e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89675d6925.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8968bbf7ba.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e896a2470ec.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e896b862744.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e896d4bd84e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e896ee535b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897010e08a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897158987f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8972821a4d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8973a9864a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e895ef2594c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658310e3bc4fc.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897681fda5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8977f99239.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897934c71c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897a7ab9f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897ba4dca0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897d2b14b1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897e5f278f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e897ff82433.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89814df092.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8982693b0e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89836b177b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8975714194.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-6583112a01c00.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8986610d21.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8988a68035.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8989dbda82.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e898afc2ac2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e898c67c360.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e898d71d8fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e898ebcb0f2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89901e7598.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89917316cc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8992b7fe14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e899405f617.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8985627009.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-6583116977715.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8996dda25c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8998ba06c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8999f256f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e899bcd7af7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e899d52cb13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e899eb41b57.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a0088945.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a12ec8a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a25c3552.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a3e9a3f8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a5143673.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a62c7a16.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a79edab4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89a93a83cd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89aa7459e1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89abc55042.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89ad525a1d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89ae7b1a09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89b041e61b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89b1953e5f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89b2e4b32e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89b4394481.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8995d09599.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658311ac61736.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89bc0bf88e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89bd36d1fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89beadddc1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89bffb9317.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c1256cfa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c2367a46.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c393ea17.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c4d196f2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c5dc542d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c782e875.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89c9668e80.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89ca6da069.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e89cba55cc4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e89ba9d2a20.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658311ea80c9e.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1206bc0c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a13282469.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a14851fde.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a15bd8f4b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a16fdaf3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a18a58c2c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a19ce8757.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1b125136.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1c3a6073.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1d865440.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1ecaaa2f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a1febc0c8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8a10a03a5a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658312267dec7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a23530a1e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2497918e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a261ad71e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a28c87a7f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2a004edb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2b4ea45c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2cac7989.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2dc35c84.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a2efc6826.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3073447d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a31ae96c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8a2239cb3b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-65831263c39f8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a347e03db.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a35d52d60.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a37435e3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a38b55561.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a39d44325.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3ae60ab5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3bf42884.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3d4e3704.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3e8884d1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a3fd6b955.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a40e2015a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a423dde8e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8a32f0da27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658312a85afa6.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a44669dbe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a4636fbbc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a47498f62.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a486b4388.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a49dee4c5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a4b083be0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a4c75a3d4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a4d8ea895.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a4f41da2d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a51188a00.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a52912aff.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a539d88b9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a54bdc8a6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8a4367e181.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658312ec26f2b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a57b7a62a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5978060c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5abf3061.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5c13b039.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5d5df559.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5e5b2c40.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a5f5e11d5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a644ab5a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a655f36b4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a66d1dd49.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a68038469.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8a69327c90.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8a55fe4a53.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658313261d5f4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8afe40523a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8aff5e57e6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b008cbc03.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b01ce5e47.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b031dc71b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0451f304.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b05709175.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0690f3a1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b07ab42a8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b08c2fa12.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b09f3786b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8afd0bf54f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658313710a42f.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0bea8768.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0d22bc66.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0e30239a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b0f7824c7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b109193a7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b11b1cf32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1322a6c4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b144ee76d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b15bb9048.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b17042eb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8b0aff394b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658313aab727d.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1918ee40.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1a7b6c8c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1bc21b6d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1d4f3a88.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b1fc64149.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b20d9993f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b21f06c78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b22eecd3c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b24225068.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b3d7ae2b8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b3e7c8dee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b3fee61de.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b417a3adb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8b181ed83b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658313f38edff.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b43e9da09.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b44f59018.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b468b37be.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b47aaeec5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b48c208f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b4a259793.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/wordfile-65e8b4b429795.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/audios/files-65e8b42e2aae0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658314686128c.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-65831478b28e9.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/images/file-658314869f634.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=DadsBootsNepali",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/DadsBootsNepali/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Chaku's Cycle Hausa",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ChakusCycleHausa",
+    "title": "Chaku's Cycle Hausa",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHausa",
     "language": "ha",
-    "modified": "2025-06-25T10:36:00.009730+00:00",
-    "published": "2025-06-25T10:36:00.009730+00:00",
-    "description": "Interactive learning lesson: Curious Reader Chaku's Cycle Hausa",
+    "modified": "2025-09-02T11:05:51.393681+00:00",
+    "published": "2025-09-02T11:05:51.393681+00:00",
+    "description": "Interactive learning lesson: Chaku's Cycle Hausa",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleHausa.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHausa",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleHausa.html",
-      "title": "Curious Reader Chaku's Cycle Hausa"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHausa",
+      "title": "Chaku's Cycle Hausa"
     }
   ],
   "resources": [
@@ -55,15 +55,748 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ChakusCycleHausa.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f61cdb6a9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f6cf13510.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ac4286e8f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ac56b235e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ac6a53065.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ac85275d0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ac940241a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2aca2a6d77.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a2ac2795d69.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f72bd78b8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2acf8d5386.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad0b7359d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad1d18c19.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad39e5b3b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad4b34f1b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad618a14e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a2acd7dc330.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f7eede908.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ad9257ef8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ada18482e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2adb6e5fd4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ae2930c28.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ae4d9e7f4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ae6278ee5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ae75980d1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2ae8ad2ba5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2aeaca489f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2aec1712bb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2aee1b0c47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2aef896e53.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2af16367cd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2af2a0afa3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2af4662176.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a2ad7be3d35.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f82e21dc4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2afd447351.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2afeab3f13.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2b0274f256.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2b03c0087d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2b04dbca06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a2b063330a5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a2afa394d7d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f8657e7fd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d10588a021b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d1059f12285.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d105d1ba083.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d105fa07a0a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d10613da128.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d106320260c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d10657a04f6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d1066a3c11a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d106897182a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d106ad6cdd9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d106c3bd140.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d106de2c236.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66d104bdc4b07.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f8a2a9d1c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32f500256d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32f641c69b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32f7eb4c48.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32f9be2f64.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32fb3f041c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32fd60b640.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a32ff6a6d93.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3303400b3c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33046f41c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a32f35db6fa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f8d53e48b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33087b5b3f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3309a7ace6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a330aecc3f2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a330cb01ec4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a330ea58eae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3310320bf9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a331141368a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33131c0ee3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33147e1c18.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3315cefc88.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33265963ad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3328693570.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33299202bc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a332ad87d39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a332c5c7d74.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a332dc20e73.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a33069341f4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f91783856.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a333482daf6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33374205e9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3338889218.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3339a52019.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a333b2aa962.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a333c75a409.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a333daabda3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a333f3c415e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33407598c4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33435ccad8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33447864ae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a3332adda47.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f95489ed3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a334723c5ed.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3348561de4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3349c7fa95.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a334abbae5a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a334c09378f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a334d084e7b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a3345dca16f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f9838dd11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3350609b76.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3352c0d223.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3353e6a0cf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3355fbaed9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3357992f3a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3358e710d9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a335b3c5f96.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a335cadf718.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a335e3c2264.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a335fe5639c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33611148be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a334ecc602b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582f9c9f38f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a336536c058.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3366a7519c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3367ba6d35.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a336bfc3b1b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a336cfef1d2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a336e6381b9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a336fbbbf0b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33711b12be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3373008200.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33747509a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33757a2c67.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a3363ae54aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582fa0e7a729.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3378baa32a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a337a81d531.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a337bd751dd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a337cfb7c2c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a337e67229f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a337fa3926a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3380a9afbf.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a338241f921.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33837e9e61.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3384dbdafe.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3385e95527.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a33775b8fb2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582fa801b2bb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3388dbfc8f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a338a8a0832.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a338b9460a3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a338d64373e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a338eec0cd5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339015d2a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33915513ce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33928d20d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3393d628e0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66d01cd017b85.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a3387b5a583.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582fab2e8792.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a3399f745e4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339b378ade.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339c3afdda.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339d5a6237.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339e923da3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a339fd379a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a16449cc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a280cc21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a3a2cc8d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a4ea58fd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a6762f7a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a7d87e6e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/wordfile-66a33a8de2dad.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/audios/files-66a339741dca4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582faf97f388.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582fb0bd1481.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/images/file-6582fb223475c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleHausa",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleHausa/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

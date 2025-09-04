@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader The Lost Doll English Level 4",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/TheLostDollEnLv4",
+    "title": "The Lost Doll English Level 4",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
     "language": "en",
-    "modified": "2025-06-25T10:35:59.871451+00:00",
-    "published": "2025-06-25T10:35:59.871451+00:00",
-    "description": "Interactive learning lesson: Curious Reader The Lost Doll English Level 4",
+    "modified": "2025-09-02T11:29:03.067350+00:00",
+    "published": "2025-09-02T11:29:03.067350+00:00",
+    "description": "Interactive learning lesson: The Lost Doll English Level 4",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/TheLostDollEnLv4.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/TheLostDollEnLv4.html",
-      "title": "Curious Reader The Lost Doll English Level 4"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
+      "title": "The Lost Doll English Level 4"
     }
   ],
   "resources": [
@@ -55,15 +55,652 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/TheLostDollEnLv4.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef2b43e729d.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef2d37250d0.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f07cea8b552.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07d2933c98.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07dde07ebc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07deb69338.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07df57e45e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07e00b3b7a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f07e0c12f54.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef2ec0dfac0.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2e0fa03a14.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e13903e28.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e156b50d6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e166b1453.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e185b83f0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef31140c3a9.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2e227371ad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e27332a2e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e29dd7d9c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e2b334a8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e2dbdb51c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e2ef65eaa.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e30ba2a44.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e321d002b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef32ab45f04.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2e3a3d4edf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e3e242d02.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e410ca6c9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e44da7222.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e464729fd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e48a26b9f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef35cbdad1b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2e817a0d27.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e886c837d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e8b9aabea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e8d732a0f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e8f3bdea3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e917dac44.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef37fb18d59.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2e97fcd20f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2e9ff2d083.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ea26b65fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ea69605e5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ea88b3847.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eab57262b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ead6c52f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eafbd1817.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eb1775e89.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eb352bfea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eb621af40.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eb809120b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef3e474be2b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2ed0a25a5d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eebaddc08.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eed76b025.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eef4804a4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ef147823b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ef30b0edf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ef64da0b3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ef84638b7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2efaf22f68.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2efd1cee23.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2eff932445.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f013cfc95.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f03349220.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef404802c5b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2f0b2766ce.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f0dcde7f7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f1155a3fb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f13580b78.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f1508ab57.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f176d6a96.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f1d07b91e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f1f5bef37.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f215dbb13.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f236bd491.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f24e24354.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f269575e9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2f28ac98ea.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef40a401d18.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-6218846b3d60c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-6218849ec4bb9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-62188504d6e87.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621885dc2099d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621885fb469a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-6218860e203c6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-62188645a8775.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621886c73bd0f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621886f485fad.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-6218870bc4454.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621887517eda6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-6218879315755.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-621887a2896bf.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef411337e88.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f2fed0524d3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff0045c32.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff1832fc4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff3491ab7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff504d685.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff6e03c90.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ff927fe7d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ffa863f89.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f2ffc04aabe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef41647463b.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f3004ce30e7.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30164e24f4.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3018392cb6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f301a466664.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f301bd68485.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef4227352f2.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f30287de6cd.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f302e6c6b3e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f303185e69e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30331925b0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3034e61391.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3036e5be8f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3039706b0b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f303afc584d.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f303cf5a2c6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef428f3c6ba.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f3053f3dfb3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30575c884c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3058b864f9.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f305a8718a5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f305c499c48.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef430c0d077.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f305fb5a26b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30628ddcc1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3064ad5b42.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30663ee0c6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3067b9f4d2.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3069787a85.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f306ae22783.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f306c520da5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f306d980e94.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61ef4ba5e2239.jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/files-61f3072c1aad5.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30786e4053.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30797d9f10.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f307ade4e05.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f307d189ab6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f307efcd17f.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3080b62ffb.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f308276afee.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3083eae873.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30851b3aa1.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f30865de2fe.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/audios/wordfile-61f3087a536d8.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61fb28cb969ac.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61fb29a5596cb.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/images/file-61fb296cf2c04.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=TheLostDollEnLv4",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/TheLostDollEnLv4/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }

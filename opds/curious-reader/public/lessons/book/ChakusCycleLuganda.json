@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "https://schema.org/Book",
-    "title": "Curious Reader Chakus Cycle Lugandan",
-    "author": "Chimple",
-    "identifier": "https://curious-reader.web.app/id/book/ChakusCycleLuganda",
+    "title": "Chakus Cycle Lugandan",
+    "author": "Curious Reader",
+    "identifier": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleLuganda",
     "language": "lg",
-    "modified": "2025-06-25T10:36:00.061041+00:00",
-    "published": "2025-06-25T10:36:00.061041+00:00",
-    "description": "Interactive learning lesson: Curious Reader Chakus Cycle Lugandan",
+    "modified": "2025-09-02T11:18:57.092391+00:00",
+    "published": "2025-09-02T11:18:57.092391+00:00",
+    "description": "Interactive learning lesson: Chakus Cycle Lugandan",
     "subject": [
       "Education",
       "Learning"
@@ -26,7 +26,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleLuganda.html",
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleLuganda",
       "type": "text/html"
     }
   ],
@@ -41,8 +41,8 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curious-reader.web.app/download/book/ChakusCycleLuganda.html",
-      "title": "Curious Reader Chakus Cycle Lugandan"
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleLuganda",
+      "title": "Chakus Cycle Lugandan"
     }
   ],
   "resources": [
@@ -55,15 +55,536 @@
       }
     },
     {
-      "type": "application/zip",
-      "href": "https://curious-reader.web.app/zips/story/ChakusCycleLuganda.zip",
-      "properties": {
-        "contains": [
-          "application/xhtml+xml",
-          "text/css",
-          "image/*"
-        ]
-      }
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f61cdb6a9.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f6cf13510.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63c1441421.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63c29c87a7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63c9b5ae09.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63e216fa26.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63e49dd842.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65c63e72c21b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65c63bf598bfc.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f72bd78b8.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd21a86e11a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2201127c1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd221bca629.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd222cbab9e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd223c62ace.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd2169d61bd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f7eede908.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd227678b98.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd228f82be3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd22ab0f786.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd22c9e6a2e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd22d98a135.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd225f5fc52.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f82e21dc4.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd23129c10c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd232a19e5a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd234770b24.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2358df7d3.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd22f44bec7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f8657e7fd.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd23766695d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd242590fd9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2439f0400.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd245c60389.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd247a72658.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd249dbcbca.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd24b3cb55f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd24cad2d34.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f8a2a9d1c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd25114899f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd256469de5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd25836d1b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd259795211.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2671bfee3.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd269a64849.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd26c29df2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd24f06853c.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f8d53e48b.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65cd26f1442b4.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd27cf388a0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2aa88c67a.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2abcf1ca8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2af60a840.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2b0c808be.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2b26c7657.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2ba707865.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65cd2bcb35731.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f91783856.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce37ec4a019.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce380c4aba0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce38511adf9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce390a21847.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3a5737021.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3a846266f.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3a9338b39.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce37ae49e29.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f95489ed3.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3ad72b6ae.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3b086cfce.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3b2c81dac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3b3fe8d2a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce3ab4003aa.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f9838dd11.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3b8bd5c04.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3bb480ef2.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3ca82cf6e.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3cbd6ab2b.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3cd900501.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3cf3892ea.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3d0667318.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce3b734700a.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582f9c9f38f2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3d43021b8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3d7938d06.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3da0d56b9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3dd25631c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3df0ea49b.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3e08aeb12.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3e1b52eeb.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce3d2b4b5d6.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582fa0e7a729.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3e93843e1.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3f1e0d774.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3f3d5ebc8.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3f7087a2d.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3f86c42ec.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce3f98ea9ac.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce3e4049612.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582fa801b2bb.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce3fdbd26a9.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4047e07b5.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce42fa5eb67.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4326164b0.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4336b02d7.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce434402c59.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4362e735c.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce44336bc86.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582fab2e8792.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4583129dd.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce462dd6644.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce46534ebe6.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce468b1a2dc.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce46f407948.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce47234e300.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce47c06f476.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce4824147d0.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce48385ba35.wav",
+      "type": "audio/x-wav"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/wordfile-65ce484aec16e.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/audios/files-65ce446bd1b21.mp3",
+      "type": "audio/mpeg"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582faf97f388.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582fb0bd1481.png",
+      "type": "image/png"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/images/file-6582fb223475c.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/?lesson_id=ChakusCycleLuganda",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/app.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/styles/splide4.min.css",
+      "type": "text/css"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/image/loadingImg.gif",
+      "type": "image/gif"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/app.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js",
+      "type": "text/javascript"
+    },
+    {
+      "href": "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:602402387941:web:3bdd502b0e7ce6789de10c/webConfig",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://curious-reader.web.app/web-apps/story/ChakusCycleLuganda/content/content.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://curiousreader-respect-story.web.app/fonts/Quicksand_Bold.otf",
+      "type": "font/otf"
+    },
+    {
+      "href": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-XNE7Y2439V",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://firebaseinstallations.googleapis.com/v1/projects/ftm-b9d99/installations",
+      "type": "application/octet-stream"
     }
   ]
 }
