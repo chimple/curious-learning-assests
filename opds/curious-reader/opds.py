@@ -921,7 +921,7 @@ def generate(
     web_apps: List[Dict[str, Any]] = languages_data.get("web_apps", [])
 
     # 1) OPDS top-level feed
-    build_opds_feed(base_out_url, web_apps, public_dir / "opds.json")
+    build_opds_feed("https://curious-reader.web.app/", web_apps, public_dir / "opds.json")
 
     # 2) FTM lessons + grades per language (skip if --skip-ftm is set)
     if skip_ftm:
