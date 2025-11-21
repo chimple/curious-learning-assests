@@ -290,6 +290,14 @@ for sheet_name in wb.sheetnames:
                 }
             ]
         }
+        
+        cocos_chapter_code = str(data.get('cocosChapterCode', '')).strip() or data.get('cocos_chapter_code', '')
+        if cocos_chapter_code and cocos_chapter_code.lower() != 'nan':
+             publication['metadata']['subject'] = [
+                {
+                    'code': cocos_chapter_code
+                }
+            ]
         publications.append(publication)
 
     grade_json = {
