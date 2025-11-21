@@ -295,6 +295,8 @@ for sheet_name in wb.sheetnames:
         if cocos_chapter_code and cocos_chapter_code.lower() != 'nan':
              publication['metadata']['subject'] = [
                 {
+                    'name': title,
+                    'scheme': "https://chimple.cc/curriculum",
                     'code': cocos_chapter_code
                 }
             ]
