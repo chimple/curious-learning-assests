@@ -1,0 +1,26 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/CreativeWork",
+    "title": "XAPI-FORM",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c/#/form/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c",
+    "modified": "2026-01-05T11:11:32.620425+00:00",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c/#/form/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c",
+      "type": "text/html"
+    }
+  ]
+}

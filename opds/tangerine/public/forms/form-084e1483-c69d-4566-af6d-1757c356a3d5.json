@@ -1,0 +1,26 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/CreativeWork",
+    "title": "Address_Form",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-2cfa3662-f2bc-4a7e-b5cd-738a11815d09/form-084e1483-c69d-4566-af6d-1757c356a3d5/#/form/form-084e1483-c69d-4566-af6d-1757c356a3d5",
+    "modified": "2026-01-05T11:11:41.128209+00:00",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-084e1483-c69d-4566-af6d-1757c356a3d5.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-2cfa3662-f2bc-4a7e-b5cd-738a11815d09/form-084e1483-c69d-4566-af6d-1757c356a3d5/#/form/form-084e1483-c69d-4566-af6d-1757c356a3d5",
+      "type": "text/html"
+    }
+  ]
+}

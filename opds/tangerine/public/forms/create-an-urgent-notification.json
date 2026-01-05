@@ -1,0 +1,26 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/CreativeWork",
+    "title": "Data_Collector_causes_an_urgent_notification_to_be_created",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/create-an-urgent-notification/#/form/create-an-urgent-notification",
+    "modified": "2026-01-05T11:11:12.447903+00:00",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/create-an-urgent-notification.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/create-an-urgent-notification/#/form/create-an-urgent-notification",
+      "type": "text/html"
+    }
+  ]
+}

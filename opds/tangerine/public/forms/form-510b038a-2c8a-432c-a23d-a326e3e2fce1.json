@@ -1,0 +1,26 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/CreativeWork",
+    "title": "Hospital_Form",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-510b038a-2c8a-432c-a23d-a326e3e2fce1/#/form/form-510b038a-2c8a-432c-a23d-a326e3e2fce1",
+    "modified": "2026-01-05T11:12:06.316664+00:00",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-510b038a-2c8a-432c-a23d-a326e3e2fce1.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-510b038a-2c8a-432c-a23d-a326e3e2fce1/#/form/form-510b038a-2c8a-432c-a23d-a326e3e2fce1",
+      "type": "text/html"
+    }
+  ]
+}

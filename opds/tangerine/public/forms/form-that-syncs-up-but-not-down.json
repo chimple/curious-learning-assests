@@ -1,0 +1,26 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/CreativeWork",
+    "title": "A_form_that_syncs_up_but_not_down",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-that-syncs-up-but-not-down/#/form/form-that-syncs-up-but-not-down",
+    "modified": "2026-01-05T11:11:17.811236+00:00",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-that-syncs-up-but-not-down.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-that-syncs-up-but-not-down/#/form/form-that-syncs-up-but-not-down",
+      "type": "text/html"
+    }
+  ]
+}

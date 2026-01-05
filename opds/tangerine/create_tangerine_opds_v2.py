@@ -48,7 +48,10 @@ def create_publication_entry(form_data, group_id):
     config_url = f"{DATA_SOURCE_BASE}/releases/prod/online-survey-apps/{group_id}/{form_id}/assets/app-config.json"
     config = fetch_json(config_url)
     
-    if config and 'appName' in config:
+    if not config:
+        return None
+        
+    if 'appName' in config:
         title = config['appName']
     
     # Direct launch URL as per user instruction
@@ -141,8 +144,8 @@ def main():
         forms_list = fetch_json(forms_url)
         
         if forms_list is None:
-            print(f"  Warning: Could not fetch forms.json for group {group_id}. Skipping forms.")
-            forms_list = []
+            print(f"  Warning: Could not fetch forms.json for group {group_id}. Skipping group.")
+            continue
             
         all_publications = []
         

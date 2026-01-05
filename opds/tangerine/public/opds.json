@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Tangerine Surveys"
+    "title": "Tangerine Groups"
   },
   "links": [
     {
@@ -11,30 +11,69 @@
   ],
   "navigation": [
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-5407c08a-057e-44b0-b56c-132424e48f4e.json",
-      "title": "Survey Group 5407c08a",
-      "type": "application/opds+json",
-      "alternate": [
-        {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
-          "rel": "icon",
-          "type": "image/png",
-          "title": "Tangerine"
-        }
-      ]
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-a2798239-0ec6-4556-9579-c8fe4adc77a9.json",
+      "title": "New Group A",
+      "type": "application/opds+json"
     },
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-e4784a78-2677-494b-9fe8-9004a1907c30.json",
-      "title": "Survey Group e4784a78",
-      "type": "application/opds+json",
-      "alternate": [
-        {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
-          "rel": "icon",
-          "type": "image/png",
-          "title": "Tangerine"
-        }
-      ]
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-59b1d482-0a67-4d3b-8fb6-e1e9db53ab30.json",
+      "title": "Group B",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-2cfa3662-f2bc-4a7e-b5cd-738a11815d09.json",
+      "title": "Group c",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-291dd746-57de-443f-b0a5-49395b00937e.json",
+      "title": "Empty Group Test",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-f1245438-c0ce-4dc0-865a-abaa16dede3c.json",
+      "title": "Group D",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-5365bd80-f722-4eea-a59f-23ec8c9bbf77.json",
+      "title": "Group E",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-e5c2519e-70dc-4b2a-a276-a1272b89f7d6.json",
+      "title": "Group G",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-08449606-ed52-47c1-8464-2e9b67895af1.json",
+      "title": "Test",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-06ee66ca-8528-42d7-9dca-c6172dae04af.json",
+      "title": "Group Z",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-09ef5b51-02ce-4122-95a9-a5ac3ff8330c.json",
+      "title": "Group S",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-2923ef2a-9ab1-4509-b0c7-9ec8f2194a3f.json",
+      "title": "test001",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-af1e2993-6112-4afa-be62-f5468eb3d93c.json",
+      "title": "Group M",
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-8e26a43d-2a10-4afa-8563-0d70e54dbbbf.json",
+      "title": "Prayag's Group",
+      "type": "application/opds+json"
     }
   ]
 }
