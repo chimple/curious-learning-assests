@@ -77,6 +77,7 @@ def create_publication_entry(form_data, group_id):
         "metadata": {
             "@type": "https://schema.org/CreativeWork",
             "title": title,
+            "author": "Tangerine",
             "identifier": launch_url,
             "modified": now,
             "subject": ["Survey", "Tangerine", status_subject]
@@ -94,6 +95,7 @@ def create_publication_entry(form_data, group_id):
     return {
         "metadata": {
             "title": title,
+            "author": "Tangerine",
             "identifier": launch_url,
             "modified": now,
             "language": "en",
@@ -165,8 +167,7 @@ def main():
         group_feed = {
             "metadata": {"title": label},
             "links": [
-                {"rel": "self", "href": f"{url_prefix}/groups/{group_feed_filename}", "type": "application/opds+json"},
-                {"rel": "start", "href": f"{url_prefix}/opds.json", "type": "application/opds+json"}
+                {"rel": "self", "href": f"{url_prefix}/groups/{group_feed_filename}", "type": "application/opds+json"}
             ],
             "publications": all_publications
         }
