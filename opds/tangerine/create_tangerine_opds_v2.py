@@ -5,10 +5,10 @@ import datetime
 from urllib.parse import quote
 
 # === CONFIGURATION ===
-BASE_URL = "https://tangerinestaging.ustadmobile.com" # The ID of the OPDS catalog itself
+BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3NjA3MjY0LCJleHAiOjE3Njc2MTA4NjQsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.yrvNnYU4QKh4dE3Bx2NTZdEZ6MNj2_PWkZWS44S-1mk"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3NjA4OTgyLCJleHAiOjE3Njc2MTI1ODIsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.UxSjksmSkFgqwxGL8jGkQa3r6SJGRV_JCMdc9iUaOds"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -67,7 +67,7 @@ def create_publication_entry(form_data, group_id):
     
     # Create the internal manifest file (optional, but good for standardization)
     form_manifest_filename = f"{form_id}.json"
-    form_manifest_url = f"{BASE_URL}/tangerine/public/forms/{form_manifest_filename}"
+    form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
     manifest = {
         "@context": "https://readium.org/webpub-manifest/context.jsonld",
@@ -102,7 +102,7 @@ def create_publication_entry(form_data, group_id):
         ],
         "images": [
              {
-                "href": f"{BASE_URL}/tangerine/public/icon.png",
+                "href": f"{BASE_URL}/icon.png",
                 "type": "image/png",
                 "height": 128,
                 "width": 128
@@ -155,7 +155,7 @@ def main():
                 all_publications.append(pub_entry)
         
         # 2. Create Group Feed (Directly listing publications)
-        url_prefix = f"{BASE_URL}/tangerine/public"
+        url_prefix = f"{BASE_URL}"
         
         group_feed_filename = f"{group_id}.json"
         
@@ -179,7 +179,7 @@ def main():
         })
 
     # 4. Create Main OPDS Feed
-    url_prefix = f"{BASE_URL}/tangerine/public"
+    url_prefix = f"{BASE_URL}"
     root_opds = {
         "metadata": {"title": "Tangerine Groups"},
         "links": [
