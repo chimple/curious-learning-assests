@@ -9,8 +9,8 @@
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/create-an-urgent-notification/#/form/create-an-urgent-notification",
     "language": "en",
-    "modified": "2026-01-06T10:52:54.174410+00:00",
-    "published": "2026-01-06T10:52:54.174410+00:00",
+    "modified": "2026-01-06T11:40:45.350624+00:00",
+    "published": "2026-01-06T11:40:45.350624+00:00",
     "description": "Tangerine Form: Data_Collector_causes_an_urgent_notification_to_be_created",
     "subject": [
       "Survey",
@@ -48,10 +48,8 @@
   ],
   "resources": [
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
-      "type": "image/png",
-      "height": 128,
-      "width": 128
+      "href": "https://tangerinestaging.ustadmobile.com/app/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/assets/assets/create-an-urgent-notification/form.html",
+      "type": "text/html"
     }
   ]
 }

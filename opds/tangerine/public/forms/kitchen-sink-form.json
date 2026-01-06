@@ -9,8 +9,8 @@
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/#/form/kitchen-sink-form",
     "language": "en",
-    "modified": "2026-01-06T10:53:14.185194+00:00",
-    "published": "2026-01-06T10:53:14.185194+00:00",
+    "modified": "2026-01-06T11:41:12.261036+00:00",
+    "published": "2026-01-06T11:41:12.261036+00:00",
     "description": "Tangerine Form: Kitchen_Sink_Form",
     "subject": [
       "Survey",
@@ -48,10 +48,8 @@
   ],
   "resources": [
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
-      "type": "image/png",
-      "height": 128,
-      "width": 128
+      "href": "https://tangerinestaging.ustadmobile.com/app/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/assets/assets/kitchen-sink-form/form.html",
+      "type": "text/html"
     }
   ]
 }
