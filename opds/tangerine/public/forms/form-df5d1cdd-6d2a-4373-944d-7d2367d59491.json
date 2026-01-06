@@ -1,16 +1,23 @@
 {
-  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
   "metadata": {
-    "@type": "https://schema.org/CreativeWork",
+    "@type": "https://schema.org/Book",
     "title": "New_Form",
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-291dd746-57de-443f-b0a5-49395b00937e/form-df5d1cdd-6d2a-4373-944d-7d2367d59491/#/form/form-df5d1cdd-6d2a-4373-944d-7d2367d59491",
-    "modified": "2026-01-05T11:19:54.134286+00:00",
+    "language": "en",
+    "modified": "2026-01-06T10:53:45.788766+00:00",
+    "published": "2026-01-06T10:53:45.788766+00:00",
+    "description": "Tangerine Form: New_Form",
     "subject": [
       "Survey",
       "Tangerine",
       "Published"
-    ]
+    ],
+    "readingProgression": "ltr"
   },
   "links": [
     {
@@ -22,6 +29,29 @@
       "rel": "http://opds-spec.org/acquisition/open-access",
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-291dd746-57de-443f-b0a5-49395b00937e/form-df5d1cdd-6d2a-4373-944d-7d2367d59491/#/form/form-df5d1cdd-6d2a-4373-944d-7d2367d59491",
       "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-291dd746-57de-443f-b0a5-49395b00937e/form-df5d1cdd-6d2a-4373-944d-7d2367d59491/#/form/form-df5d1cdd-6d2a-4373-944d-7d2367d59491",
+      "title": "New_Form"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
     }
   ]
 }

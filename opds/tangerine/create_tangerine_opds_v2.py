@@ -8,7 +8,7 @@ from urllib.parse import quote
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "auth_token"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3Njk2NzEyLCJleHAiOjE3Njc3MDAzMTIsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.Etz8kfJfpCrY2BZhpihI9lk9I8mmbtv11_DFhtsdKPo"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -73,33 +73,64 @@ def create_publication_entry(form_data, group_id):
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
     manifest = {
-        "@context": "https://readium.org/webpub-manifest/context.jsonld",
+        "@context": ["https://readium.org/webpub-manifest/context.jsonld", "https://schema.org"],
         "metadata": {
-            "@type": "https://schema.org/CreativeWork",
+            "@type": "https://schema.org/Book",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
+            "language": "en",
             "modified": now,
-            "subject": ["Survey", "Tangerine", status_subject]
+            "published": now,
+            "description": f"Tangerine Form: {title}",
+            "subject": ["Survey", "Tangerine", status_subject],
+            "readingProgression": "ltr"
         },
         "links": [
             {"rel": "self", "href": form_manifest_url, "type": "application/webpub+json"},
             {"rel": "http://opds-spec.org/acquisition/open-access", "href": launch_url, "type": "text/html"}
+        ],
+        "images": [
+            {
+                "href": f"{BASE_URL}/icon.png",
+                "type": "image/png",
+                "height": 128,
+                "width": 128
+            }
+        ],
+        "readingOrder": [
+            {
+                "type": "text/html",
+                "href": launch_url,
+                "title": title
+            }
+        ],
+        "resources": [
+             {
+                "href": f"{BASE_URL}/icon.png",
+                "type": "image/png",
+                "height": 128,
+                "width": 128
+            }
         ]
     }
     
     with open(os.path.join(FORMS_DIR, form_manifest_filename), 'w', encoding='utf-8') as f:
         json.dump(manifest, f, indent=2)
 
-    # Return the publication object for the feed
+    # Return the publication object for the feed (Group Feed entry)
+    # The group feed entry should also be aligned if necessary, but typically sticking to OPDS feed entry standard is safe.
+    # We will keep the group feed entry similar to before but consistent with metadata.
     return {
         "metadata": {
+            "@type": "http://schema.org/Book",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
             "modified": now,
             "language": "en",
-            "subject": [status_subject]
+            "subject": [status_subject],
+            "description": f"Tangerine Form: {title}"
         },
         "links": [
             {"rel": "self", "href": form_manifest_url, "type": "application/webpub+json"},

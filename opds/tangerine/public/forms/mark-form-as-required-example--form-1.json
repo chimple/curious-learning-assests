@@ -1,16 +1,23 @@
 {
-  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
   "metadata": {
-    "@type": "https://schema.org/CreativeWork",
+    "@type": "https://schema.org/Book",
     "title": "Mark_a_Form_as_required_example_form_1",
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
-    "modified": "2026-01-05T11:19:28.715247+00:00",
+    "language": "en",
+    "modified": "2026-01-06T10:53:06.457532+00:00",
+    "published": "2026-01-06T10:53:06.457532+00:00",
+    "description": "Tangerine Form: Mark_a_Form_as_required_example_form_1",
     "subject": [
       "Survey",
       "Tangerine",
       "Published"
-    ]
+    ],
+    "readingProgression": "ltr"
   },
   "links": [
     {
@@ -22,6 +29,29 @@
       "rel": "http://opds-spec.org/acquisition/open-access",
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
       "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
+      "title": "Mark_a_Form_as_required_example_form_1"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
     }
   ]
 }

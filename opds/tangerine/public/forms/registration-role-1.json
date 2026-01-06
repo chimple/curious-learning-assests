@@ -1,16 +1,23 @@
 {
-  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
   "metadata": {
-    "@type": "https://schema.org/CreativeWork",
+    "@type": "https://schema.org/Book",
     "title": "Role_1_Registration",
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/registration-role-1/#/form/registration-role-1",
-    "modified": "2026-01-05T11:19:14.144256+00:00",
+    "language": "en",
+    "modified": "2026-01-06T10:52:48.887848+00:00",
+    "published": "2026-01-06T10:52:48.887848+00:00",
+    "description": "Tangerine Form: Role_1_Registration",
     "subject": [
       "Survey",
       "Tangerine",
       "Published"
-    ]
+    ],
+    "readingProgression": "ltr"
   },
   "links": [
     {
@@ -22,6 +29,29 @@
       "rel": "http://opds-spec.org/acquisition/open-access",
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/registration-role-1/#/form/registration-role-1",
       "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/registration-role-1/#/form/registration-role-1",
+      "title": "Role_1_Registration"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
     }
   ]
 }
