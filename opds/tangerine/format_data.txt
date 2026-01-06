@@ -1,0 +1,24 @@
+group_id = {group_id}
+form_id = {form_id}
+
+Groups List :
+https://tangerinestaging.ustadmobile.com/nest/group/list
+
+
+Group Details : 
+https://tangerinestaging.ustadmobile.com/editor/{group_id}/content/app-config.json
+
+
+List of forms of a group :
+https://tangerinestaging.ustadmobile.com/app/{group_id}/assets/forms.json
+
+
+Form Details :
+https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/{group_id}/{form_id}/assets/app-config.json
+
+
+Direct Form Url :
+https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/{group_id}/{form_id}/#/form/{form_id}
+
+
+
