@@ -2,7 +2,8 @@ import os
 import json
 import requests
 import datetime
-from urllib.parse import quote
+import re
+from urllib.parse import quote, urljoin
 
 # === CONFIGURATION ===
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
@@ -70,6 +71,66 @@ def create_publication_entry(form_data, group_id):
     
     # Create the internal manifest file (optional, but good for standardization)
     form_manifest_filename = f"{form_id}.json"
+    # Build resources list
+    resources = []
+    
+    # Add main source file and scan for assets
+    src = form_data.get('src')
+    if src:
+        # Resolve form.html URL
+        # Based on analysis: {DATA_SOURCE_BASE}/app/{group_id}/assets/{src_cleaned}
+        # where src starts with ./assets/...
+        
+        cleaned_src = src.lstrip('./') if src.startswith('./') else src
+        
+        # Note: Debugging showed that even though src is 'assets/...', the app endpoint needs '/assets/' prefix
+        # constructing .../app/{group_id}/assets/assets/... which worked.
+        asset_base_path = f"{DATA_SOURCE_BASE}/app/{group_id}/assets"
+        form_html_url = f"{asset_base_path}/{cleaned_src}"
+        
+        # Add form.html itself
+        resources.append({
+            "href": form_html_url,
+            "type": "text/html"
+        })
+        
+        # Fetch and scan form.html for other assets
+        try:
+            headers = {"authorization": AUTH_TOKEN}
+            res = requests.get(form_html_url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                content = res.text
+                # Regex for common media types
+                extensions = ['mp3', 'ogg', 'wav', 'png', 'jpg', 'jpeg', 'gif', 'mp4', 'webm']
+                found_assets = set()
+                # Pattern to capture src="..." or href="..."
+                # We simply look for filenames ending in extensions to be robust against quoting styles
+                for ext in extensions:
+                    # Capture full relative path if possible
+                    matches = re.findall(r'[\w\-\./]+\.' + ext, content)
+                    for m in matches:
+                        found_assets.add(m)
+
+                for asset_path in sorted(found_assets):
+                    # Resolve relative to form.html
+                    asset_url = urljoin(form_html_url, asset_path)
+                    
+                    # Guess mime type simple
+                    mime_type = "application/octet-stream"
+                    if asset_path.endswith('.png'): mime_type = "image/png"
+                    elif asset_path.endswith('.jpg') or asset_path.endswith('.jpeg'): mime_type = "image/jpeg"
+                    elif asset_path.endswith('.mp3'): mime_type = "audio/mpeg"
+                    elif asset_path.endswith('.ogg'): mime_type = "audio/ogg"
+                    
+                    resources.append({
+                        "href": asset_url,
+                        "type": mime_type
+                    })
+            else:
+                print(f"Warning: Could not fetch form.html for scanning: {res.status_code}")
+        except Exception as e:
+            print(f"Error scanning form assets: {e}")
+
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
     manifest = {
@@ -105,14 +166,7 @@ def create_publication_entry(form_data, group_id):
                 "title": title
             }
         ],
-        "resources": [
-             {
-                "href": f"{BASE_URL}/icon.png",
-                "type": "image/png",
-                "height": 128,
-                "width": 128
-            }
-        ]
+        "resources": resources
     }
     
     with open(os.path.join(FORMS_DIR, form_manifest_filename), 'w', encoding='utf-8') as f:
