@@ -12,14 +12,16 @@
   "publications": [
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Address_Form",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-2cfa3662-f2bc-4a7e-b5cd-738a11815d09/form-084e1483-c69d-4566-af6d-1757c356a3d5/#/form/form-084e1483-c69d-4566-af6d-1757c356a3d5",
-        "modified": "2026-01-06T11:41:41.352116+00:00",
+        "modified": "2026-01-07T10:52:30.942580+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Address_Form"
       },
@@ -46,14 +48,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "New_Form",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-2cfa3662-f2bc-4a7e-b5cd-738a11815d09/form-c444c8bc-74be-407a-85fe-a808dc251ac6/#/form/form-c444c8bc-74be-407a-85fe-a808dc251ac6",
-        "modified": "2026-01-06T11:41:44.034850+00:00",
+        "modified": "2026-01-07T10:52:32.921492+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: New_Form"
       },

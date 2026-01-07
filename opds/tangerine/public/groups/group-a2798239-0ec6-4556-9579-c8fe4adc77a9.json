@@ -12,14 +12,16 @@
   "publications": [
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Role_1_Registration",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/registration-role-1/#/form/registration-role-1",
-        "modified": "2026-01-06T11:40:38.767380+00:00",
+        "modified": "2026-01-07T10:51:49.035589+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Role_1_Registration"
       },
@@ -46,14 +48,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Data_Collector_causes_an_urgent_notification_to_be_created",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/create-an-urgent-notification/#/form/create-an-urgent-notification",
-        "modified": "2026-01-06T11:40:45.350624+00:00",
+        "modified": "2026-01-07T10:51:54.080495+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Data_Collector_causes_an_urgent_notification_to_be_created"
       },
@@ -80,14 +84,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Test_Issues_created_programatically_on_Client",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/test-issues-created-programatically-on-client/#/form/test-issues-created-programatically-on-client",
-        "modified": "2026-01-06T11:40:49.393232+00:00",
+        "modified": "2026-01-07T10:51:57.117464+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Test_Issues_created_programatically_on_Client"
       },
@@ -114,14 +120,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Test_Form",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/test-form/#/form/test-form",
-        "modified": "2026-01-06T11:40:52.071249+00:00",
+        "modified": "2026-01-07T10:51:59.086456+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Test_Form"
       },
@@ -148,14 +156,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "A_form_that_syncs_up_but_not_down",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-that-syncs-up-but-not-down/#/form/form-that-syncs-up-but-not-down",
-        "modified": "2026-01-06T11:40:55.915930+00:00",
+        "modified": "2026-01-07T10:52:02.110027+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: A_form_that_syncs_up_but_not_down"
       },
@@ -182,14 +192,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Third_form_in_a_workflow",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-3/#/form/workflow-form-3",
-        "modified": "2026-01-06T11:41:01.043248+00:00",
+        "modified": "2026-01-07T10:52:06.116908+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Third_form_in_a_workflow"
       },
@@ -216,14 +228,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Mark_a_Form_as_required_example_form_1",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
-        "modified": "2026-01-06T11:41:03.699955+00:00",
+        "modified": "2026-01-07T10:52:08.079564+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Mark_a_Form_as_required_example_form_1"
       },
@@ -250,14 +264,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "Kitchen_Sink_Form",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/#/form/kitchen-sink-form",
-        "modified": "2026-01-06T11:41:12.261036+00:00",
+        "modified": "2026-01-07T10:52:14.016147+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: Kitchen_Sink_Form"
       },
@@ -284,14 +300,16 @@
     },
     {
       "metadata": {
-        "@type": "http://schema.org/Book",
         "title": "XAPI-FORM",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c/#/form/form-c0bdb7e2-2f7e-4a16-ad44-7ff9c1cfda7c",
-        "modified": "2026-01-06T11:41:21.755459+00:00",
+        "modified": "2026-01-07T10:52:19.753241+00:00",
         "language": "en",
         "subject": [
-          "Published"
+          {
+            "name": "Published",
+            "code": "published"
+          }
         ],
         "description": "Tangerine Form: XAPI-FORM"
       },

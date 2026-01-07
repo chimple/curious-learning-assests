@@ -9,11 +9,12 @@
   "website": "https://tangerine-client-app-main.web.app/",
   "icon": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
   "learningUnits": "https://ibiza-stage-tangerine-dev.web.app/opds.json",
-  "defaultLaunchUri": "https://tangerine-client-app-main.web.app",
-
+  "defaultLaunchUri": "https://ibiza-stage-tangerine-dev.web.app/opds.json",
   "android": {
     "packageId": "org.rti.tangerineclientapp",
-    "stores": ["https://github.com/chimple/tangerine-client-app/tree/apk"],
+    "stores": [
+      "https://github.com/chimple/tangerine-client-app/tree/apk"
+    ],
     "sourceCode": "https://github.com/chimple/tangerine-client-app"
   }
 }
