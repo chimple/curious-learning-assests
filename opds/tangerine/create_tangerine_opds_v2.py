@@ -9,7 +9,7 @@ from urllib.parse import quote, urljoin
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3Njk2NzEyLCJleHAiOjE3Njc3MDAzMTIsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.Etz8kfJfpCrY2BZhpihI9lk9I8mmbtv11_DFhtsdKPo"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3Nzc4OTE0LCJleHAiOjE3Njc3ODI1MTQsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.ZBpSUrQ4fmy9TOgiCpc1y4ftZRrPDPyjfAJ7ryn64yc"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -177,7 +177,6 @@ def create_publication_entry(form_data, group_id):
     # We will keep the group feed entry similar to before but consistent with metadata.
     return {
         "metadata": {
-            "@type": "http://schema.org/Book",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
