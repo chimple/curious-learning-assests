@@ -6,7 +6,7 @@ import re
 from urllib.parse import quote, urljoin
 
 # === CONFIGURATION ===
-BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
+BASE_URL = "http://localhost:8092/public" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
 AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3NzgwMTU3LCJleHAiOjE3Njc3ODM3NTcsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.c_L5kXae-hj3xVJujaekc67MHhEYQsaLKieNEIRQdYw"
@@ -268,7 +268,15 @@ def main():
         opds_navigation.append({
             "href": f"{url_prefix}/groups/{group_feed_filename}",
             "title": label,
-            "type": "application/opds+json"
+            "type": "application/opds+json",
+            "alternate": [
+                {
+                    "href": f"{url_prefix}/icon.png",
+                    "rel": "icon",
+                    "type": "image/png",
+                    "title": label
+                }
+            ]
         })
 
     # 4. Create Main OPDS Feed
@@ -283,8 +291,34 @@ def main():
     
     with open(os.path.join(OUTPUT_DIR, "opds.json"), 'w', encoding='utf-8') as f:
         json.dump(root_opds, f, indent=2)
+
+    # 5. Create Respect App Manifest (manifest.json)
+    # Aligned with Chimple's manifest.json structure
+    respect_manifest = {
+        "name": {
+            "en-US": "Tangerine"
+        },
+        "description": {
+            "en-US": "Tangerine is an Android app designed for data collection and assessment."
+        },
+        "license": "GPL-3.0",
+        "website": "https://tangerinecentral.org",
+        "icon": f"{url_prefix}/icon.png", 
+        "learningUnits": f"{url_prefix}/opds.json",
+        "defaultLaunchUri": f"{url_prefix}/opds.json",
+        "android": {
+            "packageId": "org.rti.tangerineclientapp",
+            "stores": [
+                "https://github.com/chimple/tangerine-client-app/tree/apk"
+            ],
+            "sourceCode": "https://github.com/chimple/tangerine-client-app"
+        }
+    }
+    
+    with open(os.path.join(OUTPUT_DIR, "manifest.json"), 'w', encoding='utf-8') as f:
+        json.dump(respect_manifest, f, indent=2)
         
-    print("Done! OPDS catalog generated.")
+    print("Done! OPDS catalog and Respect App Manifest generated.")
 
 if __name__ == "__main__":
     main()
