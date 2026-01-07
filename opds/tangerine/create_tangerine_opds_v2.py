@@ -6,7 +6,7 @@ import re
 from urllib.parse import quote, urljoin
 
 # === CONFIGURATION ===
-BASE_URL = "http://localhost:8092/public" 
+BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
 AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3NzgwMTU3LCJleHAiOjE3Njc3ODM3NTcsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.c_L5kXae-hj3xVJujaekc67MHhEYQsaLKieNEIRQdYw"
