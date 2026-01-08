@@ -3,13 +3,15 @@ import json
 import requests
 import datetime
 import re
-from urllib.parse import quote, urljoin
+import time
+import mimetypes
+from urllib.parse import quote, urljoin, urlparse
 
 # === CONFIGURATION ===
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3NzgzMDg5LCJleHAiOjE3Njc3ODY2ODksImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.-j1Q-QDvpvQ1RBykYlEluqfLw68WHls14X3qrolsdH8"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3ODYyMjk1LCJleHAiOjE3Njc4NjU4OTUsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.WQfJrGM01imlZ-M1DEb6EsapwFVG3kD_4Or2X6ePKKM"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -26,110 +28,180 @@ def fetch_json(url):
         headers = {
             "authorization": f"{AUTH_TOKEN}"
         }
-        response = requests.get(url, headers=headers, timeout=10)
+        # In case we need better headers
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         return response.json()
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
 
+def is_http_url(url):
+    try:
+        parsed = urlparse(url)
+        return parsed.scheme in {"http", "https"}
+    except Exception:
+        return False
+
+def guess_mime_type_from_url(url):
+    # Try standard mapping first
+    mime, _ = mimetypes.guess_type(url)
+    if mime:
+        return mime
+    # Common fallbacks
+    lowered = url.lower()
+    if lowered.endswith(".webp"): return "image/webp"
+    if lowered.endswith(".mp3"): return "audio/mpeg"
+    if lowered.endswith(".wav"): return "audio/wav"
+    if lowered.endswith(".m4a"): return "audio/mp4"
+    if lowered.endswith(".ogg"): return "audio/ogg"
+    if lowered.endswith(".json"): return "application/json"
+    if lowered.endswith(".woff2"): return "font/woff2"
+    if lowered.endswith(".woff"): return "font/woff"
+    if lowered.endswith(".ttf"): return "font/ttf"
+    if lowered.endswith(".css"): return "text/css"
+    if lowered.endswith(".js"): return "application/javascript"
+    return "application/octet-stream"
+
+def _static_discover_from_html(page_url, timeout_ms=10000):
+    """Fallback static discovery using requests."""
+    print(f"  [Static Discovery] Scanning {page_url}...")
+    urls = []
+    try:
+        headers = {"authorization": AUTH_TOKEN}
+        with requests.get(page_url, headers=headers, timeout=timeout_ms/1000.0) as resp:
+            if resp.status_code >= 400:
+                print(f"  [Static] Failed to fetch {page_url}: {resp.status_code}")
+                return urls
+            html = resp.text
+    except Exception as e:
+        print(f"  [Static] Error fetching {page_url}: {e}")
+        return urls
+
+    # Naive extraction of src/href references
+    # Look for common asset patterns
+    patterns = [r'src="([^"]+)"', r'href="([^"]+)"', r'url\(([^)]+)\)']
+    
+    for pattern in patterns:
+        matches = re.findall(pattern, html)
+        for match in matches:
+            # Clean up url() matches which might have quotes
+            raw = match.strip(' "\'')
+            if not raw: continue
+            
+            # Skip obviously non-resource things (like #, mailto:)
+            if raw.startswith('#') or raw.startswith('mailto:') or raw.startswith('tel:'):
+                continue
+                
+            try:
+                abs_url = urljoin(page_url, raw)
+                if is_http_url(abs_url):
+                    urls.append(abs_url)
+            except Exception:
+                pass
+
+    # Deduplicate
+    return list(set(urls))
+
+def crawl_resources_for_url(open_access_url, timeout_ms=15000):
+    """
+    Crawls a URL to discover static resources (JS, CSS, Images, Fonts).
+    Uses Playwright if available, otherwise falls back to static HTML analysis.
+    """
+    print(f"Crawling resources for: {open_access_url}")
+    
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("  [Warning] Playwright not installed. Falling back to static analysis.")
+        return _static_discover_from_html(open_access_url, timeout_ms)
+
+    collected_urls = set()
+    
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context()
+            page = context.new_page()
+            
+            def handle_response(resp):
+                try:
+                    url = resp.url
+                    if not is_http_url(url):
+                        return
+                    
+                    # Filter for likely static assets
+                    # We accept most things, but maybe exclude the page itself if it's dynamic?
+                    # Actually, we want everything that was loaded.
+                    # Just filter out data URIs if any (handled by is_http_url somewhat)
+                    
+                    collected_urls.add(url)
+                except Exception:
+                    pass
+
+            page.on("response", handle_response)
+            
+            try:
+                page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
+            except Exception as e:
+                print(f"  [Playwright] Page load timeout/error: {e}")
+                # Even if it timed out, we might have caught some resources
+            
+            browser.close()
+    except Exception as e:
+        print(f"  [Playwright] Critical error: {e}. Falling back to static.")
+        return _static_discover_from_html(open_access_url, timeout_ms)
+        
+    print(f"  Found {len(collected_urls)} resources.")
+    return list(collected_urls)
+
 def create_publication_entry(form_data, group_id):
-    # Support both 'formId' (from group list) and 'id' (from forms.json)
     form_id = form_data.get('id') or form_data.get('formId') 
     if not form_id:
         return None
 
-    # Title strategy: 
-    # 1. Try 'title' from forms.json (if available)
-    # 2. Try fetching app-config.json
-    # 3. Fallback to form_id
     title = form_data.get('title', form_id)
     
     # Fetch details for authoritative title
     config_url = f"{DATA_SOURCE_BASE}/releases/prod/online-survey-apps/{group_id}/{form_id}/assets/app-config.json"
     config = fetch_json(config_url)
     
-    if not config:
-        return None
-        
-    if 'appName' in config:
+    if config and 'appName' in config:
         title = config['appName']
     
-    # Direct launch URL as per user instruction
-    # https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/{group_id}/{form_id}/#/form/{form_id}
     launch_url = f"{DATA_SOURCE_BASE}/releases/prod/online-survey-apps/{group_id}/{form_id}/#/form/{form_id}"
     
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    
-    # Determine status for subject
-    # forms.json might not have 'published' field, default to "Published" if using forms.json as it lists active forms?
-    # Or check if it exists. 
-    # In forms.json, we observed 'hideProfile', etc. It usually lists updated forms.
-    # We will assume "Published" if not specified, or "Unpublished" if explicitly false.
-    is_published = form_data.get('published', True) # Defaulting to true for forms.json items
+    is_published = form_data.get('published', True)
     status_subject = "Published" if is_published else "Unpublished"
     
-    # Create the internal manifest file (optional, but good for standardization)
     form_manifest_filename = f"{form_id}.json"
-    # Build resources list
+    
+    # === RESOURCE DISCOVERY ===
+    # Crawl the launch URL to find all resources
+    discovered_urls = crawl_resources_for_url(launch_url)
+    
     resources = []
     
-    # Add main source file and scan for assets
-    src = form_data.get('src')
-    if src:
-        # Resolve form.html URL
-        # Based on analysis: {DATA_SOURCE_BASE}/app/{group_id}/assets/{src_cleaned}
-        # where src starts with ./assets/...
+    # Always include the launch URL itself (the HTML entry point)
+    resources.append({
+        "href": launch_url,
+        "type": "text/html"
+    })
+    
+    # Add discovered resources
+    for url in discovered_urls:
+        if url == launch_url: continue # Don't duplicate
         
-        cleaned_src = src.lstrip('./') if src.startswith('./') else src
+        mime_type = guess_mime_type_from_url(url)
         
-        # Note: Debugging showed that even though src is 'assets/...', the app endpoint needs '/assets/' prefix
-        # constructing .../app/{group_id}/assets/assets/... which worked.
-        asset_base_path = f"{DATA_SOURCE_BASE}/app/{group_id}/assets"
-        form_html_url = f"{asset_base_path}/{cleaned_src}"
+        # Filter commonly unwanted types if necessary (e.g. tracking pixels)
+        # For now, we include everything to ensure offline functionality
         
-        # Add form.html itself
         resources.append({
-            "href": form_html_url,
-            "type": "text/html"
+            "href": url,
+            "type": mime_type
         })
-        
-        # Fetch and scan form.html for other assets
-        try:
-            headers = {"authorization": AUTH_TOKEN}
-            res = requests.get(form_html_url, headers=headers, timeout=10)
-            if res.status_code == 200:
-                content = res.text
-                # Regex for common media types
-                extensions = ['mp3', 'ogg', 'wav', 'png', 'jpg', 'jpeg', 'gif', 'mp4', 'webm']
-                found_assets = set()
-                # Pattern to capture src="..." or href="..."
-                # We simply look for filenames ending in extensions to be robust against quoting styles
-                for ext in extensions:
-                    # Capture full relative path if possible
-                    matches = re.findall(r'[\w\-\./]+\.' + ext, content)
-                    for m in matches:
-                        found_assets.add(m)
-
-                for asset_path in sorted(found_assets):
-                    # Resolve relative to form.html
-                    asset_url = urljoin(form_html_url, asset_path)
-                    
-                    # Guess mime type simple
-                    mime_type = "application/octet-stream"
-                    if asset_path.endswith('.png'): mime_type = "image/png"
-                    elif asset_path.endswith('.jpg') or asset_path.endswith('.jpeg'): mime_type = "image/jpeg"
-                    elif asset_path.endswith('.mp3'): mime_type = "audio/mpeg"
-                    elif asset_path.endswith('.ogg'): mime_type = "audio/ogg"
-                    
-                    resources.append({
-                        "href": asset_url,
-                        "type": mime_type
-                    })
-            else:
-                print(f"Warning: Could not fetch form.html for scanning: {res.status_code}")
-        except Exception as e:
-            print(f"Error scanning form assets: {e}")
 
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
@@ -172,9 +244,6 @@ def create_publication_entry(form_data, group_id):
     with open(os.path.join(FORMS_DIR, form_manifest_filename), 'w', encoding='utf-8') as f:
         json.dump(manifest, f, indent=2)
 
-    # Return the publication object for the feed (Group Feed entry)
-    # The group feed entry should also be aligned if necessary, but typically sticking to OPDS feed entry standard is safe.
-    # We will keep the group feed entry similar to before but consistent with metadata.
     return {
         "metadata": {
             "title": title,
@@ -230,7 +299,6 @@ def main():
             
         print(f"Processing Group: {label} ({group_id})")
         
-        # 1. Fetch Forms from forms.json endpoint
         forms_url = f"{DATA_SOURCE_BASE}/app/{group_id}/assets/forms.json"
         forms_list = fetch_json(forms_url)
         
@@ -241,14 +309,13 @@ def main():
         all_publications = []
         
         for form in forms_list:
-            if form.get('id') == 'about': # Skip the 'about' form/page
+            if form.get('id') == 'about':
                 continue
                 
             pub_entry = create_publication_entry(form, group_id)
             if pub_entry:
                 all_publications.append(pub_entry)
         
-        # 2. Create Group Feed (Directly listing publications)
         url_prefix = f"{BASE_URL}"
         
         group_feed_filename = f"{group_id}.json"
@@ -264,7 +331,6 @@ def main():
         with open(os.path.join(GROUPS_DIR, group_feed_filename), 'w', encoding='utf-8') as f:
             json.dump(group_feed, f, indent=2)
 
-        # Add to Main Navigation
         opds_navigation.append({
             "href": f"{url_prefix}/groups/{group_feed_filename}",
             "title": label,
@@ -279,7 +345,6 @@ def main():
             ]
         })
 
-    # 4. Create Main OPDS Feed
     url_prefix = f"{BASE_URL}"
     root_opds = {
         "metadata": {"title": "Tangerine Groups"},
@@ -292,8 +357,6 @@ def main():
     with open(os.path.join(OUTPUT_DIR, "opds.json"), 'w', encoding='utf-8') as f:
         json.dump(root_opds, f, indent=2)
 
-    # 5. Create Respect App Manifest (manifest.json)
-    # Aligned with Chimple's manifest.json structure
     respect_manifest = {
         "name": {
             "en-US": "Tangerine"
