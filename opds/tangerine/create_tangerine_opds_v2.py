@@ -72,11 +72,11 @@ def _static_discover_from_html(page_url, timeout_ms=10000):
         with requests.get(page_url, headers=headers, timeout=timeout_ms/1000.0) as resp:
             if resp.status_code >= 400:
                 print(f"  [Static] Failed to fetch {page_url}: {resp.status_code}")
-                return urls
+                return None  # Return None to indicate failure
             html = resp.text
     except Exception as e:
         print(f"  [Static] Error fetching {page_url}: {e}")
-        return urls
+        return None
 
     # Naive extraction of src/href references
     # Look for common asset patterns
@@ -107,6 +107,7 @@ def crawl_resources_for_url(open_access_url, timeout_ms=15000):
     """
     Crawls a URL to discover static resources (JS, CSS, Images, Fonts).
     Uses Playwright if available, otherwise falls back to static HTML analysis.
+    Returns None if the page cannot be loaded (e.g. 404).
     """
     print(f"Crawling resources for: {open_access_url}")
     
@@ -117,6 +118,7 @@ def crawl_resources_for_url(open_access_url, timeout_ms=15000):
         return _static_discover_from_html(open_access_url, timeout_ms)
 
     collected_urls = set()
+    found_404 = False
     
     try:
         with sync_playwright() as p:
@@ -129,12 +131,6 @@ def crawl_resources_for_url(open_access_url, timeout_ms=15000):
                     url = resp.url
                     if not is_http_url(url):
                         return
-                    
-                    # Filter for likely static assets
-                    # We accept most things, but maybe exclude the page itself if it's dynamic?
-                    # Actually, we want everything that was loaded.
-                    # Just filter out data URIs if any (handled by is_http_url somewhat)
-                    
                     collected_urls.add(url)
                 except Exception:
                     pass
@@ -142,16 +138,25 @@ def crawl_resources_for_url(open_access_url, timeout_ms=15000):
             page.on("response", handle_response)
             
             try:
-                page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
+                response = page.goto(open_access_url, wait_until="networkidle", timeout=timeout_ms)
+                if response and response.status == 404:
+                    print(f"  [Playwright] Page returned 404: {open_access_url}")
+                    found_404 = True
             except Exception as e:
                 print(f"  [Playwright] Page load timeout/error: {e}")
                 # Even if it timed out, we might have caught some resources
+                # But if checking for 404 is critical, we might want to return None if response is None?
+                # For now, let's assume if it fails hard, we might skip it or fallback.
+                pass
             
             browser.close()
     except Exception as e:
         print(f"  [Playwright] Critical error: {e}. Falling back to static.")
         return _static_discover_from_html(open_access_url, timeout_ms)
         
+    if found_404:
+        return None
+
     print(f"  Found {len(collected_urls)} resources.")
     return list(collected_urls)
 
@@ -181,6 +186,10 @@ def create_publication_entry(form_data, group_id):
     # Crawl the launch URL to find all resources
     discovered_urls = crawl_resources_for_url(launch_url)
     
+    if discovered_urls is None:
+        print(f"Skipping form {form_id} because it returned 404 or failed to load.")
+        return None
+    
     resources = []
     
     # Always include the launch URL itself (the HTML entry point)
@@ -202,7 +211,7 @@ def create_publication_entry(form_data, group_id):
             "href": url,
             "type": mime_type
         })
-
+    
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
     manifest = {
