@@ -11,7 +11,7 @@ from urllib.parse import quote, urljoin, urlparse
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY3ODYyMjk1LCJleHAiOjE3Njc4NjU4OTUsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.WQfJrGM01imlZ-M1DEb6EsapwFVG3kD_4Or2X6ePKKM"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY4Mjk5NTA0LCJleHAiOjE3NjgzMDMxMDQsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.uavTWUdejKZOwZQrVhmz55RKUP10uujByLDXN8e9m1c"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -30,6 +30,9 @@ def fetch_json(url):
         }
         # In case we need better headers
         response = requests.get(url, headers=headers, timeout=15)
+        if response.status_code != 200:
+            print(f"Error: Status {response.status_code} for {url}")
+            print(f"Response: {response.text[:200]}")
         response.raise_for_status()
         return response.json()
     except Exception as e:
@@ -202,6 +205,9 @@ def create_publication_entry(form_data, group_id):
     for url in discovered_urls:
         if url == launch_url: continue # Don't duplicate
         
+        # Sanitize URL: encode | which causes java.net.URI issues on Android
+        url = url.replace('|', '%7C')
+
         mime_type = guess_mime_type_from_url(url)
         
         # Filter commonly unwanted types if necessary (e.g. tracking pixels)
