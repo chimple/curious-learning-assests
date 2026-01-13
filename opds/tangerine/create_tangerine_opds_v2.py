@@ -331,6 +331,10 @@ def main():
             if pub_entry:
                 all_publications.append(pub_entry)
         
+        if not all_publications:
+            print(f"Skipping group {group_id} (no valid forms found).")
+            continue
+
         url_prefix = f"{BASE_URL}"
         
         group_feed_filename = f"{group_id}.json"
