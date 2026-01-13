@@ -15,7 +15,7 @@
         "title": "Color_Of_Sky",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-59b1d482-0a67-4d3b-8fb6-e1e9db53ab30/form-187e10c4-d783-43e7-a36d-5cd7f4a6127f/#/form/form-187e10c4-d783-43e7-a36d-5cd7f4a6127f",
-        "modified": "2026-01-08T09:41:32.531117+00:00",
+        "modified": "2026-01-13T10:48:07.806092+00:00",
         "language": "en",
         "subject": [
           {
@@ -34,6 +34,42 @@
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
           "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-59b1d482-0a67-4d3b-8fb6-e1e9db53ab30/form-187e10c4-d783-43e7-a36d-5cd7f4a6127f/#/form/form-187e10c4-d783-43e7-a36d-5cd7f4a6127f",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Student_details",
+        "author": "Tangerine",
+        "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-59b1d482-0a67-4d3b-8fb6-e1e9db53ab30/form-26870b14-1ca1-4335-9ff6-05b2a405a677/#/form/form-26870b14-1ca1-4335-9ff6-05b2a405a677",
+        "modified": "2026-01-13T10:48:13.699894+00:00",
+        "language": "en",
+        "subject": [
+          {
+            "name": "Published",
+            "code": "published"
+          }
+        ],
+        "description": "Tangerine Form: Student_details"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-26870b14-1ca1-4335-9ff6-05b2a405a677.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-59b1d482-0a67-4d3b-8fb6-e1e9db53ab30/form-26870b14-1ca1-4335-9ff6-05b2a405a677/#/form/form-26870b14-1ca1-4335-9ff6-05b2a405a677",
           "type": "text/html"
         }
       ],
