@@ -9,8 +9,8 @@
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/#/form/form-681d8518-61b0-4fe8-844f-e52c4954b68e",
     "language": "en",
-    "modified": "2026-01-13T10:49:45.280236+00:00",
-    "published": "2026-01-13T10:49:45.280236+00:00",
+    "modified": "2026-02-06T09:37:55.223740+00:00",
+    "published": "2026-02-06T09:37:55.223740+00:00",
     "description": "Tangerine Form: Address_Form",
     "subject": [
       "Survey",
@@ -33,7 +33,7 @@
   ],
   "images": [
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -52,20 +52,16 @@
       "type": "text/html"
     },
     {
+      "href": "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
+      "type": "application/octet-stream"
+    },
+    {
       "href": "https://fonts.googleapis.com/icon?family=Material+Icons",
       "type": "application/octet-stream"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/styles.js",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/vendor.js",
       "type": "application/javascript"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/MaterialIcons-Regular.woff2",
-      "type": "font/woff2"
-    },
-    {
-      "href": "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
-      "type": "application/octet-stream"
     },
     {
       "href": "https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
@@ -76,31 +72,39 @@
       "type": "application/javascript"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/logo.png",
-      "type": "image/png"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets/app-config.json",
-      "type": "application/json"
+      "href": "https://fonts.googleapis.com/css?family=Roboto+Mono:400,700%7CRoboto:400,300,300italic,400italic,500,500italic,700,700italic",
+      "type": "application/octet-stream"
     },
     {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets/translations.json",
       "type": "application/json"
     },
     {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/styles.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets/custom-scripts.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/main.js",
+      "type": "application/javascript"
+    },
+    {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets//translation.en.json",
       "type": "application/json"
     },
     {
-      "href": "https://fonts.googleapis.com/css?family=Roboto+Mono:400,700%7CRoboto:400,300,300italic,400italic,500,500italic,700,700italic",
-      "type": "application/octet-stream"
+      "href": "https://tangerinestaging.ustadmobile.com/logo.png",
+      "type": "image/png"
     },
     {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/",
       "type": "application/octet-stream"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/main.js",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/polyfills.js",
       "type": "application/javascript"
     },
     {
@@ -108,20 +112,16 @@
       "type": "text/html"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/polyfills.js",
-      "type": "application/javascript"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/vendor.js",
-      "type": "application/javascript"
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/MaterialIcons-Regular.woff2",
+      "type": "font/woff2"
     },
     {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/runtime.js",
       "type": "application/javascript"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets/custom-scripts.js",
-      "type": "application/javascript"
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-06ee66ca-8528-42d7-9dca-c6172dae04af/form-681d8518-61b0-4fe8-844f-e52c4954b68e/assets/app-config.json",
+      "type": "application/json"
     }
   ]
 }

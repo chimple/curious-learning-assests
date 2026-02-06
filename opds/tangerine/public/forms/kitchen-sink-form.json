@@ -9,8 +9,8 @@
     "author": "Tangerine",
     "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/#/form/kitchen-sink-form",
     "language": "en",
-    "modified": "2026-01-13T10:47:29.540228+00:00",
-    "published": "2026-01-13T10:47:29.540228+00:00",
+    "modified": "2026-02-06T09:35:30.180084+00:00",
+    "published": "2026-02-06T09:35:30.180084+00:00",
     "description": "Tangerine Form: Kitchen_Sink_Form",
     "subject": [
       "Survey",
@@ -33,7 +33,7 @@
   ],
   "images": [
     {
-      "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -52,32 +52,24 @@
       "type": "text/html"
     },
     {
-      "href": "https://fonts.googleapis.com/icon?family=Material+Icons",
-      "type": "application/octet-stream"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/form/form.html",
-      "type": "text/html"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/polyfills.js",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/runtime.js",
       "type": "application/javascript"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/translations.json",
-      "type": "application/json"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets//translation.en.json",
-      "type": "application/json"
     },
     {
       "href": "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
       "type": "application/octet-stream"
     },
     {
-      "href": "https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
-      "type": "font/woff2"
+      "href": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/vendor.js",
+      "type": "application/javascript"
     },
     {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/main.js",
@@ -88,23 +80,7 @@
       "type": "font/woff2"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/styles.js",
-      "type": "application/javascript"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/app-config.json",
-      "type": "application/json"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/custom-scripts.js",
-      "type": "application/javascript"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/",
-      "type": "application/octet-stream"
-    },
-    {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/runtime.js",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/polyfills.js",
       "type": "application/javascript"
     },
     {
@@ -112,16 +88,40 @@
       "type": "application/octet-stream"
     },
     {
-      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/vendor.js",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/translations.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets//translation.en.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/custom-scripts.js",
       "type": "application/javascript"
+    },
+    {
+      "href": "https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+      "type": "font/woff2"
     },
     {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/location-list.json",
       "type": "application/json"
     },
     {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/styles.js",
+      "type": "application/javascript"
+    },
+    {
       "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/alternative-scripts.js",
       "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/app-config.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/kitchen-sink-form/assets/form/form.html",
+      "type": "text/html"
     }
   ]
 }

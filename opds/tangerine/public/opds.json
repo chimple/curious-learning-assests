@@ -16,7 +16,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "New Group A"
@@ -29,7 +29,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Group B"
@@ -42,7 +42,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Group c"
@@ -55,10 +55,49 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Empty Group Test"
+        }
+      ]
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-f1245438-c0ce-4dc0-865a-abaa16dede3c.json",
+      "title": "Group D",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Group D"
+        }
+      ]
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-5365bd80-f722-4eea-a59f-23ec8c9bbf77.json",
+      "title": "Group E",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Group E"
+        }
+      ]
+    },
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-e5c2519e-70dc-4b2a-a276-a1272b89f7d6.json",
+      "title": "Group G",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "Group G"
         }
       ]
     },
@@ -68,7 +107,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Test"
@@ -81,7 +120,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Group Z"
@@ -94,7 +133,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "test001"
@@ -107,7 +146,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Group M"
@@ -120,7 +159,7 @@
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/groups_icon.png",
           "rel": "icon",
           "type": "image/png",
           "title": "Prayag's Group"

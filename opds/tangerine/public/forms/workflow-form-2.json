@@ -1,0 +1,119 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Second_form_in_a_workflow",
+    "author": "Tangerine",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/#/form/workflow-form-2",
+    "language": "en",
+    "modified": "2026-02-06T09:35:01.899391+00:00",
+    "published": "2026-02-06T09:35:01.899391+00:00",
+    "description": "Tangerine Form: Second_form_in_a_workflow",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/workflow-form-2.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/#/form/workflow-form-2",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/#/form/workflow-form-2",
+      "title": "Second_form_in_a_workflow"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/#/form/workflow-form-2",
+      "type": "text/html"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "type": "font/woff2"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/vendor.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto+Mono:400,700%7CRoboto:400,300,300italic,400italic,500,500italic,700,700italic",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets/custom-scripts.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/polyfills.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/main.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/styles.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets/app-config.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets/form/form.html",
+      "type": "text/html"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets//translation.en.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/runtime.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets/translations.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/workflow-form-2/assets/alternative-scripts.js",
+      "type": "application/javascript"
+    }
+  ]
+}
