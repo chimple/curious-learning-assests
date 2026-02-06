@@ -7,18 +7,43 @@ import time
 import mimetypes
 from urllib.parse import quote, urljoin, urlparse
 
+import shutil
+
 # === CONFIGURATION ===
 BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzY4Mjk5NTA0LCJleHAiOjE3NjgzMDMxMDQsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.uavTWUdejKZOwZQrVhmz55RKUP10uujByLDXN8e9m1c"
+AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzcwMzcwMTkwLCJleHAiOjE3NzAzNzM3OTAsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.7U7vC5_nKjcHKO1sRO7KBja5Ug6Ijzy4QNlyYneTxys"
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
 FORMS_DIR = os.path.join(OUTPUT_DIR, "forms")
 
+# Icon files
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+GROUPS_ICON_SRC = os.path.join(SCRIPT_DIR, "groups_icon.png")
+FORMS_ICON_SRC = os.path.join(SCRIPT_DIR, "forms_icon.png")
+GROUPS_ICON_DEST = "groups_icon.png" 
+FORMS_ICON_DEST = "forms_icon.png"
+
+# Ensure output dir exists relative to CWD or Script? 
+# The OUTPUT_DIR is defined as "public" earlier, usually relative to CWD.
+# Let's keep OUTPUT_DIR relative to CWD as likely intended by original script, 
+# but make sure we copy FROM the script dir.
+
 os.makedirs(GROUPS_DIR, exist_ok=True)
 os.makedirs(FORMS_DIR, exist_ok=True)
+
+# Copy icons to public dir
+if os.path.exists(GROUPS_ICON_SRC):
+    shutil.copy(GROUPS_ICON_SRC, os.path.join(OUTPUT_DIR, GROUPS_ICON_DEST))
+else:
+    print(f"Warning: {GROUPS_ICON_SRC} not found.")
+
+if os.path.exists(FORMS_ICON_SRC):
+    shutil.copy(FORMS_ICON_SRC, os.path.join(OUTPUT_DIR, FORMS_ICON_DEST))
+else:
+    print(f"Warning: {FORMS_ICON_SRC} not found.")
 
 def safe_filename(name):
     return "".join([c for c in name if c.isalpha() or c.isdigit() or c in ('-', '_')]).strip()
@@ -240,7 +265,7 @@ def create_publication_entry(form_data, group_id):
         ],
         "images": [
             {
-                "href": f"{BASE_URL}/icon.png",
+                "href": f"{BASE_URL}/{FORMS_ICON_DEST}",
                 "type": "image/png",
                 "height": 128,
                 "width": 128
@@ -280,7 +305,7 @@ def create_publication_entry(form_data, group_id):
         ],
         "images": [
              {
-                "href": f"{BASE_URL}/icon.png",
+                "href": f"{BASE_URL}/{FORMS_ICON_DEST}",
                 "type": "image/png",
                 "height": 128,
                 "width": 128
@@ -356,7 +381,7 @@ def main():
             "type": "application/opds+json",
             "alternate": [
                 {
-                    "href": f"{url_prefix}/icon.png",
+                    "href": f"{url_prefix}/{GROUPS_ICON_DEST}",
                     "rel": "icon",
                     "type": "image/png",
                     "title": label
@@ -385,7 +410,7 @@ def main():
         },
         "license": "GPL-3.0",
         "website": "https://tangerinecentral.org",
-        "icon": f"{url_prefix}/icon.png", 
+        "icon": f"{url_prefix}/{GROUPS_ICON_DEST}", 
         "learningUnits": f"{url_prefix}/opds.json",
         "defaultLaunchUri": f"{url_prefix}/opds.json",
         "android": {
