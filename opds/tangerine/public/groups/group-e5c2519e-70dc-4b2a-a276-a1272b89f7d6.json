@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Group G"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-e5c2519e-70dc-4b2a-a276-a1272b89f7d6.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Mountain",
+        "author": "Tangerine",
+        "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-e5c2519e-70dc-4b2a-a276-a1272b89f7d6/form-a720911e-0e7d-40dc-b711-882495b83605/#/form/form-a720911e-0e7d-40dc-b711-882495b83605",
+        "modified": "2026-02-06T09:37:22.186471+00:00",
+        "language": "en",
+        "subject": [
+          {
+            "name": "Published",
+            "code": "published"
+          }
+        ],
+        "description": "Tangerine Form: Mountain"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-a720911e-0e7d-40dc-b711-882495b83605.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-e5c2519e-70dc-4b2a-a276-a1272b89f7d6/form-a720911e-0e7d-40dc-b711-882495b83605/#/form/form-a720911e-0e7d-40dc-b711-882495b83605",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

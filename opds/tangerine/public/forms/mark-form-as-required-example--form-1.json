@@ -1,0 +1,119 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Mark_a_Form_as_required_example_form_1",
+    "author": "Tangerine",
+    "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
+    "language": "en",
+    "modified": "2026-02-06T09:35:12.371774+00:00",
+    "published": "2026-02-06T09:35:12.371774+00:00",
+    "description": "Tangerine Form: Mark_a_Form_as_required_example_form_1",
+    "subject": [
+      "Survey",
+      "Tangerine",
+      "Published"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms/mark-form-as-required-example--form-1.json",
+      "type": "application/webpub+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
+      "title": "Mark_a_Form_as_required_example_form_1"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/#/form/mark-form-as-required-example--form-1",
+      "type": "text/html"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets/custom-scripts.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "type": "font/woff2"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto+Mono:400,700%7CRoboto:400,300,300italic,400italic,500,500italic,700,700italic",
+      "type": "application/octet-stream"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/styles.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/runtime.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/polyfills.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/main.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets/alternative-scripts.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets/translations.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets/form/form.html",
+      "type": "text/html"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets//translation.en.json",
+      "type": "application/json"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/vendor.js",
+      "type": "application/javascript"
+    },
+    {
+      "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-a2798239-0ec6-4556-9579-c8fe4adc77a9/mark-form-as-required-example--form-1/assets/app-config.json",
+      "type": "application/json"
+    }
+  ]
+}

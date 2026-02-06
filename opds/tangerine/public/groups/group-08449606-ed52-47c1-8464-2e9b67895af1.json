@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Test"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-08449606-ed52-47c1-8464-2e9b67895af1.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "New_Form_1",
+        "author": "Tangerine",
+        "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-08449606-ed52-47c1-8464-2e9b67895af1/form-5cbd9a44-c996-4795-8c50-9c2240036fcd/#/form/form-5cbd9a44-c996-4795-8c50-9c2240036fcd",
+        "modified": "2026-02-06T09:37:37.112726+00:00",
+        "language": "en",
+        "subject": [
+          {
+            "name": "Published",
+            "code": "published"
+          }
+        ],
+        "description": "Tangerine Form: New_Form_1"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-5cbd9a44-c996-4795-8c50-9c2240036fcd.json",
+          "type": "application/webpub+json"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-08449606-ed52-47c1-8464-2e9b67895af1/form-5cbd9a44-c996-4795-8c50-9c2240036fcd/#/form/form-5cbd9a44-c996-4795-8c50-9c2240036fcd",
+          "type": "text/html"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

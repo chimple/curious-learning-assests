@@ -3,19 +3,18 @@
     "en-US": "Tangerine"
   },
   "description": {
-    "en-US": "Tangerine is an Android appb designed for data collection and assessment, supporting features like camera, location, SMS, and audio recording. It is suitable for use in field data collection and educational assessment scenarios."
+    "en-US": "Tangerine is an Android app designed for data collection and assessment, supporting features like camera, location, SMS, and audio recording. It is suitable for use in field data collection and educational assessment scenarios."
   },
-  "license": "AGPL-3.0",
-  "website": "https://www.tangerinecentral.org/",
-  "icon": "https://raw.githubusercontent.com/chimple/cuba/RESPECTify/public/assets/icons/favicon.png",
+  "license": "GPL-3.0",
+  "website": "https://tangerine-client-app-main.web.app/",
+  "icon": "https://ibiza-stage-tangerine-dev.web.app/icon.png",
   "learningUnits": "https://ibiza-stage-tangerine-dev.web.app/opds.json",
-  "defaultLaunchUri": "https://chimple.cc/landingpage",
-  
+  "defaultLaunchUri": "https://ibiza-stage-tangerine-dev.web.app/opds.json",
   "android": {
-    "packageId": "org.rti.tangerine",
+    "packageId": "org.rti.tangerineclientapp",
     "stores": [
-      "https://play.google.com/store/apps/details?id=org.chimple.bahama" 
+      "https://github.com/chimple/tangerine-client-app/tree/apk"
     ],
-    "sourceCode": "https://github.com/Tangerine-Community/Tangerine"
+    "sourceCode": "https://github.com/chimple/tangerine-client-app"
   }
 }
