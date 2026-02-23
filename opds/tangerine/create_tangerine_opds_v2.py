@@ -205,8 +205,6 @@ def create_publication_entry(form_data, group_id):
     launch_url = f"{DATA_SOURCE_BASE}/releases/prod/online-survey-apps/{group_id}/{form_id}/#/form/{form_id}"
     
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    is_published = form_data.get('published', True)
-    status_subject = "Published" if is_published else "Unpublished"
     
     form_manifest_filename = f"{form_id}.json"
     
@@ -245,10 +243,19 @@ def create_publication_entry(form_data, group_id):
     
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
+    # Build structured subject list per Readium/RESPECT spec
+    subjects = [
+        {
+            "name": "Education: Evaluation & Assessment",
+            "scheme": "https://www.bisg.org/#bisac",
+            "code": "EDU011000"
+        }
+    ]
+
     manifest = {
         "@context": ["https://readium.org/webpub-manifest/context.jsonld", "https://schema.org"],
         "metadata": {
-            "@type": "https://schema.org/Book",
+            "@type": "https://schema.org/LearningResource",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
@@ -256,8 +263,7 @@ def create_publication_entry(form_data, group_id):
             "modified": now,
             "published": now,
             "description": f"Tangerine Form: {title}",
-            "subject": ["Survey", "Tangerine", status_subject],
-            "readingProgression": "ltr"
+            "subject": subjects
         },
         "links": [
             {"rel": "self", "href": form_manifest_url, "type": "application/webpub+json"},
@@ -286,17 +292,13 @@ def create_publication_entry(form_data, group_id):
 
     return {
         "metadata": {
+            "@type": "https://schema.org/LearningResource",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
             "modified": now,
             "language": "en",
-            "subject": [
-                {
-                    "name": status_subject,
-                    "code": status_subject.lower()
-                }
-            ],
+            "subject": subjects,
             "description": f"Tangerine Form: {title}"
         },
         "links": [
