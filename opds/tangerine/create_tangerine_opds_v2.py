@@ -243,14 +243,12 @@ def create_publication_entry(form_data, group_id):
     
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
-    # Build structured subject list per Readium/RESPECT spec
-    subjects = [
-        {
-            "name": "Education: Evaluation & Assessment",
-            "scheme": "https://www.bisg.org/#bisac",
-            "code": "EDU011000"
-        }
-    ]
+    # Build structured subject per Readium/RESPECT spec
+    subjects = {
+        "name": "Education: Evaluation & Assessment",
+        "scheme": "https://www.bisg.org/#bisac",
+        "code": "EDU011000"
+    }
 
     manifest = {
         "@context": ["https://readium.org/webpub-manifest/context.jsonld", "https://schema.org"],
