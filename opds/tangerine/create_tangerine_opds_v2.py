@@ -8,12 +8,18 @@ import mimetypes
 from urllib.parse import quote, urljoin, urlparse
 
 import shutil
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # === CONFIGURATION ===
-BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
+BASE_URL = "https://tangerinestaging.ustadmobile.com" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzcwMzcwMTkwLCJleHAiOjE3NzAzNzM3OTAsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.7U7vC5_nKjcHKO1sRO7KBja5Ug6Ijzy4QNlyYneTxys"
+AUTH_TOKEN = os.environ.get("AUTH_TOKEN")
+if not AUTH_TOKEN:
+    raise ValueError("AUTH_TOKEN not found. Please set it in the .env file.")
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
