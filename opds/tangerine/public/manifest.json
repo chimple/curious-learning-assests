@@ -12,6 +12,7 @@
   "defaultLaunchUri": "https://ibiza-stage-tangerine-dev.web.app/opds.json",
   "android": {
     "packageId": "org.rti.tangerineclientapp",
+    "stores": [],
     "sourceCode": "https://github.com/chimple/tangerine-client-app"
   }
 }

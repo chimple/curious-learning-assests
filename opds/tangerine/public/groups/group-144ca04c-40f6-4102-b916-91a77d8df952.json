@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "title": "Group D"
+    "title": "Daily Routine"
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://tangerinestaging.ustadmobile.com/groups/group-f1245438-c0ce-4dc0-865a-abaa16dede3c.json",
+      "href": "https://tangerinestaging.ustadmobile.com/groups/group-144ca04c-40f6-4102-b916-91a77d8df952.json",
       "type": "application/opds+json"
     }
   ],
@@ -13,27 +13,27 @@
     {
       "metadata": {
         "@type": "https://schema.org/LearningResource",
-        "title": "Book_details",
+        "title": "Breakfast",
         "author": "Tangerine",
-        "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-f1245438-c0ce-4dc0-865a-abaa16dede3c/form-d9f1a8eb-4fc8-4fdf-ab86-89da234c4f8c/#/form/form-d9f1a8eb-4fc8-4fdf-ab86-89da234c4f8c",
-        "modified": "2026-02-23T09:08:45.500299+00:00",
+        "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-144ca04c-40f6-4102-b916-91a77d8df952/form-2e3bafae-1616-4a8d-b4aa-706d2f66f2c4/#/form/form-2e3bafae-1616-4a8d-b4aa-706d2f66f2c4",
+        "modified": "2026-02-23T09:12:08.005155+00:00",
         "language": "en",
         "subject": {
           "name": "Education: Evaluation & Assessment",
           "scheme": "https://www.bisg.org/#bisac",
           "code": "EDU011000"
         },
-        "description": "Tangerine Form: Book_details"
+        "description": "Tangerine Form: Breakfast"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://tangerinestaging.ustadmobile.com/forms/form-d9f1a8eb-4fc8-4fdf-ab86-89da234c4f8c.json",
+          "href": "https://tangerinestaging.ustadmobile.com/forms/form-2e3bafae-1616-4a8d-b4aa-706d2f66f2c4.json",
           "type": "application/webpub+json"
         },
         {
           "rel": "http://opds-spec.org/acquisition/open-access",
-          "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-f1245438-c0ce-4dc0-865a-abaa16dede3c/form-d9f1a8eb-4fc8-4fdf-ab86-89da234c4f8c/#/form/form-d9f1a8eb-4fc8-4fdf-ab86-89da234c4f8c",
+          "href": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-144ca04c-40f6-4102-b916-91a77d8df952/form-2e3bafae-1616-4a8d-b4aa-706d2f66f2c4/#/form/form-2e3bafae-1616-4a8d-b4aa-706d2f66f2c4",
           "type": "text/html"
         }
       ],
