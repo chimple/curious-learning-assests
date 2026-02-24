@@ -8,12 +8,18 @@ import mimetypes
 from urllib.parse import quote, urljoin, urlparse
 
 import shutil
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # === CONFIGURATION ===
-BASE_URL = "https://ibiza-stage-tangerine-dev.web.app" 
+BASE_URL = "https://tangerinestaging.ustadmobile.com" 
 DATA_SOURCE_BASE = "https://tangerinestaging.ustadmobile.com"
 GROUP_LIST_URL = f"{DATA_SOURCE_BASE}/nest/group/list"
-AUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwicGVybWlzc2lvbnMiOnsiZ3JvdXBQZXJtaXNzaW9ucyI6W10sInNpdGV3aWRlUGVybWlzc2lvbnMiOlsiY2FuX2NyZWF0ZV9ncm91cCIsImNhbl92aWV3X3VzZXJzX2xpc3QiLCJjYW5fY3JlYXRlX3VzZXJzIiwiY2FuX2VkaXRfdXNlcnMiLCJjYW5fbWFuYWdlX3VzZXJzX3NpdGVfd2lkZV9wZXJtaXNzaW9ucyJdfSwiaWF0IjoxNzcwMzcwMTkwLCJleHAiOjE3NzAzNzM3OTAsImlzcyI6IlRhbmdlcmluZSIsInN1YiI6InVzZXIxIn0.7U7vC5_nKjcHKO1sRO7KBja5Ug6Ijzy4QNlyYneTxys"
+AUTH_TOKEN = os.environ.get("AUTH_TOKEN")
+if not AUTH_TOKEN:
+    raise ValueError("AUTH_TOKEN not found. Please set it in the .env file.")
 
 OUTPUT_DIR = "public"
 GROUPS_DIR = os.path.join(OUTPUT_DIR, "groups")
@@ -205,8 +211,6 @@ def create_publication_entry(form_data, group_id):
     launch_url = f"{DATA_SOURCE_BASE}/releases/prod/online-survey-apps/{group_id}/{form_id}/#/form/{form_id}"
     
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    is_published = form_data.get('published', True)
-    status_subject = "Published" if is_published else "Unpublished"
     
     form_manifest_filename = f"{form_id}.json"
     
@@ -245,10 +249,17 @@ def create_publication_entry(form_data, group_id):
     
     form_manifest_url = f"{BASE_URL}/forms/{form_manifest_filename}"
     
+    # Build structured subject per Readium/RESPECT spec
+    subjects = {
+        "name": "Education: Evaluation & Assessment",
+        "scheme": "https://www.bisg.org/#bisac",
+        "code": "EDU011000"
+    }
+
     manifest = {
         "@context": ["https://readium.org/webpub-manifest/context.jsonld", "https://schema.org"],
         "metadata": {
-            "@type": "https://schema.org/Book",
+            "@type": "https://schema.org/LearningResource",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
@@ -256,8 +267,7 @@ def create_publication_entry(form_data, group_id):
             "modified": now,
             "published": now,
             "description": f"Tangerine Form: {title}",
-            "subject": ["Survey", "Tangerine", status_subject],
-            "readingProgression": "ltr"
+            "subject": subjects
         },
         "links": [
             {"rel": "self", "href": form_manifest_url, "type": "application/webpub+json"},
@@ -286,17 +296,13 @@ def create_publication_entry(form_data, group_id):
 
     return {
         "metadata": {
+            "@type": "https://schema.org/LearningResource",
             "title": title,
             "author": "Tangerine",
             "identifier": launch_url,
             "modified": now,
             "language": "en",
-            "subject": [
-                {
-                    "name": status_subject,
-                    "code": status_subject.lower()
-                }
-            ],
+            "subject": subjects,
             "description": f"Tangerine Form: {title}"
         },
         "links": [

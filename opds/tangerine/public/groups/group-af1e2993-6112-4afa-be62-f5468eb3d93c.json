@@ -5,30 +5,30 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://ibiza-stage-tangerine-dev.web.app/groups/group-af1e2993-6112-4afa-be62-f5468eb3d93c.json",
+      "href": "https://tangerinestaging.ustadmobile.com/groups/group-af1e2993-6112-4afa-be62-f5468eb3d93c.json",
       "type": "application/opds+json"
     }
   ],
   "publications": [
     {
       "metadata": {
+        "@type": "https://schema.org/LearningResource",
         "title": "User_Details",
         "author": "Tangerine",
         "identifier": "https://tangerinestaging.ustadmobile.com/releases/prod/online-survey-apps/group-af1e2993-6112-4afa-be62-f5468eb3d93c/form-c58b9083-6112-4ed2-9a94-c518b5bc812c/#/form/form-c58b9083-6112-4ed2-9a94-c518b5bc812c",
-        "modified": "2026-02-06T09:38:46.188682+00:00",
+        "modified": "2026-02-23T09:10:40.776093+00:00",
         "language": "en",
-        "subject": [
-          {
-            "name": "Published",
-            "code": "published"
-          }
-        ],
+        "subject": {
+          "name": "Education: Evaluation & Assessment",
+          "scheme": "https://www.bisg.org/#bisac",
+          "code": "EDU011000"
+        },
         "description": "Tangerine Form: User_Details"
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://ibiza-stage-tangerine-dev.web.app/forms/form-c58b9083-6112-4ed2-9a94-c518b5bc812c.json",
+          "href": "https://tangerinestaging.ustadmobile.com/forms/form-c58b9083-6112-4ed2-9a94-c518b5bc812c.json",
           "type": "application/webpub+json"
         },
         {
@@ -39,7 +39,7 @@
       ],
       "images": [
         {
-          "href": "https://ibiza-stage-tangerine-dev.web.app/forms_icon.png",
+          "href": "https://tangerinestaging.ustadmobile.com/forms_icon.png",
           "type": "image/png",
           "height": 128,
           "width": 128
