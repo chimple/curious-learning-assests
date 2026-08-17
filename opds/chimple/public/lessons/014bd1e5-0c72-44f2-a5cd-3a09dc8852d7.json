@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/014bd1e5-0c72-44f2-a5cd-3a09dc8852d7",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.237160+00:00",
-    "published": "2026-08-17T09:04:16.237160+00:00",
+    "modified": "2026-08-17T11:21:19.960556+00:00",
+    "published": "2026-08-17T11:21:19.960556+00:00",
     "description": "Interactive learning lesson: Table of 9",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2807_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/38129375-933d-4ff1-9d13-bd7d3d3b258b",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.281128+00:00",
-    "published": "2026-08-17T09:04:14.281128+00:00",
+    "modified": "2026-08-17T11:21:18.333521+00:00",
+    "published": "2026-08-17T11:21:18.333521+00:00",
     "description": "Interactive learning lesson: Blend 'ee' 1",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1809.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

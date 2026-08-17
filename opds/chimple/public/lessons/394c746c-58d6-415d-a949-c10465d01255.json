@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/394c746c-58d6-415d-a949-c10465d01255",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.401758+00:00",
-    "published": "2026-08-17T09:04:15.401758+00:00",
+    "modified": "2026-08-17T11:21:19.271623+00:00",
+    "published": "2026-08-17T11:21:19.271623+00:00",
     "description": "Interactive learning lesson: Write 31-40",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths0703_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

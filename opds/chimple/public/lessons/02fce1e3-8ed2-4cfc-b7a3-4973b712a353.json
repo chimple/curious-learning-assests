@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/02fce1e3-8ed2-4cfc-b7a3-4973b712a353",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.872418+00:00",
-    "published": "2026-08-17T09:04:13.872418+00:00",
+    "modified": "2026-08-17T11:21:18.049213+00:00",
+    "published": "2026-08-17T11:21:18.049213+00:00",
     "description": "Interactive learning lesson: Ending 'u'",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en0704.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

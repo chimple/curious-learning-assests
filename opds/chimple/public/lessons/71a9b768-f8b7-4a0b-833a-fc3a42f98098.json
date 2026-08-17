@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/71a9b768-f8b7-4a0b-833a-fc3a42f98098",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.987706+00:00",
-    "published": "2026-08-17T09:04:16.987706+00:00",
+    "modified": "2026-08-17T11:21:20.370793+00:00",
+    "published": "2026-08-17T11:21:20.370793+00:00",
     "description": "Interactive learning lesson: Eagle",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_pictureboard0016.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

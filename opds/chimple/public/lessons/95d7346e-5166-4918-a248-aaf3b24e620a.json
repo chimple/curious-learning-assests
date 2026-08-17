@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/95d7346e-5166-4918-a248-aaf3b24e620a",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.764110+00:00",
-    "published": "2026-08-17T09:04:14.764110+00:00",
+    "modified": "2026-08-17T11:21:18.564195+00:00",
+    "published": "2026-08-17T11:21:18.564195+00:00",
     "description": "Interactive learning lesson: Conjunctions",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en2702.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

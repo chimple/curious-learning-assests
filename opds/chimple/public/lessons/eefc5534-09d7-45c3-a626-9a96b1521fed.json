@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/eefc5534-09d7-45c3-a626-9a96b1521fed",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.054354+00:00",
-    "published": "2026-08-17T09:04:14.054354+00:00",
+    "modified": "2026-08-17T11:21:18.184872+00:00",
+    "published": "2026-08-17T11:21:18.184872+00:00",
     "description": "Interactive learning lesson: ire, ile, ive, ike",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1307.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

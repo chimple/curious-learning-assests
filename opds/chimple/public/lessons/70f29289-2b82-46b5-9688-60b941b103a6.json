@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/70f29289-2b82-46b5-9688-60b941b103a6",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.697134+00:00",
-    "published": "2026-08-17T09:04:13.697134+00:00",
+    "modified": "2026-08-17T11:21:17.985239+00:00",
+    "published": "2026-08-17T11:21:17.985239+00:00",
     "description": "Interactive learning lesson: Blend - ow",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1706.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

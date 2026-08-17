@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/c3f3352a-5ea9-4c74-87a1-f85df2c6008e",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.581342+00:00",
-    "published": "2026-08-17T09:04:16.581342+00:00",
+    "modified": "2026-08-17T11:21:20.139020+00:00",
+    "published": "2026-08-17T11:21:20.139020+00:00",
     "description": "Interactive learning lesson: Balloon Shape",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_3c6a9f80-4623-47fb-b5fe-21fcdbf3aa32.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/8a59ba53-eeed-4603-9225-130d40fa5a0c",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.026873+00:00",
-    "published": "2026-08-17T09:04:16.026873+00:00",
+    "modified": "2026-08-17T11:21:19.831526+00:00",
+    "published": "2026-08-17T11:21:19.831526+00:00",
     "description": "Interactive learning lesson: Calculator 3",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2303_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

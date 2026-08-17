@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/9f0f7d3a-5ed2-416f-a766-ed80d5534f13",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.338699+00:00",
-    "published": "2026-08-17T09:04:16.338699+00:00",
+    "modified": "2026-08-17T11:21:20.000674+00:00",
+    "published": "2026-08-17T11:21:20.000674+00:00",
     "description": "Interactive learning lesson: Table of 3",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2510_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

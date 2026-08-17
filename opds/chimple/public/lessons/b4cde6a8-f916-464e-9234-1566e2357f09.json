@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/b4cde6a8-f916-464e-9234-1566e2357f09",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.063227+00:00",
-    "published": "2026-08-17T09:04:16.063227+00:00",
+    "modified": "2026-08-17T11:21:19.851410+00:00",
+    "published": "2026-08-17T11:21:19.851410+00:00",
     "description": "Interactive learning lesson: Add 2 Digit Numbers",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2104_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

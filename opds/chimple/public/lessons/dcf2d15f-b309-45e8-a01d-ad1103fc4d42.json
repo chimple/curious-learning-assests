@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/dcf2d15f-b309-45e8-a01d-ad1103fc4d42",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.909179+00:00",
-    "published": "2026-08-17T09:04:14.909179+00:00",
+    "modified": "2026-08-17T11:21:18.671968+00:00",
+    "published": "2026-08-17T11:21:18.671968+00:00",
     "description": "Interactive learning lesson: Complex sentences",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3306.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

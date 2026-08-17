@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/18bb838e-61f2-4a95-aba0-495a53342ef1",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.556158+00:00",
-    "published": "2026-08-17T09:04:16.556158+00:00",
+    "modified": "2026-08-17T11:21:20.121810+00:00",
+    "published": "2026-08-17T11:21:20.121810+00:00",
     "description": "Interactive learning lesson: Bird",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_pictureboard0000.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

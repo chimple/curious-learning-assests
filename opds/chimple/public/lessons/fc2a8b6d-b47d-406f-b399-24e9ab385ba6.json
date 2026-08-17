@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/fc2a8b6d-b47d-406f-b399-24e9ab385ba6",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.065560+00:00",
-    "published": "2026-08-17T09:04:15.065560+00:00",
+    "modified": "2026-08-17T11:21:18.753079+00:00",
+    "published": "2026-08-17T11:21:18.753079+00:00",
     "description": "Interactive learning lesson: Count Upto 5",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en4008.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

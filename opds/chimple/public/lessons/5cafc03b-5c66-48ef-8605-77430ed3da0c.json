@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/5cafc03b-5c66-48ef-8605-77430ed3da0c",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.956743+00:00",
-    "published": "2026-08-17T09:04:16.956743+00:00",
+    "modified": "2026-08-17T11:21:20.354886+00:00",
+    "published": "2026-08-17T11:21:20.354886+00:00",
     "description": "Interactive learning lesson: More Birds",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_pictureboard0014.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

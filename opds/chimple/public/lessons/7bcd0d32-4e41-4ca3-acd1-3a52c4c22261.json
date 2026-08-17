@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/7bcd0d32-4e41-4ca3-acd1-3a52c4c22261",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.740447+00:00",
-    "published": "2026-08-17T09:04:14.740447+00:00",
+    "modified": "2026-08-17T11:21:18.548822+00:00",
+    "published": "2026-08-17T11:21:18.548822+00:00",
     "description": "Interactive learning lesson: Units of Measurement",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3603.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

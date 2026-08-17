@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/b6753538-c1e0-4d2b-a1c7-d6e9ff1c4980",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.610186+00:00",
-    "published": "2026-08-17T09:04:15.610186+00:00",
+    "modified": "2026-08-17T11:21:19.470598+00:00",
+    "published": "2026-08-17T11:21:19.470598+00:00",
     "description": "Interactive learning lesson: 10's Subtraction",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1509_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

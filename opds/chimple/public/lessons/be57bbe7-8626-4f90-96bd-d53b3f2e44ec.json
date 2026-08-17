@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/be57bbe7-8626-4f90-96bd-d53b3f2e44ec",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.506030+00:00",
-    "published": "2026-08-17T09:04:13.506030+00:00",
+    "modified": "2026-08-17T11:21:17.625670+00:00",
+    "published": "2026-08-17T11:21:17.625670+00:00",
     "description": "Interactive learning lesson: og, ox",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1400.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

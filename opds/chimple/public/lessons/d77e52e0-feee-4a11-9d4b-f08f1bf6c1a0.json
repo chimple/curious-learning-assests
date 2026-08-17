@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/d77e52e0-feee-4a11-9d4b-f08f1bf6c1a0",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.799133+00:00",
-    "published": "2026-08-17T09:04:16.799133+00:00",
+    "modified": "2026-08-17T11:21:20.229970+00:00",
+    "published": "2026-08-17T11:21:20.229970+00:00",
     "description": "Interactive learning lesson: Shapes and Objects",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0004.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

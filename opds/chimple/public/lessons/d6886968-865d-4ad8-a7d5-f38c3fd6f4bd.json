@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/d6886968-865d-4ad8-a7d5-f38c3fd6f4bd",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.881342+00:00",
-    "published": "2026-08-17T09:04:14.881342+00:00",
+    "modified": "2026-08-17T11:21:18.647081+00:00",
+    "published": "2026-08-17T11:21:18.647081+00:00",
     "description": "Interactive learning lesson: More Practice",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3405.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

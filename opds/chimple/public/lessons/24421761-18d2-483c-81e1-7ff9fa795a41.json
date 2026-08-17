@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/24421761-18d2-483c-81e1-7ff9fa795a41",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.566043+00:00",
-    "published": "2026-08-17T09:04:13.566043+00:00",
+    "modified": "2026-08-17T11:21:17.687995+00:00",
+    "published": "2026-08-17T11:21:17.687995+00:00",
     "description": "Interactive learning lesson: Animal Names -2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1901.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

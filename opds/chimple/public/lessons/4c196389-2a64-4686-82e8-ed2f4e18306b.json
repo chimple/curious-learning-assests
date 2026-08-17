@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/4c196389-2a64-4686-82e8-ed2f4e18306b",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.796512+00:00",
-    "published": "2026-08-17T09:04:15.796512+00:00",
+    "modified": "2026-08-17T11:21:19.633094+00:00",
+    "published": "2026-08-17T11:21:19.633094+00:00",
     "description": "Interactive learning lesson: Skip 2's Backward",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1600_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

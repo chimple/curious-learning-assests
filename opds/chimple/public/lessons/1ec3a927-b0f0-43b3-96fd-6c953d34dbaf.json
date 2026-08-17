@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/1ec3a927-b0f0-43b3-96fd-6c953d34dbaf",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.921222+00:00",
-    "published": "2026-08-17T09:04:16.921222+00:00",
+    "modified": "2026-08-17T11:21:20.330249+00:00",
+    "published": "2026-08-17T11:21:20.330249+00:00",
     "description": "Interactive learning lesson: Parts and whole 2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0011.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

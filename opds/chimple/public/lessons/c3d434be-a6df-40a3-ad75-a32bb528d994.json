@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/c3d434be-a6df-40a3-ad75-a32bb528d994",
     "language": "en",
-    "modified": "2026-08-17T09:04:17.004588+00:00",
-    "published": "2026-08-17T09:04:17.004588+00:00",
+    "modified": "2026-08-17T11:21:20.385197+00:00",
+    "published": "2026-08-17T11:21:20.385197+00:00",
     "description": "Interactive learning lesson: neha 2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_cdaaa2f8-7e8f-45ec-aa72-542b2436d603.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

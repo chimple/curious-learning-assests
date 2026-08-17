@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/c2a065ac-4e65-45c9-bfd2-ebf4ba1bc170",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.997778+00:00",
-    "published": "2026-08-17T09:04:15.997778+00:00",
+    "modified": "2026-08-17T11:21:19.812814+00:00",
+    "published": "2026-08-17T11:21:19.812814+00:00",
     "description": "Interactive learning lesson: Compare and Add",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths3003_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

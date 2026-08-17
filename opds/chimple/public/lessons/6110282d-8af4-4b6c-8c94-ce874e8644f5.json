@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/6110282d-8af4-4b6c-8c94-ce874e8644f5",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.748002+00:00",
-    "published": "2026-08-17T09:04:14.748002+00:00",
+    "modified": "2026-08-17T11:21:18.553320+00:00",
+    "published": "2026-08-17T11:21:18.553320+00:00",
     "description": "Interactive learning lesson: Match Time",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3403.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

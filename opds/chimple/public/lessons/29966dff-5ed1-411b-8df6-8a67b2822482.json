@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/29966dff-5ed1-411b-8df6-8a67b2822482",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.870986+00:00",
-    "published": "2026-08-17T09:04:14.870986+00:00",
+    "modified": "2026-08-17T11:21:18.635341+00:00",
+    "published": "2026-08-17T11:21:18.635341+00:00",
     "description": "Interactive learning lesson: Sentences starting with proper nouns",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3305.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

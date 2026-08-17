@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/42248ac4-8297-4f0d-9c53-996f8ffec714",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.976070+00:00",
-    "published": "2026-08-17T09:04:13.976070+00:00",
+    "modified": "2026-08-17T11:21:18.135806+00:00",
+    "published": "2026-08-17T11:21:18.135806+00:00",
     "description": "Interactive learning lesson: um, ume, ule",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1505.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

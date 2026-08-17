@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/f90a0c5f-ee78-4f0d-b4c7-57dad5dc1a4f",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.986523+00:00",
-    "published": "2026-08-17T09:04:15.986523+00:00",
+    "modified": "2026-08-17T11:21:19.801736+00:00",
+    "published": "2026-08-17T11:21:19.801736+00:00",
     "description": "Interactive learning lesson: Subtract - 4",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2703_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

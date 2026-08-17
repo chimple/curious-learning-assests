@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/ea08212c-d8ea-4dde-ab3a-05af6f84f394",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.806054+00:00",
-    "published": "2026-08-17T09:04:14.806054+00:00",
+    "modified": "2026-08-17T11:21:18.591627+00:00",
+    "published": "2026-08-17T11:21:18.591627+00:00",
     "description": "Interactive learning lesson: Indian Currency 5",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3504.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

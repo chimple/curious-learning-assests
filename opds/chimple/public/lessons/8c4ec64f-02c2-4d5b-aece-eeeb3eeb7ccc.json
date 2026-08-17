@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/8c4ec64f-02c2-4d5b-aece-eeeb3eeb7ccc",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.018727+00:00",
-    "published": "2026-08-17T09:04:15.018727+00:00",
+    "modified": "2026-08-17T11:21:18.721133+00:00",
+    "published": "2026-08-17T11:21:18.721133+00:00",
     "description": "Interactive learning lesson: Verbs Practice",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en2605.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

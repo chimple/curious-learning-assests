@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/9fe19a9f-2494-4c34-b31e-c2b514a85336",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.639724+00:00",
-    "published": "2026-08-17T09:04:13.639724+00:00",
+    "modified": "2026-08-17T11:21:17.927056+00:00",
+    "published": "2026-08-17T11:21:17.927056+00:00",
     "description": "Interactive learning lesson: Profession",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en2003.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

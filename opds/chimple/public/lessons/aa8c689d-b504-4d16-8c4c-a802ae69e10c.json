@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/aa8c689d-b504-4d16-8c4c-a802ae69e10c",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.466072+00:00",
-    "published": "2026-08-17T09:04:16.466072+00:00",
+    "modified": "2026-08-17T11:21:20.083084+00:00",
+    "published": "2026-08-17T11:21:20.083084+00:00",
     "description": "Interactive learning lesson: Exercise 2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2719_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

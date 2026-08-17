@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/14b86b04-4377-4f94-83ed-e94f15d982b1",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.887746+00:00",
-    "published": "2026-08-17T09:04:15.887746+00:00",
+    "modified": "2026-08-17T11:21:19.645212+00:00",
+    "published": "2026-08-17T11:21:19.645212+00:00",
     "description": "Interactive learning lesson: Big & Small 1-50",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1701_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

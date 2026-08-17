@@ -15,6 +15,9 @@ PUB_TYPE = 'application/opds-publication+json'
 DEFAULT_COLLECTION_FILENAME = 'opds.json'
 # RESPECT must launch the installed Android app without relying on website App Link verification.
 CHIMPLE_LESSON_LAUNCH_BASE = 'chimple://respect/launch'
+# RESPECT downloads only publication resources. Use the same Lido bundle host that
+# Cuba uses so an offline lesson always has a concrete, versioned ZIP to download.
+LIDO_BUNDLE_BASE_URL = 'https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/'
 SKIP_SHEETS = {'All Courses', 'Sheet4', 'Sheet5'}  # adjust as needed
 GRADE_KEYS = {
     'English Grade 1': 'en_g1',
@@ -67,6 +70,12 @@ def get_lido_lesson_id(cocos_lesson_code, lido_lesson_id=''):
 def get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id=''):
     lido_lesson_id = get_lido_lesson_id(cocos_lesson_code, lido_lesson_id)
     return f'https://chimple.cc/{lido_lesson_id}' if lido_lesson_id else None
+
+
+def get_lido_bundle_url(cocos_lesson_code, lido_lesson_id=''):
+    """Return the concrete Lido ZIP that RESPECT can retain for offline use."""
+    lido_lesson_id = get_lido_lesson_id(cocos_lesson_code, lido_lesson_id)
+    return f'{LIDO_BUNDLE_BASE_URL}{lido_lesson_id}.zip' if lido_lesson_id else None
 
 os.makedirs(GRADE_DIR, exist_ok=True)
 os.makedirs(LESSON_DIR, exist_ok=True)
@@ -218,6 +227,7 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
     image_code = cocos_lesson_code or 'default'
     image_filename = get_image_path(image_code)
     browser_launch_url = get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id)
+    lido_bundle_url = get_lido_bundle_url(cocos_lesson_code, lido_lesson_id)
     print(f"Using image for lesson {lesson_id}: {image_filename}")
 
     
@@ -284,8 +294,18 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
         ]
     }
 
-    # Lido-only lessons have no Cocos ZIP. Do not publish an empty offline
-    # resource; Cuba will resolve lido_lesson_id when no Cocos ID is present.
+    # Include the same Lido ZIP that Cuba launches. RESPECT's Download action
+    # only retains declared resources, so omitting this link leaves it unable
+    # to prepare Lido lessons for offline use.
+    if lido_bundle_url:
+        lesson_manifest['resources'].append({
+            "type": "application/zip",
+            "href": lido_bundle_url,
+            "properties": {
+                "contains": ["application/xhtml+xml", "text/css", "image/*", "audio/*"]
+            }
+        })
+
     if cocos_lesson_code and asset_link:
         lesson_manifest['resources'].append({
             "type": "application/zip",

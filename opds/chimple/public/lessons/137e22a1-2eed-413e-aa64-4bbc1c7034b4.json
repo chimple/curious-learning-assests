@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/137e22a1-2eed-413e-aa64-4bbc1c7034b4",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.428566+00:00",
-    "published": "2026-08-17T09:04:15.428566+00:00",
+    "modified": "2026-08-17T11:21:19.315800+00:00",
+    "published": "2026-08-17T11:21:19.315800+00:00",
     "description": "Interactive learning lesson: Count and Subtract 2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1504_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

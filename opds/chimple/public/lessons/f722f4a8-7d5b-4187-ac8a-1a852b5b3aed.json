@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/f722f4a8-7d5b-4187-ac8a-1a852b5b3aed",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.791766+00:00",
-    "published": "2026-08-17T09:04:14.791766+00:00",
+    "modified": "2026-08-17T11:21:18.582669+00:00",
+    "published": "2026-08-17T11:21:18.582669+00:00",
     "description": "Interactive learning lesson: Large Sentences",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3303.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

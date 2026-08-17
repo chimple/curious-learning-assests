@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/3cd4f9fa-6d60-4213-acb4-61c1e413fe01",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.671705+00:00",
-    "published": "2026-08-17T09:04:14.671705+00:00",
+    "modified": "2026-08-17T11:21:18.509215+00:00",
+    "published": "2026-08-17T11:21:18.509215+00:00",
     "description": "Interactive learning lesson: Reading Time",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3402.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

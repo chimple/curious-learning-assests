@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/f4ad656b-9bcd-4af2-aaaf-2b5d4f85c90f",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.084230+00:00",
-    "published": "2026-08-17T09:04:15.084230+00:00",
+    "modified": "2026-08-17T11:21:18.769392+00:00",
+    "published": "2026-08-17T11:21:18.769392+00:00",
     "description": "Interactive learning lesson: Gender Nouns",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en2414.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

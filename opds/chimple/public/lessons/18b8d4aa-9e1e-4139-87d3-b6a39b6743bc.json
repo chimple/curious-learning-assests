@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/18b8d4aa-9e1e-4139-87d3-b6a39b6743bc",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.872306+00:00",
-    "published": "2026-08-17T09:04:16.872306+00:00",
+    "modified": "2026-08-17T11:21:20.294019+00:00",
+    "published": "2026-08-17T11:21:20.294019+00:00",
     "description": "Interactive learning lesson: Match figures",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0007.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

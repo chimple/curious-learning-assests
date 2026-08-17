@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/2b8b13ae-203c-45d6-835a-c6d1d75141f9",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.103711+00:00",
-    "published": "2026-08-17T09:04:16.103711+00:00",
+    "modified": "2026-08-17T11:21:19.872215+00:00",
+    "published": "2026-08-17T11:21:19.872215+00:00",
     "description": "Interactive learning lesson: Skip By 100",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1605_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {
