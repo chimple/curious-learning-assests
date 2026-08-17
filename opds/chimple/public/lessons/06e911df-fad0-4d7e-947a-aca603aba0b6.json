@@ -1,0 +1,79 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Image test212345",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/06e911df-fad0-4d7e-947a-aca603aba0b6",
+    "language": "en",
+    "modified": "2026-08-17T09:04:16.566971+00:00",
+    "published": "2026-08-17T09:04:16.566971+00:00",
+    "description": "Interactive learning lesson: Image test212345",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/06e911df-fad0-4d7e-947a-aca603aba0b6.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/06e911df-fad0-4d7e-947a-aca603aba0b6/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition/open-access",
+      "href": "https://chimple.cc/LIDO_031caec0-c174-4859-af8d-37191f0db570",
+      "type": "text/html"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_031caec0-c174-4859-af8d-37191f0db570",
+      "title": "Image test212345"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/031caec0-c174-4859-af8d-37191f0db570.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

@@ -6,10 +6,10 @@
     "en-US": "A collection of interactive learning units for children."
   },
   "license": "MIT",
-  "website": "https://chimple-respectify.web.app/",
-  "icon": "https://chimple-respectify.web.app/icon.webp",
-  "learningUnits": "https://chimple-respectify.web.app/opds.json",
-  "defaultLaunchUri": "https://chimple-respectify.web.app/grades/en_g1.json",
+  "website": "https://chimple-respect.web.app/",
+  "icon": "https://chimple-respect.web.app/icon.webp",
+  "learningUnits": "https://chimple-respect.web.app/opds.json",
+  "defaultLaunchUri": "https://chimple-respect.web.app/grades/en_g1.json",
   "android": {
     "packageId": "org.chimple.cuba",
     "stores": [
@@ -17,6 +17,6 @@
     ]
   },
   "web": {
-    "url": "https://chimple-respectify.web.app/"
+    "url": "https://chimple-respect.web.app/"
   }
 }
