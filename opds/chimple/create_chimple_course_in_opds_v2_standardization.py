@@ -1,23 +1,72 @@
 import os
 import json
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from openpyxl import load_workbook
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 
 # Configuration
 EXCEL_FILE = 'Respect Course Latest All Course Details From dashboard.xlsx'
 # EXCEL_FILE = 'sheet (1).xlsx'
 
-BASE_URL = 'https://chimple-respectify.web.app/'  # Base URL for your OPDS catalog
+BASE_URL = 'https://chimple-respect.web.app/'  # Base URL for your OPDS catalog
 TYPE_OPDS = 'application/opds+json'
 PUB_TYPE = 'application/opds-publication+json'
+DEFAULT_COLLECTION_FILENAME = 'opds.json'
+# RESPECT must launch the installed Android app without relying on website App Link verification.
+CHIMPLE_LESSON_LAUNCH_BASE = 'chimple://respect/launch'
 SKIP_SHEETS = {'All Courses', 'Sheet4', 'Sheet5'}  # adjust as needed
+GRADE_KEYS = {
+    'English Grade 1': 'en_g1',
+    'English Grade 2': 'en_g2',
+    'Maths Grade 1': 'maths_g1',
+    'Maths Grade 2': 'maths_g2',
+    'Digital Skills': 'puzzle',
+}
+GRADE_ICON_URLS = {
+    'english': 'https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp',
+    'maths': 'https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/e5cda413-2f6c-485d-8985-27e3b6aad0d5-6cca9deb.webp',
+    'digital': 'https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/19bb079f-bc69-44e4-bc1d-0b77f2683b6c-5a17f2ef.webp',
+}
 
 # Output folders
 OUTPUT_DIR = 'public'
 GRADE_DIR = os.path.join(OUTPUT_DIR, 'grades')
 LESSON_DIR = os.path.join(OUTPUT_DIR, 'lessons')
 ICONS_DIR = os.path.join(OUTPUT_DIR, 'images', 'icons')
+
+def get_lesson_launch_url(activity_id, chimple_lesson_id=''):
+    """Keep the xAPI activity canonical while supplying Cuba's playable bundle ID."""
+    launch_parameters = {'activity_id': activity_id}
+    if chimple_lesson_id:
+        launch_parameters['chimple_lesson_id'] = chimple_lesson_id
+    return f'{CHIMPLE_LESSON_LAUNCH_BASE}?{urlencode(launch_parameters)}'
+
+def clean_lesson_value(value):
+    value = str(value or '').strip()
+    return '' if value.lower() in {'nan', 'none'} else value
+
+
+def get_lido_lesson_id(cocos_lesson_code, lido_lesson_id=''):
+    """Return the Lido bundle ID used by Cuba and the browser player."""
+    lido_lesson_id = clean_lesson_value(lido_lesson_id)
+    if lido_lesson_id.startswith('LIDO_'):
+        return lido_lesson_id
+
+    cocos_lesson_code = clean_lesson_value(cocos_lesson_code)
+    if not cocos_lesson_code or cocos_lesson_code.lower() == 'default':
+        return None
+
+    return (
+        f'LIDO_{cocos_lesson_code}_en'
+        if cocos_lesson_code.lower().startswith('maths')
+        else f'LIDO_{cocos_lesson_code}'
+    )
+
+
+def get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id=''):
+    lido_lesson_id = get_lido_lesson_id(cocos_lesson_code, lido_lesson_id)
+    return f'https://chimple.cc/{lido_lesson_id}' if lido_lesson_id else None
 
 os.makedirs(GRADE_DIR, exist_ok=True)
 os.makedirs(LESSON_DIR, exist_ok=True)
@@ -47,15 +96,15 @@ learning_units = []
 for sheet_name in wb.sheetnames:
     if sheet_name in SKIP_SHEETS:
         continue
-    filename = sheet_name.replace(' ', '').lower() + '.json'
+    filename = GRADE_KEYS.get(sheet_name, sheet_name.replace(' ', '').lower()) + '.json'
     
-    # Determine icon based on grade type
+    # Course icons are supplied by the curriculum owner and shared by each subject's grades.
     if 'english' in sheet_name.lower():
-        icon = BASE_URL + 'images/icons/en0000.png'
+        icon = GRADE_ICON_URLS['english']
     elif 'maths' in sheet_name.lower():
-        icon = BASE_URL + 'images/icons/maths0000.png'
+        icon = GRADE_ICON_URLS['maths']
     elif 'digital' in sheet_name.lower():
-        icon = BASE_URL + 'images/icons/puzzle0000.png'
+        icon = GRADE_ICON_URLS['digital']
     else:
         icon = BASE_URL + 'images/icons/default.png'
     
@@ -67,7 +116,7 @@ for sheet_name in wb.sheetnames:
             {
                 'href': icon,
                 'rel': "icon",
-                'type': "image/png",
+                'type': "image/webp" if icon.endswith('.webp') else "image/png",
                 'title': sheet_name
             }
         ]
@@ -97,7 +146,7 @@ respect_manifest = {
     "license": "MIT",
     "website": BASE_URL,
     "icon": BASE_URL + "icon.webp",
-    "learningUnits": BASE_URL + "opds.json",
+    "learningUnits": BASE_URL + DEFAULT_COLLECTION_FILENAME,
     "defaultLaunchUri": navigation[0]['href'] if navigation else BASE_URL,
     "android": {
         "packageId": "org.chimple.cuba",
@@ -111,14 +160,64 @@ with open(os.path.join(OUTPUT_DIR, 'index.json'), 'w', encoding='utf-8') as f:
     json.dump(respect_manifest, f, indent=2)
 print(f"Generated index.json as RESPECT App Manifest.")
 
+launchable_app_manifest = {
+    "metadata": {
+        "@type": "https://id.openeel.org/schema/launchable-app",
+        "title": "Chimple Kids Learning",
+        "description": "Interactive learning units from Chimple.",
+        "author": {"name": "Chimple Learning"},
+        "identifier": f"{BASE_URL}app",
+        "language": "en",
+        "modified": datetime.now(timezone.utc).isoformat(),
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": f"{BASE_URL}launchable-app.json",
+            "type": PUB_TYPE,
+        },
+        {
+            "rel": "collection",
+            "href": f"{BASE_URL}{DEFAULT_COLLECTION_FILENAME}",
+            "type": TYPE_OPDS,
+        },
+        {
+            "rel": "https://id.openeel.org/rel/app-launch-uri",
+            "href": "https://chimple.cc/",
+        },
+        {
+            "rel": "https://id.openeel.org/rel/appstore-android",
+            "href": "https://play.google.com/store/apps/details?id=org.chimple.bahama",
+            "title": "Get it on Google Play",
+        },
+        {"rel": "terms-of-service", "href": "https://www.chimple.org/privacy-policy"},
+        {"rel": "license", "href": "https://www.gnu.org/licenses/agpl-3.0.html"},
+    ],
+    "images": [
+        {
+            "href": "https://raw.githubusercontent.com/chimple/cuba/RESPECTify/public/assets/icons/favicon.png",
+            "type": "image/png",
+        }
+    ],
+}
+with open(os.path.join(OUTPUT_DIR, 'launchable-app.json'), 'w', encoding='utf-8') as f:
+    json.dump(launchable_app_manifest, f, indent=2)
+print("Generated launchable-app.json.")
+
 def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
     """Create a lesson manifest in Readium Web Publication Manifest format"""
     # Fix date format to RFC 3339 (UTC timezone)
     current_time = datetime.now(timezone.utc).isoformat()
     
     # Get image path
-    cocos_lesson_code = str(lesson_data.get('cocos_lesson_code', '')).strip() or lesson_data.get('id') or 'default'
-    image_filename = get_image_path(cocos_lesson_code)
+    cocos_lesson_code = clean_lesson_value(lesson_data.get('cocos_lesson_code'))
+    lido_lesson_id = get_lido_lesson_id(
+        cocos_lesson_code,
+        lesson_data.get('lido_lesson_id'),
+    )
+    image_code = cocos_lesson_code or 'default'
+    image_filename = get_image_path(image_code)
+    browser_launch_url = get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id)
     print(f"Using image for lesson {lesson_id}: {image_filename}")
 
     
@@ -129,10 +228,10 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
             "https://schema.org"
         ],
         "metadata": {
-            "@type": "https://schema.org/Book",
+            "@type": "http://schema.org/Game",
             "title": title,
             "author": "Chimple",
-            "identifier": f"https://chimple.cc/?activity_id={lesson_id}",
+            "identifier": f"{BASE_URL}activities/{lesson_id}",
             "language": "en",
             "modified": current_time,
             "published": current_time,
@@ -143,18 +242,23 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
         "links": [
             {
                 "rel": "self",
-                "href": f"https://chimple-respectify.web.app/lessons/{lesson_id}.json",
-                "type": "application/webpub+json"
+                "href": f"{BASE_URL}lessons/{lesson_id}.json",
+                "type": PUB_TYPE
             },
             {
-                "rel": "http://opds-spec.org/acquisition/open-access",
-                "href": f"https://chimple.cc/?activity_id={lesson_id}",
-                "type": "text/html"
+                "rel": "https://id.openeel.org/rel/tincanxml",
+                "href": f"{BASE_URL}lessons/{lesson_id}/tincan.xml",
+                "type": "application/xml"
+            },
+            {
+                "rel": "https://id.openeel.org/rel/launchable-app",
+                "href": f"{BASE_URL}launchable-app.json",
+                "type": PUB_TYPE
             }
         ],
         "images": [
             {
-                "href": f"https://chimple-respectify.web.app/images/icons/{image_filename}",
+                "href": f"{BASE_URL}images/icons/{image_filename}",
                 "type": "image/png",
                 "height": 128,
                 "width": 128
@@ -164,30 +268,74 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
         "readingOrder": [
             {
                 "type": "text/html",
-                "href": f"https://chimple.cc/?activity_id={lesson_id}",
+                "href": browser_launch_url or get_lesson_launch_url(f'{BASE_URL}activities/{lesson_id}'),
                 "title": title
             }
         ],
         "resources": [
             {
                 "type": "image/png",
-                "href": f"https://chimple-respectify.web.app/images/icons/{image_filename}",
+                "href": f"{BASE_URL}images/icons/{image_filename}",
                 "properties": {
                     "width": 128,
                     "height": 128
                 }
-            },
-            {
-                "type": "application/zip",
-                "href": asset_link,
-                "properties": {
-                    "contains": ["application/xhtml+xml", "text/css", "image/*"]
-                }
             }
         ]
     }
+
+    # Lido-only lessons have no Cocos ZIP. Do not publish an empty offline
+    # resource; Cuba will resolve lido_lesson_id when no Cocos ID is present.
+    if cocos_lesson_code and asset_link:
+        lesson_manifest['resources'].append({
+            "type": "application/zip",
+            "href": asset_link,
+            "properties": {
+                "contains": ["application/xhtml+xml", "text/css", "image/*"]
+            }
+        })
     
+    if browser_launch_url:
+        lesson_manifest['links'].append({
+            "rel": "http://opds-spec.org/acquisition/open-access",
+            "href": browser_launch_url,
+            "type": "text/html"
+        })
+
     return lesson_manifest
+
+
+def create_tincan_xml(lesson_id, title, chimple_lesson_id):
+    """Create the Rustici launch metadata for a lesson's canonical xAPI activity."""
+    lesson_dir = os.path.join(LESSON_DIR, lesson_id)
+    os.makedirs(lesson_dir, exist_ok=True)
+
+    namespace = 'http://projecttincan.com/tincan.xsd'
+    ET.register_namespace('', namespace)
+    root = ET.Element(f'{{{namespace}}}tincan')
+    activities = ET.SubElement(root, 'activities')
+    activity = ET.SubElement(
+        activities,
+        'activity',
+        {
+            'id': f'{BASE_URL}activities/{lesson_id}',
+            'type': 'http://activitystrea.ms/schema/1.0/game',
+        },
+    )
+    ET.SubElement(activity, 'name').text = title
+    description = ET.SubElement(activity, 'description', {'lang': 'en-US'})
+    description.text = f'Chimple learning activity: {title}'
+    launch = ET.SubElement(activity, 'launch', {'lang': 'en-us'})
+    launch.text = get_lesson_launch_url(
+        f'{BASE_URL}activities/{lesson_id}',
+        chimple_lesson_id,
+    )
+
+    ET.ElementTree(root).write(
+        os.path.join(lesson_dir, 'tincan.xml'),
+        encoding='utf-8',
+        xml_declaration=True,
+    )
 
 # --- Process sheets ---
 for sheet_name in wb.sheetnames:
@@ -196,7 +344,8 @@ for sheet_name in wb.sheetnames:
     
     print(f"\nProcessing sheet: {sheet_name}")
     ws = wb[sheet_name]
-    grade_key = sheet_name.replace(' ', '').lower()
+    # Keep the published grade feed URLs stable for existing RESPECT clients.
+    grade_key = GRADE_KEYS.get(sheet_name, sheet_name.replace(' ', '').lower())
     grade_file = f"{grade_key}.json"
     publications = []
     
@@ -216,10 +365,11 @@ for sheet_name in wb.sheetnames:
             print(f"Row {row_count} keys: {list(data.keys())}")
             print(f"Row {row_count} values: {list(data.values())}")
             print(f"Row {row_count} data: {data}")
-        lesson_id = str(data.get('lesson_id', '')).strip()
-        if not isinstance(lesson_id, str):
-            print(f"Skipping row {row_count}: lesson_id is not a string: {lesson_id}")
+        lesson_id_value = data.get('lesson_id')
+        if lesson_id_value is None:
+            print(f"Skipping row {row_count}: Missing lesson_id")
             continue
+        lesson_id = str(lesson_id_value).strip()
         if not lesson_id or lesson_id.lower() == 'nan':
             print(f"Skipping row {row_count}: Missing lesson_id (value: '{lesson_id}')")
             continue
@@ -231,19 +381,27 @@ for sheet_name in wb.sheetnames:
         ).strip()
         print(f"Row {row_count}: lesson_id={lesson_id}, title='{title}'")
             
-        asset = str(
+        asset = clean_lesson_value(
             data.get('Asset Link') or
             data.get('Asset L') or
             ''
-        ).strip()
-        cocos_lesson_code = str(data.get('cocos_lesson_code', '')).strip() or data.get('id') or 'default'
+        )
+        cocos_lesson_code = clean_lesson_value(data.get('cocos_lesson_code'))
+        lido_lesson_id = get_lido_lesson_id(
+            cocos_lesson_code,
+            data.get('lido_lesson_id'),
+        )
 
         if not title or title.lower() == 'nan':
             title = f"Lesson {lesson_id}"
             print(f"Row {row_count}: Using default title: {title}")
             
-        if not asset or asset.lower() == 'nan':
-            print(f"Skipping row {row_count}: Missing asset link")
+        if not cocos_lesson_code and not lido_lesson_id:
+            print(f"Skipping row {row_count}: Missing Cocos and Lido lesson IDs")
+            continue
+
+        if cocos_lesson_code and not asset:
+            print(f"Skipping row {row_count}: Missing Cocos asset link")
             continue
 
         valid_lessons += 1
@@ -252,44 +410,61 @@ for sheet_name in wb.sheetnames:
         lesson_filename = f"{lesson_id}.json"
 
         lesson_manifest = create_lesson_manifest(data, lesson_id, title, asset)
+        # RESPECT launches the installed Cuba Lido player. The canonical xAPI
+        # activity remains the UUID URL above; the launch parameter must be
+        # the Lido bundle ID, never the Cocos bundle code.
+        create_tincan_xml(lesson_id, title, lido_lesson_id)
 
         with open(os.path.join(LESSON_DIR, lesson_filename), 'w', encoding='utf-8') as lf:
             json.dump(lesson_manifest, lf, indent=2)
         print(f"Generated lesson manifest: {lesson_filename}")
 
         # Get image path for OPDS
-        image_filename = get_image_path(cocos_lesson_code)
+        image_filename = get_image_path(cocos_lesson_code or 'default')
+        browser_launch_url = get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id)
 
         # For OPDS catalog, create a simplified publication entry
         publication = {
             'metadata': {
                 'title': lesson_manifest['metadata']['title'],
                 'author': 'Chimple',
-                'identifier': f"https://chimple.cc/?activity_id={lesson_id}",
+                'identifier': f"{BASE_URL}activities/{lesson_id}",
                 'language': 'en',
                 'modified': lesson_manifest['metadata']['modified']
             },
             'links': [
                 {
                     'rel': 'self',
-                    'href': f"https://chimple-respectify.web.app/lessons/{lesson_id}.json",
-                    'type': 'application/webpub+json'
+                    'href': f"{BASE_URL}lessons/{lesson_id}.json",
+                    'type': PUB_TYPE
                 },
                 {
-                    'rel': 'http://opds-spec.org/acquisition/open-access',
-                    'href': f"https://chimple.cc/?activity_id={lesson_id}",
-                    'type': 'text/html'
-                }
+                    'rel': 'https://id.openeel.org/rel/tincanxml',
+                    'href': f"{BASE_URL}lessons/{lesson_id}/tincan.xml",
+                    'type': 'application/xml'
+                },
+                {
+                    'rel': 'https://id.openeel.org/rel/launchable-app',
+                    'href': f"{BASE_URL}launchable-app.json",
+                    'type': PUB_TYPE
+                },
             ],
             'images': [
                 {
-                    'href': f"https://chimple-respectify.web.app/images/icons/{image_filename}",
+                    'href': f"{BASE_URL}images/icons/{image_filename}",
                     'type': 'image/png',
                     'height': 128,
                     'width': 128
                 }
             ]
         }
+
+        if browser_launch_url:
+            publication['links'].append({
+                'rel': 'http://opds-spec.org/acquisition/open-access',
+                'href': browser_launch_url,
+                'type': 'text/html'
+            })
         
         cocos_chapter_code = str(data.get('cocosChapterCode', '')).strip() or data.get('cocos_chapter_code', '')
         if cocos_chapter_code and cocos_chapter_code.lower() != 'nan':

@@ -5,72 +5,72 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://chimple-respectify.web.app/opds.json",
+      "href": "https://chimple-respect.web.app/opds.json",
       "type": "application/opds+json"
     }
   ],
   "navigation": [
     {
-      "href": "https://chimple-respectify.web.app/grades/en_g1.json",
+      "href": "https://chimple-respect.web.app/grades/en_g1.json",
       "title": "English Grade 1",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://chimple-respectify.web.app/images/icons/en0000.png",
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp",
           "rel": "icon",
-          "type": "image/png",
+          "type": "image/webp",
           "title": "English Grade 1"
         }
       ]
     },
     {
-      "href": "https://chimple-respectify.web.app/grades/en_g2.json",
+      "href": "https://chimple-respect.web.app/grades/en_g2.json",
       "title": "English Grade 2",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://chimple-respectify.web.app/images/icons/en0000.png",
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp",
           "rel": "icon",
-          "type": "image/png",
+          "type": "image/webp",
           "title": "English Grade 2"
         }
       ]
     },
     {
-      "href": "https://chimple-respectify.web.app/grades/maths_g1.json",
+      "href": "https://chimple-respect.web.app/grades/maths_g1.json",
       "title": "Maths Grade 1",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://chimple-respectify.web.app/images/icons/maths0000.png",
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/e5cda413-2f6c-485d-8985-27e3b6aad0d5-6cca9deb.webp",
           "rel": "icon",
-          "type": "image/png",
+          "type": "image/webp",
           "title": "Maths Grade 1"
         }
       ]
     },
     {
-      "href": "https://chimple-respectify.web.app/grades/maths_g2.json",
+      "href": "https://chimple-respect.web.app/grades/maths_g2.json",
       "title": "Maths Grade 2",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://chimple-respectify.web.app/images/icons/maths0000.png",
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/e5cda413-2f6c-485d-8985-27e3b6aad0d5-6cca9deb.webp",
           "rel": "icon",
-          "type": "image/png",
+          "type": "image/webp",
           "title": "Maths Grade 2"
         }
       ]
     },
     {
-      "href": "https://chimple-respectify.web.app/grades/puzzle.json",
+      "href": "https://chimple-respect.web.app/grades/puzzle.json",
       "title": "Digital Skills",
       "type": "application/opds+json",
       "alternate": [
         {
-          "href": "https://chimple-respectify.web.app/images/icons/puzzle0000.png",
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/19bb079f-bc69-44e4-bc1d-0b77f2683b6c-5a17f2ef.webp",
           "rel": "icon",
-          "type": "image/png",
+          "type": "image/webp",
           "title": "Digital Skills"
         }
       ]
