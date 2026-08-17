@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/dfdcb856-c303-4532-bf8b-1d7f0cb29b03",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.888482+00:00",
-    "published": "2026-08-17T09:04:16.888482+00:00",
+    "modified": "2026-08-17T11:21:20.306017+00:00",
+    "published": "2026-08-17T11:21:20.306017+00:00",
     "description": "Interactive learning lesson: English Literacy",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_engLit.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/c20db1a7-77ec-487a-b371-50a982163097",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.727276+00:00",
-    "published": "2026-08-17T09:04:14.727276+00:00",
+    "modified": "2026-08-17T11:21:18.540773+00:00",
+    "published": "2026-08-17T11:21:18.540773+00:00",
     "description": "Interactive learning lesson: Pair them",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3802.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

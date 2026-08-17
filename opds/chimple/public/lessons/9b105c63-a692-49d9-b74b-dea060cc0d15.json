@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/9b105c63-a692-49d9-b74b-dea060cc0d15",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.547904+00:00",
-    "published": "2026-08-17T09:04:16.547904+00:00",
+    "modified": "2026-08-17T11:21:20.117141+00:00",
+    "published": "2026-08-17T11:21:20.117141+00:00",
     "description": "Interactive learning lesson: Match Coloured Object",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0000.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

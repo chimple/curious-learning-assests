@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/293aedc5-f69b-4834-abf0-94d6ebe2256b",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.529701+00:00",
-    "published": "2026-08-17T09:04:14.529701+00:00",
+    "modified": "2026-08-17T11:21:18.418393+00:00",
+    "published": "2026-08-17T11:21:18.418393+00:00",
     "description": "Interactive learning lesson: Day and Night",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3400.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/435d6df0-04f3-4a45-bcee-cb183d68727a",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.411156+00:00",
-    "published": "2026-08-17T09:04:14.411156+00:00",
+    "modified": "2026-08-17T11:21:18.339731+00:00",
+    "published": "2026-08-17T11:21:18.339731+00:00",
     "description": "Interactive learning lesson: Transport",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1906.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

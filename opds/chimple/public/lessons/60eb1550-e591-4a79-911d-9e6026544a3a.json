@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/60eb1550-e591-4a79-911d-9e6026544a3a",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.455493+00:00",
-    "published": "2026-08-17T09:04:16.455493+00:00",
+    "modified": "2026-08-17T11:21:20.073489+00:00",
+    "published": "2026-08-17T11:21:20.073489+00:00",
     "description": "Interactive learning lesson: Revisions",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2218_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

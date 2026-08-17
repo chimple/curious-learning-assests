@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/59244162-e599-4ea9-afa5-f90b62284b14",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.137761+00:00",
-    "published": "2026-08-17T09:04:16.137761+00:00",
+    "modified": "2026-08-17T11:21:19.887792+00:00",
+    "published": "2026-08-17T11:21:19.887792+00:00",
     "description": "Interactive learning lesson: 500-700",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2405_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

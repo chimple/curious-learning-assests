@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/71f73598-f775-4b6e-80f6-91a0dab44d2a",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.718304+00:00",
-    "published": "2026-08-17T09:04:16.718304+00:00",
+    "modified": "2026-08-17T11:21:20.159835+00:00",
+    "published": "2026-08-17T11:21:20.159835+00:00",
     "description": "Interactive learning lesson: Shape Pattern",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0102.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

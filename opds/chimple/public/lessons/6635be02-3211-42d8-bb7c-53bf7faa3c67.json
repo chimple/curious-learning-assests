@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/6635be02-3211-42d8-bb7c-53bf7faa3c67",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.533603+00:00",
-    "published": "2026-08-17T09:04:14.533603+00:00",
+    "modified": "2026-08-17T11:21:18.421567+00:00",
+    "published": "2026-08-17T11:21:18.421567+00:00",
     "description": "Interactive learning lesson: Basics",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3600.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

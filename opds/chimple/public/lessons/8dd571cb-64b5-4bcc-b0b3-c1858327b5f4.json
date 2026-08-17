@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/8dd571cb-64b5-4bcc-b0b3-c1858327b5f4",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.188383+00:00",
-    "published": "2026-08-17T09:04:15.188383+00:00",
+    "modified": "2026-08-17T11:21:18.868759+00:00",
+    "published": "2026-08-17T11:21:18.868759+00:00",
     "description": "Interactive learning lesson: Greetings",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3416.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

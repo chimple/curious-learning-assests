@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/6c2ca03d-74ae-435c-8e56-e334c3cc6871",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.960461+00:00",
-    "published": "2026-08-17T09:04:16.960461+00:00",
+    "modified": "2026-08-17T11:21:20.358145+00:00",
+    "published": "2026-08-17T11:21:20.358145+00:00",
     "description": "Interactive learning lesson: Tiny shapes",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_puzzle0015.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

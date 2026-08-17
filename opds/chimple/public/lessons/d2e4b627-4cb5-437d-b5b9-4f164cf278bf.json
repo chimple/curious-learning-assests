@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/d2e4b627-4cb5-437d-b5b9-4f164cf278bf",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.803515+00:00",
-    "published": "2026-08-17T09:04:16.803515+00:00",
+    "modified": "2026-08-17T11:21:20.233635+00:00",
+    "published": "2026-08-17T11:21:20.233635+00:00",
     "description": "Interactive learning lesson: hellotest",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_d80e3e5e-90fa-42d2-bde9-f5bec155f7bf.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

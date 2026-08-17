@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/5bb0d956-23cf-4596-be10-276a34dca314",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.307688+00:00",
-    "published": "2026-08-17T09:04:15.307688+00:00",
+    "modified": "2026-08-17T11:21:19.065377+00:00",
+    "published": "2026-08-17T11:21:19.065377+00:00",
     "description": "Interactive learning lesson: Addition",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1401_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

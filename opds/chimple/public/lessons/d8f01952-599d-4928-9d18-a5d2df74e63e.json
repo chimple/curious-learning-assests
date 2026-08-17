@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/d8f01952-599d-4928-9d18-a5d2df74e63e",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.088351+00:00",
-    "published": "2026-08-17T09:04:14.088351+00:00",
+    "modified": "2026-08-17T11:21:18.206929+00:00",
+    "published": "2026-08-17T11:21:18.206929+00:00",
     "description": "Interactive learning lesson: Word Sounds - 8",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en0907.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

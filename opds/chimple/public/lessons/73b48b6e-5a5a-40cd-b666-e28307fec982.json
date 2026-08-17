@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/73b48b6e-5a5a-40cd-b666-e28307fec982",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.047668+00:00",
-    "published": "2026-08-17T09:04:15.047668+00:00",
+    "modified": "2026-08-17T11:21:18.738573+00:00",
+    "published": "2026-08-17T11:21:18.738573+00:00",
     "description": "Interactive learning lesson: Count Objects Basic",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en4007.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/c3f419f1-b94b-4153-84ac-b95a0c296e7f",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.756076+00:00",
-    "published": "2026-08-17T09:04:16.756076+00:00",
+    "modified": "2026-08-17T11:21:20.197056+00:00",
+    "published": "2026-08-17T11:21:20.197056+00:00",
     "description": "Interactive learning lesson: Mouse",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_pictureboard0002.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

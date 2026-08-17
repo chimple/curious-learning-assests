@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/4d1dc7d2-a14a-46b8-9786-7b2a24a77297",
     "language": "en",
-    "modified": "2026-08-17T09:04:17.095428+00:00",
-    "published": "2026-08-17T09:04:17.095428+00:00",
+    "modified": "2026-08-17T11:21:20.505932+00:00",
+    "published": "2026-08-17T11:21:20.505932+00:00",
     "description": "Interactive learning lesson: cpr100",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_4d1dc7d2-a14a-46b8-9786-7b2a24a77297.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

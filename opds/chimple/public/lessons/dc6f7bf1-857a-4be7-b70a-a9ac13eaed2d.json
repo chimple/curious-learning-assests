@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/dc6f7bf1-857a-4be7-b70a-a9ac13eaed2d",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.991245+00:00",
-    "published": "2026-08-17T09:04:16.991245+00:00",
+    "modified": "2026-08-17T11:21:20.374163+00:00",
+    "published": "2026-08-17T11:21:20.374163+00:00",
     "description": "Interactive learning lesson: Hyena",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_pictureboard0017.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

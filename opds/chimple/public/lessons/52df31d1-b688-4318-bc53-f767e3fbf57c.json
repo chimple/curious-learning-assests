@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/52df31d1-b688-4318-bc53-f767e3fbf57c",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.749807+00:00",
-    "published": "2026-08-17T09:04:13.749807+00:00",
+    "modified": "2026-08-17T11:21:18.023329+00:00",
+    "published": "2026-08-17T11:21:18.023329+00:00",
     "description": "Interactive learning lesson: About people",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3203.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

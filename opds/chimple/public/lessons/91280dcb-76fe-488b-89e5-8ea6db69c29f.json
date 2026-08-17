@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/91280dcb-76fe-488b-89e5-8ea6db69c29f",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.977912+00:00",
-    "published": "2026-08-17T09:04:15.977912+00:00",
+    "modified": "2026-08-17T11:21:19.783037+00:00",
+    "published": "2026-08-17T11:21:19.783037+00:00",
     "description": "Interactive learning lesson: Skip By 10's",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1603_en.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

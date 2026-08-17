@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/69150235-e87e-4c95-8d9d-455fa810b928",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.822555+00:00",
-    "published": "2026-08-17T09:04:14.822555+00:00",
+    "modified": "2026-08-17T11:21:18.602081+00:00",
+    "published": "2026-08-17T11:21:18.602081+00:00",
     "description": "Interactive learning lesson: Ordinal Counting",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en4003.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

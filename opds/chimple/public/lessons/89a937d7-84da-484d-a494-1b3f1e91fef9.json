@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/89a937d7-84da-484d-a494-1b3f1e91fef9",
     "language": "en",
-    "modified": "2026-08-17T09:04:16.848255+00:00",
-    "published": "2026-08-17T09:04:16.848255+00:00",
+    "modified": "2026-08-17T11:21:20.273764+00:00",
+    "published": "2026-08-17T11:21:20.273764+00:00",
     "description": "Interactive learning lesson: Moon",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0007.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

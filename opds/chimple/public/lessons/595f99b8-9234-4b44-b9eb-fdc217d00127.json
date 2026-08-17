@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/595f99b8-9234-4b44-b9eb-fdc217d00127",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.431463+00:00",
-    "published": "2026-08-17T09:04:14.431463+00:00",
+    "modified": "2026-08-17T11:21:18.357349+00:00",
+    "published": "2026-08-17T11:21:18.357349+00:00",
     "description": "Interactive learning lesson: Day to day",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1909.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

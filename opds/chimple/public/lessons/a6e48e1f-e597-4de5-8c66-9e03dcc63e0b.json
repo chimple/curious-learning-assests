@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/a6e48e1f-e597-4de5-8c66-9e03dcc63e0b",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.196407+00:00",
-    "published": "2026-08-17T09:04:14.196407+00:00",
+    "modified": "2026-08-17T11:21:18.285725+00:00",
+    "published": "2026-08-17T11:21:18.285725+00:00",
     "description": "Interactive learning lesson: Clothes We Wear 2",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1921.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

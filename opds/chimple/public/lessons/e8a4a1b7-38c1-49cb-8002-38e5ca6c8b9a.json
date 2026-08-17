@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/e8a4a1b7-38c1-49cb-8002-38e5ca6c8b9a",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.712067+00:00",
-    "published": "2026-08-17T09:04:13.712067+00:00",
+    "modified": "2026-08-17T11:21:17.996538+00:00",
+    "published": "2026-08-17T11:21:17.996538+00:00",
     "description": "Interactive learning lesson: om, oom, ome, one",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en1403.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

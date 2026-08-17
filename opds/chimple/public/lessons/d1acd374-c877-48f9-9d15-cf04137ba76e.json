@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/d1acd374-c877-48f9-9d15-cf04137ba76e",
     "language": "en",
-    "modified": "2026-08-17T09:04:14.829733+00:00",
-    "published": "2026-08-17T09:04:14.829733+00:00",
+    "modified": "2026-08-17T11:21:18.606710+00:00",
+    "published": "2026-08-17T11:21:18.606710+00:00",
     "description": "Interactive learning lesson: Sentences Starting With Pronouns",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3304.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

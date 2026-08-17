@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/a178e5da-00eb-42b4-83d3-e41117a4e426",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.529439+00:00",
-    "published": "2026-08-17T09:04:13.529439+00:00",
+    "modified": "2026-08-17T11:21:17.651378+00:00",
+    "published": "2026-08-17T11:21:17.651378+00:00",
     "description": "Interactive learning lesson: 3 Letters",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en2100.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

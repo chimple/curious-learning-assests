@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/93cf1310-315f-4962-af01-fef00edce5c0",
     "language": "en",
-    "modified": "2026-08-17T09:04:15.057710+00:00",
-    "published": "2026-08-17T09:04:15.057710+00:00",
+    "modified": "2026-08-17T11:21:18.749486+00:00",
+    "published": "2026-08-17T11:21:18.749486+00:00",
     "description": "Interactive learning lesson: Days of the week 3",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en3409.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {

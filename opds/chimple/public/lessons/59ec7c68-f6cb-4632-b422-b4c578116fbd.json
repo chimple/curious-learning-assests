@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/59ec7c68-f6cb-4632-b422-b4c578116fbd",
     "language": "en",
-    "modified": "2026-08-17T09:04:13.854080+00:00",
-    "published": "2026-08-17T09:04:13.854080+00:00",
+    "modified": "2026-08-17T11:21:18.033589+00:00",
+    "published": "2026-08-17T11:21:18.033589+00:00",
     "description": "Interactive learning lesson: x",
     "subject": [
       "Education",
@@ -62,6 +62,18 @@
       "properties": {
         "width": 128,
         "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en0304.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
       }
     },
     {
