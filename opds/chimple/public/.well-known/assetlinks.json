@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.chimple.bahama",
+      "sha256_cert_fingerprints": [
+        "44:7E:4D:41:0B:E3:21:7A:29:DA:F9:23:CA:D1:02:B9:9E:43:F6:97:E3:5E:80:25:7C:1A:CD:C9:35:07:5B:83",
+        "3F:DB:EF:7D:DF:F5:E1:A7:02:28:A0:A1:70:57:4F:33:17:D6:53:E5:5C:B4:BF:AA:16:36:FE:B1:6E:13:97:B8",
+        "A1:F8:C9:DC:47:EA:57:B4:0D:B3:75:B7:E1:69:AF:1A:D2:C5:DB:B4:1D:C9:C1:B3:96:2F:5D:14:49:74:33:0E",
+        "06:8C:37:95:D4:E4:D6:CE:F5:9C:CB:E8:DD:5F:5E:E9:C8:04:BC:96:E5:07:36:6C:D0:FE:25:81:BD:40:E4:08",
+        "CA:A1:D5:07:DB:E7:82:29:0C:86:24:59:8D:70:4E:E6:AC:B7:1E:99:8E:BE:08:F7:C7:BC:F5:A0:F6:A7:71:DF",
+        "42:26:12:40:02:46:CA:90:B9:DC:F5:C8:18:0E:7E:A9:FA:50:74:A6:28:F8:95:F1:6E:5E:A7:0A:5C:DD:64:78",
+        "94:8E:B5:81:6F:0C:42:8F:DD:1B:95:23:6E:83:E4:04:24:61:8D:66:1C:65:D2:FA:3C:26:AF:56:53:85:D7:E1"
+      ]
+    }
+  }
+]

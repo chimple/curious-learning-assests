@@ -2,9 +2,9 @@
   "hosting": {
     "site": "chimple-respect",
     "public": "public",
+    "appAssociation": "NONE",
     "ignore": [
       "firebase.json",
-      "**/.*",
       "**/node_modules/**"
     ],
     "headers": [
