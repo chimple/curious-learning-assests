@@ -193,7 +193,7 @@ launchable_app_manifest = {
         },
         {
             "rel": "https://id.openeel.org/rel/app-launch-uri",
-            "href": "https://chimple.cc/",
+            "href": f"{BASE_URL}respect/launch",
         },
         {
             "rel": "https://id.openeel.org/rel/appstore-android",
