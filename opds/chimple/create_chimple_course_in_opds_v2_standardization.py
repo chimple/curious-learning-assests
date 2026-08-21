@@ -13,8 +13,9 @@ BASE_URL = 'https://chimple-respect.web.app/'  # Base URL for your OPDS catalog
 TYPE_OPDS = 'application/opds+json'
 PUB_TYPE = 'application/opds-publication+json'
 DEFAULT_COLLECTION_FILENAME = 'opds.json'
-# RESPECT must launch the installed Android app without relying on website App Link verification.
-CHIMPLE_LESSON_LAUNCH_BASE = 'chimple://respect/launch'
+# RESPECT downloads TinCan launch URLs, so this must be HTTP(S). Cuba claims this
+# verified App Link directly; otherwise the hosted page provides installation guidance.
+CHIMPLE_LESSON_LAUNCH_BASE = f'{BASE_URL}respect/launch'
 # RESPECT downloads only publication resources. Use the same Lido bundle host that
 # Cuba uses so an offline lesson always has a concrete, versioned ZIP to download.
 LIDO_BUNDLE_BASE_URL = 'https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/'
