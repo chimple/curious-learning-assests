@@ -8,12 +8,19 @@ import sys
 from pathlib import Path
 import time
 import mimetypes
+import xml.etree.ElementTree as ET
 from urllib.parse import urljoin
 import urllib.request
 from typing import Dict, List, Any, Optional, Tuple
 from urllib.parse import urlparse, parse_qs
 from urllib.parse import quote as urlquote
 from datetime import datetime, timezone
+
+
+# Temporarily use the dev game host so RESPECT device testing exercises the deployed xAPI sender.
+FTM_RESPECT_WEB_URL = "https://curious-reader-respect-ftm-dev.web.app"
+FTM_RESPECT_METADATA_URL = "https://curious-reader-respect.web.app"
+FTM_LAUNCHABLE_APP_URL = f"{FTM_RESPECT_METADATA_URL}/ftm-launchable-app.json"
 
 
 def read_json(path: Path) -> Any:
@@ -620,9 +627,93 @@ def list_common_assets(base_out_url: str, base_dir: Path) -> List[str]:
                 continue
             # Get path relative to public directory
             rel_path = file.relative_to(public_dir)
-            urls.append(f"{base_out_url}/{rel_path}")
+            # Readium requires URI separators; Windows Path stringification emits invalid backslashes.
+            urls.append(f"{base_out_url}/{rel_path.as_posix()}")
     
     return urls
+
+
+def get_ftm_activity_id(lang_code: str, lesson_id: int) -> str:
+    return f"{FTM_RESPECT_METADATA_URL}/activities/ftm_{lang_code}_{lesson_id}"
+
+
+def get_ftm_launch_url(ftm_slug: str, lesson_id: int, activity_id: str) -> str:
+    return (
+        f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(ftm_slug)}&lesson_id={lesson_id}"
+        f"&activity_id={urlquote(activity_id, safe='')}"
+    )
+
+
+def create_ftm_tincan_xml(
+    public_dir: Path,
+    ftm_slug: str,
+    lang_code: str,
+    lesson_id: int,
+) -> None:
+    activity_id = get_ftm_activity_id(lang_code, lesson_id)
+    namespace = "http://projecttincan.com/tincan.xsd"
+    ET.register_namespace("", namespace)
+    root = ET.Element(f"{{{namespace}}}tincan")
+    activities = ET.SubElement(root, "activities")
+    activity = ET.SubElement(
+        activities,
+        "activity",
+        {"id": activity_id, "type": "http://activitystrea.ms/schema/1.0/game"},
+    )
+    ET.SubElement(activity, "name").text = f"Feed The Monster {lang_code} {lesson_id}"
+    description = ET.SubElement(activity, "description", {"lang": "en-US"})
+    description.text = f"Feed The Monster learning activity: {lang_code} {lesson_id}"
+    launch = ET.SubElement(activity, "launch", {"lang": "en-us"})
+    launch.text = get_ftm_launch_url(ftm_slug, lesson_id, activity_id)
+
+    lesson_dir = public_dir / "lessons" / "cr_lang" / f"ftm_{lang_code}_{lesson_id}"
+    lesson_dir.mkdir(parents=True, exist_ok=True)
+    ET.ElementTree(root).write(
+        lesson_dir / "tincan.xml",
+        encoding="utf-8",
+        xml_declaration=True,
+    )
+
+
+def build_ftm_launchable_app_manifest() -> Dict[str, Any]:
+    return {
+        "metadata": {
+            "@type": "https://id.openeel.org/schema/launchable-app",
+            "title": "Feed The Monster",
+            "description": "Interactive Feed The Monster learning units.",
+            "author": {"name": "Curious Learning"},
+            "identifier": f"{FTM_RESPECT_METADATA_URL}/apps/feed-the-monster",
+            "language": "en",
+            "modified": now_iso8601(),
+        },
+        "links": [
+            {
+                "rel": "self",
+                "href": FTM_LAUNCHABLE_APP_URL,
+                "type": "application/opds-publication+json",
+            },
+            {
+                "rel": "collection",
+                "href": f"{FTM_RESPECT_METADATA_URL}/opds.json",
+                "type": "application/opds+json",
+            },
+            {
+                "rel": "https://id.openeel.org/rel/app-launch-uri",
+                "href": f"{FTM_RESPECT_WEB_URL}/",
+            },
+            # FTM is launched as a web app so RESPECT passes its xAPI parameters to app-launch-uri.
+            {
+                "rel": "license",
+                "href": "https://opensource.org/license/mit",
+            },
+        ],
+        "images": [
+            {
+                "href": f"{FTM_RESPECT_METADATA_URL}/appIcons/ftm_english.png",
+                "type": "image/png",
+            }
+        ],
+    }
 
 
 def build_ftm_lesson_manifest(
@@ -644,6 +735,7 @@ def build_ftm_lesson_manifest(
     icon_abs_url = f"{assets_base}/{icon_rel_path}"
     open_access_by_slug = f"https://curiousreader-respect-ftm.web.app/?lang={ftm_slug}&lesson_id={lesson_id}"
     open_access_by_code = f"https://curiousreader-respect-ftm.web.app/?lang={lang_code}&lesson_id={lesson_id}"
+    activity_id = get_ftm_activity_id(lang_code, lesson_id)
 
     resources: List[Dict[str, Any]] = [
         {
@@ -671,7 +763,7 @@ def build_ftm_lesson_manifest(
             "@type": "https://schema.org/Book",
             "title": str(lesson_id),
             "author": "Curious Reader",
-            "identifier": open_access_by_slug,
+            "identifier": activity_id,
             "language": lang_code,
             "modified": modified,
             "published": modified,
@@ -685,6 +777,19 @@ def build_ftm_lesson_manifest(
                 # Self link may be served from a different base (e.g., curious-reader.web.app)
                 "href": f"{(self_base_url or base_out_url).rstrip('/')}/lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json",
                 "type": "application/webpub+json",
+            },
+            {
+                "rel": "https://id.openeel.org/rel/tincanxml",
+                "href": (
+                    f"{FTM_RESPECT_METADATA_URL}/lessons/cr_lang/"
+                    f"ftm_{lang_code}_{lesson_id}/tincan.xml"
+                ),
+                "type": "application/xml",
+            },
+            {
+                "rel": "https://id.openeel.org/rel/launchable-app",
+                "href": FTM_LAUNCHABLE_APP_URL,
+                "type": "application/opds-publication+json",
             },
             {
                 "rel": "http://opds-spec.org/acquisition/open-access",
@@ -921,13 +1026,14 @@ def generate(
     web_apps: List[Dict[str, Any]] = languages_data.get("web_apps", [])
 
     # 1) OPDS top-level feed
-    build_opds_feed("https://curious-reader.web.app/", web_apps, public_dir / "opds.json")
+    build_opds_feed(FTM_RESPECT_METADATA_URL, web_apps, public_dir / "opds.json")
 
     # 2) FTM lessons + grades per language (skip if --skip-ftm is set)
     if skip_ftm:
         if verbose:
             print("\n[FTM] Skipping FTM lesson generation as requested")
     else:
+        write_json(public_dir / "ftm-launchable-app.json", build_ftm_launchable_app_manifest())
         ftm_apps_by_code: Dict[str, Dict[str, Any]] = {}
         for app in web_apps:
             if classify_web_app(app) != "ftm":
@@ -978,11 +1084,12 @@ def generate(
                 right_to_left=right_to_left,
                 audio_urls=audio_urls,
                 additional_resource_urls=per_language_saved_urls,
-                assets_base_url="https://curious-reader.web.app",
-                self_base_url="https://curious-reader.web.app",
+                assets_base_url=FTM_RESPECT_METADATA_URL,
+                self_base_url=FTM_RESPECT_METADATA_URL,
             )
             lesson_out_path = public_dir / f"lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json"
             write_json(lesson_out_path, lesson_manifest)
+            create_ftm_tincan_xml(public_dir, slug, lang_code, lesson_id)
             if verbose:
                 print(f"  Wrote {lesson_out_path}")
 
@@ -1254,8 +1361,8 @@ def main() -> None:
     )
     parser.add_argument(
         "--base-out-url",
-        default="https://curiousreader-respect-ftm.web.app",
-        help="Public base URL used in generated hrefs (default: https://curiousreader-respect-ftm.web.app)",
+        default=FTM_RESPECT_METADATA_URL,
+        help=f"Public base URL used in generated hrefs (default: {FTM_RESPECT_METADATA_URL})",
     )
     parser.add_argument(
         "--ftm-lessons",
