@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "@type": "https://id.openeel.org/schema/launchable-app",
+    "title": "Feed The Monster",
+    "description": "Interactive Feed The Monster learning units.",
+    "author": {
+      "name": "Curious Learning"
+    },
+    "identifier": "https://curious-reader-respect.web.app/apps/feed-the-monster",
+    "language": "en",
+    "modified": "2026-08-27T05:48:01.292795+00:00"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "collection",
+      "href": "https://curious-reader-respect.web.app/opds.json",
+      "type": "application/opds+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/app-launch-uri",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/"
+    },
+    {
+      "rel": "license",
+      "href": "https://opensource.org/license/mit"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://curious-reader-respect.web.app/appIcons/ftm_english.png",
+      "type": "image/png"
+    }
+  ]
+}
