@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "56",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_af_56",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=afrikaans&lesson_id=56",
     "language": "af",
-    "modified": "2026-08-27T05:48:15.092290+00:00",
-    "published": "2026-08-27T05:48:15.092290+00:00",
+    "modified": "2026-09-02T09:54:13.684679+00:00",
+    "published": "2026-09-02T09:54:13.684679+00:00",
     "description": "Interactive learning lesson: 56",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=afrikaans&lesson_id=56",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=afrikaans&lesson_id=56",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=af&lesson_id=56",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=af&lesson_id=56",
       "title": "56"
     }
   ],

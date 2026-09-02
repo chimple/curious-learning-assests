@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "28",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_rn_28",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=kirundi&lesson_id=28",
     "language": "rn",
-    "modified": "2026-08-27T05:49:34.778373+00:00",
-    "published": "2026-08-27T05:49:34.778373+00:00",
+    "modified": "2026-09-02T09:55:26.982913+00:00",
+    "published": "2026-09-02T09:55:26.982913+00:00",
     "description": "Interactive learning lesson: 28",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=kirundi&lesson_id=28",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=kirundi&lesson_id=28",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=rn&lesson_id=28",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=rn&lesson_id=28",
       "title": "28"
     }
   ],

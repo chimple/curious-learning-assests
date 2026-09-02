@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "95",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_en_95",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=english&lesson_id=95",
     "language": "en",
-    "modified": "2026-08-27T05:48:04.438656+00:00",
-    "published": "2026-08-27T05:48:04.438656+00:00",
+    "modified": "2026-09-02T09:54:06.285600+00:00",
+    "published": "2026-09-02T09:54:06.285600+00:00",
     "description": "Interactive learning lesson: 95",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=english&lesson_id=95",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=english&lesson_id=95",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=en&lesson_id=95",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=en&lesson_id=95",
       "title": "95"
     }
   ],

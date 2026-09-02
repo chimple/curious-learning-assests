@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "49",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ht_49",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=haitiancreole&lesson_id=49",
     "language": "ht",
-    "modified": "2026-08-27T05:48:23.966078+00:00",
-    "published": "2026-08-27T05:48:23.966078+00:00",
+    "modified": "2026-09-02T09:54:19.014755+00:00",
+    "published": "2026-09-02T09:54:19.014755+00:00",
     "description": "Interactive learning lesson: 49",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=haitiancreole&lesson_id=49",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=haitiancreole&lesson_id=49",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ht&lesson_id=49",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ht&lesson_id=49",
       "title": "49"
     }
   ],

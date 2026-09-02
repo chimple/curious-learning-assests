@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "7",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ku_7",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=kurdish&lesson_id=7",
     "language": "ku",
-    "modified": "2026-08-27T05:49:19.803764+00:00",
-    "published": "2026-08-27T05:49:19.803764+00:00",
+    "modified": "2026-09-02T09:55:04.626188+00:00",
+    "published": "2026-09-02T09:55:04.626188+00:00",
     "description": "Interactive learning lesson: 7",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=kurdish&lesson_id=7",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=kurdish&lesson_id=7",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ku&lesson_id=7",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ku&lesson_id=7",
       "title": "7"
     }
   ],

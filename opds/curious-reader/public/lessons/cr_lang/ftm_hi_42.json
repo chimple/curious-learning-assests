@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "42",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_hi_42",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=hindi&lesson_id=42",
     "language": "hi",
-    "modified": "2026-08-27T05:48:06.657529+00:00",
-    "published": "2026-08-27T05:48:06.657529+00:00",
+    "modified": "2026-09-02T09:54:07.901687+00:00",
+    "published": "2026-09-02T09:54:07.901687+00:00",
     "description": "Interactive learning lesson: 42",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=hindi&lesson_id=42",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=hindi&lesson_id=42",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=hi&lesson_id=42",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=hi&lesson_id=42",
       "title": "42"
     }
   ],

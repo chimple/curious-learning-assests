@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "57",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_vi_57",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=vietnamese&lesson_id=57",
     "language": "vi",
-    "modified": "2026-08-27T05:49:33.870413+00:00",
-    "published": "2026-08-27T05:49:33.870413+00:00",
+    "modified": "2026-09-02T09:55:24.998488+00:00",
+    "published": "2026-09-02T09:55:24.998488+00:00",
     "description": "Interactive learning lesson: 57",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=vietnamese&lesson_id=57",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=vietnamese&lesson_id=57",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=vi&lesson_id=57",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=vi&lesson_id=57",
       "title": "57"
     }
   ],

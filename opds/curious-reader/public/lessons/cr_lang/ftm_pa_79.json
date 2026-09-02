@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "79",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_pa_79",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=punjabi&lesson_id=79",
     "language": "pa",
-    "modified": "2026-08-27T05:49:51.930278+00:00",
-    "published": "2026-08-27T05:49:51.930278+00:00",
+    "modified": "2026-09-02T09:55:50.791151+00:00",
+    "published": "2026-09-02T09:55:50.791151+00:00",
     "description": "Interactive learning lesson: 79",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=punjabi&lesson_id=79",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=punjabi&lesson_id=79",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=pa&lesson_id=79",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=pa&lesson_id=79",
       "title": "79"
     }
   ],

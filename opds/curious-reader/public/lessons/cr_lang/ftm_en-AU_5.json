@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "5",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_en-AU_5",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=australianenglish&lesson_id=5",
     "language": "en-AU",
-    "modified": "2026-08-27T05:49:27.033148+00:00",
-    "published": "2026-08-27T05:49:27.033148+00:00",
+    "modified": "2026-09-02T09:55:13.554936+00:00",
+    "published": "2026-09-02T09:55:13.554936+00:00",
     "description": "Interactive learning lesson: 5",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=australianenglish&lesson_id=5",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=australianenglish&lesson_id=5",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=en-AU&lesson_id=5",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=en-AU&lesson_id=5",
       "title": "5"
     }
   ],

@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "63",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_nso_63",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=sepedi&lesson_id=63",
     "language": "nso",
-    "modified": "2026-08-27T05:48:54.778982+00:00",
-    "published": "2026-08-27T05:48:54.778982+00:00",
+    "modified": "2026-09-02T09:54:40.231631+00:00",
+    "published": "2026-09-02T09:54:40.231631+00:00",
     "description": "Interactive learning lesson: 63",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=sepedi&lesson_id=63",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=sepedi&lesson_id=63",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=nso&lesson_id=63",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=nso&lesson_id=63",
       "title": "63"
     }
   ],

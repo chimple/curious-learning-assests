@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "31",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ha_31",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=hausa&lesson_id=31",
     "language": "ha",
-    "modified": "2026-08-27T05:48:58.980369+00:00",
-    "published": "2026-08-27T05:48:58.980369+00:00",
+    "modified": "2026-09-02T09:54:42.156485+00:00",
+    "published": "2026-09-02T09:54:42.156485+00:00",
     "description": "Interactive learning lesson: 31",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=hausa&lesson_id=31",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=hausa&lesson_id=31",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ha&lesson_id=31",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ha&lesson_id=31",
       "title": "31"
     }
   ],

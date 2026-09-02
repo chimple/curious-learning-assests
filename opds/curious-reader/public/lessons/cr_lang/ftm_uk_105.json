@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "105",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_uk_105",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=ukrainian&lesson_id=105",
     "language": "uk",
-    "modified": "2026-08-27T05:48:31.734840+00:00",
-    "published": "2026-08-27T05:48:31.734840+00:00",
+    "modified": "2026-09-02T09:54:25.758866+00:00",
+    "published": "2026-09-02T09:54:25.758866+00:00",
     "description": "Interactive learning lesson: 105",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ukrainian&lesson_id=105",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ukrainian&lesson_id=105",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=uk&lesson_id=105",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=uk&lesson_id=105",
       "title": "105"
     }
   ],

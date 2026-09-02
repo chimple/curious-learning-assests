@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "23",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_pt-BR_23",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=brazilianportuguese&lesson_id=23",
     "language": "pt-BR",
-    "modified": "2026-08-27T05:48:07.984094+00:00",
-    "published": "2026-08-27T05:48:07.984094+00:00",
+    "modified": "2026-09-02T09:54:08.897121+00:00",
+    "published": "2026-09-02T09:54:08.897121+00:00",
     "description": "Interactive learning lesson: 23",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=brazilianportuguese&lesson_id=23",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=brazilianportuguese&lesson_id=23",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=pt-BR&lesson_id=23",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=pt-BR&lesson_id=23",
       "title": "23"
     }
   ],
