@@ -633,8 +633,9 @@ def list_common_assets(base_out_url: str, base_dir: Path) -> List[str]:
     return urls
 
 
-def get_ftm_activity_id(lang_code: str, lesson_id: int) -> str:
-    return f"{FTM_RESPECT_METADATA_URL}/activities/ftm_{lang_code}_{lesson_id}"
+def get_ftm_activity_id(ftm_slug: str, lesson_id: int) -> str:
+    # RESPECT assignment progress matches the launched Tin Can activity ID to its task ID.
+    return f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(ftm_slug)}&lesson_id={lesson_id}"
 
 
 def get_ftm_launch_url(ftm_slug: str, lesson_id: int, activity_id: str) -> str:
@@ -650,7 +651,7 @@ def create_ftm_tincan_xml(
     lang_code: str,
     lesson_id: int,
 ) -> None:
-    activity_id = get_ftm_activity_id(lang_code, lesson_id)
+    activity_id = get_ftm_activity_id(ftm_slug, lesson_id)
     namespace = "http://projecttincan.com/tincan.xsd"
     ET.register_namespace("", namespace)
     root = ET.Element(f"{{{namespace}}}tincan")
@@ -733,9 +734,9 @@ def build_ftm_lesson_manifest(
     # Allow overriding asset domain (e.g., curious-reader.web.app) for icon and self link
     assets_base = (assets_base_url or base_out_url).rstrip("/")
     icon_abs_url = f"{assets_base}/{icon_rel_path}"
-    open_access_by_slug = f"https://curiousreader-respect-ftm.web.app/?lang={ftm_slug}&lesson_id={lesson_id}"
-    open_access_by_code = f"https://curiousreader-respect-ftm.web.app/?lang={lang_code}&lesson_id={lesson_id}"
-    activity_id = get_ftm_activity_id(lang_code, lesson_id)
+    open_access_by_slug = f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(ftm_slug)}&lesson_id={lesson_id}"
+    open_access_by_code = f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(lang_code)}&lesson_id={lesson_id}"
+    activity_id = get_ftm_activity_id(ftm_slug, lesson_id)
 
     resources: List[Dict[str, Any]] = [
         {
@@ -1062,7 +1063,7 @@ def generate(
         if crawl_resources_enabled:
             save_path = public_dir / "external_resources"
             open_access_for_resources = (
-                f"https://curiousreader-respect-ftm.web.app/?lang={slug}&lesson_id=1"
+                f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(slug)}&lesson_id=1"
             )
             _, per_language_saved_urls = crawl_resources_for_url(
                 open_access_url=open_access_for_resources,
@@ -1101,7 +1102,7 @@ def generate(
                     "metadata": {
                         "title": str(lesson_id),
                         "author": "Curious Reader",
-                        "identifier": f"https://curiousreader-respect-ftm.web.app/?lang={slug}&lesson_id={lesson_id}",
+                        "identifier": get_ftm_activity_id(slug, lesson_id),
                         "language": lang_code,
                         "modified": now_iso8601(),
                     },
@@ -1113,7 +1114,7 @@ def generate(
                         },
                         {
                             "rel": "http://opds-spec.org/acquisition/open-access",
-                            "href": f"https://curiousreader-respect-ftm.web.app/?lang={slug}&lesson_id={lesson_id}",
+                            "href": get_ftm_activity_id(slug, lesson_id),
                             "type": "text/html",
                         },
                     ],

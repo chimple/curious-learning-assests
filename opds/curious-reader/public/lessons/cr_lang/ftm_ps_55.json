@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "55",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ps_55",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=pashto&lesson_id=55",
     "language": "ps",
-    "modified": "2026-08-27T05:49:19.293801+00:00",
-    "published": "2026-08-27T05:49:19.293801+00:00",
+    "modified": "2026-09-02T09:55:03.961820+00:00",
+    "published": "2026-09-02T09:55:03.961820+00:00",
     "description": "Interactive learning lesson: 55",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=pashto&lesson_id=55",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=pashto&lesson_id=55",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ps&lesson_id=55",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ps&lesson_id=55",
       "title": "55"
     }
   ],

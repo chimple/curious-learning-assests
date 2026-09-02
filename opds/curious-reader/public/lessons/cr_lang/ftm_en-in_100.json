@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "100",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_en-in_100",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=indianenglish&lesson_id=100",
     "language": "en-in",
-    "modified": "2026-08-27T05:49:25.888603+00:00",
-    "published": "2026-08-27T05:49:25.888603+00:00",
+    "modified": "2026-09-02T09:55:12.023411+00:00",
+    "published": "2026-09-02T09:55:12.023411+00:00",
     "description": "Interactive learning lesson: 100",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=indianenglish&lesson_id=100",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=indianenglish&lesson_id=100",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=en-in&lesson_id=100",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=en-in&lesson_id=100",
       "title": "100"
     }
   ],

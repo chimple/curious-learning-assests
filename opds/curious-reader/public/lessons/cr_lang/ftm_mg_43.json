@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "43",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_mg_43",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=malgache&lesson_id=43",
     "language": "mg",
-    "modified": "2026-08-27T05:48:12.989884+00:00",
-    "published": "2026-08-27T05:48:12.989884+00:00",
+    "modified": "2026-09-02T09:54:12.359839+00:00",
+    "published": "2026-09-02T09:54:12.359839+00:00",
     "description": "Interactive learning lesson: 43",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=malgache&lesson_id=43",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=malgache&lesson_id=43",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=mg&lesson_id=43",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=mg&lesson_id=43",
       "title": "43"
     }
   ],

@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "98",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_kea_98",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=caboverdecreole&lesson_id=98",
     "language": "kea",
-    "modified": "2026-08-27T05:49:46.642580+00:00",
-    "published": "2026-08-27T05:49:46.642580+00:00",
+    "modified": "2026-09-02T09:55:42.437110+00:00",
+    "published": "2026-09-02T09:55:42.437110+00:00",
     "description": "Interactive learning lesson: 98",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=caboverdecreole&lesson_id=98",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=caboverdecreole&lesson_id=98",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=kea&lesson_id=98",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=kea&lesson_id=98",
       "title": "98"
     }
   ],

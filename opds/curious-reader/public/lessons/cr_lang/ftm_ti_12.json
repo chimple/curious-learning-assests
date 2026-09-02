@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "12",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ti_12",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=tigragna&lesson_id=12",
     "language": "ti",
-    "modified": "2026-08-27T05:49:40.305059+00:00",
-    "published": "2026-08-27T05:49:40.305059+00:00",
+    "modified": "2026-09-02T09:55:35.294387+00:00",
+    "published": "2026-09-02T09:55:35.294387+00:00",
     "description": "Interactive learning lesson: 12",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=tigragna&lesson_id=12",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=tigragna&lesson_id=12",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ti&lesson_id=12",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ti&lesson_id=12",
       "title": "12"
     }
   ],

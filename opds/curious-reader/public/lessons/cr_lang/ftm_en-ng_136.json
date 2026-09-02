@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "136",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_en-ng_136",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=englishwestafrican&lesson_id=136",
     "language": "en-ng",
-    "modified": "2026-08-27T05:48:46.269133+00:00",
-    "published": "2026-08-27T05:48:46.269133+00:00",
+    "modified": "2026-09-02T09:54:34.853822+00:00",
+    "published": "2026-09-02T09:54:34.853822+00:00",
     "description": "Interactive learning lesson: 136",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=englishwestafrican&lesson_id=136",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=englishwestafrican&lesson_id=136",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=en-ng&lesson_id=136",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=en-ng&lesson_id=136",
       "title": "136"
     }
   ],

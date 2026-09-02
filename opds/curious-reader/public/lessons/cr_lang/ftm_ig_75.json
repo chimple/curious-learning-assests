@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "75",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_ig_75",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=igbo&lesson_id=75",
     "language": "ig",
-    "modified": "2026-08-27T05:49:16.852739+00:00",
-    "published": "2026-08-27T05:49:16.852739+00:00",
+    "modified": "2026-09-02T09:55:00.966621+00:00",
+    "published": "2026-09-02T09:55:00.966621+00:00",
     "description": "Interactive learning lesson: 75",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=igbo&lesson_id=75",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=igbo&lesson_id=75",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=ig&lesson_id=75",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=ig&lesson_id=75",
       "title": "75"
     }
   ],

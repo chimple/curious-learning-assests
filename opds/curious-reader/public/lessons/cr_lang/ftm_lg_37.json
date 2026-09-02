@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "37",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_lg_37",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=lugandan&lesson_id=37",
     "language": "lg",
-    "modified": "2026-08-27T05:49:17.617801+00:00",
-    "published": "2026-08-27T05:49:17.617801+00:00",
+    "modified": "2026-09-02T09:55:01.784251+00:00",
+    "published": "2026-09-02T09:55:01.784251+00:00",
     "description": "Interactive learning lesson: 37",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=lugandan&lesson_id=37",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=lugandan&lesson_id=37",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=lg&lesson_id=37",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=lg&lesson_id=37",
       "title": "37"
     }
   ],

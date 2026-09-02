@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "48",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_wo_48",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=wolof&lesson_id=48",
     "language": "wo",
-    "modified": "2026-08-27T05:48:18.755437+00:00",
-    "published": "2026-08-27T05:48:18.755437+00:00",
+    "modified": "2026-09-02T09:54:15.298011+00:00",
+    "published": "2026-09-02T09:54:15.298011+00:00",
     "description": "Interactive learning lesson: 48",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=wolof&lesson_id=48",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=wolof&lesson_id=48",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=wo&lesson_id=48",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=wo&lesson_id=48",
       "title": "48"
     }
   ],

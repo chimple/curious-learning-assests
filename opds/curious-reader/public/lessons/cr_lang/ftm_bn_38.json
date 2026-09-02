@@ -7,10 +7,10 @@
     "@type": "https://schema.org/Book",
     "title": "38",
     "author": "Curious Reader",
-    "identifier": "https://curious-reader-respect.web.app/activities/ftm_bn_38",
+    "identifier": "https://curious-reader-respect-ftm-dev.web.app/?lang=bangla&lesson_id=38",
     "language": "bn",
-    "modified": "2026-08-27T05:49:42.351696+00:00",
-    "published": "2026-08-27T05:49:42.351696+00:00",
+    "modified": "2026-09-02T09:55:37.622992+00:00",
+    "published": "2026-09-02T09:55:37.622992+00:00",
     "description": "Interactive learning lesson: 38",
     "subject": [
       "Education",
@@ -36,7 +36,7 @@
     },
     {
       "rel": "http://opds-spec.org/acquisition/open-access",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=bangla&lesson_id=38",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=bangla&lesson_id=38",
       "type": "text/html"
     }
   ],
@@ -51,7 +51,7 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://curiousreader-respect-ftm.web.app/?lang=bn&lesson_id=38",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=bn&lesson_id=38",
       "title": "38"
     }
   ],
