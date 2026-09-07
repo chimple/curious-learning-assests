@@ -6,15 +6,20 @@
     "author": {
       "name": "Chimple Learning"
     },
-    "identifier": "https://chimple-respect.web.app/app",
+    "identifier": "https://chimple-respect.web.app/app/en-US",
     "language": "en",
-    "modified": "2026-08-21T09:42:30.887968+00:00"
+    "modified": "2026-09-07T09:00:02.252541+00:00"
   },
   "links": [
     {
       "rel": "self",
       "href": "https://chimple-respect.web.app/launchable-app.json",
       "type": "application/opds-publication+json"
+    },
+    {
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "rel": "alternate",
+      "language": "hi-IN"
     },
     {
       "rel": "collection",

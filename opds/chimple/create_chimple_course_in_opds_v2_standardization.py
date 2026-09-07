@@ -13,6 +13,11 @@ BASE_URL = 'https://chimple-respect.web.app/'  # Base URL for your OPDS catalog
 TYPE_OPDS = 'application/opds+json'
 PUB_TYPE = 'application/opds-publication+json'
 DEFAULT_COLLECTION_FILENAME = 'opds.json'
+HINDI_COLLECTION_FILENAME = 'opds-hi-IN.json'
+ENGLISH_LANGUAGE = 'en'
+HINDI_LANGUAGE = 'hi'
+ENGLISH_LOCALE = 'en-US'
+HINDI_LOCALE = 'hi-IN'
 # RESPECT downloads TinCan launch URLs, so this must be HTTP(S). Cuba claims this
 # verified App Link directly; otherwise the hosted page provides installation guidance.
 CHIMPLE_LESSON_LAUNCH_BASE = f'{BASE_URL}respect/launch'
@@ -26,6 +31,16 @@ GRADE_KEYS = {
     'Maths Grade 1': 'maths_g1',
     'Maths Grade 2': 'maths_g2',
     'Digital Skills': 'puzzle',
+    'Hindi Maths Grade 1': 'hi_maths_g1',
+    'Hindi Maths Grade 2': 'hi_maths_g2',
+}
+HINDI_SHEETS = {'Hindi Maths Grade 1', 'Hindi Maths Grade 2'}
+HINDI_COLLECTION_SHEETS = {
+    'English Grade 1',
+    'English Grade 2',
+    'Hindi Maths Grade 1',
+    'Hindi Maths Grade 2',
+    'Digital Skills',
 }
 GRADE_ICON_URLS = {
     'english': 'https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp',
@@ -45,6 +60,16 @@ def get_lesson_launch_url(activity_id, chimple_lesson_id=''):
     if chimple_lesson_id:
         launch_parameters['chimple_lesson_id'] = chimple_lesson_id
     return f'{CHIMPLE_LESSON_LAUNCH_BASE}?{urlencode(launch_parameters)}'
+
+
+def get_lesson_relative_path(lesson_id, language):
+    locale = HINDI_LOCALE if language == HINDI_LANGUAGE else ENGLISH_LOCALE
+    return f'lessons/{locale}/{lesson_id}.json'
+
+
+def get_lesson_output_dir(language):
+    locale = HINDI_LOCALE if language == HINDI_LANGUAGE else ENGLISH_LOCALE
+    return os.path.join(LESSON_DIR, locale)
 
 def clean_lesson_value(value):
     value = str(value or '').strip()
@@ -101,7 +126,8 @@ print(f"Loading workbook: {EXCEL_FILE}")
 wb = load_workbook(EXCEL_FILE, read_only=True, data_only=True)
 
 # --- Gather navigation and learning units ---
-navigation = []
+english_navigation = []
+hindi_navigation = []
 learning_units = []
 for sheet_name in wb.sheetnames:
     if sheet_name in SKIP_SHEETS:
@@ -131,7 +157,10 @@ for sheet_name in wb.sheetnames:
             }
         ]
     }
-    navigation.append(nav_obj)
+    if sheet_name not in HINDI_SHEETS:
+        english_navigation.append(nav_obj)
+    if sheet_name in HINDI_COLLECTION_SHEETS:
+        hindi_navigation.append(nav_obj)
     learning_units.append({
         "id": filename.replace('.json', ''),
         "title": sheet_name,
@@ -140,14 +169,28 @@ for sheet_name in wb.sheetnames:
     })
 
 # --- Generate opds.json (OPDS catalog) ---
-opds_catalog = {
-    "metadata": {"title": "Chimple Learning"},
-    "links": [{"rel": "self", "href": urljoin(BASE_URL, 'opds.json'), "type": TYPE_OPDS}],
-    "navigation": navigation
-}
-with open(os.path.join(OUTPUT_DIR, 'opds.json'), 'w', encoding='utf-8') as f:
-    json.dump(opds_catalog, f, indent=2)
-print(f"Generated opds.json with {len(navigation)} grades.")
+def write_collection(filename, title, navigation):
+    opds_catalog = {
+        "metadata": {"title": title},
+        "links": [{
+            "rel": "self",
+            "href": urljoin(BASE_URL, filename),
+            "type": TYPE_OPDS,
+        }],
+        "navigation": navigation,
+    }
+    with open(os.path.join(OUTPUT_DIR, filename), 'w', encoding='utf-8') as f:
+        json.dump(opds_catalog, f, indent=2)
+
+
+write_collection('opds.json', 'Chimple Learning', english_navigation)
+print(f"Generated opds.json with {len(english_navigation)} grades.")
+if hindi_navigation:
+    write_collection(HINDI_COLLECTION_FILENAME, 'Chimple Hindi Learning', hindi_navigation)
+    print(
+        f"Generated {HINDI_COLLECTION_FILENAME} with "
+        f"{len(hindi_navigation)} grades."
+    )
 
 # --- Generate index.json (RESPECT App Manifest) ---
 respect_manifest = {
@@ -157,7 +200,7 @@ respect_manifest = {
     "website": BASE_URL,
     "icon": BASE_URL + "icon.webp",
     "learningUnits": BASE_URL + DEFAULT_COLLECTION_FILENAME,
-    "defaultLaunchUri": navigation[0]['href'] if navigation else BASE_URL,
+    "defaultLaunchUri": english_navigation[0]['href'] if english_navigation else BASE_URL,
     "android": {
         "packageId": "org.chimple.cuba",
         "stores": ["https://play.google.com/store/apps/details?id=org.chimple.cuba"]
@@ -175,9 +218,11 @@ launchable_app_manifest = {
         "@type": "https://id.openeel.org/schema/launchable-app",
         "title": "Chimple Kids Learning",
         "description": "Interactive learning units from Chimple.",
-        "author": {"name": "Chimple Learning"},
-        "identifier": f"{BASE_URL}app",
-        "language": "en",
+        "author": {
+            "name": "Chimple Learning",
+        },
+        "identifier": f"{BASE_URL}app/en-US",
+        "language": ENGLISH_LANGUAGE,
         "modified": datetime.now(timezone.utc).isoformat(),
     },
     "links": [
@@ -185,6 +230,11 @@ launchable_app_manifest = {
             "rel": "self",
             "href": f"{BASE_URL}launchable-app.json",
             "type": PUB_TYPE,
+        },
+        {
+            "href": f"{BASE_URL}launchable-app-hi-IN.json",
+            "rel": "alternate",
+            "language": HINDI_LOCALE,
         },
         {
             "rel": "collection",
@@ -210,11 +260,65 @@ launchable_app_manifest = {
         }
     ],
 }
-with open(os.path.join(OUTPUT_DIR, 'launchable-app.json'), 'w', encoding='utf-8') as f:
-    json.dump(launchable_app_manifest, f, indent=2)
-print("Generated launchable-app.json.")
+for launchable_app_filename in ('launchable-app.json', 'manifest.json'):
+    with open(os.path.join(OUTPUT_DIR, launchable_app_filename), 'w', encoding='utf-8') as f:
+        json.dump(launchable_app_manifest, f, indent=2)
+print("Generated launchable-app.json and manifest.json.")
 
-def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
+hindi_launchable_app_manifest = {
+    "metadata": {
+        "@type": "https://id.openeel.org/schema/launchable-app",
+        "title": "\u091a\u093f\u092e\u094d\u092a\u0932 \u0915\u093f\u0921\u094d\u0938 \u0932\u0930\u094d\u0928\u093f\u0902\u0917",
+        "description": "\u092c\u091a\u094d\u091a\u094b\u0902\u0020\u0915\u0947\u0020\u0932\u093f\u090f\u0020\u0907\u0902\u091f\u0930\u0948\u0915\u094d\u091f\u093f\u0935\u0020\u0938\u0940\u0916\u0928\u0947\u0020\u0915\u0940\u0020\u0907\u0915\u093e\u0907\u092f\u094b\u0902\u0020\u0915\u093e\u0020\u0938\u0902\u0917\u094d\u0930\u0939\u0964",
+        "author": {
+            "name": "Chimple Learning",
+        },
+        "identifier": f"{BASE_URL}app/hi-IN",
+        "language": HINDI_LANGUAGE,
+        "modified": datetime.now(timezone.utc).isoformat(),
+    },
+    "links": [
+        {
+            "rel": "self",
+            "href": f"{BASE_URL}launchable-app-hi-IN.json",
+            "type": PUB_TYPE,
+        },
+        {
+            "href": f"{BASE_URL}launchable-app.json",
+            "rel": "alternate",
+            "language": ENGLISH_LOCALE,
+        },
+        {
+            "rel": "collection",
+            "href": f"{BASE_URL}{HINDI_COLLECTION_FILENAME}",
+            "type": TYPE_OPDS,
+        },
+        {
+            "rel": "https://id.openeel.org/rel/app-launch-uri",
+            "href": f"{BASE_URL}respect/launch",
+        },
+        {
+            "rel": "https://id.openeel.org/rel/appstore-android",
+            "href": "https://play.google.com/store/apps/details?id=org.chimple.bahama",
+            "title": "Get it on Google Play",
+        },
+        {"rel": "terms-of-service", "href": "https://www.chimple.org/privacy-policy"},
+        {"rel": "license", "href": "https://www.gnu.org/licenses/agpl-3.0.html"},
+    ],
+    "images": [
+        {
+            "href": "https://raw.githubusercontent.com/chimple/cuba/RESPECTify/public/assets/icons/favicon.png",
+            "type": "image/png",
+        }
+    ],
+}
+with open(os.path.join(OUTPUT_DIR, 'launchable-app-hi-IN.json'), 'w', encoding='utf-8') as f:
+    json.dump(hindi_launchable_app_manifest, f, indent=2, ensure_ascii=False)
+print("Generated launchable-app-hi-IN.json.")
+
+def create_lesson_manifest(
+    lesson_data, lesson_id, title, asset_link, language=ENGLISH_LANGUAGE
+):
     """Create a lesson manifest in Readium Web Publication Manifest format"""
     # Fix date format to RFC 3339 (UTC timezone)
     current_time = datetime.now(timezone.utc).isoformat()
@@ -229,6 +333,12 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
     image_filename = get_image_path(image_code)
     browser_launch_url = get_lido_browser_launch_url(cocos_lesson_code, lido_lesson_id)
     lido_bundle_url = get_lido_bundle_url(cocos_lesson_code, lido_lesson_id)
+    lesson_path = get_lesson_relative_path(lesson_id, language)
+    app_manifest = (
+        'launchable-app-hi-IN.json'
+        if language == HINDI_LANGUAGE
+        else 'launchable-app.json'
+    )
     print(f"Using image for lesson {lesson_id}: {image_filename}")
 
     
@@ -243,7 +353,7 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
             "title": title,
             "author": "Chimple",
             "identifier": f"{BASE_URL}activities/{lesson_id}",
-            "language": "en",
+            "language": language,
             "modified": current_time,
             "published": current_time,
             "description": f"Interactive learning lesson: {title}",
@@ -253,17 +363,17 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
         "links": [
             {
                 "rel": "self",
-                "href": f"{BASE_URL}lessons/{lesson_id}.json",
+                "href": f"{BASE_URL}{lesson_path}",
                 "type": PUB_TYPE
             },
             {
                 "rel": "https://id.openeel.org/rel/tincanxml",
-                "href": f"{BASE_URL}lessons/{lesson_id}/tincan.xml",
+                "href": f"{BASE_URL}{lesson_path[:-5]}/tincan.xml",
                 "type": "application/xml"
             },
             {
                 "rel": "https://id.openeel.org/rel/launchable-app",
-                "href": f"{BASE_URL}launchable-app.json",
+                "href": f"{BASE_URL}{app_manifest}",
                 "type": PUB_TYPE
             }
         ],
@@ -316,19 +426,14 @@ def create_lesson_manifest(lesson_data, lesson_id, title, asset_link):
             }
         })
     
-    if browser_launch_url:
-        lesson_manifest['links'].append({
-            "rel": "http://opds-spec.org/acquisition/open-access",
-            "href": browser_launch_url,
-            "type": "text/html"
-        })
-
     return lesson_manifest
 
 
-def create_tincan_xml(lesson_id, title, chimple_lesson_id):
+def create_tincan_xml(
+    lesson_id, title, chimple_lesson_id, language=ENGLISH_LANGUAGE
+):
     """Create the Rustici launch metadata for a lesson's canonical xAPI activity."""
-    lesson_dir = os.path.join(LESSON_DIR, lesson_id)
+    lesson_dir = os.path.join(get_lesson_output_dir(language), lesson_id)
     os.makedirs(lesson_dir, exist_ok=True)
 
     namespace = 'http://projecttincan.com/tincan.xsd'
@@ -344,9 +449,9 @@ def create_tincan_xml(lesson_id, title, chimple_lesson_id):
         },
     )
     ET.SubElement(activity, 'name').text = title
-    description = ET.SubElement(activity, 'description', {'lang': 'en-US'})
+    description = ET.SubElement(activity, 'description', {'lang': language})
     description.text = f'Chimple learning activity: {title}'
-    launch = ET.SubElement(activity, 'launch', {'lang': 'en-us'})
+    launch = ET.SubElement(activity, 'launch', {'lang': language})
     launch.text = get_lesson_launch_url(
         f'{BASE_URL}activities/{lesson_id}',
         chimple_lesson_id,
@@ -365,6 +470,12 @@ for sheet_name in wb.sheetnames:
     
     print(f"\nProcessing sheet: {sheet_name}")
     ws = wb[sheet_name]
+    language = HINDI_LANGUAGE if sheet_name in HINDI_SHEETS else ENGLISH_LANGUAGE
+    app_manifest = (
+        'launchable-app-hi-IN.json'
+        if language == HINDI_LANGUAGE
+        else 'launchable-app.json'
+    )
     # Keep the published grade feed URLs stable for existing RESPECT clients.
     grade_key = GRADE_KEYS.get(sheet_name, sheet_name.replace(' ', '').lower())
     grade_file = f"{grade_key}.json"
@@ -430,13 +541,24 @@ for sheet_name in wb.sheetnames:
 
         lesson_filename = f"{lesson_id}.json"
 
-        lesson_manifest = create_lesson_manifest(data, lesson_id, title, asset)
+        lesson_manifest = create_lesson_manifest(
+            data,
+            lesson_id,
+            title,
+            asset,
+            language=language,
+        )
         # RESPECT launches the installed Cuba Lido player. The canonical xAPI
         # activity remains the UUID URL above; the launch parameter must be
         # the Lido bundle ID, never the Cocos bundle code.
-        create_tincan_xml(lesson_id, title, lido_lesson_id)
+        create_tincan_xml(lesson_id, title, lido_lesson_id, language=language)
 
-        with open(os.path.join(LESSON_DIR, lesson_filename), 'w', encoding='utf-8') as lf:
+        lesson_path = get_lesson_relative_path(lesson_id, language)
+        with open(
+            os.path.join(get_lesson_output_dir(language), lesson_filename),
+            'w',
+            encoding='utf-8',
+        ) as lf:
             json.dump(lesson_manifest, lf, indent=2)
         print(f"Generated lesson manifest: {lesson_filename}")
 
@@ -450,23 +572,23 @@ for sheet_name in wb.sheetnames:
                 'title': lesson_manifest['metadata']['title'],
                 'author': 'Chimple',
                 'identifier': f"{BASE_URL}activities/{lesson_id}",
-                'language': 'en',
+                'language': language,
                 'modified': lesson_manifest['metadata']['modified']
             },
             'links': [
                 {
                     'rel': 'self',
-                    'href': f"{BASE_URL}lessons/{lesson_id}.json",
+                    'href': f"{BASE_URL}{lesson_path}",
                     'type': PUB_TYPE
                 },
                 {
                     'rel': 'https://id.openeel.org/rel/tincanxml',
-                    'href': f"{BASE_URL}lessons/{lesson_id}/tincan.xml",
+                    'href': f"{BASE_URL}{lesson_path[:-5]}/tincan.xml",
                     'type': 'application/xml'
                 },
                 {
                     'rel': 'https://id.openeel.org/rel/launchable-app',
-                    'href': f"{BASE_URL}launchable-app.json",
+                    'href': f"{BASE_URL}{app_manifest}",
                     'type': PUB_TYPE
                 },
             ],
@@ -480,13 +602,6 @@ for sheet_name in wb.sheetnames:
             ]
         }
 
-        if browser_launch_url:
-            publication['links'].append({
-                'rel': 'http://opds-spec.org/acquisition/open-access',
-                'href': browser_launch_url,
-                'type': 'text/html'
-            })
-        
         cocos_chapter_code = str(data.get('cocosChapterCode', '')).strip() or data.get('cocos_chapter_code', '')
         if cocos_chapter_code and cocos_chapter_code.lower() != 'nan':
              publication['metadata']['subject'] = [
