@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "\u0918\u091f\u093e\u0928\u093e - 7",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/ad7e80db-a8a1-4514-8ecf-6981dab2f1d5",
+    "language": "hi",
+    "modified": "2026-09-07T09:00:06.130996+00:00",
+    "published": "2026-09-07T09:00:06.130996+00:00",
+    "description": "Interactive learning lesson: \u0918\u091f\u093e\u0928\u093e - 7",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/ad7e80db-a8a1-4514-8ecf-6981dab2f1d5.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/ad7e80db-a8a1-4514-8ecf-6981dab2f1d5/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/maths2706.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths2706_hi",
+      "title": "\u0918\u091f\u093e\u0928\u093e - 7"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/maths2706.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2706_hi.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2706.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

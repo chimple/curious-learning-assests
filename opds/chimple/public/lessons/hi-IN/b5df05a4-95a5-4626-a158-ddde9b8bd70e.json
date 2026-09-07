@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "10",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/b5df05a4-95a5-4626-a158-ddde9b8bd70e",
+    "language": "hi",
+    "modified": "2026-09-07T09:00:05.205050+00:00",
+    "published": "2026-09-07T09:00:05.205050+00:00",
+    "description": "Interactive learning lesson: 10",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/b5df05a4-95a5-4626-a158-ddde9b8bd70e.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/b5df05a4-95a5-4626-a158-ddde9b8bd70e/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/maths0204.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths0204_hi",
+      "title": "10"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/maths0204.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths0204_hi.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0204.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

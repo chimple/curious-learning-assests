@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "2 \u0915\u0940 \u0924\u093e\u0932\u093f\u0915\u093e",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/54e467c4-44fa-45a6-a843-f9f87e1afae9",
+    "language": "hi",
+    "modified": "2026-09-07T09:00:05.938773+00:00",
+    "published": "2026-09-07T09:00:05.938773+00:00",
+    "description": "Interactive learning lesson: 2 \u0915\u0940 \u0924\u093e\u0932\u093f\u0915\u093e",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/54e467c4-44fa-45a6-a843-f9f87e1afae9.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/54e467c4-44fa-45a6-a843-f9f87e1afae9/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/maths2002.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths2002_hi",
+      "title": "2 \u0915\u0940 \u0924\u093e\u0932\u093f\u0915\u093e"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/maths2002.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2002_hi.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2002.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

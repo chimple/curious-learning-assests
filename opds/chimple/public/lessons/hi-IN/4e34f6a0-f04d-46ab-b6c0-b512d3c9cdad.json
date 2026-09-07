@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "\u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/4e34f6a0-f04d-46ab-b6c0-b512d3c9cdad",
+    "language": "hi",
+    "modified": "2026-09-07T09:00:05.904848+00:00",
+    "published": "2026-09-07T09:00:05.904848+00:00",
+    "description": "Interactive learning lesson: \u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/4e34f6a0-f04d-46ab-b6c0-b512d3c9cdad.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/4e34f6a0-f04d-46ab-b6c0-b512d3c9cdad/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/maths2101.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths2101_hi",
+      "title": "\u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/maths2101.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2101_hi.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2101.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

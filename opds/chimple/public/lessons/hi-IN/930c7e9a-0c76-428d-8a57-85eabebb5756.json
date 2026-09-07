@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "\u092a\u0941\u0928\u0903 \u0938\u092e\u0942\u0939\u093f\u0924 \u0915\u0930\u0947\u0902 \u0914\u0930 5 \u091c\u094b\u0921\u093c\u0947\u0902",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/930c7e9a-0c76-428d-8a57-85eabebb5756",
+    "language": "hi",
+    "modified": "2026-09-07T09:00:06.213254+00:00",
+    "published": "2026-09-07T09:00:06.213254+00:00",
+    "description": "Interactive learning lesson: \u092a\u0941\u0928\u0903 \u0938\u092e\u0942\u0939\u093f\u0924 \u0915\u0930\u0947\u0902 \u0914\u0930 5 \u091c\u094b\u0921\u093c\u0947\u0902",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/930c7e9a-0c76-428d-8a57-85eabebb5756.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/930c7e9a-0c76-428d-8a57-85eabebb5756/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://chimple-respect.web.app/images/icons/maths2608.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths2608_hi",
+      "title": "\u092a\u0941\u0928\u0903 \u0938\u092e\u0942\u0939\u093f\u0924 \u0915\u0930\u0947\u0902 \u0914\u0930 5 \u091c\u094b\u0921\u093c\u0947\u0902"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "https://chimple-respect.web.app/images/icons/maths2608.png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2608_hi.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths2608.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}
