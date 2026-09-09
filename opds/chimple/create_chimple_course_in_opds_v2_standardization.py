@@ -18,9 +18,10 @@ ENGLISH_LANGUAGE = 'en'
 HINDI_LANGUAGE = 'hi'
 ENGLISH_LOCALE = 'en-US'
 HINDI_LOCALE = 'hi-IN'
-# RESPECT downloads TinCan launch URLs, so this must be HTTP(S). Cuba claims this
-# verified App Link directly; otherwise the hosted page provides installation guidance.
+# Native lessons must use an Intent URI in TinCan so RESPECT launches Chimple
+# directly and sends missing-app cases to the app-store link in the manifest.
 CHIMPLE_LESSON_LAUNCH_BASE = f'{BASE_URL}respect/launch'
+CHIMPLE_PACKAGE_NAME = 'org.chimple.bahama'
 # RESPECT downloads only publication resources. Use the same Lido bundle host that
 # Cuba uses so an offline lesson always has a concrete, versioned ZIP to download.
 LIDO_BUNDLE_BASE_URL = 'https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/'
@@ -55,11 +56,16 @@ LESSON_DIR = os.path.join(OUTPUT_DIR, 'lessons')
 ICONS_DIR = os.path.join(OUTPUT_DIR, 'images', 'icons')
 
 def get_lesson_launch_url(activity_id, chimple_lesson_id=''):
-    """Keep the xAPI activity canonical while supplying Cuba's playable bundle ID."""
+    """Return the native-app Intent URI required by RESPECT TinCan metadata."""
     launch_parameters = {'activity_id': activity_id}
     if chimple_lesson_id:
         launch_parameters['chimple_lesson_id'] = chimple_lesson_id
-    return f'{CHIMPLE_LESSON_LAUNCH_BASE}?{urlencode(launch_parameters)}'
+    return (
+        f'intent://{CHIMPLE_LESSON_LAUNCH_BASE.removeprefix("https://")}'
+        f'?{urlencode(launch_parameters)}'
+        f'#Intent;scheme=https;category=android.intent.category.BROWSABLE;'
+        f'package={CHIMPLE_PACKAGE_NAME};end'
+    )
 
 
 def get_lesson_relative_path(lesson_id, language):
