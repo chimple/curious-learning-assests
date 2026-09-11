@@ -1,9 +1,13 @@
 import os
 import json
+import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from openpyxl import load_workbook
 from urllib.parse import urlencode, urljoin
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 # Configuration
 EXCEL_FILE = 'Respect Course Latest All Course Details From dashboard.xlsx'
@@ -55,11 +59,13 @@ GRADE_DIR = os.path.join(OUTPUT_DIR, 'grades')
 LESSON_DIR = os.path.join(OUTPUT_DIR, 'lessons')
 ICONS_DIR = os.path.join(OUTPUT_DIR, 'images', 'icons')
 
-def get_lesson_launch_url(activity_id, chimple_lesson_id=''):
+def get_lesson_launch_url(activity_id, chimple_lesson_id='', lesson_name=''):
     """Return the native-app Intent URI required by RESPECT TinCan metadata."""
     launch_parameters = {'activity_id': activity_id}
     if chimple_lesson_id:
         launch_parameters['chimple_lesson_id'] = chimple_lesson_id
+    if lesson_name:
+        launch_parameters['lesson_name'] = lesson_name
     return (
         f'intent://{CHIMPLE_LESSON_LAUNCH_BASE.removeprefix("https://")}'
         f'?{urlencode(launch_parameters)}'
@@ -461,6 +467,7 @@ def create_tincan_xml(
     launch.text = get_lesson_launch_url(
         f'{BASE_URL}activities/{lesson_id}',
         chimple_lesson_id,
+        title,
     )
 
     ET.ElementTree(root).write(
