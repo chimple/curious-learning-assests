@@ -21,6 +21,18 @@ from datetime import datetime, timezone
 FTM_RESPECT_WEB_URL = "https://curious-reader-respect-ftm-dev.web.app"
 FTM_RESPECT_METADATA_URL = "https://curious-reader-respect.web.app"
 FTM_LAUNCHABLE_APP_URL = f"{FTM_RESPECT_METADATA_URL}/ftm-launchable-app.json"
+FTM_LAUNCHABLE_APP_ICON_URL = (
+    "https://raw.githubusercontent.com/chimple/CRcontainer/main/"
+    "app/src/debug/ic_launcher-playstore.png"
+)
+
+
+def get_ftm_launchable_app_filename(lang_code: str) -> str:
+    return (
+        "ftm-launchable-app.json"
+        if lang_code == "en"
+        else f"ftm-launchable-app-{lang_code}.json"
+    )
 
 
 def read_json(path: Path) -> Any:
@@ -461,19 +473,19 @@ def build_opds_feed(base_out_url: str, web_apps: List[Dict[str, Any]], out_path:
             seen_lang_codes[lang_code] = app
 
     for lang_code, app in seen_lang_codes.items():
-        title: str = app.get("title", f"Curious Reader {lang_code}")
+        language_title: str = app.get("languageInEnglishName", lang_code)
         icon_href: str = app.get("appIconUrl", "")
         navigation.append(
             {
                 "href": f"{base_out_url}/grades/{lang_code}.json",
-                "title": title.replace("Feed The Monster", "Curious Reader").strip(),
+                "title": language_title,
                 "type": "application/opds+json",
                 "alternate": [
                     {
                         "href": f"{base_out_url}/{icon_href}",
                         "rel": "icon",
                         "type": "image/png",
-                        "title": title.replace("Feed The Monster", "Curious Reader").strip(),
+                        "title": language_title,
                     }
                 ],
             }
@@ -676,31 +688,45 @@ def create_ftm_tincan_xml(
     )
 
 
-def build_ftm_launchable_app_manifest() -> Dict[str, Any]:
+def build_ftm_launchable_app_manifest(
+    *,
+    base_out_url: str,
+    lang_code: str,
+    ftm_slug: str,
+    alternate_links: List[Dict[str, Any]],
+) -> Dict[str, Any]:
+    manifest_url = (
+        f"{base_out_url}/{get_ftm_launchable_app_filename(lang_code)}"
+    )
     return {
         "metadata": {
             "@type": "https://id.openeel.org/schema/launchable-app",
             "title": "Feed The Monster",
             "description": "Interactive Feed The Monster learning units.",
             "author": {"name": "Curious Learning"},
-            "identifier": f"{FTM_RESPECT_METADATA_URL}/apps/feed-the-monster",
-            "language": "en",
+            "identifier": (
+                f"{base_out_url}/apps/feed-the-monster/{lang_code}"
+            ),
+            "language": lang_code,
             "modified": now_iso8601(),
         },
         "links": [
             {
                 "rel": "self",
-                "href": FTM_LAUNCHABLE_APP_URL,
+                "href": manifest_url,
                 "type": "application/opds-publication+json",
             },
+            *alternate_links,
             {
                 "rel": "collection",
-                "href": f"{FTM_RESPECT_METADATA_URL}/opds.json",
+                "href": f"{base_out_url}/grades/{lang_code}.json",
                 "type": "application/opds+json",
             },
             {
                 "rel": "https://id.openeel.org/rel/app-launch-uri",
-                "href": f"{FTM_RESPECT_WEB_URL}/",
+                "href": (
+                    f"{FTM_RESPECT_WEB_URL}/?lang={urlquote(ftm_slug)}"
+                ),
             },
             # FTM is launched as a web app so RESPECT passes its xAPI parameters to app-launch-uri.
             {
@@ -710,7 +736,7 @@ def build_ftm_launchable_app_manifest() -> Dict[str, Any]:
         ],
         "images": [
             {
-                "href": f"{FTM_RESPECT_METADATA_URL}/appIcons/ftm_english.png",
+                "href": FTM_LAUNCHABLE_APP_ICON_URL,
                 "type": "image/png",
             }
         ],
@@ -729,6 +755,7 @@ def build_ftm_lesson_manifest(
     additional_resource_urls: Optional[List[str]] = None,
     assets_base_url: Optional[str] = None,
     self_base_url: Optional[str] = None,
+    launchable_app_url: Optional[str] = None,
 ) -> Dict[str, Any]:
     modified = now_iso8601()
     # Allow overriding asset domain (e.g., curious-reader.web.app) for icon and self link
@@ -789,7 +816,7 @@ def build_ftm_lesson_manifest(
             },
             {
                 "rel": "https://id.openeel.org/rel/launchable-app",
-                "href": FTM_LAUNCHABLE_APP_URL,
+                "href": launchable_app_url or FTM_LAUNCHABLE_APP_URL,
                 "type": "application/opds-publication+json",
             },
             {
@@ -1030,12 +1057,11 @@ def generate(
     build_opds_feed(FTM_RESPECT_METADATA_URL, web_apps, public_dir / "opds.json")
 
     # 2) FTM lessons + grades per language (skip if --skip-ftm is set)
+    ftm_apps_by_code: Dict[str, Dict[str, Any]] = {}
     if skip_ftm:
         if verbose:
             print("\n[FTM] Skipping FTM lesson generation as requested")
     else:
-        write_json(public_dir / "ftm-launchable-app.json", build_ftm_launchable_app_manifest())
-        ftm_apps_by_code: Dict[str, Dict[str, Any]] = {}
         for app in web_apps:
             if classify_web_app(app) != "ftm":
                 continue
@@ -1043,6 +1069,34 @@ def generate(
             if not code:
                 continue
             ftm_apps_by_code[code] = app
+
+        ftm_manifest_urls = {
+            code: f"{base_out_url}/{get_ftm_launchable_app_filename(code)}"
+            for code in ftm_apps_by_code
+        }
+        for lang_code, app in ftm_apps_by_code.items():
+            icon_rel = app.get("appIconUrl", "")
+            slug = parse_query_param(app.get("appUrl", ""), "cr_lang") or app.get(
+                "languageInEnglishName", lang_code
+            ).lower()
+            alternate_links = [
+                {
+                    "href": ftm_manifest_urls[alternate_code],
+                    "rel": "alternate",
+                    "language": alternate_code,
+                }
+                for alternate_code in ftm_apps_by_code
+                if alternate_code != lang_code
+            ]
+            write_json(
+                public_dir / get_ftm_launchable_app_filename(lang_code),
+                build_ftm_launchable_app_manifest(
+                    base_out_url=base_out_url,
+                    lang_code=lang_code,
+                    ftm_slug=slug,
+                    alternate_links=alternate_links,
+                ),
+            )
     
     # Iterate over FTM apps only when not skipping; avoid chaining .items() on dict_items
     iter_items = ftm_apps_by_code.items() if not skip_ftm else []
@@ -1087,6 +1141,7 @@ def generate(
                 additional_resource_urls=per_language_saved_urls,
                 assets_base_url=FTM_RESPECT_METADATA_URL,
                 self_base_url=FTM_RESPECT_METADATA_URL,
+                launchable_app_url=ftm_manifest_urls[lang_code],
             )
             lesson_out_path = public_dir / f"lessons/cr_lang/ftm_{lang_code}_{lesson_id}.json"
             write_json(lesson_out_path, lesson_manifest)
@@ -1220,8 +1275,14 @@ def generate(
                     }
                 )
 
+        lesson_collection_url = f"{base_out_url}/grades/{lang_code}/lessons.json"
+        language_title = app.get("title", f"Feed The Monster {lang_code}")
+        language_title = language_title.replace("Feed The Monster", "").strip()
         grades_feed = {
-            "metadata": {"title": app.get("title", f"Feed The Monster {lang_code}")},
+            "metadata": {
+                "title": language_title or lang_code,
+                "language": lang_code,
+            },
             "links": [
                 {
                     "rel": "self",
@@ -1229,9 +1290,40 @@ def generate(
                     "type": "application/opds+json",
                 }
             ],
-            "publications": publications,
+            "navigation": [
+                {
+                    "href": lesson_collection_url,
+                    "title": language_title or lang_code,
+                    "type": "application/opds+json",
+                    "alternate": [
+                        {
+                            "href": f"{base_out_url}/{icon_rel}",
+                            "rel": "icon",
+                            "type": "image/png",
+                            "title": language_title or lang_code,
+                        }
+                    ],
+                }
+            ],
         }
         write_json(public_dir / f"grades/{lang_code}.json", grades_feed)
+        write_json(
+            public_dir / f"grades/{lang_code}/lessons.json",
+            {
+                "metadata": {
+                    "title": app.get("title", f"Feed The Monster {lang_code}"),
+                    "language": lang_code,
+                },
+                "links": [
+                    {
+                        "rel": "self",
+                        "href": lesson_collection_url,
+                        "type": "application/opds+json",
+                    }
+                ],
+                "publications": publications,
+            },
+        )
 
     # 3) Assessment lessons (data/*)
     if not skip_assessment:

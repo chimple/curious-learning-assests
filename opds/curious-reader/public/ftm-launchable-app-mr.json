@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "@type": "https://id.openeel.org/schema/launchable-app",
+    "title": "Feed The Monster",
+    "description": "Interactive Feed The Monster learning units.",
+    "author": {
+      "name": "Curious Learning"
+    },
+    "identifier": "https://curious-reader-respect.web.app/apps/feed-the-monster/mr",
+    "language": "mr",
+    "modified": "2026-09-16T06:14:01.113626+00:00"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-mr.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app.json",
+      "rel": "alternate",
+      "language": "en"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-hi.json",
+      "rel": "alternate",
+      "language": "hi"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-pt-BR.json",
+      "rel": "alternate",
+      "language": "pt-BR"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-so.json",
+      "rel": "alternate",
+      "language": "so"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-xh.json",
+      "rel": "alternate",
+      "language": "xh"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-mg.json",
+      "rel": "alternate",
+      "language": "mg"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-af.json",
+      "rel": "alternate",
+      "language": "af"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-wo.json",
+      "rel": "alternate",
+      "language": "wo"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-sn.json",
+      "rel": "alternate",
+      "language": "sn"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-tl.json",
+      "rel": "alternate",
+      "language": "tl"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ht.json",
+      "rel": "alternate",
+      "language": "ht"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ka.json",
+      "rel": "alternate",
+      "language": "ka"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-rw.json",
+      "rel": "alternate",
+      "language": "rw"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-sw.json",
+      "rel": "alternate",
+      "language": "sw"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-uk.json",
+      "rel": "alternate",
+      "language": "uk"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-yor.json",
+      "rel": "alternate",
+      "language": "yor"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ne.json",
+      "rel": "alternate",
+      "language": "ne"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ss.json",
+      "rel": "alternate",
+      "language": "ss"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-tr.json",
+      "rel": "alternate",
+      "language": "tr"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-en-ng.json",
+      "rel": "alternate",
+      "language": "en-ng"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-tg.json",
+      "rel": "alternate",
+      "language": "tg"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-st.json",
+      "rel": "alternate",
+      "language": "st"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-nde.json",
+      "rel": "alternate",
+      "language": "nde"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-nso.json",
+      "rel": "alternate",
+      "language": "nso"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-tn.json",
+      "rel": "alternate",
+      "language": "tn"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ha.json",
+      "rel": "alternate",
+      "language": "ha"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-en-za.json",
+      "rel": "alternate",
+      "language": "en-za"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-zu.json",
+      "rel": "alternate",
+      "language": "zu"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-fr.json",
+      "rel": "alternate",
+      "language": "fr"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-az.json",
+      "rel": "alternate",
+      "language": "az"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ve.json",
+      "rel": "alternate",
+      "language": "ve"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-tw.json",
+      "rel": "alternate",
+      "language": "tw"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ms.json",
+      "rel": "alternate",
+      "language": "ms"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ig.json",
+      "rel": "alternate",
+      "language": "ig"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-lg.json",
+      "rel": "alternate",
+      "language": "lg"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ps.json",
+      "rel": "alternate",
+      "language": "ps"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ku.json",
+      "rel": "alternate",
+      "language": "ku"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-es.json",
+      "rel": "alternate",
+      "language": "es"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-th.json",
+      "rel": "alternate",
+      "language": "th"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-en-in.json",
+      "rel": "alternate",
+      "language": "en-in"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-en-AU.json",
+      "rel": "alternate",
+      "language": "en-AU"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-jv.json",
+      "rel": "alternate",
+      "language": "jv"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ts.json",
+      "rel": "alternate",
+      "language": "ts"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-vi.json",
+      "rel": "alternate",
+      "language": "vi"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-rn.json",
+      "rel": "alternate",
+      "language": "rn"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-om.json",
+      "rel": "alternate",
+      "language": "om"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-am.json",
+      "rel": "alternate",
+      "language": "am"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ti.json",
+      "rel": "alternate",
+      "language": "ti"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-bn.json",
+      "rel": "alternate",
+      "language": "bn"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-pt.json",
+      "rel": "alternate",
+      "language": "pt"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-kea.json",
+      "rel": "alternate",
+      "language": "kea"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-te.json",
+      "rel": "alternate",
+      "language": "te"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-gu.json",
+      "rel": "alternate",
+      "language": "gu"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-pa.json",
+      "rel": "alternate",
+      "language": "pa"
+    },
+    {
+      "href": "https://curious-reader-respect.web.app/ftm-launchable-app-ar.json",
+      "rel": "alternate",
+      "language": "ar"
+    },
+    {
+      "rel": "collection",
+      "href": "https://curious-reader-respect.web.app/grades/mr.json",
+      "type": "application/opds+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/app-launch-uri",
+      "href": "https://curious-reader-respect-ftm-dev.web.app/?lang=marathi"
+    },
+    {
+      "rel": "license",
+      "href": "https://opensource.org/license/mit"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://raw.githubusercontent.com/chimple/CRcontainer/main/app/src/debug/ic_launcher-playstore.png",
+      "type": "image/png"
+    }
+  ]
+}
