@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಒಗಟಿನ ಸಮಯ 21 - 30",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/1ac32489-4c1a-4d90-a762-7a6d7540ecda",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:47.188375+00:00",
+    "published": "2026-11-06T06:07:47.188375+00:00",
+    "description": "Interactive learning lesson: ಒಗಟಿನ ಸಮಯ 21 - 30",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/1ac32489-4c1a-4d90-a762-7a6d7540ecda.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/1ac32489-4c1a-4d90-a762-7a6d7540ecda/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c9ecfceb-c9a1-4ca1-80af-76300c539c55-7cda5d0a.webp",
+      "type": "image/webp",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths0700_kn",
+      "title": "ಒಗಟಿನ ಸಮಯ 21 - 30"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c9ecfceb-c9a1-4ca1-80af-76300c539c55-7cda5d0a.webp",
+      "type": "image/webp",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths0700_kn.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0700.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

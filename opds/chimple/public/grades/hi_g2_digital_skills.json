@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "डिजिटल कौशल"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_1.json",
+      "title": "Match box",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/d9af8b45-2066-49ba-8106-673e83b60129-59dff064.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Match box"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_2.json",
+      "title": "Shape Tractor",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/621d6214-c6d2-46c6-82b0-429c8dcec39f-2cfabb4a.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Shape Tractor"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_3.json",
+      "title": "Draw Shape",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/51468247-e4b9-4d8f-9e01-d46acdc4ffb5-0a6801ab.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Draw Shape"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_4.json",
+      "title": "Picture Board",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/19bb079f-bc69-44e4-bc1d-0b77f2683b6c-5a17f2ef.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Picture Board"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_5.json",
+      "title": "Matching Card",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/8375c4ec-465e-425d-b5c3-c4dce345d3bb-7b352416.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Matching Card"
+        }
+      ]
+    }
+  ]
+}

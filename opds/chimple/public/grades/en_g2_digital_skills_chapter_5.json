@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "Matching Card",
+    "identifier": "8375c4ec-465e-425d-b5c3-c4dce345d3bb"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/en_g2_digital_skills_chapter_5.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Beginner",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e066aee2-4972-41bf-96ad-8a3fa2ae24cb",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.447310+00:00",
+        "subject": [
+          {
+            "name": "Beginner",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e066aee2-4972-41bf-96ad-8a3fa2ae24cb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e066aee2-4972-41bf-96ad-8a3fa2ae24cb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/4070cf5d-4346-4797-84a8-8fda62428375-1ed0ffdf.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Basic",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/15fa0486-2134-43c8-9a30-11b29b5d1fe0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.450617+00:00",
+        "subject": [
+          {
+            "name": "Basic",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/15fa0486-2134-43c8-9a30-11b29b5d1fe0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/15fa0486-2134-43c8-9a30-11b29b5d1fe0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/90c66692-48a4-45c4-a86f-68a72ca63ae3-6ca0a9ec.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Simple",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ec20311c-6f5c-46fc-915d-acb401e54d57",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.455123+00:00",
+        "subject": [
+          {
+            "name": "Simple",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ec20311c-6f5c-46fc-915d-acb401e54d57.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ec20311c-6f5c-46fc-915d-acb401e54d57/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/45549fb9-fcee-4774-8da7-d6e234d7c1bb-0b80e3af.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Easy",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d42e3d16-81e5-4a95-bf5c-4cb3815b3795",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.458277+00:00",
+        "subject": [
+          {
+            "name": "Easy",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d42e3d16-81e5-4a95-bf5c-4cb3815b3795.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d42e3d16-81e5-4a95-bf5c-4cb3815b3795/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6138100d-a54f-461a-98c3-fa3f8fce90cb-63431d54.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Intermediate",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ab7df1e4-2ee9-4a7a-aa94-42cb9755cf00",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.462278+00:00",
+        "subject": [
+          {
+            "name": "Intermediate",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ab7df1e4-2ee9-4a7a-aa94-42cb9755cf00.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ab7df1e4-2ee9-4a7a-aa94-42cb9755cf00/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2462bb41-559d-456c-bf4e-4fa206a4530a-d1bddd85.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Difficult",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9b8c5bde-28f0-441b-bb67-48f8a6763062",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.466534+00:00",
+        "subject": [
+          {
+            "name": "Difficult",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9b8c5bde-28f0-441b-bb67-48f8a6763062.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9b8c5bde-28f0-441b-bb67-48f8a6763062/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b0d61280-6c78-4bb9-b126-b23bb558628d-963e5e15.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Hard",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/abb28ef2-fdf8-44aa-b3f3-2d63ae2e2522",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.471473+00:00",
+        "subject": [
+          {
+            "name": "Hard",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "matchingcard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/abb28ef2-fdf8-44aa-b3f3-2d63ae2e2522.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/abb28ef2-fdf8-44aa-b3f3-2d63ae2e2522/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/abb28ef2-fdf8-44aa-b3f3-2d63ae2e2522-0de4d196.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

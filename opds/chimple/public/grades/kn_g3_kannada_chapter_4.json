@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "ಕಂದ",
+    "identifier": "372199dc-4ef9-4690-892e-610e297cb55a"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g3_kannada_chapter_4.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಪದಗಳ ಅರ್ಥ 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/58fbd10d-53a4-4345-9064-bc9bebe7abda",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.898625+00:00",
+        "subject": [
+          {
+            "name": "ಪದಗಳ ಅರ್ಥ 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/58fbd10d-53a4-4345-9064-bc9bebe7abda.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/58fbd10d-53a4-4345-9064-bc9bebe7abda/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/58fbd10d-53a4-4345-9064-bc9bebe7abda.jpg",
+          "type": "image/jpeg",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಚಂದದ ಕಂದ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e107ae26-f93c-4950-8208-4a320a261080",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.901189+00:00",
+        "subject": [
+          {
+            "name": "ಚಂದದ ಕಂದ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e107ae26-f93c-4950-8208-4a320a261080.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e107ae26-f93c-4950-8208-4a320a261080/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/e107ae26-f93c-4950-8208-4a320a261080.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಭಾಷಾಭ್ಯಾಸ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a86e8cfc-c852-4855-8401-e4d1e6412387",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.903436+00:00",
+        "subject": [
+          {
+            "name": "ಭಾಷಾಭ್ಯಾಸ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/a86e8cfc-c852-4855-8401-e4d1e6412387.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/a86e8cfc-c852-4855-8401-e4d1e6412387/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/a86e8cfc-c852-4855-8401-e4d1e6412387.jpg",
+          "type": "image/jpeg",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

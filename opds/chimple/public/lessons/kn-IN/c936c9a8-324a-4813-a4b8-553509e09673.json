@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಪದಸಂಖ್ಯೆಯ ಸಂಕೇತ",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/c936c9a8-324a-4813-a4b8-553509e09673",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.724506+00:00",
+    "published": "2026-11-06T06:07:52.724506+00:00",
+    "description": "Interactive learning lesson: ಪದಸಂಖ್ಯೆಯ ಸಂಕೇತ",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/c936c9a8-324a-4813-a4b8-553509e09673.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/c936c9a8-324a-4813-a4b8-553509e09673/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/c936c9a8-324a-4813-a4b8-553509e09673.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/c936c9a8-324a-4813-a4b8-553509e09673",
+      "title": "ಪದಸಂಖ್ಯೆಯ ಸಂಕೇತ"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/c936c9a8-324a-4813-a4b8-553509e09673.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/c936c9a8-324a-4813-a4b8-553509e09673.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/c936c9a8-324a-4813-a4b8-553509e09673.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

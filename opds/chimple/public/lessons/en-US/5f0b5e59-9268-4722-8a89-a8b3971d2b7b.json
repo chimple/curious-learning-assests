@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/5f0b5e59-9268-4722-8a89-a8b3971d2b7b",
     "language": "en",
-    "modified": "2026-09-11T06:25:38.803794+00:00",
-    "published": "2026-09-11T06:25:38.803794+00:00",
+    "modified": "2026-11-06T06:07:45.361920+00:00",
+    "published": "2026-11-06T06:07:45.361920+00:00",
     "description": "Interactive learning lesson: Watermelon",
     "subject": [
       "Education",
@@ -37,7 +37,7 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/18825d6a-fc6d-4fd2-8ea4-ae8e0587d237-31e7ded5.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_drawshape0010",
+      "href": "https://chimple.cc/LIDO_drawshape0010_DS",
       "title": "Watermelon"
     }
   ],
   "resources": [
     {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/18825d6a-fc6d-4fd2-8ea4-ae8e0587d237-31e7ded5.png",
       "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0010.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0010_DS.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

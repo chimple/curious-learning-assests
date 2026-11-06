@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "title": "स्थानीय मान 2",
+    "identifier": "09e0eaa3-77db-4122-8baf-eda72a5a009e"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_maths_g2_chapter_9.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "100-300",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/73baf6b0-a8f1-4477-805e-b0fb0c1a6be1",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.207105+00:00",
+        "subject": [
+          {
+            "name": "100-300",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/73baf6b0-a8f1-4477-805e-b0fb0c1a6be1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/73baf6b0-a8f1-4477-805e-b0fb0c1a6be1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/aa64fc02-f803-4a72-a79e-b0a298c119b3-51264fe2.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "200-300",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e18efce8-311a-43f6-a2c4-6a851b38518d",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.209766+00:00",
+        "subject": [
+          {
+            "name": "200-300",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e18efce8-311a-43f6-a2c4-6a851b38518d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e18efce8-311a-43f6-a2c4-6a851b38518d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e28fc416-a893-40f9-8d6d-7d5746130241-98f752e7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "300-500",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/74f840e9-df99-4818-ac36-e732def7ec7b",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.212352+00:00",
+        "subject": [
+          {
+            "name": "300-500",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/74f840e9-df99-4818-ac36-e732def7ec7b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/74f840e9-df99-4818-ac36-e732def7ec7b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ffa20c32-4f80-4fe1-8e9c-727ed7a75c47-d2c58fc7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "300-600",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/acade933-2809-4b6d-95c9-592d28265407",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.216097+00:00",
+        "subject": [
+          {
+            "name": "300-600",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/acade933-2809-4b6d-95c9-592d28265407.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/acade933-2809-4b6d-95c9-592d28265407/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cf57e14c-b320-4ad8-acf7-3ee543b5767b-34883029.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "200-700",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/2a65e468-3c23-4318-96fa-2bffbaec1a83",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.220129+00:00",
+        "subject": [
+          {
+            "name": "200-700",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/2a65e468-3c23-4318-96fa-2bffbaec1a83.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/2a65e468-3c23-4318-96fa-2bffbaec1a83/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a02d5417-ddd4-4291-8974-25dbe4e8371b-17a49fe5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "500-700",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b39096b0-cff5-4d25-a2ce-815e7e915fd1",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.222727+00:00",
+        "subject": [
+          {
+            "name": "500-700",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/b39096b0-cff5-4d25-a2ce-815e7e915fd1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/b39096b0-cff5-4d25-a2ce-815e7e915fd1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2ad84d2a-dd28-4d58-b970-70fdb8141a4f-cfb4c79a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "500 - 900",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a5b5e7bc-8ffb-4355-b660-6b991533b8d7",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.225392+00:00",
+        "subject": [
+          {
+            "name": "500 - 900",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a5b5e7bc-8ffb-4355-b660-6b991533b8d7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a5b5e7bc-8ffb-4355-b660-6b991533b8d7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1430de77-6b24-42bd-8c90-425fb9e00502-35955792.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "700-900",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d5458bd6-4ab1-4918-898b-f4e7fe4e44b3",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.227632+00:00",
+        "subject": [
+          {
+            "name": "700-900",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/d5458bd6-4ab1-4918-898b-f4e7fe4e44b3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/d5458bd6-4ab1-4918-898b-f4e7fe4e44b3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e2f64a3f-1e9f-403f-9499-9ce281554fb5-14fd4477.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "800-999",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0782e23f-528f-45b7-b932-bbd444f191ea",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.230530+00:00",
+        "subject": [
+          {
+            "name": "800-999",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0782e23f-528f-45b7-b932-bbd444f191ea.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0782e23f-528f-45b7-b932-bbd444f191ea/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0783e91f-d5d6-473e-b595-d9ba3946b5de-9b7dff12.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "100-999",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a3deca70-4007-4303-b5f6-c29630f0a6e1",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.234014+00:00",
+        "subject": [
+          {
+            "name": "100-999",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths24"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a3deca70-4007-4303-b5f6-c29630f0a6e1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a3deca70-4007-4303-b5f6-c29630f0a6e1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6a8c66b6-2123-46e7-a83a-7c30ead6ce66-4193c168.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

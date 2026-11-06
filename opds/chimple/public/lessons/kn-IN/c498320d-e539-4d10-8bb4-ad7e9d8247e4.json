@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಬರೆಯಿರಿ 71- 80",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/c498320d-e539-4d10-8bb4-ad7e9d8247e4",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:47.226525+00:00",
+    "published": "2026-11-06T06:07:47.226525+00:00",
+    "description": "Interactive learning lesson: ಬರೆಯಿರಿ 71- 80",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/c498320d-e539-4d10-8bb4-ad7e9d8247e4.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/c498320d-e539-4d10-8bb4-ad7e9d8247e4/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b2ee64ff-80e6-44ad-bf75-d90a07fd3405-9db36614.webp",
+      "type": "image/webp",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths0711_kn",
+      "title": "ಬರೆಯಿರಿ 71- 80"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b2ee64ff-80e6-44ad-bf75-d90a07fd3405-9db36614.webp",
+      "type": "image/webp",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths0711_kn.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths0711.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

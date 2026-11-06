@@ -1,0 +1,876 @@
+{
+  "metadata": {
+    "title": "Time",
+    "identifier": "9719284d-55d3-4c79-a198-5985ead4ed06"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_18.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Day and Night",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/293aedc5-f69b-4834-abf0-94d6ebe2256b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.007616+00:00",
+        "subject": [
+          {
+            "name": "Day and Night",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/293aedc5-f69b-4834-abf0-94d6ebe2256b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/293aedc5-f69b-4834-abf0-94d6ebe2256b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/293aedc5-f69b-4834-abf0-94d6ebe2256b-79e55ab4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Night and Day",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/73ef511e-09c1-44be-887c-4ccdd0704e4e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.010885+00:00",
+        "subject": [
+          {
+            "name": "Night and Day",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/73ef511e-09c1-44be-887c-4ccdd0704e4e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/73ef511e-09c1-44be-887c-4ccdd0704e4e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/73ef511e-09c1-44be-887c-4ccdd0704e4e-75df575f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Reading Time",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3cd4f9fa-6d60-4213-acb4-61c1e413fe01",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.013986+00:00",
+        "subject": [
+          {
+            "name": "Reading Time",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3cd4f9fa-6d60-4213-acb4-61c1e413fe01.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3cd4f9fa-6d60-4213-acb4-61c1e413fe01/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/210f08eb-7f9f-48a6-98c8-f52bb2961522-fb03e964.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Time",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6110282d-8af4-4b6c-8c94-ce874e8644f5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.018177+00:00",
+        "subject": [
+          {
+            "name": "Match Time",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6110282d-8af4-4b6c-8c94-ce874e8644f5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6110282d-8af4-4b6c-8c94-ce874e8644f5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/44c9b9aa-f9c1-4983-b9f8-35828b3def64-612b8bb0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/eb585889-6074-443a-833d-f6e68deec781",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.021708+00:00",
+        "subject": [
+          {
+            "name": "Practice",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eb585889-6074-443a-833d-f6e68deec781.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eb585889-6074-443a-833d-f6e68deec781/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/16c288f0-93aa-4b14-8f16-0511f4ae30ff-5dc5963e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More Practice",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d6886968-865d-4ad8-a7d5-f38c3fd6f4bd",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.025916+00:00",
+        "subject": [
+          {
+            "name": "More Practice",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d6886968-865d-4ad8-a7d5-f38c3fd6f4bd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d6886968-865d-4ad8-a7d5-f38c3fd6f4bd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/077a0cc5-735b-422d-a6d2-85dc5e8ef687-518f7856.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Days of the week",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c41acb39-05f6-4bc5-842e-04b5152191cf",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.028364+00:00",
+        "subject": [
+          {
+            "name": "Days of the week",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c41acb39-05f6-4bc5-842e-04b5152191cf.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c41acb39-05f6-4bc5-842e-04b5152191cf/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/df5a2ad8-a401-44d4-868f-441d82ba743c-c0b58c24.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Days of the week 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/683a47c8-986a-4b94-bf99-121485a353bd",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.032218+00:00",
+        "subject": [
+          {
+            "name": "Days of the week 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/683a47c8-986a-4b94-bf99-121485a353bd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/683a47c8-986a-4b94-bf99-121485a353bd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/683a47c8-986a-4b94-bf99-121485a353bd-c299ffc5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Days of the week 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3c05eb0f-9c73-44da-aeac-668cb51ddb75",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.036383+00:00",
+        "subject": [
+          {
+            "name": "Days of the week 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3c05eb0f-9c73-44da-aeac-668cb51ddb75.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3c05eb0f-9c73-44da-aeac-668cb51ddb75/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/3c05eb0f-9c73-44da-aeac-668cb51ddb75-58cd6c3e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Days of the week 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/93cf1310-315f-4962-af01-fef00edce5c0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.039854+00:00",
+        "subject": [
+          {
+            "name": "Days of the week 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/93cf1310-315f-4962-af01-fef00edce5c0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/93cf1310-315f-4962-af01-fef00edce5c0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b44ae133-5b6f-4aa9-8026-014e71621f0d-6b612b93.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Months of the year",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3fa9391a-1eb6-4a09-a191-9e65ddbadd19",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.043324+00:00",
+        "subject": [
+          {
+            "name": "Months of the year",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3fa9391a-1eb6-4a09-a191-9e65ddbadd19.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3fa9391a-1eb6-4a09-a191-9e65ddbadd19/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e70a6ac6-58c3-4f98-aaeb-5377e6c5c218-57c5d32f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Months of the year 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/57f6d3d8-cfd8-4457-a492-e579cfe87cfc",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.047059+00:00",
+        "subject": [
+          {
+            "name": "Months of the year 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/57f6d3d8-cfd8-4457-a492-e579cfe87cfc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/57f6d3d8-cfd8-4457-a492-e579cfe87cfc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ea67d064-6e70-4fa2-8690-7d12722199d3-ce8c84df.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Months of the year 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8182354e-afcb-459e-bac7-13b9ea07d549",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.051023+00:00",
+        "subject": [
+          {
+            "name": "Months of the year 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8182354e-afcb-459e-bac7-13b9ea07d549.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8182354e-afcb-459e-bac7-13b9ea07d549/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8182354e-afcb-459e-bac7-13b9ea07d549-3652608e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Months of the year 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/657b180e-86b9-4d53-8a29-cb1604b041ff",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.054680+00:00",
+        "subject": [
+          {
+            "name": "Months of the year 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/657b180e-86b9-4d53-8a29-cb1604b041ff.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/657b180e-86b9-4d53-8a29-cb1604b041ff/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/200ecd98-845e-4f50-a7fc-b8780be10bf2-d65ceca7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Months of the year 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/022dcfbf-ba4a-469e-9bc1-ed99a60b9ca8",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.057887+00:00",
+        "subject": [
+          {
+            "name": "Months of the year 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/022dcfbf-ba4a-469e-9bc1-ed99a60b9ca8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/022dcfbf-ba4a-469e-9bc1-ed99a60b9ca8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/76295ded-25bd-400b-8b75-8899f2766a91-44f2a622.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "When?",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ed47c919-dca7-457a-b11d-2e88056a2605",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.062999+00:00",
+        "subject": [
+          {
+            "name": "When?",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ed47c919-dca7-457a-b11d-2e88056a2605.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ed47c919-dca7-457a-b11d-2e88056a2605/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c3f6c725-e930-43b4-a2a8-91fb57173576-e29289fd.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Greetings",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8dd571cb-64b5-4bcc-b0b3-c1858327b5f4",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.066327+00:00",
+        "subject": [
+          {
+            "name": "Greetings",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8dd571cb-64b5-4bcc-b0b3-c1858327b5f4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8dd571cb-64b5-4bcc-b0b3-c1858327b5f4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/27b237d0-6f6c-4497-987c-d439f3eae7b3-3e59f06c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "What Time Is It?",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/adf0ee29-dde5-406c-b702-b59c4c45819d",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.070155+00:00",
+        "subject": [
+          {
+            "name": "What Time Is It?",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/adf0ee29-dde5-406c-b702-b59c4c45819d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/adf0ee29-dde5-406c-b702-b59c4c45819d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a8c53c4e-34f1-4b03-b82b-321ac070471c-4b2910b3.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Clock",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ddce691b-d788-42d2-8192-c81a7c1660a3",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.074806+00:00",
+        "subject": [
+          {
+            "name": "Clock",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ddce691b-d788-42d2-8192-c81a7c1660a3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ddce691b-d788-42d2-8192-c81a7c1660a3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ddce691b-d788-42d2-8192-c81a7c1660a3-14582c16.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Clock 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/68960e71-2810-4024-b8f9-0acbf1da4113",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.078850+00:00",
+        "subject": [
+          {
+            "name": "Clock 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/68960e71-2810-4024-b8f9-0acbf1da4113.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/68960e71-2810-4024-b8f9-0acbf1da4113/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/68960e71-2810-4024-b8f9-0acbf1da4113-e96e0057.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Day or Night",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8a4b312e-4894-4417-8990-483de8c5c53a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.081446+00:00",
+        "subject": [
+          {
+            "name": "Day or Night",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en34"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8a4b312e-4894-4417-8990-483de8c5c53a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8a4b312e-4894-4417-8990-483de8c5c53a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8a4b312e-4894-4417-8990-483de8c5c53a-944bb883.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

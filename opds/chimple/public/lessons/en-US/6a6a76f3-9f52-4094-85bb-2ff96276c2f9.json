@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/6a6a76f3-9f52-4094-85bb-2ff96276c2f9",
     "language": "en",
-    "modified": "2026-09-11T06:25:37.786203+00:00",
-    "published": "2026-09-11T06:25:37.786203+00:00",
+    "modified": "2026-11-06T06:07:44.882411+00:00",
+    "published": "2026-11-06T06:07:44.882411+00:00",
     "description": "Interactive learning lesson: Addition 1",
     "subject": [
       "Education",
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/maths3000.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c95c4e0a-4f2b-4be6-8047-a35d19cf795c-dd700686.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_maths3000_en",
+      "href": "https://chimple.cc/a6e80e7a-418f-4566-873e-9d4ea2b2e759",
       "title": "Addition 1"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/maths3000.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c95c4e0a-4f2b-4be6-8047-a35d19cf795c-dd700686.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths3000_en.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/a6e80e7a-418f-4566-873e-9d4ea2b2e759.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

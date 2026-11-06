@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "title": "1ನೇ ತರಗತಿ"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/grade_kn_g1.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respect.web.app/grades/kn_g1_english.json",
+      "title": "ಇಂಗ್ಲಿಷ್",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "ಇಂಗ್ಲಿಷ್"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/kn_g1_maths.json",
+      "title": "ಗಣಿತ",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/e5cda413-2f6c-485d-8985-27e3b6aad0d5-6cca9deb.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "ಗಣಿತ"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/kn_g1_kannada.json",
+      "title": "ಕನ್ನಡ",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "rel": "icon",
+          "type": "image/png",
+          "title": "ಕನ್ನಡ"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/kn_g1_digital_skills.json",
+      "title": "ಡಿಜಿಟಲ್ ಕೌಶಲಗಳು",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/19bb079f-bc69-44e4-bc1d-0b77f2683b6c-5a17f2ef.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "ಡಿಜಿಟಲ್ ಕೌಶಲಗಳು"
+        }
+      ]
+    }
+  ]
+}

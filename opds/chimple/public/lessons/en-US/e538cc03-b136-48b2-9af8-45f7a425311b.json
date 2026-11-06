@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/e538cc03-b136-48b2-9af8-45f7a425311b",
     "language": "en",
-    "modified": "2026-09-11T06:25:38.698364+00:00",
-    "published": "2026-09-11T06:25:38.698364+00:00",
+    "modified": "2026-11-06T06:07:45.344664+00:00",
+    "published": "2026-11-06T06:07:45.344664+00:00",
     "description": "Interactive learning lesson: Egg",
     "subject": [
       "Education",
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/drawshape0002.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d0f52a34-bbcf-461a-a87d-298c3b476222-61bd3452.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_drawshape0002",
+      "href": "https://chimple.cc/LIDO_drawshape0002_DS",
       "title": "Egg"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/drawshape0002.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d0f52a34-bbcf-461a-a87d-298c3b476222-61bd3452.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0002.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0002_DS.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

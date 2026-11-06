@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "title": "Subtraction Elementary",
+    "identifier": "27d778fb-39be-4e9e-9d8f-1fc47c37b8fa"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_8.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Count and Subtract",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/95235e42-b5ff-45dc-b139-c57f3655b370",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.565337+00:00",
+        "subject": [
+          {
+            "name": "Count and Subtract",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/95235e42-b5ff-45dc-b139-c57f3655b370.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/95235e42-b5ff-45dc-b139-c57f3655b370/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/95235e42-b5ff-45dc-b139-c57f3655b370-48c5eaa5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Calculator 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8a59ba53-eeed-4603-9225-130d40fa5a0c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.568805+00:00",
+        "subject": [
+          {
+            "name": "Calculator 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8a59ba53-eeed-4603-9225-130d40fa5a0c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8a59ba53-eeed-4603-9225-130d40fa5a0c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8a59ba53-eeed-4603-9225-130d40fa5a0c-6522ca53.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/2b61db42-44bc-4624-b6ab-ccb2ed04220e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.572366+00:00",
+        "subject": [
+          {
+            "name": "Subtract",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/2b61db42-44bc-4624-b6ab-ccb2ed04220e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/2b61db42-44bc-4624-b6ab-ccb2ed04220e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2b61db42-44bc-4624-b6ab-ccb2ed04220e-c01448ba.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/773d04b5-11f4-4ebd-982b-f470d98a07b5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.574584+00:00",
+        "subject": [
+          {
+            "name": "Subtract 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/773d04b5-11f4-4ebd-982b-f470d98a07b5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/773d04b5-11f4-4ebd-982b-f470d98a07b5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/773d04b5-11f4-4ebd-982b-f470d98a07b5-504bf1dc.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Speed Subtraction 1-18",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f93499af-c229-41aa-9e1f-5e28402f16e1",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.576973+00:00",
+        "subject": [
+          {
+            "name": "Speed Subtraction 1-18",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f93499af-c229-41aa-9e1f-5e28402f16e1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f93499af-c229-41aa-9e1f-5e28402f16e1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f93499af-c229-41aa-9e1f-5e28402f16e1-49883d95.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/df730b66-ddb7-468b-ad10-3d940d6446d9",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.579098+00:00",
+        "subject": [
+          {
+            "name": "Subtract 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/df730b66-ddb7-468b-ad10-3d940d6446d9.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/df730b66-ddb7-468b-ad10-3d940d6446d9/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/061cce8f-ddaf-49ba-9c8e-f35771993233-40cdeb06.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5199441d-5425-40eb-bb66-5e4a10c7ef5f",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.581644+00:00",
+        "subject": [
+          {
+            "name": "Subtract 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5199441d-5425-40eb-bb66-5e4a10c7ef5f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5199441d-5425-40eb-bb66-5e4a10c7ef5f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5199441d-5425-40eb-bb66-5e4a10c7ef5f-ee17282d.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e55a6c97-6b0d-4434-9fdc-2f4b9ae4f502",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.584244+00:00",
+        "subject": [
+          {
+            "name": "Subtract 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e55a6c97-6b0d-4434-9fdc-2f4b9ae4f502.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e55a6c97-6b0d-4434-9fdc-2f4b9ae4f502/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fb86be74-4738-4cd9-838b-8af2ec8c7812-399024a0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/2416c888-9c0d-425f-8486-6b0d8637c21c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.587727+00:00",
+        "subject": [
+          {
+            "name": "Subtract 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/2416c888-9c0d-425f-8486-6b0d8637c21c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/2416c888-9c0d-425f-8486-6b0d8637c21c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c5c00378-cb10-4c21-9c4a-3af40f609080-8a7b60a7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b04fef53-52a0-46a5-88a1-4dbc152e4686",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.591510+00:00",
+        "subject": [
+          {
+            "name": "Subtract 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b04fef53-52a0-46a5-88a1-4dbc152e4686.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b04fef53-52a0-46a5-88a1-4dbc152e4686/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1d04ea05-018e-4c55-8bf1-0a8152db1bf4-b7accf45.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಪದಗಳ ಅರ್ಥ 2",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/5174f004-15a8-49f8-b1cc-036472260fd2",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.870978+00:00",
+    "published": "2026-11-06T06:07:52.870978+00:00",
+    "description": "Interactive learning lesson: ಪದಗಳ ಅರ್ಥ 2",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/5174f004-15a8-49f8-b1cc-036472260fd2.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/5174f004-15a8-49f8-b1cc-036472260fd2/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/5174f004-15a8-49f8-b1cc-036472260fd2.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/a19fd510-803d-401e-9e4a-02cb8d042bfc",
+      "title": "ಪದಗಳ ಅರ್ಥ 2"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/5174f004-15a8-49f8-b1cc-036472260fd2.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/a19fd510-803d-401e-9e4a-02cb8d042bfc.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/a19fd510-803d-401e-9e4a-02cb8d042bfc.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

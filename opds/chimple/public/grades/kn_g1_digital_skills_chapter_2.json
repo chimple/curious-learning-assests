@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "title": "Shape Tractor",
+    "identifier": "621d6214-c6d2-46c6-82b0-429c8dcec39f"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g1_digital_skills_chapter_2.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Shape Sequence",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/bc35dd35-fb0a-45f9-a9ec-77251e227d75",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:49.482249+00:00",
+        "subject": [
+          {
+            "name": "Shape Sequence",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "puzzle01"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/bc35dd35-fb0a-45f9-a9ec-77251e227d75.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/bc35dd35-fb0a-45f9-a9ec-77251e227d75/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/759d031e-e050-42ac-82c1-ce0d4b7ad04f-ec972e07.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Shape Series",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d428092c-5d06-4722-acb9-0f4288741ea3",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:49.486329+00:00",
+        "subject": [
+          {
+            "name": "Shape Series",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "puzzle01"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d428092c-5d06-4722-acb9-0f4288741ea3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d428092c-5d06-4722-acb9-0f4288741ea3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9e519ff6-9c95-49d5-b7c9-612c18bf730d-15eb5fe2.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Shape Pattern",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/71f73598-f775-4b6e-80f6-91a0dab44d2a",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:49.490602+00:00",
+        "subject": [
+          {
+            "name": "Shape Pattern",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "puzzle01"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/71f73598-f775-4b6e-80f6-91a0dab44d2a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/71f73598-f775-4b6e-80f6-91a0dab44d2a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/22a41217-016e-4df5-8baf-1a2cdfd2bcab-bd8f02db.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Shape Order",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/efcaac2d-5437-4032-8a27-5d0e632d39e1",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:49.494604+00:00",
+        "subject": [
+          {
+            "name": "Shape Order",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "puzzle01"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/efcaac2d-5437-4032-8a27-5d0e632d39e1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/efcaac2d-5437-4032-8a27-5d0e632d39e1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/247a5ea9-5a34-4271-a171-0e93f0471ace-416b2a77.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Succession in Shapes",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1caecc25-1cdf-4f01-8e5f-f0503d9f5ffd",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:49.497516+00:00",
+        "subject": [
+          {
+            "name": "Succession in Shapes",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "puzzle01"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1caecc25-1cdf-4f01-8e5f-f0503d9f5ffd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1caecc25-1cdf-4f01-8e5f-f0503d9f5ffd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b3ec4874-3dc6-46b9-9358-3ec5fce87d45-f7addd7f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

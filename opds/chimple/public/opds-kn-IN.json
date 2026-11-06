@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "Chimple Kids Learning"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/opds-kn-IN.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respect.web.app/grades/grade_kn_g1.json",
+      "title": "1ನೇ ತರಗತಿ",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respect.web.app/images/grades/colorful_number_1.png",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "1ನೇ ತರಗತಿ"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/grade_kn_g2.json",
+      "title": "2ನೇ ತರಗತಿ",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respect.web.app/images/grades/colorful_number_2.png",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "2ನೇ ತರಗತಿ"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/grade_kn_g3.json",
+      "title": "3ನೇ ತರಗತಿ",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://chimple-respect.web.app/images/grades/colorful_number_3.png",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "3ನೇ ತರಗತಿ"
+        }
+      ]
+    }
+  ]
+}

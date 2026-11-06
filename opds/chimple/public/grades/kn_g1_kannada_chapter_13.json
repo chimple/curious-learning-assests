@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "ಕಲಿತ ಅಕ್ಷರಗಳು - ಸ್ವರ",
+    "identifier": "94db6f67-2107-4999-b208-57ae6bbb0356"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g1_kannada_chapter_13.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಅ - ಉ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/513a75f7-39fc-48ff-9f93-5845bc255f76",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:48.102205+00:00",
+        "subject": [
+          {
+            "name": "ಅ - ಉ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn12"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/513a75f7-39fc-48ff-9f93-5845bc255f76.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/513a75f7-39fc-48ff-9f93-5845bc255f76/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಊ - ಐ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/653124c0-4f7e-4c28-9836-90d6d6f5dd29",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:48.105067+00:00",
+        "subject": [
+          {
+            "name": "ಊ - ಐ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn12"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/653124c0-4f7e-4c28-9836-90d6d6f5dd29.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/653124c0-4f7e-4c28-9836-90d6d6f5dd29/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಒ - ಅಃ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/33d32200-fefb-41a8-ab84-061c0ba073e6",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:48.109406+00:00",
+        "subject": [
+          {
+            "name": "ಒ - ಅಃ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn12"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/33d32200-fefb-41a8-ab84-061c0ba073e6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/33d32200-fefb-41a8-ab84-061c0ba073e6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

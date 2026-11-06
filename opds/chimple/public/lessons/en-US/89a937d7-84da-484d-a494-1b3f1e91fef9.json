@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/89a937d7-84da-484d-a494-1b3f1e91fef9",
     "language": "en",
-    "modified": "2026-09-11T06:25:38.761750+00:00",
-    "published": "2026-09-11T06:25:38.761750+00:00",
+    "modified": "2026-11-06T06:07:45.355658+00:00",
+    "published": "2026-11-06T06:07:45.355658+00:00",
     "description": "Interactive learning lesson: Moon",
     "subject": [
       "Education",
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/drawshape0007.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/97ba4282-9d60-4fd3-bbda-2fbb6d58eff5-98cc4cc1.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_drawshape0007",
+      "href": "https://chimple.cc/LIDO_drawshape0007_DS",
       "title": "Moon"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/drawshape0007.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/97ba4282-9d60-4fd3-bbda-2fbb6d58eff5-98cc4cc1.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0007.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0007_DS.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "http://schema.org/Game",
-    "title": "\u0916\u0947\u0932-\u0916\u0947\u0932 \u092e\u0947\u0902 \u0917\u0923\u093f\u0924 1",
+    "title": "खेल-खेल में गणित 1",
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/fbe11ef2-e8f1-43fc-9642-5dc6bdb75eda",
     "language": "hi",
-    "modified": "2026-09-11T06:25:40.190176+00:00",
-    "published": "2026-09-11T06:25:40.190176+00:00",
-    "description": "Interactive learning lesson: \u0916\u0947\u0932-\u0916\u0947\u0932 \u092e\u0947\u0902 \u0917\u0923\u093f\u0924 1",
+    "modified": "2026-11-06T06:07:55.670185+00:00",
+    "published": "2026-11-06T06:07:55.670185+00:00",
+    "description": "Interactive learning lesson: खेल-खेल में गणित 1",
     "subject": [
       "Education",
       "Learning"
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_live_quiz_math_g1",
-      "title": "\u0916\u0947\u0932-\u0916\u0947\u0932 \u092e\u0947\u0902 \u0917\u0923\u093f\u0924 1"
+      "href": "https://chimple.cc/live_quiz_math_g1",
+      "title": "खेल-खेल में गणित 1"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
       "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "type": "image/png",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_live_quiz_math_g1.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/live_quiz_math_g1.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "title": "Addition Beginners",
+    "identifier": "75cb7bfc-16a7-4305-99fd-5e8982c33a8a"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g1_chapter_10.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Add 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/09a830dc-127c-4c99-ba81-196c2fbe3799",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.510924+00:00",
+        "subject": [
+          {
+            "name": "Add 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/09a830dc-127c-4c99-ba81-196c2fbe3799.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/09a830dc-127c-4c99-ba81-196c2fbe3799/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/09a830dc-127c-4c99-ba81-196c2fbe3799-185cbe52.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Add 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/17650cfe-f113-4efc-a8ec-8e9b338e72cb",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.513061+00:00",
+        "subject": [
+          {
+            "name": "Add 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/17650cfe-f113-4efc-a8ec-8e9b338e72cb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/17650cfe-f113-4efc-a8ec-8e9b338e72cb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/17650cfe-f113-4efc-a8ec-8e9b338e72cb-fa92d65d.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Add 3 and 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c293bcb3-b469-489b-aca8-f77e58b14367",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.517297+00:00",
+        "subject": [
+          {
+            "name": "Add 3 and 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c293bcb3-b469-489b-aca8-f77e58b14367.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c293bcb3-b469-489b-aca8-f77e58b14367/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c293bcb3-b469-489b-aca8-f77e58b14367-3e775365.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a41f269c-c352-4ab5-b431-7c64c9f8d0ae",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.519502+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a41f269c-c352-4ab5-b431-7c64c9f8d0ae.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a41f269c-c352-4ab5-b431-7c64c9f8d0ae/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a41f269c-c352-4ab5-b431-7c64c9f8d0ae-4d96e007.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a23b64fd-ec0b-475d-b61f-ca457efcb79d",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.523638+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a23b64fd-ec0b-475d-b61f-ca457efcb79d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a23b64fd-ec0b-475d-b61f-ca457efcb79d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f7399e2c-84a7-452b-9391-e114c893592d-d93709fc.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c4337fbb-1f4f-4f2b-9e59-beb58fb294d5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.525620+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c4337fbb-1f4f-4f2b-9e59-beb58fb294d5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c4337fbb-1f4f-4f2b-9e59-beb58fb294d5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c4337fbb-1f4f-4f2b-9e59-beb58fb294d5-1bc9859d.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Count and Add -1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fe5c0816-fec9-43b5-b10a-bbffbc99268b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.527848+00:00",
+        "subject": [
+          {
+            "name": "Count and Add -1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe5c0816-fec9-43b5-b10a-bbffbc99268b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe5c0816-fec9-43b5-b10a-bbffbc99268b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fe5c0816-fec9-43b5-b10a-bbffbc99268b-b9760b91.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Count and Add -2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6638e42e-1173-4657-b567-69dc1e0211c5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.530365+00:00",
+        "subject": [
+          {
+            "name": "Count and Add -2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths09"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6638e42e-1173-4657-b567-69dc1e0211c5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6638e42e-1173-4657-b567-69dc1e0211c5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ec8d65a1-0c99-47c5-8f28-4a3306a92b27-c981de71.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

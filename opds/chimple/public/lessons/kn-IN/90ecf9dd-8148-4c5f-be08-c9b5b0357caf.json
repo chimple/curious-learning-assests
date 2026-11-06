@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ವ್ಯಾಕರಣ",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/90ecf9dd-8148-4c5f-be08-c9b5b0357caf",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.868868+00:00",
+    "published": "2026-11-06T06:07:52.868868+00:00",
+    "description": "Interactive learning lesson: ವ್ಯಾಕರಣ",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/90ecf9dd-8148-4c5f-be08-c9b5b0357caf.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/90ecf9dd-8148-4c5f-be08-c9b5b0357caf/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/90ecf9dd-8148-4c5f-be08-c9b5b0357caf.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/2ffd0e28-d1ee-4d4a-8860-3a0360bbe503",
+      "title": "ವ್ಯಾಕರಣ"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/90ecf9dd-8148-4c5f-be08-c9b5b0357caf.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/2ffd0e28-d1ee-4d4a-8860-3a0360bbe503.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/2ffd0e28-d1ee-4d4a-8860-3a0360bbe503.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

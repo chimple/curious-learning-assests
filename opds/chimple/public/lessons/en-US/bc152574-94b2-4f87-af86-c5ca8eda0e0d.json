@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/bc152574-94b2-4f87-af86-c5ca8eda0e0d",
     "language": "en",
-    "modified": "2026-09-11T06:25:37.680655+00:00",
-    "published": "2026-09-11T06:25:37.680655+00:00",
+    "modified": "2026-11-06T06:07:43.761672+00:00",
+    "published": "2026-11-06T06:07:43.761672+00:00",
     "description": "Interactive learning lesson: Match Day Maths 1",
     "subject": [
       "Education",
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_live_quiz_math_g1",
+      "href": "https://chimple.cc/live_quiz_math_g1",
       "title": "Match Day Maths 1"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
       "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "type": "image/png",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_live_quiz_math_g1.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/live_quiz_math_g1.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

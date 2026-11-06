@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "ಆರಂಭಿಕ ಗುಣಾಕಾರ",
+    "identifier": "e80bbc20-eaaa-455d-a5a5-4f5841224e51"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g2_maths_chapter_5.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಕೋಷ್ಟಕ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1a47e67d-2a1b-45f0-85f7-1b7aca3e5740",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.282123+00:00",
+        "subject": [
+          {
+            "name": "ಕೋಷ್ಟಕ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1a47e67d-2a1b-45f0-85f7-1b7aca3e5740.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1a47e67d-2a1b-45f0-85f7-1b7aca3e5740/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/53168ed6-3428-45ea-b1d1-a9c2fd3d56c9-3455d13b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಎಣಿಸಿ ಮತ್ತು ಗುಣಿಸಿ 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f5a03583-3060-4735-b11f-61734a864a3b",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.285529+00:00",
+        "subject": [
+          {
+            "name": "ಎಣಿಸಿ ಮತ್ತು ಗುಣಿಸಿ 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f5a03583-3060-4735-b11f-61734a864a3b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f5a03583-3060-4735-b11f-61734a864a3b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8a85904d-4f65-4ca6-96fd-beb8632f830f-7b2d763f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2 ರ ಕೋಷ್ಟಕ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9babd43a-3f72-4a96-84d6-8cb94872ea11",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.311932+00:00",
+        "subject": [
+          {
+            "name": "2 ರ ಕೋಷ್ಟಕ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9babd43a-3f72-4a96-84d6-8cb94872ea11.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9babd43a-3f72-4a96-84d6-8cb94872ea11/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/88b9fc86-2959-44de-a148-3d34a476ea5d-4b6830c3.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2 ರಿಂದ ಮುಂದುವರಿಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fa14c8f3-6281-47ee-9498-5f17467c41d5",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.318716+00:00",
+        "subject": [
+          {
+            "name": "2 ರಿಂದ ಮುಂದುವರಿಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/fa14c8f3-6281-47ee-9498-5f17467c41d5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/fa14c8f3-6281-47ee-9498-5f17467c41d5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/dab8c5bf-63af-4ecc-8651-1c57f590a4d4-ecc40279.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಎಣಿಸಿ ಮತ್ತು ಗುಣಿಸಿ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ddd32399-a62f-4017-b927-2552d1dbefe9",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.323926+00:00",
+        "subject": [
+          {
+            "name": "ಎಣಿಸಿ ಮತ್ತು ಗುಣಿಸಿ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/ddd32399-a62f-4017-b927-2552d1dbefe9.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/ddd32399-a62f-4017-b927-2552d1dbefe9/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8044901f-9ba2-4527-b51f-eace037e9e6b-c8744983.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3 ರ ಕೋಷ್ಟಕ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3093412c-7e19-461f-be2b-fb4be2dd1ee1",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.328717+00:00",
+        "subject": [
+          {
+            "name": "3 ರ ಕೋಷ್ಟಕ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3093412c-7e19-461f-be2b-fb4be2dd1ee1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3093412c-7e19-461f-be2b-fb4be2dd1ee1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/40e9a3d2-11cd-4011-8175-8265d44e9d42-8903ab18.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3 ರಿಂದ ಮುಂದೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5abb85af-16db-4a47-80db-c1402197dd53",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.333876+00:00",
+        "subject": [
+          {
+            "name": "3 ರಿಂದ ಮುಂದೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths20"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5abb85af-16db-4a47-80db-c1402197dd53.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5abb85af-16db-4a47-80db-c1402197dd53/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ad230b79-2bcf-41ce-b093-84bc693a34e9-eeda34d6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

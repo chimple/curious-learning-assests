@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "title": "Practice Addition",
+    "identifier": "c751bc00-b8d9-4129-b911-94b04de41f29"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_7.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Practice 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f31d95ea-b78d-4181-8674-304e41660fc4",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.513731+00:00",
+        "subject": [
+          {
+            "name": "Practice 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f31d95ea-b78d-4181-8674-304e41660fc4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f31d95ea-b78d-4181-8674-304e41660fc4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b156f2c1-06dc-4a08-83fa-65bce240e62b-ff2790a4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/743be07b-6467-44e5-846e-c434d0e40d3e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.516007+00:00",
+        "subject": [
+          {
+            "name": "Practice 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/743be07b-6467-44e5-846e-c434d0e40d3e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/743be07b-6467-44e5-846e-c434d0e40d3e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/743be07b-6467-44e5-846e-c434d0e40d3e-33959b4a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f454a0e3-758a-4e48-aed5-f8bafc2d81a5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.518759+00:00",
+        "subject": [
+          {
+            "name": "Practice 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f454a0e3-758a-4e48-aed5-f8bafc2d81a5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f454a0e3-758a-4e48-aed5-f8bafc2d81a5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f454a0e3-758a-4e48-aed5-f8bafc2d81a5-e0502410.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f2f4854d-48e7-49ec-9d80-cdc4e1bd45a8",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.522467+00:00",
+        "subject": [
+          {
+            "name": "Practice 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f2f4854d-48e7-49ec-9d80-cdc4e1bd45a8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f2f4854d-48e7-49ec-9d80-cdc4e1bd45a8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f2f4854d-48e7-49ec-9d80-cdc4e1bd45a8-0b2df19c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/98e59347-748c-4803-ba5f-a66add400cbb",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.524588+00:00",
+        "subject": [
+          {
+            "name": "Practice 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/98e59347-748c-4803-ba5f-a66add400cbb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/98e59347-748c-4803-ba5f-a66add400cbb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/98e59347-748c-4803-ba5f-a66add400cbb-c7034b7b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f7fdaac8-8adf-4ee7-bf10-4667b5ad94a1",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.526682+00:00",
+        "subject": [
+          {
+            "name": "Practice 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f7fdaac8-8adf-4ee7-bf10-4667b5ad94a1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f7fdaac8-8adf-4ee7-bf10-4667b5ad94a1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f7fdaac8-8adf-4ee7-bf10-4667b5ad94a1-b9bee45e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/acd11807-12cd-4a90-9b0c-86a7fb77dde4",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.529102+00:00",
+        "subject": [
+          {
+            "name": "Practice 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/acd11807-12cd-4a90-9b0c-86a7fb77dde4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/acd11807-12cd-4a90-9b0c-86a7fb77dde4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/acd11807-12cd-4a90-9b0c-86a7fb77dde4-fd6dca62.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9444faf2-ea95-49f2-84c5-af5eb4f03f10",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.531247+00:00",
+        "subject": [
+          {
+            "name": "Practice 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9444faf2-ea95-49f2-84c5-af5eb4f03f10.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9444faf2-ea95-49f2-84c5-af5eb4f03f10/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cedd0146-cf4a-41c4-b1b8-5eac4a4d0df7-82d30c17.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/67aa67d9-086d-4313-9301-c8fd79670410",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.533802+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/67aa67d9-086d-4313-9301-c8fd79670410.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/67aa67d9-086d-4313-9301-c8fd79670410/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9b6d66b8-389e-43e9-9ed6-c38ec6894b7d-9ee5503b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6570f72d-f4ea-47ee-86fc-9c406079de1e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.536867+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6570f72d-f4ea-47ee-86fc-9c406079de1e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6570f72d-f4ea-47ee-86fc-9c406079de1e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6570f72d-f4ea-47ee-86fc-9c406079de1e-3ad8e97a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c5e2ca45-6633-4e03-a22c-ad1ba19ac97a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.540083+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c5e2ca45-6633-4e03-a22c-ad1ba19ac97a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c5e2ca45-6633-4e03-a22c-ad1ba19ac97a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c5e2ca45-6633-4e03-a22c-ad1ba19ac97a-cee597fe.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a6e7319b-0b7a-41d8-8f13-9155408fb299",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.542090+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a6e7319b-0b7a-41d8-8f13-9155408fb299.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a6e7319b-0b7a-41d8-8f13-9155408fb299/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a6e7319b-0b7a-41d8-8f13-9155408fb299-550f692f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/825e2cab-9209-4941-bdc3-57e4419c05b1",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.544163+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/825e2cab-9209-4941-bdc3-57e4419c05b1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/825e2cab-9209-4941-bdc3-57e4419c05b1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/46faac9e-9ec2-4fd2-97ae-8fb5a9e7f024-1a94afa5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5d0ce950-af0b-4f29-aedc-86eb956494cd",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.546711+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5d0ce950-af0b-4f29-aedc-86eb956494cd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5d0ce950-af0b-4f29-aedc-86eb956494cd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b83665a4-34ce-4caf-ae0b-d911b3e6f003-acffd615.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ecfd918e-3e8e-486d-bb5b-7b0bdbf2a0a6",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.550483+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ecfd918e-3e8e-486d-bb5b-7b0bdbf2a0a6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ecfd918e-3e8e-486d-bb5b-7b0bdbf2a0a6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ecfd918e-3e8e-486d-bb5b-7b0bdbf2a0a6-05d30be8.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Quick  Addition 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/59728878-7390-450e-8263-1475ef19e711",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.553987+00:00",
+        "subject": [
+          {
+            "name": "Quick  Addition 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/59728878-7390-450e-8263-1475ef19e711.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/59728878-7390-450e-8263-1475ef19e711/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/59728878-7390-450e-8263-1475ef19e711-96e764d1.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Add and Learn",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/241ce907-4867-44b9-a304-2edc02a40778",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.556287+00:00",
+        "subject": [
+          {
+            "name": "Add and Learn",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/241ce907-4867-44b9-a304-2edc02a40778.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/241ce907-4867-44b9-a304-2edc02a40778/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/241ce907-4867-44b9-a304-2edc02a40778-e01a52e4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More Additions",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b34fe01e-ad48-472d-aa74-121d8ff025dc",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.559391+00:00",
+        "subject": [
+          {
+            "name": "More Additions",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b34fe01e-ad48-472d-aa74-121d8ff025dc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b34fe01e-ad48-472d-aa74-121d8ff025dc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b34fe01e-ad48-472d-aa74-121d8ff025dc-c485ced5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Revisions",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/60eb1550-e591-4a79-911d-9e6026544a3a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.561951+00:00",
+        "subject": [
+          {
+            "name": "Revisions",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/60eb1550-e591-4a79-911d-9e6026544a3a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/60eb1550-e591-4a79-911d-9e6026544a3a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/60eb1550-e591-4a79-911d-9e6026544a3a-10e942b4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

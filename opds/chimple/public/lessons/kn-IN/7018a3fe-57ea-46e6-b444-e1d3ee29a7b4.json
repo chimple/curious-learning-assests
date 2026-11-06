@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 1 - 10",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/7018a3fe-57ea-46e6-b444-e1d3ee29a7b4",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:47.497092+00:00",
+    "published": "2026-11-06T06:07:47.497092+00:00",
+    "description": "Interactive learning lesson: ವೇಗವಾಗಿ ಕೂಡಿಸಿ 1 - 10",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/7018a3fe-57ea-46e6-b444-e1d3ee29a7b4.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/7018a3fe-57ea-46e6-b444-e1d3ee29a7b4/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cabcc40b-59d0-4ab6-9cd4-7bd436dbf0ec-9a88f4ff.webp",
+      "type": "image/webp",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/LIDO_maths1405_kn",
+      "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 1 - 10"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cabcc40b-59d0-4ab6-9cd4-7bd436dbf0ec-9a88f4ff.webp",
+      "type": "image/webp",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths1405_kn.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/maths1405.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

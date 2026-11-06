@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "Identify L",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/66bdd169-c9be-4a55-ae8b-7b74fceb1205",
+    "language": "en",
+    "modified": "2026-11-06T06:07:42.296145+00:00",
+    "published": "2026-11-06T06:07:42.296145+00:00",
+    "description": "Interactive learning lesson: Identify L",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/en-US/66bdd169-c9be-4a55-ae8b-7b74fceb1205.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/en-US/66bdd169-c9be-4a55-ae8b-7b74fceb1205/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/66bdd169-c9be-4a55-ae8b-7b74fceb1205.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/66bdd169-c9be-4a55-ae8b-7b74fceb1205",
+      "title": "Identify L"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/66bdd169-c9be-4a55-ae8b-7b74fceb1205.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/66bdd169-c9be-4a55-ae8b-7b74fceb1205.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/66bdd169-c9be-4a55-ae8b-7b74fceb1205.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

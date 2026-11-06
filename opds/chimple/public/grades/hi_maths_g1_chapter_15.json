@@ -1,0 +1,671 @@
+{
+  "metadata": {
+    "title": "बुनियादी योग",
+    "identifier": "cf1e0347-8922-4589-a7a9-b795b98a2089"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_maths_g1_chapter_15.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "शुरुआती योग",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fa1bbfbc-c91a-4b72-ab1a-73d3c1eb6268",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.550449+00:00",
+        "subject": [
+          {
+            "name": "शुरुआती योग",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fa1bbfbc-c91a-4b72-ab1a-73d3c1eb6268.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fa1bbfbc-c91a-4b72-ab1a-73d3c1eb6268/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7cadd36b-5020-4532-8115-4d802a569b6e-78520785.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "जोड़ना",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ff9990cf-51f0-407d-9310-181db18f1eb0",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.554242+00:00",
+        "subject": [
+          {
+            "name": "जोड़ना",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ff9990cf-51f0-407d-9310-181db18f1eb0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ff9990cf-51f0-407d-9310-181db18f1eb0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5bb0d956-23cf-4596-be10-276a34dca314-bd11e7fa.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "गिनें और जोड़ें 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1b9cbdc3-a04c-409d-867e-00f26f76f4f7",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.559872+00:00",
+        "subject": [
+          {
+            "name": "गिनें और जोड़ें 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1b9cbdc3-a04c-409d-867e-00f26f76f4f7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1b9cbdc3-a04c-409d-867e-00f26f76f4f7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/be5af6ea-b5cc-4def-8566-07ee5012412c-9f5fb075.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "गिनें और जोड़ें 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/efc565a0-6729-4e58-8c5a-a86d97de34e5",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.564027+00:00",
+        "subject": [
+          {
+            "name": "गिनें और जोड़ें 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/efc565a0-6729-4e58-8c5a-a86d97de34e5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/efc565a0-6729-4e58-8c5a-a86d97de34e5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/22f2c810-158f-440e-82d7-4a2d4745f962-b98cb30e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "10 का परिवार",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3913600c-8d15-4749-827f-ba6ebb3af9ea",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.568708+00:00",
+        "subject": [
+          {
+            "name": "10 का परिवार",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3913600c-8d15-4749-827f-ba6ebb3af9ea.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3913600c-8d15-4749-827f-ba6ebb3af9ea/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6a2f2772-a0a2-4ac4-9c75-11ae148ee61e-f7b982b7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "त्वरित जोड़ 1 10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/deffd485-1971-4409-8190-0d2a8e816ea6",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.572227+00:00",
+        "subject": [
+          {
+            "name": "त्वरित जोड़ 1 10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/deffd485-1971-4409-8190-0d2a8e816ea6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/deffd485-1971-4409-8190-0d2a8e816ea6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cabcc40b-59d0-4ab6-9cd4-7bd436dbf0ec-9a88f4ff.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "जोड़ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ca358c29-4693-474a-a5c3-7ebda6e14601",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.575515+00:00",
+        "subject": [
+          {
+            "name": "जोड़ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ca358c29-4693-474a-a5c3-7ebda6e14601.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ca358c29-4693-474a-a5c3-7ebda6e14601/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/eb160ac2-1bf9-4b12-aeea-571872b9d2a8-1ce5fb47.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "जोड़ 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e31847a8-f16c-4e77-9b10-91559d1ea4e4",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.579232+00:00",
+        "subject": [
+          {
+            "name": "जोड़ 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e31847a8-f16c-4e77-9b10-91559d1ea4e4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e31847a8-f16c-4e77-9b10-91559d1ea4e4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f27eeca8-2067-4469-a457-1ddb036e9848-35610aa7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "जोड़ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/64a62217-4067-4fd9-bbba-d04422088b5b",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.583056+00:00",
+        "subject": [
+          {
+            "name": "जोड़ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/64a62217-4067-4fd9-bbba-d04422088b5b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/64a62217-4067-4fd9-bbba-d04422088b5b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/637845ae-5695-4af3-9222-b60a60b06a2a-a05c0643.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "योग महारत",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/21da2bd6-6e1d-4e7d-acf5-dbd0af328c3f",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.586297+00:00",
+        "subject": [
+          {
+            "name": "योग महारत",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/21da2bd6-6e1d-4e7d-acf5-dbd0af328c3f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/21da2bd6-6e1d-4e7d-acf5-dbd0af328c3f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cee0f360-84d0-4fc4-a3f6-b07a418fedd6-ed227296.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20 का परिवार - 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ad291c45-fa4e-44dc-9130-1f7b18fdbfe2",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.589191+00:00",
+        "subject": [
+          {
+            "name": "20 का परिवार - 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ad291c45-fa4e-44dc-9130-1f7b18fdbfe2.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ad291c45-fa4e-44dc-9130-1f7b18fdbfe2/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/030f7a41-a0da-483c-9e60-7673211747be-463e63dc.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "20 का परिवार -2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3ede4240-d2be-48d2-aeb9-b053b6e6d8ec",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.591756+00:00",
+        "subject": [
+          {
+            "name": "20 का परिवार -2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3ede4240-d2be-48d2-aeb9-b053b6e6d8ec.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3ede4240-d2be-48d2-aeb9-b053b6e6d8ec/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7aa29aa4-c1c4-493e-a48b-12abce61aa37-cf1be6d0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "शुरुआती जोड़ 1 - 20",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c4e27540-c4dd-4053-801f-b40a2d6c122e",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.594478+00:00",
+        "subject": [
+          {
+            "name": "शुरुआती जोड़ 1 - 20",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c4e27540-c4dd-4053-801f-b40a2d6c122e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c4e27540-c4dd-4053-801f-b40a2d6c122e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/156baa10-1ae2-4c65-86cf-1decab5eb652-3b7a6379.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "अधिक जोड़ 1 - 20",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a08a2091-b4c3-43b2-acc6-b933276def0f",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.599603+00:00",
+        "subject": [
+          {
+            "name": "अधिक जोड़ 1 - 20",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a08a2091-b4c3-43b2-acc6-b933276def0f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a08a2091-b4c3-43b2-acc6-b933276def0f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/17f28d37-0c37-428f-80ea-ad5c5a56c98b-54a10057.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "त्वरित जोड़ - 20",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8463f338-4c1d-4b0a-b4b3-12bc5b3a9633",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.602559+00:00",
+        "subject": [
+          {
+            "name": "त्वरित जोड़ - 20",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8463f338-4c1d-4b0a-b4b3-12bc5b3a9633.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8463f338-4c1d-4b0a-b4b3-12bc5b3a9633/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0e697b6e-1372-4ef3-b253-39e703c269e1-c04680c6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "जोड़ 11 - 20",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/90a2f803-742c-48f0-9bb3-420571f42ee3",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:55.606531+00:00",
+        "subject": [
+          {
+            "name": "जोड़ 11 - 20",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths14"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/90a2f803-742c-48f0-9bb3-420571f42ee3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/90a2f803-742c-48f0-9bb3-420571f42ee3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/43c9ac03-1f29-46af-991d-6640557a9255-09b703a0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

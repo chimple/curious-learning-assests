@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "title": "ಮಾಡಿ ಕಲಿ - ಹಾಡಿ ನಲಿ",
+    "identifier": "8e8ae02e-13ef-428f-8d09-e5dba38a9d9c"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g2_kannada_chapter_1.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಚಿತ್ರ ರಚಿಸಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7366b587-0319-4812-b00d-ac84e37f83c8",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.886997+00:00",
+        "subject": [
+          {
+            "name": "ಚಿತ್ರ ರಚಿಸಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn2_00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/7366b587-0319-4812-b00d-ac84e37f83c8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/7366b587-0319-4812-b00d-ac84e37f83c8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}
