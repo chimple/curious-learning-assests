@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "ರೈತ ಮತ್ತು ಹದ್ದು",
+    "identifier": "72cdd4f9-4670-45b6-9724-25edcc45afa0"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g2_kannada_chapter_3.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಚಿತ್ರ ಗುರುತಿಸಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/4329ec5d-5b2d-4b9a-8fdf-18dab4fc9f7b",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.902332+00:00",
+        "subject": [
+          {
+            "name": "ಚಿತ್ರ ಗುರುತಿಸಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn2_02"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/4329ec5d-5b2d-4b9a-8fdf-18dab4fc9f7b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/4329ec5d-5b2d-4b9a-8fdf-18dab4fc9f7b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/441c619d-a7d5-459c-841e-c7f7b080ee7e",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.906346+00:00",
+        "subject": [
+          {
+            "name": "ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn2_02"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/441c619d-a7d5-459c-841e-c7f7b080ee7e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/441c619d-a7d5-459c-841e-c7f7b080ee7e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

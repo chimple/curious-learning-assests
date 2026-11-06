@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "वर्ष के महीने—4",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/b91578a3-0c99-4221-9305-9cdfc6573223",
+    "language": "hi",
+    "modified": "2026-11-06T06:07:57.693728+00:00",
+    "published": "2026-11-06T06:07:57.693728+00:00",
+    "description": "Interactive learning lesson: वर्ष के महीने—4",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/b91578a3-0c99-4221-9305-9cdfc6573223.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/hi-IN/b91578a3-0c99-4221-9305-9cdfc6573223/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/b91578a3-0c99-4221-9305-9cdfc6573223.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/b91578a3-0c99-4221-9305-9cdfc6573223",
+      "title": "वर्ष के महीने—4"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/b91578a3-0c99-4221-9305-9cdfc6573223.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/b91578a3-0c99-4221-9305-9cdfc6573223.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/b91578a3-0c99-4221-9305-9cdfc6573223.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

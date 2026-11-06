@@ -1,0 +1,507 @@
+{
+  "metadata": {
+    "title": "Number Sense 1-10",
+    "identifier": "3e5c0bd3-5013-40fa-8acc-71c6e35d9a5c"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g1_chapter_4.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Match Numbers 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1555bee7-af67-4ce4-8a28-50b65c236613",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.364764+00:00",
+        "subject": [
+          {
+            "name": "Match Numbers 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1555bee7-af67-4ce4-8a28-50b65c236613.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1555bee7-af67-4ce4-8a28-50b65c236613/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/efcffac3-fbf5-491c-adf5-a92f248d6bc1-af0e3026.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Numbers 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ce111df7-f45f-45f6-9bd5-018506f4f148",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.367379+00:00",
+        "subject": [
+          {
+            "name": "Match Numbers 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ce111df7-f45f-45f6-9bd5-018506f4f148.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ce111df7-f45f-45f6-9bd5-018506f4f148/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e077a318-ea09-427c-b5e9-d41aba67bf64-c3db5c95.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Numbers 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ce784f89-8fe8-4101-b202-44f4e4354bff",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.371094+00:00",
+        "subject": [
+          {
+            "name": "Match Numbers 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ce784f89-8fe8-4101-b202-44f4e4354bff.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ce784f89-8fe8-4101-b202-44f4e4354bff/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5bf08d04-a3cd-4301-9969-13ace7d84c1c-4bef67d2.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Numbers 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e6e3e55d-44d8-4c80-b69c-3a28d240722d",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.373263+00:00",
+        "subject": [
+          {
+            "name": "Match Numbers 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e6e3e55d-44d8-4c80-b69c-3a28d240722d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e6e3e55d-44d8-4c80-b69c-3a28d240722d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ed8adaaa-675e-40f1-a72e-6aab3979eb69-db1d7131.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Numbers 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/30af031f-9a3d-45b7-92ab-18bbe863090c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.375721+00:00",
+        "subject": [
+          {
+            "name": "Match Numbers 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/30af031f-9a3d-45b7-92ab-18bbe863090c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/30af031f-9a3d-45b7-92ab-18bbe863090c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/30af031f-9a3d-45b7-92ab-18bbe863090c-06bd340c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Order 1-5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e613bbe9-96f4-4e82-a912-f75f75dc7877",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.378215+00:00",
+        "subject": [
+          {
+            "name": "Number Order 1-5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e613bbe9-96f4-4e82-a912-f75f75dc7877.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e613bbe9-96f4-4e82-a912-f75f75dc7877/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0b4fc7e8-272b-47b0-9863-7e055c144b82-95059c49.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Order 6-10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7496d211-2361-402c-bb42-063eb06236ad",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.380399+00:00",
+        "subject": [
+          {
+            "name": "Number Order 6-10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7496d211-2361-402c-bb42-063eb06236ad.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7496d211-2361-402c-bb42-063eb06236ad/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7496d211-2361-402c-bb42-063eb06236ad-e4c7c4ba.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Series 1-8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/150ed4e6-b5d1-4f09-8791-9179943b0a2b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.382896+00:00",
+        "subject": [
+          {
+            "name": "Number Series 1-8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/150ed4e6-b5d1-4f09-8791-9179943b0a2b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/150ed4e6-b5d1-4f09-8791-9179943b0a2b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/150ed4e6-b5d1-4f09-8791-9179943b0a2b-ae1e58ee.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Series 6-9",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7972ba6e-818e-4131-8e83-e675f7776189",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.386043+00:00",
+        "subject": [
+          {
+            "name": "Number Series 6-9",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7972ba6e-818e-4131-8e83-e675f7776189.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7972ba6e-818e-4131-8e83-e675f7776189/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2f870325-45e5-4371-9ba6-e50d2b55ae8e-8f50286f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Series 7-10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/693a51a4-dc17-4b00-836d-9361e4df6d49",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.389784+00:00",
+        "subject": [
+          {
+            "name": "Number Series 7-10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/693a51a4-dc17-4b00-836d-9361e4df6d49.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/693a51a4-dc17-4b00-836d-9361e4df6d49/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/693a51a4-dc17-4b00-836d-9361e4df6d49-da1ab324.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Number Series 1- 9",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/af693d70-fe52-4cfa-bb7a-33bd1b9820d4",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.392560+00:00",
+        "subject": [
+          {
+            "name": "Number Series 1- 9",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/af693d70-fe52-4cfa-bb7a-33bd1b9820d4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/af693d70-fe52-4cfa-bb7a-33bd1b9820d4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5ffb75a9-df22-4fd7-85dc-f3f77243a3e8-371ee7de.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Big to Small",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/64b20f5b-0fc7-4a46-bb39-9625a19a1c93",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.395535+00:00",
+        "subject": [
+          {
+            "name": "Big to Small",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/64b20f5b-0fc7-4a46-bb39-9625a19a1c93.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/64b20f5b-0fc7-4a46-bb39-9625a19a1c93/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d16d78b6-fced-416e-aa85-c9e92f5f69db-e5576e35.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

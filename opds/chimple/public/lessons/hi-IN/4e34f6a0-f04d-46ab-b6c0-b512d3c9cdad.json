@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "http://schema.org/Game",
-    "title": "\u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940",
+    "title": "अनुलंब जोड़ - शुरुआती",
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/4e34f6a0-f04d-46ab-b6c0-b512d3c9cdad",
     "language": "hi",
-    "modified": "2026-09-11T06:25:40.536113+00:00",
-    "published": "2026-09-11T06:25:40.536113+00:00",
-    "description": "Interactive learning lesson: \u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940",
+    "modified": "2026-11-06T06:07:57.088431+00:00",
+    "published": "2026-11-06T06:07:57.088431+00:00",
+    "description": "Interactive learning lesson: अनुलंब जोड़ - शुरुआती",
     "subject": [
       "Education",
       "Learning"
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/maths2101.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/905d22d7-8964-4e4f-8f4f-cb0f2434242a-a2719cb5.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_maths2101_hi",
-      "title": "\u0905\u0928\u0941\u0932\u0902\u092c \u091c\u094b\u0921\u093c - \u0936\u0941\u0930\u0941\u0906\u0924\u0940"
+      "href": "https://chimple.cc/07bd4ff8-31d1-49a4-9519-2912c0d32910",
+      "title": "अनुलंब जोड़ - शुरुआती"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/maths2101.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/905d22d7-8964-4e4f-8f4f-cb0f2434242a-a2719cb5.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2101_hi.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/07bd4ff8-31d1-49a4-9519-2912c0d32910.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

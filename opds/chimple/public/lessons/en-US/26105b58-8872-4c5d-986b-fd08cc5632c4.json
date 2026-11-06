@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/26105b58-8872-4c5d-986b-fd08cc5632c4",
     "language": "en",
-    "modified": "2026-09-11T06:25:38.817268+00:00",
-    "published": "2026-09-11T06:25:38.817268+00:00",
+    "modified": "2026-11-06T06:07:45.364343+00:00",
+    "published": "2026-11-06T06:07:45.364343+00:00",
     "description": "Interactive learning lesson: Trophy",
     "subject": [
       "Education",
@@ -37,7 +37,7 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/13828a49-77ba-4796-b2e4-fe287dfe6fa6-eea97dba.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_drawshape0011",
+      "href": "https://chimple.cc/LIDO_drawshape0011_DS",
       "title": "Trophy"
     }
   ],
   "resources": [
     {
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/13828a49-77ba-4796-b2e4-fe287dfe6fa6-eea97dba.png",
       "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0011.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_drawshape0011_DS.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

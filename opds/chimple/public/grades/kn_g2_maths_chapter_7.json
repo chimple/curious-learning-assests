@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "title": "ಕೂಡಿಸುವ ಅಭ್ಯಾಸ",
+    "identifier": "47cff426-d80e-45a8-868d-9ba278b12393"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g2_maths_chapter_7.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/79d4e1ca-2fc2-4dc9-97d2-eaead5fee83d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.366233+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/79d4e1ca-2fc2-4dc9-97d2-eaead5fee83d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/79d4e1ca-2fc2-4dc9-97d2-eaead5fee83d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b156f2c1-06dc-4a08-83fa-65bce240e62b-ff2790a4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a97b3ea1-d1ea-457e-baa0-4c0d7b3c8171",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.369112+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/a97b3ea1-d1ea-457e-baa0-4c0d7b3c8171.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/a97b3ea1-d1ea-457e-baa0-4c0d7b3c8171/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/743be07b-6467-44e5-846e-c434d0e40d3e-33959b4a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e5edf3cb-552e-4811-88ef-09206e936a8d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.371867+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e5edf3cb-552e-4811-88ef-09206e936a8d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e5edf3cb-552e-4811-88ef-09206e936a8d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f454a0e3-758a-4e48-aed5-f8bafc2d81a5-e0502410.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0b7515df-02f0-4b6f-9f53-a1789c076cc8",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.377382+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0b7515df-02f0-4b6f-9f53-a1789c076cc8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0b7515df-02f0-4b6f-9f53-a1789c076cc8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f2f4854d-48e7-49ec-9d80-cdc4e1bd45a8-0b2df19c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5f5b1d04-a293-4cc8-ae53-15bc70d33d62",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.381897+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5f5b1d04-a293-4cc8-ae53-15bc70d33d62.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5f5b1d04-a293-4cc8-ae53-15bc70d33d62/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/98e59347-748c-4803-ba5f-a66add400cbb-c7034b7b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c3d5fa31-bc69-4de0-a0a7-89c0b9ba6f1e",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.385781+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/c3d5fa31-bc69-4de0-a0a7-89c0b9ba6f1e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/c3d5fa31-bc69-4de0-a0a7-89c0b9ba6f1e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f7fdaac8-8adf-4ee7-bf10-4667b5ad94a1-b9bee45e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1c381ddc-9006-4ce1-80db-8223d8250a1d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.392476+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1c381ddc-9006-4ce1-80db-8223d8250a1d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1c381ddc-9006-4ce1-80db-8223d8250a1d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/acd11807-12cd-4a90-9b0c-86a7fb77dde4-fd6dca62.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಭ್ಯಾಸ 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1eb035b8-d355-4c23-9c28-31ac74499dae",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.396973+00:00",
+        "subject": [
+          {
+            "name": "ಅಭ್ಯಾಸ 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1eb035b8-d355-4c23-9c28-31ac74499dae.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1eb035b8-d355-4c23-9c28-31ac74499dae/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cedd0146-cf4a-41c4-b1b8-5eac4a4d0df7-82d30c17.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1aedb35b-a5cb-455a-bbbf-4caa19687a84",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.402103+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1aedb35b-a5cb-455a-bbbf-4caa19687a84.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1aedb35b-a5cb-455a-bbbf-4caa19687a84/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9b6d66b8-389e-43e9-9ed6-c38ec6894b7d-9ee5503b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9cd641a0-74af-4c48-bfb1-8c7e33d63d2a",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.406134+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9cd641a0-74af-4c48-bfb1-8c7e33d63d2a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9cd641a0-74af-4c48-bfb1-8c7e33d63d2a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6570f72d-f4ea-47ee-86fc-9c406079de1e-3ad8e97a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/05255557-4297-498e-b865-366ae5cf1de9",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.410281+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/05255557-4297-498e-b865-366ae5cf1de9.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/05255557-4297-498e-b865-366ae5cf1de9/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c5e2ca45-6633-4e03-a22c-ad1ba19ac97a-cee597fe.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3a94dd8c-d158-4ff9-b75d-56feee201eb0",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.413383+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3a94dd8c-d158-4ff9-b75d-56feee201eb0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3a94dd8c-d158-4ff9-b75d-56feee201eb0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a6e7319b-0b7a-41d8-8f13-9155408fb299-550f692f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/67ca52fd-7ebc-4078-a958-2272d006e26e",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.417346+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/67ca52fd-7ebc-4078-a958-2272d006e26e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/67ca52fd-7ebc-4078-a958-2272d006e26e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/46faac9e-9ec2-4fd2-97ae-8fb5a9e7f024-1a94afa5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/29e4b0f7-a3d2-4732-8814-8a37529c20c6",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.419943+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/29e4b0f7-a3d2-4732-8814-8a37529c20c6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/29e4b0f7-a3d2-4732-8814-8a37529c20c6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b83665a4-34ce-4caf-ae0b-d911b3e6f003-acffd615.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e21fd1fa-6140-4fd8-beab-ab7e2cefa775",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.422979+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e21fd1fa-6140-4fd8-beab-ab7e2cefa775.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e21fd1fa-6140-4fd8-beab-ab7e2cefa775/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ecfd918e-3e8e-486d-bb5b-7b0bdbf2a0a6-05d30be8.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3e854775-2257-4ac7-81a8-fc9dd2b66d16",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.425533+00:00",
+        "subject": [
+          {
+            "name": "ವೇಗವಾಗಿ ಕೂಡಿಸಿ 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3e854775-2257-4ac7-81a8-fc9dd2b66d16.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/3e854775-2257-4ac7-81a8-fc9dd2b66d16/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/59728878-7390-450e-8263-1475ef19e711-96e764d1.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಕೂಡುಸಿ ಕಲಿಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e1394ebb-3657-486e-bfd2-933f579ac351",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.428465+00:00",
+        "subject": [
+          {
+            "name": "ಕೂಡುಸಿ ಕಲಿಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e1394ebb-3657-486e-bfd2-933f579ac351.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e1394ebb-3657-486e-bfd2-933f579ac351/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/241ce907-4867-44b9-a304-2edc02a40778-e01a52e4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಇನ್ನಷ್ಟು ಲೆಕ್ಕಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/415e1c8a-a68b-42e5-9562-576c78cb598d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.431403+00:00",
+        "subject": [
+          {
+            "name": "ಇನ್ನಷ್ಟು ಲೆಕ್ಕಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/415e1c8a-a68b-42e5-9562-576c78cb598d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/415e1c8a-a68b-42e5-9562-576c78cb598d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b34fe01e-ad48-472d-aa74-121d8ff025dc-c485ced5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಪರಿಷ್ಕರಣೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/995ec7fb-9e82-4c99-86b4-40b9f2af8aea",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:50.435900+00:00",
+        "subject": [
+          {
+            "name": "ಪರಿಷ್ಕರಣೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/995ec7fb-9e82-4c99-86b4-40b9f2af8aea.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/995ec7fb-9e82-4c99-86b4-40b9f2af8aea/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/60eb1550-e591-4a79-911d-9e6026544a3a-10e942b4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

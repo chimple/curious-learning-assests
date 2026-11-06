@@ -1,0 +1,548 @@
+{
+  "metadata": {
+    "title": "Talking Toys",
+    "identifier": "27c62e7d-b9f7-4e9b-9468-e17df707544c"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g3_english_chapter_6.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Word Cards - 10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1fe9451c-a377-4e79-b990-1f85a5629f1c",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.064409+00:00",
+        "subject": [
+          {
+            "name": "Word Cards - 10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1fe9451c-a377-4e79-b990-1f85a5629f1c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1fe9451c-a377-4e79-b990-1f85a5629f1c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1f062683-f410-4ddd-9d05-7beeec05d4d8-f69a7507.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "The Toy Shop",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/90903dd1-d2e4-4626-a642-647c981ca785",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.067337+00:00",
+        "subject": [
+          {
+            "name": "The Toy Shop",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/90903dd1-d2e4-4626-a642-647c981ca785.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/90903dd1-d2e4-4626-a642-647c981ca785/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/94834483-ea51-4001-b28c-f5c2017a4480-472eb1f6.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "The Sale Begins",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/db211791-00e3-4245-951a-03bab2027d23",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.071838+00:00",
+        "subject": [
+          {
+            "name": "The Sale Begins",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/db211791-00e3-4245-951a-03bab2027d23.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/db211791-00e3-4245-951a-03bab2027d23/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9ee5c92f-6dbd-491e-b5dc-b2ea94e4d920-65f0b04c.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Toys Find New Homes",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/abecf07e-cbca-453b-bc03-b036f2095cb4",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.076004+00:00",
+        "subject": [
+          {
+            "name": "Toys Find New Homes",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/abecf07e-cbca-453b-bc03-b036f2095cb4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/abecf07e-cbca-453b-bc03-b036f2095cb4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/be597e8f-c388-431e-b49c-4005f434c67a-3fbddf3a.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Voices in the Toy Shop",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6f42abd1-1614-46df-9640-64430c998299",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.079923+00:00",
+        "subject": [
+          {
+            "name": "Voices in the Toy Shop",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/6f42abd1-1614-46df-9640-64430c998299.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/6f42abd1-1614-46df-9640-64430c998299/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7cc70ee0-563b-427a-8d7c-28eb91714802-36d1834a.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Summary of Talking Toys",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0a83ca11-a3e3-4ca0-ad8b-507020c49ed8",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.082735+00:00",
+        "subject": [
+          {
+            "name": "Summary of Talking Toys",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0a83ca11-a3e3-4ca0-ad8b-507020c49ed8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0a83ca11-a3e3-4ca0-ad8b-507020c49ed8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/faae1b73-e4f8-4d93-80cb-6a650aecda0f-e4b56dd3.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Describing Words (Adjectives)",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b6409841-6992-4213-bc07-1e3ca305f8a7",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.085577+00:00",
+        "subject": [
+          {
+            "name": "Describing Words (Adjectives)",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b6409841-6992-4213-bc07-1e3ca305f8a7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b6409841-6992-4213-bc07-1e3ca305f8a7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9c2141dc-e43d-4b44-8d2d-2f98df9f1244-987ba31c.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "One or More",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/76bf9e60-0ab5-4c1e-ad3b-7a03f9607e9e",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.088084+00:00",
+        "subject": [
+          {
+            "name": "One or More",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/76bf9e60-0ab5-4c1e-ad3b-7a03f9607e9e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/76bf9e60-0ab5-4c1e-ad3b-7a03f9607e9e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/607ddac9-61fd-4364-931a-34337da627c4-9ac85d7b.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "My Top",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b2e642fb-5a0b-4659-a472-812bc9369b8b",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.090978+00:00",
+        "subject": [
+          {
+            "name": "My Top",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b2e642fb-5a0b-4659-a472-812bc9369b8b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b2e642fb-5a0b-4659-a472-812bc9369b8b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/76a44a6a-041d-4897-b837-f057fe90c8b5-d6e24005.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "The Bird's Kite",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b6da8acf-78ab-4233-86e5-c0c72c1ac9da",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.095161+00:00",
+        "subject": [
+          {
+            "name": "The Bird's Kite",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b6da8acf-78ab-4233-86e5-c0c72c1ac9da.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b6da8acf-78ab-4233-86e5-c0c72c1ac9da/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f7b2d88b-6baa-4d58-8587-cec3178c8b4c-9b0965ee.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Spell It - 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/36be4c4f-aac9-4034-97aa-78bcac52555c",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.098400+00:00",
+        "subject": [
+          {
+            "name": "Spell It - 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/36be4c4f-aac9-4034-97aa-78bcac52555c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/36be4c4f-aac9-4034-97aa-78bcac52555c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/4d02985c-33dd-48ef-be07-ca7de3ce9b10-f9e6714f.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Make a Puppet",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b0cfba3f-d67b-4995-b085-44b9731697da",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.100948+00:00",
+        "subject": [
+          {
+            "name": "Make a Puppet",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b0cfba3f-d67b-4995-b085-44b9731697da.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/b0cfba3f-d67b-4995-b085-44b9731697da/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d2c2fc9b-b8e0-48c3-9308-5ca349869fed-fa4002fd.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "B for Bird",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f509a611-128c-439b-9736-0d71b97b2900",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.103783+00:00",
+        "subject": [
+          {
+            "name": "B for Bird",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "null"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f509a611-128c-439b-9736-0d71b97b2900.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f509a611-128c-439b-9736-0d71b97b2900/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ccee1bd5-2d78-4f73-b064-d8ef1105521a-38bb8dd5.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

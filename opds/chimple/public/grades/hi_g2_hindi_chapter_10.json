@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "जटिल वाक्य",
+    "identifier": "7fecce25-2d5c-4b40-97bb-2d08a58f3053"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g2_hindi_chapter_10.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "पढ़ने का अभ्यास",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/4f0faeaf-3d1d-4d36-9406-fbf63f65fd85",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.028738+00:00",
+        "subject": [
+          {
+            "name": "पढ़ने का अभ्यास",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi19"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4f0faeaf-3d1d-4d36-9406-fbf63f65fd85.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4f0faeaf-3d1d-4d36-9406-fbf63f65fd85/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/3cdf206b-b0d5-46f2-a326-602c3b89b594-5efab2ca.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पढ़ने के कौशल",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ac305fec-0c50-4c51-ab1e-74410c6916f2",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.031243+00:00",
+        "subject": [
+          {
+            "name": "पढ़ने के कौशल",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi19"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ac305fec-0c50-4c51-ab1e-74410c6916f2.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/ac305fec-0c50-4c51-ab1e-74410c6916f2/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f2dbba1a-c2a1-40d0-b409-69e155ae2289-3e867fae.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पढ़ने के सुधार",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/cf957390-07b4-4c70-a0fe-ec9749c8d6d0",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.034675+00:00",
+        "subject": [
+          {
+            "name": "पढ़ने के सुधार",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi19"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/cf957390-07b4-4c70-a0fe-ec9749c8d6d0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/cf957390-07b4-4c70-a0fe-ec9749c8d6d0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/cf957390-07b4-4c70-a0fe-ec9749c8d6d0-c0f64223.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "सुदृढीकरण",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/43d8698c-f6b3-4f2b-9835-7bd087d11bc1",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.038451+00:00",
+        "subject": [
+          {
+            "name": "सुदृढीकरण",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi19"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/43d8698c-f6b3-4f2b-9835-7bd087d11bc1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/43d8698c-f6b3-4f2b-9835-7bd087d11bc1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/66dedeec-e6ce-44f9-b4cf-7a26fab3498a-07dcef4e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "संशोधन",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c29f78b3-6d25-4cbd-b515-080cb1cbca13",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.042162+00:00",
+        "subject": [
+          {
+            "name": "संशोधन",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi19"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c29f78b3-6d25-4cbd-b515-080cb1cbca13.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c29f78b3-6d25-4cbd-b515-080cb1cbca13/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c29f78b3-6d25-4cbd-b515-080cb1cbca13-889b0917.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Match Day Hindi 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e111db92-a3be-4ddf-bfac-26f957022a01",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.044382+00:00",
+        "subject": [
+          {
+            "name": "Match Day Hindi 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi_0002"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e111db92-a3be-4ddf-bfac-26f957022a01.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e111db92-a3be-4ddf-bfac-26f957022a01/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Final match 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/720ef21c-bc76-415b-b673-8ea717a159a6",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.047482+00:00",
+        "subject": [
+          {
+            "name": "Final match 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi_0004"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/720ef21c-bc76-415b-b673-8ea717a159a6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/720ef21c-bc76-415b-b673-8ea717a159a6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

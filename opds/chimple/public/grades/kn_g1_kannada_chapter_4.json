@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "title": "ಅಕ್ಷರಾಭ್ಯಾಸ 4",
+    "identifier": "c97d6411-9e08-4710-b3ef-85b99053fd28"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g1_kannada_chapter_4.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಅಕ್ಷರ ಕಲಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d52badee-86e4-4d8f-bae1-93ddc8110321",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.829559+00:00",
+        "subject": [
+          {
+            "name": "ಅಕ್ಷರ ಕಲಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d52badee-86e4-4d8f-bae1-93ddc8110321.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d52badee-86e4-4d8f-bae1-93ddc8110321/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಅಕ್ಷರ ಜೋಡಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f8149afa-46c8-417c-8529-9ec1910e3a01",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.832998+00:00",
+        "subject": [
+          {
+            "name": "ಅಕ್ಷರ ಜೋಡಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f8149afa-46c8-417c-8529-9ec1910e3a01.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f8149afa-46c8-417c-8529-9ec1910e3a01/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಬರೆಯಿರಿ ಮತ್ತು ಕಲಿಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5ec700df-6725-44f8-b894-7ddc5ac8c38b",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.836071+00:00",
+        "subject": [
+          {
+            "name": "ಬರೆಯಿರಿ ಮತ್ತು ಕಲಿಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5ec700df-6725-44f8-b894-7ddc5ac8c38b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5ec700df-6725-44f8-b894-7ddc5ac8c38b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಚಿತ್ರಕ್ಕೆ ಪದ ಹೊಂದಿಸಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/bc23c7f5-a119-4e9e-9c48-bac39d780422",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.838865+00:00",
+        "subject": [
+          {
+            "name": "ಚಿತ್ರಕ್ಕೆ ಪದ ಹೊಂದಿಸಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/bc23c7f5-a119-4e9e-9c48-bac39d780422.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/bc23c7f5-a119-4e9e-9c48-bac39d780422/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಬುಗ್ಗೆಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c4b08e25-e86c-44f0-82bf-912c0493610b",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.842264+00:00",
+        "subject": [
+          {
+            "name": "ಬುಗ್ಗೆಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/c4b08e25-e86c-44f0-82bf-912c0493610b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/c4b08e25-e86c-44f0-82bf-912c0493610b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಭರ್ತಿ ಮಾಡಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/66931717-ece8-4318-b340-bd5851e1f8d8",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.847816+00:00",
+        "subject": [
+          {
+            "name": "ಭರ್ತಿ ಮಾಡಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/66931717-ece8-4318-b340-bd5851e1f8d8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/66931717-ece8-4318-b340-bd5851e1f8d8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಪದ ರಚನೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e22d30a7-91f4-4301-9781-42be3806e776",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.851377+00:00",
+        "subject": [
+          {
+            "name": "ಪದ ರಚನೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e22d30a7-91f4-4301-9781-42be3806e776.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/e22d30a7-91f4-4301-9781-42be3806e776/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಪದ ಬರೆಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0af87930-72f5-40cc-a41b-29b70eefca48",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.854419+00:00",
+        "subject": [
+          {
+            "name": "ಪದ ಬರೆಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0af87930-72f5-40cc-a41b-29b70eefca48.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0af87930-72f5-40cc-a41b-29b70eefca48/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ವಾಕ್ಯ ರಚಿಸಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/190c61e7-34e1-4aec-a0fb-acf4c6e11071",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.858117+00:00",
+        "subject": [
+          {
+            "name": "ವಾಕ್ಯ ರಚಿಸಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "kn03"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/190c61e7-34e1-4aec-a0fb-acf4c6e11071.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/190c61e7-34e1-4aec-a0fb-acf4c6e11071/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://chimple-respect.web.app/images/icons/default.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

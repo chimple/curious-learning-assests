@@ -1,0 +1,507 @@
+{
+  "metadata": {
+    "title": "घटाव - प्राथमिक",
+    "identifier": "33cf010b-007f-4c23-8ea1-79b6ef85ef0b"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_maths_g2_chapter_8.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "गिनें और घटाएँ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/06bcf18f-4669-41fb-839f-3a12cbc3cb69",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.171365+00:00",
+        "subject": [
+          {
+            "name": "गिनें और घटाएँ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/06bcf18f-4669-41fb-839f-3a12cbc3cb69.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/06bcf18f-4669-41fb-839f-3a12cbc3cb69/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/95235e42-b5ff-45dc-b139-c57f3655b370-48c5eaa5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "कैलकुलेटर - 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e813264f-a51e-4886-b8de-ffdd124d3a57",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.174464+00:00",
+        "subject": [
+          {
+            "name": "कैलकुलेटर - 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e813264f-a51e-4886-b8de-ffdd124d3a57.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e813264f-a51e-4886-b8de-ffdd124d3a57/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a9b877f2-ff66-4cfb-a268-4ffe8d74b8af-e3244076.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "कैलकुलेटर - 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/03980b95-c0c9-4563-b257-6756001744ab",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.177763+00:00",
+        "subject": [
+          {
+            "name": "कैलकुलेटर - 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/03980b95-c0c9-4563-b257-6756001744ab.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/03980b95-c0c9-4563-b257-6756001744ab/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/20fbd581-781f-4b6e-8eb5-82d2485c4266-95c1f02a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "कैलकुलेटर 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1b2c4fba-0a37-4277-b7c3-2178ce0b7d77",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.180823+00:00",
+        "subject": [
+          {
+            "name": "कैलकुलेटर 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1b2c4fba-0a37-4277-b7c3-2178ce0b7d77.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1b2c4fba-0a37-4277-b7c3-2178ce0b7d77/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8a59ba53-eeed-4603-9225-130d40fa5a0c-6522ca53.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाना",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/735aa654-204d-480d-9bdb-6ed87f756dc4",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.184099+00:00",
+        "subject": [
+          {
+            "name": "घटाना",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/735aa654-204d-480d-9bdb-6ed87f756dc4.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/735aa654-204d-480d-9bdb-6ed87f756dc4/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2b61db42-44bc-4624-b6ab-ccb2ed04220e-c01448ba.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाओ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/14cac8df-248f-4219-8989-7ca582463394",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.187546+00:00",
+        "subject": [
+          {
+            "name": "घटाओ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/14cac8df-248f-4219-8989-7ca582463394.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/14cac8df-248f-4219-8989-7ca582463394/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/773d04b5-11f4-4ebd-982b-f470d98a07b5-504bf1dc.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "गति घटाव 1 18",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/160f950f-d5a0-436a-a2e2-1a22de77f384",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.189861+00:00",
+        "subject": [
+          {
+            "name": "गति घटाव 1 18",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/160f950f-d5a0-436a-a2e2-1a22de77f384.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/160f950f-d5a0-436a-a2e2-1a22de77f384/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f93499af-c229-41aa-9e1f-5e28402f16e1-49883d95.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाना 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/bdee439d-c061-4686-9ef7-e8205fb0043c",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.192259+00:00",
+        "subject": [
+          {
+            "name": "घटाना 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/bdee439d-c061-4686-9ef7-e8205fb0043c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/bdee439d-c061-4686-9ef7-e8205fb0043c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/061cce8f-ddaf-49ba-9c8e-f35771993233-40cdeb06.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाओ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/37d579ff-6935-4ae0-86b5-47d333a6a688",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.194345+00:00",
+        "subject": [
+          {
+            "name": "घटाओ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/37d579ff-6935-4ae0-86b5-47d333a6a688.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/37d579ff-6935-4ae0-86b5-47d333a6a688/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5199441d-5425-40eb-bb66-5e4a10c7ef5f-ee17282d.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाओ 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/2d059a26-f364-4639-8f0e-c5ad87a3c1c3",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.197133+00:00",
+        "subject": [
+          {
+            "name": "घटाओ 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/2d059a26-f364-4639-8f0e-c5ad87a3c1c3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/2d059a26-f364-4639-8f0e-c5ad87a3c1c3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fb86be74-4738-4cd9-838b-8af2ec8c7812-399024a0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाओ 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c226c704-25bd-4f1c-93b7-a6a5423efa6e",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.201007+00:00",
+        "subject": [
+          {
+            "name": "घटाओ 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c226c704-25bd-4f1c-93b7-a6a5423efa6e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c226c704-25bd-4f1c-93b7-a6a5423efa6e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c5c00378-cb10-4c21-9c4a-3af40f609080-8a7b60a7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "घटाओ 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0c5e356b-7d56-4f97-bc66-b6f7bc4e6812",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.203766+00:00",
+        "subject": [
+          {
+            "name": "घटाओ 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths23"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0c5e356b-7d56-4f97-bc66-b6f7bc4e6812.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0c5e356b-7d56-4f97-bc66-b6f7bc4e6812/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1d04ea05-018e-4c55-8bf1-0a8152db1bf4-b7accf45.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

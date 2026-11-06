@@ -9,8 +9,8 @@
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/74f840e9-df99-4818-ac36-e732def7ec7b",
     "language": "hi",
-    "modified": "2026-09-11T06:25:40.587637+00:00",
-    "published": "2026-09-11T06:25:40.587637+00:00",
+    "modified": "2026-11-06T06:07:57.212352+00:00",
+    "published": "2026-11-06T06:07:57.212352+00:00",
     "description": "Interactive learning lesson: 300-500",
     "subject": [
       "Education",
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/maths2402.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ffa20c32-4f80-4fe1-8e9c-727ed7a75c47-d2c58fc7.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_maths2402_en",
+      "href": "https://chimple.cc/db42cc0c-5b03-4aed-8db0-62b24a5e2c7a",
       "title": "300-500"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/maths2402.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ffa20c32-4f80-4fe1-8e9c-727ed7a75c47-d2c58fc7.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths2402_en.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/db42cc0c-5b03-4aed-8db0-62b24a5e2c7a.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

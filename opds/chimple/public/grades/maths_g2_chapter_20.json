@@ -1,0 +1,1040 @@
+{
+  "metadata": {
+    "title": "Measurement",
+    "identifier": "1a6bc214-5d63-4a4a-890f-4b5d4d7fcbcd"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_20.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Basics",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6635be02-3211-42d8-bb7c-53bf7faa3c67",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.097567+00:00",
+        "subject": [
+          {
+            "name": "Basics",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6635be02-3211-42d8-bb7c-53bf7faa3c67.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6635be02-3211-42d8-bb7c-53bf7faa3c67/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/53667947-4c11-419e-b490-57c53dc9aad0-a0421e2b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Comparison",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/49f83c4c-b43d-430e-876d-390dbc8d4696",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.099550+00:00",
+        "subject": [
+          {
+            "name": "Comparison",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/49f83c4c-b43d-430e-876d-390dbc8d4696.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/49f83c4c-b43d-430e-876d-390dbc8d4696/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d24d0c70-0a84-40a4-8bdc-b7574216d855-28ffef93.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More Comparisons",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/eee6f5bc-1252-4f42-9fd5-57e753891261",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.102635+00:00",
+        "subject": [
+          {
+            "name": "More Comparisons",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eee6f5bc-1252-4f42-9fd5-57e753891261.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eee6f5bc-1252-4f42-9fd5-57e753891261/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/725f872b-a665-4040-b09c-eb41975eb7e8-a19ea105.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Units of Measurement",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7bcd0d32-4e41-4ca3-acd1-3a52c4c22261",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.105709+00:00",
+        "subject": [
+          {
+            "name": "Units of Measurement",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7bcd0d32-4e41-4ca3-acd1-3a52c4c22261.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7bcd0d32-4e41-4ca3-acd1-3a52c4c22261/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9a0b1e9c-9e97-4dc5-9e84-a48aebf252db-0aef663b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Parts & Whole",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3ea95986-dd54-44e2-aafc-2edc5c42debb",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.108211+00:00",
+        "subject": [
+          {
+            "name": "Parts & Whole",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3ea95986-dd54-44e2-aafc-2edc5c42debb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3ea95986-dd54-44e2-aafc-2edc5c42debb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/46ef393a-f66f-4efe-9ec6-536930dbcbfa-57fdc598.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Parts & Whole 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/51ffa96b-9f89-476c-b7b1-f0447dc5d264",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.110427+00:00",
+        "subject": [
+          {
+            "name": "Parts & Whole 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/51ffa96b-9f89-476c-b7b1-f0447dc5d264.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/51ffa96b-9f89-476c-b7b1-f0447dc5d264/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/51ffa96b-9f89-476c-b7b1-f0447dc5d264-9574afd8.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More or Less",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/da30ed63-fe36-4430-98c6-d7e47be63e96",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.113089+00:00",
+        "subject": [
+          {
+            "name": "More or Less",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/da30ed63-fe36-4430-98c6-d7e47be63e96.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/da30ed63-fe36-4430-98c6-d7e47be63e96/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/34c0eab9-158b-4fa1-bf6a-207fef2a0748-51c32125.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More or Less 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/58d0f9dd-e1d6-4b01-9534-ddecebbe1862",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.115159+00:00",
+        "subject": [
+          {
+            "name": "More or Less 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/58d0f9dd-e1d6-4b01-9534-ddecebbe1862.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/58d0f9dd-e1d6-4b01-9534-ddecebbe1862/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/bf2095f3-5d30-4fc1-8297-94e0991bbe1d-bce99f35.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Big or Small",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5f53aa08-2b60-477c-b54e-b23d2d61e10b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.118967+00:00",
+        "subject": [
+          {
+            "name": "Big or Small",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5f53aa08-2b60-477c-b54e-b23d2d61e10b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/5f53aa08-2b60-477c-b54e-b23d2d61e10b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/3649f60d-6474-4a6a-936c-30877936f07b-77f3ada2.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Tall, Long and Short",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c203dbd2-e02b-4827-9038-10c068c709ae",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.122421+00:00",
+        "subject": [
+          {
+            "name": "Tall, Long and Short",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c203dbd2-e02b-4827-9038-10c068c709ae.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c203dbd2-e02b-4827-9038-10c068c709ae/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c67d059c-dcae-4cb9-bb34-0bd56433ff7b-91a93f8b.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Tall, Long and Short 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/646f6f02-6a80-413f-b5ed-5bc557fe751b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.124978+00:00",
+        "subject": [
+          {
+            "name": "Tall, Long and Short 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/646f6f02-6a80-413f-b5ed-5bc557fe751b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/646f6f02-6a80-413f-b5ed-5bc557fe751b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/aeccdaef-3e98-47fd-86e3-84fd70b11e56-2438dcfe.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Long, Tall, Short",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/38034990-462c-478c-b116-3eeb1076230e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.127646+00:00",
+        "subject": [
+          {
+            "name": "Long, Tall, Short",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/38034990-462c-478c-b116-3eeb1076230e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/38034990-462c-478c-b116-3eeb1076230e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/70320c78-c15a-47aa-8662-199703171693-6ae4eea9.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Long, Tall, Short -1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d85ec995-f982-46ad-9e25-bf20453ed985",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.130256+00:00",
+        "subject": [
+          {
+            "name": "Long, Tall, Short -1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d85ec995-f982-46ad-9e25-bf20453ed985.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/d85ec995-f982-46ad-9e25-bf20453ed985/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d85ec995-f982-46ad-9e25-bf20453ed985-fb0d2dc6.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Longest, Tallest, Shortest",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a748f14a-0f7f-4d97-a3f1-3b8a09182fff",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.132369+00:00",
+        "subject": [
+          {
+            "name": "Longest, Tallest, Shortest",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a748f14a-0f7f-4d97-a3f1-3b8a09182fff.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a748f14a-0f7f-4d97-a3f1-3b8a09182fff/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8dcd729d-2345-440d-85b4-61658267f6b7-4140b6d5.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Longest, Tallest, Shortest - 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6066ea2c-8072-4605-bc6d-769f3d35d856",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.134969+00:00",
+        "subject": [
+          {
+            "name": "Longest, Tallest, Shortest - 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6066ea2c-8072-4605-bc6d-769f3d35d856.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/6066ea2c-8072-4605-bc6d-769f3d35d856/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6066ea2c-8072-4605-bc6d-769f3d35d856-5e996eea.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Half",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b82a5f7c-ac1f-43e0-87d2-95b92fa43f0b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.138999+00:00",
+        "subject": [
+          {
+            "name": "Half",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b82a5f7c-ac1f-43e0-87d2-95b92fa43f0b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b82a5f7c-ac1f-43e0-87d2-95b92fa43f0b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/4d087f05-de72-4de1-b91f-8b61fa3bdcb2-ab492df4.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Capacity of Glass",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/474ff28b-8fda-4ee8-981d-7dbaebb6fdd0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.141696+00:00",
+        "subject": [
+          {
+            "name": "Capacity of Glass",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/474ff28b-8fda-4ee8-981d-7dbaebb6fdd0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/474ff28b-8fda-4ee8-981d-7dbaebb6fdd0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b4b075e7-043f-4e71-b708-dc7305ff1ef2-1a3a47fb.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Parts Of Whole - 1/2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/10d2358d-bbe0-4d03-8a27-bb06fd920704",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.144417+00:00",
+        "subject": [
+          {
+            "name": "Parts Of Whole - 1/2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/10d2358d-bbe0-4d03-8a27-bb06fd920704.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/10d2358d-bbe0-4d03-8a27-bb06fd920704/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/681e5096-200a-44ae-84a8-f9014c0f4826-8552ed6c.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Parts Of Whole - 1/4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1dfa3bd6-9afd-4fbd-8e63-5c1658b133bc",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.147376+00:00",
+        "subject": [
+          {
+            "name": "Parts Of Whole - 1/4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1dfa3bd6-9afd-4fbd-8e63-5c1658b133bc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1dfa3bd6-9afd-4fbd-8e63-5c1658b133bc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0006451a-0a67-46d7-8ef2-691044a95b7c-d3303735.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Parts Of Whole - 3/4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/71274597-723e-42be-8f9c-22bd8e81b1e5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.149899+00:00",
+        "subject": [
+          {
+            "name": "Parts Of Whole - 3/4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/71274597-723e-42be-8f9c-22bd8e81b1e5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/71274597-723e-42be-8f9c-22bd8e81b1e5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/71274597-723e-42be-8f9c-22bd8e81b1e5-69ff0d2f.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Heavy or Light 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3d9b783b-0dc9-454a-8e06-254b94990964",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.153130+00:00",
+        "subject": [
+          {
+            "name": "Heavy or Light 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d9b783b-0dc9-454a-8e06-254b94990964.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d9b783b-0dc9-454a-8e06-254b94990964/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/55440cf5-0221-4491-9c06-52f4a47f1577-361ed07a.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Heavy or Light 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fe81f0ed-5468-409b-bcde-6d10b985eaee",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.156759+00:00",
+        "subject": [
+          {
+            "name": "Heavy or Light 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe81f0ed-5468-409b-bcde-6d10b985eaee.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe81f0ed-5468-409b-bcde-6d10b985eaee/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e6bea65d-2146-4691-8549-846524c0b6cf-dc5ad28c.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Heavy or Light 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1d6a87e5-3234-41a2-ba51-c9e7924d91c5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.161924+00:00",
+        "subject": [
+          {
+            "name": "Heavy or Light 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1d6a87e5-3234-41a2-ba51-c9e7924d91c5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/1d6a87e5-3234-41a2-ba51-c9e7924d91c5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1d6a87e5-3234-41a2-ba51-c9e7924d91c5-a29e27a2.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Heavy or Light 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0bf53c07-a66f-4e42-87d8-13c982f08f09",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.163700+00:00",
+        "subject": [
+          {
+            "name": "Heavy or Light 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/0bf53c07-a66f-4e42-87d8-13c982f08f09.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/0bf53c07-a66f-4e42-87d8-13c982f08f09/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f787d26d-8198-4a7c-b0b6-9b3dbe5d19b3-59e9a05d.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Heaviest or Lightest?",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3a9cb03a-6783-4ee9-bd0c-8d25e735190c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.165580+00:00",
+        "subject": [
+          {
+            "name": "Heaviest or Lightest?",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en36"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3a9cb03a-6783-4ee9-bd0c-8d25e735190c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3a9cb03a-6783-4ee9-bd0c-8d25e735190c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ab6fcd39-4af2-4e44-88cf-7417f9abc562-5dcd17d4.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

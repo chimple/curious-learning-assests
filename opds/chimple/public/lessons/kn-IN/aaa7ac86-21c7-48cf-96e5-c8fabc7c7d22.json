@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "100 ರಚಿಸೋಣ - 1",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/aaa7ac86-21c7-48cf-96e5-c8fabc7c7d22",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.431844+00:00",
+    "published": "2026-11-06T06:07:52.431844+00:00",
+    "description": "Interactive learning lesson: 100 ರಚಿಸೋಣ - 1",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/aaa7ac86-21c7-48cf-96e5-c8fabc7c7d22.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/aaa7ac86-21c7-48cf-96e5-c8fabc7c7d22/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/aaa7ac86-21c7-48cf-96e5-c8fabc7c7d22.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/e203cacc-adaf-44ea-bfa1-a8ec3c764056",
+      "title": "100 ರಚಿಸೋಣ - 1"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/aaa7ac86-21c7-48cf-96e5-c8fabc7c7d22.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/e203cacc-adaf-44ea-bfa1-a8ec3c764056.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/e203cacc-adaf-44ea-bfa1-a8ec3c764056.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

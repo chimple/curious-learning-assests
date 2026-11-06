@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "Number Sense 1 - 100",
+    "identifier": "4aec33d3-114f-4202-a0d1-5ee966f556c3"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g1_chapter_9.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Number Order",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/904c9253-feb1-4fa2-85c2-57727e6f88ad",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.492572+00:00",
+        "subject": [
+          {
+            "name": "Number Order",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/904c9253-feb1-4fa2-85c2-57727e6f88ad.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/904c9253-feb1-4fa2-85c2-57727e6f88ad/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/904c9253-feb1-4fa2-85c2-57727e6f88ad-5519d8f0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Big & Small 1-5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/bb3a3af2-539b-4b1c-a623-fbd5aefe03c2",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.494671+00:00",
+        "subject": [
+          {
+            "name": "Big & Small 1-5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/bb3a3af2-539b-4b1c-a623-fbd5aefe03c2.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/bb3a3af2-539b-4b1c-a623-fbd5aefe03c2/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5c13385c-2f45-407d-a99f-7e4a209d03d3-6dfa3ba6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Compare With 10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/78fa8f82-b5f9-41ca-bf58-2e6dc534dddc",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.497131+00:00",
+        "subject": [
+          {
+            "name": "Compare With 10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/78fa8f82-b5f9-41ca-bf58-2e6dc534dddc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/78fa8f82-b5f9-41ca-bf58-2e6dc534dddc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/78fa8f82-b5f9-41ca-bf58-2e6dc534dddc-c0259ac4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Count and Compare",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/419505d6-bf58-4109-9f7c-a9bd2523ac7a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.499570+00:00",
+        "subject": [
+          {
+            "name": "Count and Compare",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/419505d6-bf58-4109-9f7c-a9bd2523ac7a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/419505d6-bf58-4109-9f7c-a9bd2523ac7a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ef7f17f5-6ca6-4754-b086-84c7f2a5964e-5774b416.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Big & Small  1-10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/66b4eb92-46f6-4aaf-932e-93267614973d",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.503598+00:00",
+        "subject": [
+          {
+            "name": "Big & Small  1-10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/66b4eb92-46f6-4aaf-932e-93267614973d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/66b4eb92-46f6-4aaf-932e-93267614973d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/66b4eb92-46f6-4aaf-932e-93267614973d-e88eb1cd.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Arrange Numbers 1-100",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3d6e22fb-c5e2-4a1c-b7f1-2bfd727ca0c0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.506236+00:00",
+        "subject": [
+          {
+            "name": "Arrange Numbers 1-100",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d6e22fb-c5e2-4a1c-b7f1-2bfd727ca0c0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d6e22fb-c5e2-4a1c-b7f1-2bfd727ca0c0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e10f1416-283f-491c-a5b8-9993d46dc83b-b5f42bcb.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "3D shapes",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c99857ff-fad0-4830-b809-e1cfb3c31b69",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.508559+00:00",
+        "subject": [
+          {
+            "name": "3D shapes",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths08"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c99857ff-fad0-4830-b809-e1cfb3c31b69.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/c99857ff-fad0-4830-b809-e1cfb3c31b69/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c99857ff-fad0-4830-b809-e1cfb3c31b69-78b368c1.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

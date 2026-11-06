@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "ಚಿಗುರು",
+    "identifier": "7c5c455a-7f69-4ee7-8300-9484691b6cd4"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g3_kannada_chapter_5.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಪದಗಳ ಅರ್ಥ 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9fd4b5e7-63c8-47c9-8308-4dcd05496719",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.905701+00:00",
+        "subject": [
+          {
+            "name": "ಪದಗಳ ಅರ್ಥ 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9fd4b5e7-63c8-47c9-8308-4dcd05496719.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9fd4b5e7-63c8-47c9-8308-4dcd05496719/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/9fd4b5e7-63c8-47c9-8308-4dcd05496719.jpg",
+          "type": "image/jpeg",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಗುರುಗಳೊಂದಿಗೆ ಚರ್ಚೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/eed2dc2f-fad6-4f9a-a0df-9e9b795600a0",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.907928+00:00",
+        "subject": [
+          {
+            "name": "ಗುರುಗಳೊಂದಿಗೆ ಚರ್ಚೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/eed2dc2f-fad6-4f9a-a0df-9e9b795600a0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/eed2dc2f-fad6-4f9a-a0df-9e9b795600a0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/eed2dc2f-fad6-4f9a-a0df-9e9b795600a0.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ನೋಡಿ ಕಲಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9923fadf-2970-4070-a518-04efb8a78c5f",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:52.913950+00:00",
+        "subject": [
+          {
+            "name": "ನೋಡಿ ಕಲಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9923fadf-2970-4070-a518-04efb8a78c5f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/9923fadf-2970-4070-a518-04efb8a78c5f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/9923fadf-2970-4070-a518-04efb8a78c5f.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,31 +1,29 @@
 #!/usr/bin/env python3
-"""Build the RESPECT lesson workbook used by the Chimple/Lido script.
+"""Build the RESPECT lesson workbook from a Chimple course-ID configuration.
 
-Three source modes are supported:
+The configuration keeps course assignments aligned with Chimple's
+language/grade/subject hierarchy instead of hard-coding a fixed sheet list.
+
+Course IDs are grouped by language, grade, and subject in
+``chimple_course_config.json``. Three source modes are supported:
 
 1) Dashboard API mode (recommended for fresh data)
-   The script takes a curriculum ID plus grade IDs and calls a dashboard/API
-   endpoint that returns course-detail rows. Configure the endpoint using
-   --api-url or CHIMPLE_DASHBOARD_API_URL.
+   The script requests course-detail rows by course ID. Configure the endpoint
+   using --api-url or CHIMPLE_DASHBOARD_API_URL.
 
 2) Dashboard XLSX mode
-   The script can rebuild the five output sheets from an existing Chimple
-   dashboard export. If an ``All Courses`` sheet is present, it uses it to
-   validate/repair grade/course membership instead of blindly copying tabs.
+   The script filters an existing Chimple dashboard export by the configured
+   course IDs. If no ``All Courses`` sheet exists, matching group sheets are used.
 
 3) Direct Supabase mode
    The script reads the public course, chapter, chapter_lesson, and lesson
-   tables directly. Supply the URL and key as arguments or environment
+   tables by course ID. Supply the URL and key as arguments or environment
    variables; credentials are never stored in this script.
 
-Hindi mode keeps all existing courses and appends separate Hindi Maths Grade 1
-and 2 sheets from Hindi course IDs or a separate workbook.
-
-The output workbook normally contains these sheets:
-  English Grade 1, English Grade 2, Maths Grade 1, Maths Grade 2, Digital Skills
-Hindi mode additionally writes: Hindi Maths Grade 1, Hindi Maths Grade 2
-and exactly these columns:
-  lesson_id, title, lesson_name, cocos_lesson_code, lido_lesson_id,
+The output workbook has one sheet per language, grade, and subject combination,
+with these columns:
+  lesson_id, title, lesson_name, grade, curriculum, chapter_id, chapter_name,
+  chapter_image, lesson_image, cocos_lesson_code, lido_lesson_id,
   cocosChapterCode, Asset Link
 """
 
@@ -36,7 +34,6 @@ import json
 import os
 import re
 import sys
-from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
 
@@ -46,66 +43,37 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 OUTPUT_NAME = "Respect Course Latest All Course Details From dashboard.xlsx"
+DEFAULT_COURSE_CONFIG = Path(__file__).with_name("chimple_course_config.json")
 CLI_EXAMPLES = """
-PowerShell API mode (Hindi is detected from the Hindi Maths IDs):
+PowerShell API mode:
   $env:CHIMPLE_DASHBOARD_API_URL = "https://your-dashboard.example/course-details"
   $env:CHIMPLE_DASHBOARD_API_TOKEN = "<token>"  # optional
-  python .\build_respect_course_workbook.py `
-    --api `
-    --curriculum-id "CURRICULUM_ID" `
-    --english-grade-1-id "ENGLISH_GRADE_1_COURSE_ID" `
-    --english-grade-2-id "ENGLISH_GRADE_2_COURSE_ID" `
-    --maths-grade-1-id "MATHS_GRADE_1_COURSE_ID" `
-    --maths-grade-2-id "MATHS_GRADE_2_COURSE_ID" `
-    --hindi-math-grade-1-id "HINDI_MATHS_GRADE_1_ID" `
-    --hindi-math-grade-2-id "HINDI_MATHS_GRADE_2_ID" `
-    --digital-grade-id "DIGITAL_SKILLS_ID" `
-    --output "Respect Course Latest All Course Details From dashboard.xlsx"
+  python .\build_respect_course_workbook.py
 
 PowerShell Supabase mode:
   $env:SUPABASE_URL = "https://your-project.supabase.co"
   $env:SUPABASE_ANON_KEY = "<key>"
-  python .\build_respect_course_workbook.py `
-    --supabase `
-    --curriculum-id "CURRICULUM_ID" `
-    --english-grade-1-id "ENGLISH_GRADE_1_COURSE_ID" `
-    --english-grade-2-id "ENGLISH_GRADE_2_COURSE_ID" `
-    --maths-grade-1-id "MATHS_GRADE_1_COURSE_ID" `
-    --maths-grade-2-id "MATHS_GRADE_2_COURSE_ID" `
-    --hindi-math-grade-1-id "HINDI_MATHS_GRADE_1_ID" `
-    --hindi-math-grade-2-id "HINDI_MATHS_GRADE_2_ID" `
-    --digital-grade-id "DIGITAL_SKILLS_ID" `
-    --output "Respect Course Latest All Course Details From dashboard.xlsx"
+  python .\build_respect_course_workbook.py
 
 The Supabase key can also be supplied through SUPABASE_SERVICE_ROLE_KEY.
+When exactly one backend is configured in the environment, it is selected automatically.
+If both are configured, pass --api or --supabase to choose one.
 """
-SHEETS = [
-    "English Grade 1",
-    "English Grade 2",
-    "Maths Grade 1",
-    "Maths Grade 2",
-    "Digital Skills",
-]
-HINDI_MATHS_SHEETS = ["Hindi Maths Grade 1", "Hindi Maths Grade 2"]
-ALL_SHEETS = SHEETS + HINDI_MATHS_SHEETS
 COLUMNS = [
     "lesson_id",
     "title",
     "lesson_name",
+    "grade",
+    "curriculum",
+    "chapter_id",
+    "chapter_name",
+    "chapter_image",
+    "lesson_image",
     "cocos_lesson_code",
     "lido_lesson_id",
     "cocosChapterCode",
     "Asset Link",
 ]
-
-# Used only to identify the intended course inside a broad dashboard XLSX export.
-SHEET_HINTS = {
-    "English Grade 1": ("Grade 1", "English"),
-    "English Grade 2": ("Grade 2", "English"),
-    "Maths Grade 1": ("Grade 1", "Maths"),
-    "Maths Grade 2": ("Grade 2", "Maths"),
-    "Digital Skills": ("Below Grade 1", "Digital Skills"),
-}
 
 ASSET_BASE = "https://raw.githubusercontent.com/chimple/chimple-zips/main"
 
@@ -113,6 +81,12 @@ ALIASES = {
     "lesson_id": ["lesson_id", "lessonId", "lesson_doc_id", "doc_id"],
     "title": ["title", "lesson_name", "lessonName", "name"],
     "lesson_name": ["lesson_name", "lessonName", "title", "name"],
+    "grade": ["grade", "grade_name", "course_grade_name"],
+    "curriculum": ["curriculum", "curriculum_name"],
+    "chapter_id": ["chapter_id", "chapterId", "chapter_doc_id"],
+    "chapter_name": ["chapter_name", "chapterName", "chapter_title"],
+    "chapter_image": ["chapter_image", "chapterImage", "Chapter-Icon-Link"],
+    "lesson_image": ["lesson_image", "lessonImage", "Lesson-Icon-Link"],
     "cocos_lesson_code": [
         "cocos_lesson_code",
         "cocosLessonCode",
@@ -129,8 +103,6 @@ ALIASES = {
     ],
     "Asset Link": ["Asset Link", "asset_link", "assetLink", "zip_url", "zipUrl"],
     "course_id": ["course_id", "courseId"],
-    "course_name": ["course_name", "courseName", "subject_name", "subjectName"],
-    "course_grade_name": ["course_grade_name", "grade_name", "gradeName"],
 }
 
 
@@ -144,6 +116,72 @@ def clean_text(value: Any) -> str:
     if isinstance(value, float) and value.is_integer():
         return str(int(value))
     return str(value).strip()
+
+
+def load_course_groups(path: Path) -> List[Dict[str, Any]]:
+    try:
+        config = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Cannot read course configuration {path}: {exc}") from exc
+
+    if not isinstance(config, dict) or config.get("application") != "Chimple Kids Learning":
+        raise ValueError("Course configuration application must be 'Chimple Kids Learning'.")
+    languages = config.get("languages")
+    if not isinstance(languages, list) or not languages:
+        raise ValueError("Course configuration must contain a non-empty languages array.")
+
+    groups: List[Dict[str, Any]] = []
+    seen_sheets: set[str] = set()
+    for language_entry in languages:
+        if not isinstance(language_entry, dict):
+            raise ValueError("Each language entry must be an object.")
+        language = clean_text(language_entry.get("language"))
+        grades = language_entry.get("grades")
+        if not language or not isinstance(grades, list):
+            raise ValueError("Each language needs a name and a grades array.")
+
+        for grade_entry in grades:
+            if not isinstance(grade_entry, dict):
+                raise ValueError(f"Grades for {language} must be objects.")
+            grade = clean_text(grade_entry.get("grade"))
+            subjects = grade_entry.get("subjects")
+            if not grade or not isinstance(subjects, list):
+                raise ValueError(f"Each {language} grade needs a number and subjects array.")
+
+            for subject_entry in subjects:
+                if not isinstance(subject_entry, dict):
+                    raise ValueError(f"Subjects for {language} Grade {grade} must be objects.")
+                subject = clean_text(subject_entry.get("subject"))
+                raw_course_ids = subject_entry.get("courses")
+                if not subject or not isinstance(raw_course_ids, list):
+                    raise ValueError(
+                        f"Each {language} Grade {grade} subject needs a name and courses array."
+                    )
+                course_ids = [clean_text(course_id) for course_id in raw_course_ids]
+                if any(not course_id for course_id in course_ids):
+                    raise ValueError(
+                        f"Course IDs cannot be empty in {language} Grade {grade} {subject}."
+                    )
+
+                sheet = f"{language} Grade {grade} {subject}"
+                if len(sheet) > 31:
+                    raise ValueError(f"Excel sheet name exceeds 31 characters: {sheet!r}.")
+                if sheet in seen_sheets:
+                    raise ValueError(f"Duplicate language/grade/subject group: {sheet!r}.")
+                seen_sheets.add(sheet)
+                groups.append(
+                    {
+                        "language": language,
+                        "grade": grade,
+                        "subject": subject,
+                        "course_ids": list(dict.fromkeys(course_ids)),
+                        "sheet": sheet,
+                    }
+                )
+
+    if not groups:
+        raise ValueError("Course configuration must include at least one grade and subject.")
+    return groups
 
 
 def pick(row: Mapping[str, Any], canonical: str) -> Any:
@@ -197,6 +235,12 @@ def normalize_lesson(row: Mapping[str, Any], generate_asset: bool = True) -> Opt
         "lesson_id": lesson_id,
         "title": name,
         "lesson_name": name,
+        "grade": clean_text(pick(row, "grade")),
+        "curriculum": clean_text(pick(row, "curriculum")),
+        "chapter_id": clean_text(pick(row, "chapter_id")),
+        "chapter_name": clean_text(pick(row, "chapter_name")),
+        "chapter_image": clean_text(pick(row, "chapter_image")),
+        "lesson_image": clean_text(pick(row, "lesson_image")),
         "cocos_lesson_code": cocos_code,
         "lido_lesson_id": lido_lesson_id,
         "cocosChapterCode": chapter_code,
@@ -235,21 +279,6 @@ def dedupe_lessons(rows: Iterable[Dict[str, str]]) -> List[Dict[str, str]]:
     return result
 
 
-def parse_grade_args(items: Sequence[str]) -> Dict[str, str]:
-    mapping: Dict[str, str] = {}
-    for item in items:
-        if "=" not in item:
-            raise ValueError(f"Invalid --grade-id {item!r}; use 'SHEET NAME=GRADE_ID'.")
-        sheet, grade_id = item.split("=", 1)
-        sheet, grade_id = sheet.strip(), grade_id.strip()
-        if sheet not in ALL_SHEETS:
-            raise ValueError(f"Unknown sheet in --grade-id: {sheet!r}")
-        if not grade_id:
-            raise ValueError(f"Empty grade ID for {sheet!r}")
-        mapping[sheet] = grade_id
-    return mapping
-
-
 def extract_json_rows(payload: Any) -> List[Dict[str, Any]]:
     if isinstance(payload, list):
         return [x for x in payload if isinstance(x, dict)]
@@ -265,33 +294,9 @@ def extract_json_rows(payload: Any) -> List[Dict[str, Any]]:
     raise ValueError("API response does not contain a recognizable row list.")
 
 
-def subject_matches(sheet: str, row: Mapping[str, Any]) -> bool:
-    """Keep the row in the subject sheet requested by the caller.
-
-    If the API supplies course/subject name, use it. Otherwise fall back to
-    cocos code prefixes for English/Maths. Digital Skills can contain several
-    game prefixes (puzzle, pictureboard, drawshape, matchingcard, ...), so the
-    API should ideally provide course_name/subject_name for that sheet.
-    """
-    expected_subject = SHEET_HINTS[sheet][1].lower()
-    course_name = clean_text(pick(row, "course_name")).lower()
-    if course_name:
-        if expected_subject == "maths":
-            return course_name in ("maths", "math", "mathematics") or "math" in course_name
-        return expected_subject in course_name
-
-    code = clean_text(pick(row, "cocos_lesson_code")).lower()
-    if sheet.startswith("English"):
-        return code.startswith("en")
-    if sheet.startswith("Maths"):
-        return code.startswith("maths")
-    return True
-
-
 def fetch_api_rows(
     api_url: str,
-    curriculum_id: str,
-    grade_id: str,
+    course_id: str,
     token: Optional[str],
     timeout: float,
 ) -> List[Dict[str, Any]]:
@@ -300,7 +305,7 @@ def fetch_api_rows(
         headers["Authorization"] = f"Bearer {token}"
     response = requests.get(
         api_url,
-        params={"curriculum_id": curriculum_id, "grade_id": grade_id},
+        params={"course_id": course_id},
         headers=headers,
         timeout=timeout,
     )
@@ -308,92 +313,39 @@ def fetch_api_rows(
     return extract_json_rows(response.json())
 
 
-def build_from_api(args: argparse.Namespace) -> Dict[str, List[Dict[str, str]]]:
-    grade_map = grade_map_from_args(args, "API")
-    if not args.curriculum_id:
-        raise ValueError("API mode requires --curriculum-id.")
-
+def build_from_api(
+    args: argparse.Namespace,
+    course_groups: Sequence[Mapping[str, Any]],
+) -> Dict[str, List[Dict[str, str]]]:
     api_url = args.api_url or os.getenv("CHIMPLE_DASHBOARD_API_URL", "")
     if not api_url:
         raise ValueError(
             "API mode needs --api-url or CHIMPLE_DASHBOARD_API_URL. "
             "Point it at the Chimple dashboard/course-details endpoint that accepts "
-            "curriculum_id and grade_id query parameters."
+            "a course_id query parameter."
         )
     token = args.api_token or os.getenv("CHIMPLE_DASHBOARD_API_TOKEN")
 
     cache: Dict[str, List[Dict[str, Any]]] = {}
-    out, _ = (
-        build_from_xlsx(args.existing_workbook)
-        if getattr(args, "existing_workbook", None)
-        else ({}, {})
-    )
-    requested_sheets = (
-        HINDI_MATHS_SHEETS
-        if getattr(args, "existing_workbook", None)
-        else SHEETS + (
-            HINDI_MATHS_SHEETS if getattr(args, "language", "en") == "hi" else []
-        )
-    )
-    for sheet in requested_sheets:
-        source_sheet = sheet.removeprefix("Hindi ") if sheet in HINDI_MATHS_SHEETS else sheet
-        gid = grade_map[sheet]
-        if gid not in cache:
-            cache[gid] = fetch_api_rows(
-                api_url=api_url,
-                curriculum_id=args.curriculum_id,
-                grade_id=gid,
-                token=token,
-                timeout=args.timeout,
-            )
+    out: Dict[str, List[Dict[str, str]]] = {}
+    for group in course_groups:
+        raw_rows: List[Dict[str, Any]] = []
+        for course_id in group["course_ids"]:
+            if course_id not in cache:
+                cache[course_id] = fetch_api_rows(
+                    api_url=api_url,
+                    course_id=course_id,
+                    token=token,
+                    timeout=args.timeout,
+                )
+            raw_rows.extend(cache[course_id])
         normalized: List[Dict[str, str]] = []
-        for raw in cache[gid]:
-            if not subject_matches(source_sheet, raw):
-                continue
+        for raw in raw_rows:
             row = normalize_lesson(raw, generate_asset=True)
             if row:
                 normalized.append(row)
-        out[sheet] = dedupe_lessons(normalized)
+        out[group["sheet"]] = dedupe_lessons(normalized)
     return out
-
-
-def grade_map_from_args(args: argparse.Namespace, source_name: str) -> Dict[str, str]:
-    """Resolve explicit course IDs and legacy grade shortcuts."""
-    language = getattr(args, "language", "en")
-    grade_map = parse_grade_args(args.grade_id or [])
-    explicit_ids = {
-        "English Grade 1": getattr(args, "english_grade_1_id", None),
-        "English Grade 2": getattr(args, "english_grade_2_id", None),
-        "Maths Grade 1": getattr(args, "maths_grade_1_id", None),
-        "Maths Grade 2": getattr(args, "maths_grade_2_id", None),
-    }
-    for sheet, course_id in explicit_ids.items():
-        if course_id:
-            grade_map.setdefault(sheet, course_id)
-    if args.grade_1_id:
-        grade_map.setdefault("English Grade 1", args.grade_1_id)
-        grade_map.setdefault("Maths Grade 1", args.grade_1_id)
-    if args.grade_2_id:
-        grade_map.setdefault("English Grade 2", args.grade_2_id)
-        grade_map.setdefault("Maths Grade 2", args.grade_2_id)
-    hindi_maths_grade_1_id = getattr(args, "hindi_maths_grade_1_id", None)
-    hindi_maths_grade_2_id = getattr(args, "hindi_maths_grade_2_id", None)
-    if hindi_maths_grade_1_id:
-        grade_map.setdefault("Hindi Maths Grade 1", hindi_maths_grade_1_id)
-    if hindi_maths_grade_2_id:
-        grade_map.setdefault("Hindi Maths Grade 2", hindi_maths_grade_2_id)
-    if args.digital_grade_id:
-        grade_map.setdefault("Digital Skills", args.digital_grade_id)
-    uses_existing_workbook = bool(getattr(args, "existing_workbook", None))
-    required_sheets = (
-        HINDI_MATHS_SHEETS
-        if language == "hi" and uses_existing_workbook
-        else SHEETS + (HINDI_MATHS_SHEETS if language == "hi" else [])
-    )
-    missing = [s for s in required_sheets if s not in grade_map]
-    if missing:
-        raise ValueError(f"{source_name} mode requires course IDs for: " + ", ".join(missing))
-    return grade_map
 
 
 def chunks(items: Sequence[str], size: int = 400) -> Iterable[Sequence[str]]:
@@ -432,7 +384,6 @@ def supabase_rows(
 def fetch_supabase_course_rows(
     base_url: str,
     key: str,
-    curriculum_id: str,
     course_id: str,
     timeout: float,
 ) -> List[Dict[str, Any]]:
@@ -440,11 +391,13 @@ def fetch_supabase_course_rows(
         base_url,
         "course",
         {
-            "select": "id,name,code,sort_index",
-            "curriculum_id": f"eq.{curriculum_id}",
+            "select": (
+                "id,grade_id,curriculum_id,"
+                "grade:grade!public_course_grade_id_fkey(name),"
+                "curriculum:curriculum!public_course_curriculum_id_fkey(name)"
+            ),
             "id": f"eq.{course_id}",
             "is_deleted": "eq.false",
-            "order": "sort_index.asc",
         },
         key,
         timeout,
@@ -460,7 +413,7 @@ def fetch_supabase_course_rows(
                 base_url,
                 "chapter",
                 {
-                    "select": "id,course_id,name,sort_index",
+                    "select": "id,course_id,name,image,sort_index",
                     "course_id": f"in.({','.join(course_ids)})",
                     "is_deleted": "eq.false",
                     "order": "sort_index.asc",
@@ -469,9 +422,17 @@ def fetch_supabase_course_rows(
                 timeout,
             )
         )
+    chapters.sort(
+        key=lambda chapter: (
+            chapter.get("sort_index") is None,
+            chapter.get("sort_index") if chapter.get("sort_index") is not None else 0,
+            clean_text(chapter.get("id")),
+        )
+    )
     chapter_by_id = {clean_text(chapter.get("id")): chapter for chapter in chapters}
     if not chapter_by_id:
         return []
+    chapter_order = {chapter_id: index for index, chapter_id in enumerate(chapter_by_id)}
 
     # Query the join table, rather than lesson directly, because lesson membership
     # and ordering are defined by chapter_lesson in Cuba as well.
@@ -483,7 +444,7 @@ def fetch_supabase_course_rows(
             {
                 "select": (
                     "chapter_id,lesson_id,sort_index,"
-                    "lesson:lesson_id(id,name,cocos_lesson_id,lido_lesson_id,"
+                    "lesson:lesson_id(id,name,image,cocos_lesson_id,lido_lesson_id,"
                     "cocos_chapter_code,is_deleted)"
                 ),
                 "chapter_id": f"in.({','.join(chapter_ids)})",
@@ -504,66 +465,70 @@ def fetch_supabase_course_rows(
             course_rows.append(
                 {
                     "course_id": course.get("id"),
-                    "course_name": course.get("name") or course.get("code"),
+                    "grade": (
+                        course.get("grade", {}).get("name")
+                        if isinstance(course.get("grade"), dict)
+                        else None
+                    ),
+                    "curriculum": (
+                        course.get("curriculum", {}).get("name")
+                        if isinstance(course.get("curriculum"), dict)
+                        else None
+                    ),
+                    "chapter_id": chapter.get("id"),
+                    "chapter_name": chapter.get("name"),
+                    "chapter_image": chapter.get("image"),
                     "lesson_id": lesson.get("id") or link.get("lesson_id"),
                     "lesson_name": lesson.get("name"),
+                    "lesson_image": lesson.get("image"),
                     "cocos_lesson_code": lesson.get("cocos_lesson_id"),
                     "lido_lesson_id": lesson.get("lido_lesson_id"),
                     "cocosChapterCode": lesson.get("cocos_chapter_code"),
                     "chapter_index": chapter.get("sort_index"),
+                    "chapter_order": chapter_order[clean_text(link.get("chapter_id"))],
                     "lesson_index": link.get("sort_index"),
                 }
             )
+    # Sort after the join because each table query orders only its own index.
+    course_rows.sort(
+        key=lambda row: (
+            row["chapter_order"],
+            row["lesson_index"] is None,
+            row["lesson_index"] if row["lesson_index"] is not None else 0,
+        )
+    )
     return course_rows
 
 
-def build_from_supabase(args: argparse.Namespace) -> Dict[str, List[Dict[str, str]]]:
-    grade_map = grade_map_from_args(args, "Supabase")
-    if not args.curriculum_id:
-        raise ValueError("Supabase mode requires --curriculum-id.")
-
+def build_from_supabase(
+    args: argparse.Namespace,
+    course_groups: Sequence[Mapping[str, Any]],
+) -> Dict[str, List[Dict[str, str]]]:
     base_url = args.supabase_url or os.getenv("SUPABASE_URL", "")
     key = args.supabase_key or os.getenv("SUPABASE_SERVICE_ROLE_KEY") or os.getenv("SUPABASE_ANON_KEY", "")
     if not base_url or not key:
         raise ValueError(
             "Supabase mode needs --supabase-url / SUPABASE_URL and "
-            "--supabase-key / SUPABASE_SERVICE_ROLE_KEY."
+            "--supabase-key / SUPABASE_SERVICE_ROLE_KEY or SUPABASE_ANON_KEY."
         )
 
     cache: Dict[str, List[Dict[str, Any]]] = {}
-    out, _ = (
-        build_from_xlsx(args.existing_workbook)
-        if getattr(args, "existing_workbook", None)
-        else ({}, {})
-    )
-    requested_sheets = (
-        HINDI_MATHS_SHEETS
-        if getattr(args, "existing_workbook", None)
-        else SHEETS + (
-            HINDI_MATHS_SHEETS if getattr(args, "language", "en") == "hi" else []
-        )
-    )
-    for sheet in requested_sheets:
-        source_sheet = sheet.removeprefix("Hindi ") if sheet in HINDI_MATHS_SHEETS else sheet
-        course_id = grade_map[sheet]
-        if course_id not in cache:
-            cache[course_id] = fetch_supabase_course_rows(
-                base_url=base_url,
-                key=key,
-                curriculum_id=args.curriculum_id,
-                course_id=course_id,
-                timeout=args.timeout,
-            )
+    out: Dict[str, List[Dict[str, str]]] = {}
+    for group in course_groups:
         normalized: List[Dict[str, str]] = []
-        for raw in cache[course_id]:
-            # The exact Hindi course ID already selects the subject; localized
-            # course names and lesson codes must not pass through English filters.
-            if sheet not in HINDI_MATHS_SHEETS and not subject_matches(source_sheet, raw):
-                continue
-            row = normalize_lesson(raw, generate_asset=True)
-            if row:
-                normalized.append(row)
-        out[sheet] = dedupe_lessons(normalized)
+        for course_id in group["course_ids"]:
+            if course_id not in cache:
+                cache[course_id] = fetch_supabase_course_rows(
+                    base_url=base_url,
+                    key=key,
+                    course_id=course_id,
+                    timeout=args.timeout,
+                )
+            for raw in cache[course_id]:
+                row = normalize_lesson(raw, generate_asset=True)
+                if row:
+                    normalized.append(row)
+        out[group["sheet"]] = dedupe_lessons(normalized)
     return out
 
 
@@ -580,108 +545,49 @@ def worksheet_dict_rows(ws) -> List[Dict[str, Any]]:
     return rows
 
 
-def choose_course_from_all_courses(
-    sheet: str,
-    all_rows: List[Dict[str, Any]],
-    current_rows: List[Dict[str, Any]],
-) -> Optional[str]:
-    expected_grade, expected_subject = SHEET_HINTS[sheet]
-    candidates: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
-    for row in all_rows:
-        cid = clean_text(pick(row, "course_id"))
-        grade = clean_text(pick(row, "course_grade_name"))
-        course = clean_text(pick(row, "course_name"))
-        if cid and grade == expected_grade and course == expected_subject:
-            candidates[cid].append(row)
-    if not candidates:
-        return None
-
-    current_ids = {
-        clean_text(pick(r, "lesson_id")) for r in current_rows if clean_text(pick(r, "lesson_id"))
-    }
-    current_codes = {
-        clean_text(pick(r, "cocos_lesson_code"))
-        for r in current_rows
-        if clean_text(pick(r, "cocos_lesson_code"))
-    }
-
-    scored: List[Tuple[int, int, int, str]] = []
-    for cid, rows in candidates.items():
-        ids = {clean_text(pick(r, "lesson_id")) for r in rows if clean_text(pick(r, "lesson_id"))}
-        codes = {
-            clean_text(pick(r, "cocos_lesson_code"))
-            for r in rows
-            if clean_text(pick(r, "cocos_lesson_code"))
-        }
-        # Prefer exact internal-ID overlap. If a tab was mistakenly copied from
-        # another grade, code overlap repairs it while retaining the right course.
-        scored.append((len(ids & current_ids), len(codes & current_codes), len(rows), cid))
-    scored.sort(reverse=True)
-    return scored[0][3]
-
-
 def build_from_xlsx(
     path: Path,
-    hindi_maths_path: Optional[Path] = None,
-    include_hindi: bool = False,
-) -> Tuple[Dict[str, List[Dict[str, str]]], Dict[str, str]]:
+    course_groups: Sequence[Mapping[str, Any]],
+) -> Tuple[Dict[str, List[Dict[str, str]]], Dict[str, List[str]]]:
     wb = load_workbook(path, data_only=True, read_only=True)
-    maths_wb = (
-        load_workbook(hindi_maths_path, data_only=True, read_only=True)
-        if hindi_maths_path
-        else wb
-    )
-    missing = [s for s in SHEETS if s not in wb.sheetnames]
-    if missing:
-        raise ValueError("Source workbook is missing required sheets: " + ", ".join(missing))
-    if include_hindi and hindi_maths_path:
-        missing_maths = [
-            s for s in SHEETS if s.startswith("Maths") and s not in maths_wb.sheetnames
-        ]
-        if missing_maths:
-            raise ValueError(
-                "Hindi Maths workbook is missing required sheets: "
-                + ", ".join(missing_maths)
-            )
-
     output: Dict[str, List[Dict[str, str]]] = {}
-    selected_courses: Dict[str, str] = {}
-
-    sheet_sources = [(sheet, wb, sheet) for sheet in SHEETS]
-    if include_hindi and hindi_maths_path:
-        sheet_sources.extend(
-            (output_sheet, maths_wb, source_sheet)
-            for output_sheet, source_sheet in zip(HINDI_MATHS_SHEETS, ("Maths Grade 1", "Maths Grade 2"))
+    selected_courses: Dict[str, List[str]] = {}
+    has_all_courses = "All Courses" in wb.sheetnames
+    all_rows = worksheet_dict_rows(wb["All Courses"]) if has_all_courses else []
+    missing_sheets = [
+        group["sheet"]
+        for group in course_groups
+        if group["course_ids"] and not has_all_courses and group["sheet"] not in wb.sheetnames
+    ]
+    if missing_sheets:
+        wb.close()
+        raise ValueError(
+            "Source workbook needs an All Courses sheet or matching configured sheets: "
+            + ", ".join(missing_sheets)
         )
-    elif include_hindi:
-        missing_hindi = [s for s in HINDI_MATHS_SHEETS if s not in wb.sheetnames]
-        if missing_hindi:
+    if has_all_courses:
+        requested_ids = {
+            course_id for group in course_groups for course_id in group["course_ids"]
+        }
+        available_ids = {clean_text(pick(row, "course_id")) for row in all_rows}
+        missing_ids = sorted(requested_ids - available_ids)
+        if missing_ids:
+            wb.close()
             raise ValueError(
-                "Hindi XLSX mode needs Hindi Maths sheets in the source workbook "
-                "or --hindi-maths-source-xlsx: "
-                + ", ".join(missing_hindi)
+                "Course IDs not found in the All Courses sheet: " + ", ".join(missing_ids)
             )
-        sheet_sources.extend((sheet, wb, sheet) for sheet in HINDI_MATHS_SHEETS)
 
-    for output_sheet, source_wb, source_sheet in sheet_sources:
-        all_rows = (
-            worksheet_dict_rows(source_wb["All Courses"])
-            if "All Courses" in source_wb.sheetnames
-            else []
-        )
-        current_rows = worksheet_dict_rows(source_wb[source_sheet])
-        source_rows = current_rows
-
-        if all_rows:
-            course_sheet = (
-                source_sheet.removeprefix("Hindi ")
-                if output_sheet in HINDI_MATHS_SHEETS
-                else source_sheet
-            )
-            course_id = choose_course_from_all_courses(course_sheet, all_rows, current_rows)
-            if course_id:
-                selected_courses[output_sheet] = course_id
-                source_rows = [r for r in all_rows if clean_text(pick(r, "course_id")) == course_id]
+    for group in course_groups:
+        sheet = group["sheet"]
+        current_rows = worksheet_dict_rows(wb[sheet]) if sheet in wb.sheetnames else []
+        if has_all_courses:
+            course_ids = set(group["course_ids"])
+            source_rows = [
+                row for row in all_rows if clean_text(pick(row, "course_id")) in course_ids
+            ]
+        else:
+            source_rows = current_rows
+        selected_courses[sheet] = list(group["course_ids"])
 
         # Enrich dashboard-wide rows from the curated sheet when the broad
         # export is missing a human-readable title or an already-known asset URL.
@@ -704,7 +610,20 @@ def build_from_xlsx(
                 or current_by_code.get(clean_text(pick(raw, "cocos_lesson_code")))
             )
             if fallback:
-                for canonical in ("title", "lesson_name", "cocosChapterCode", "Asset Link"):
+                for canonical in (
+                    "title",
+                    "lesson_name",
+                    "grade",
+                    "curriculum",
+                    "chapter_id",
+                    "chapter_name",
+                    "chapter_image",
+                    "lesson_image",
+                    "cocos_lesson_code",
+                    "lido_lesson_id",
+                    "cocosChapterCode",
+                    "Asset Link",
+                ):
                     if not clean_text(pick(enriched, canonical)):
                         value = pick(fallback, canonical)
                         if value not in (None, ""):
@@ -712,17 +631,22 @@ def build_from_xlsx(
             row = normalize_lesson(enriched, generate_asset=True)
             if row:
                 normalized.append(row)
-        output[output_sheet] = dedupe_lessons(normalized)
+        output[sheet] = dedupe_lessons(normalized)
 
+    wb.close()
     return output, selected_courses
 
 
-def write_workbook(data: Mapping[str, Sequence[Mapping[str, str]]], output: Path) -> None:
+def write_workbook(
+    data: Mapping[str, Sequence[Mapping[str, str]]],
+    output: Path,
+    course_groups: Sequence[Mapping[str, Any]],
+) -> None:
     wb = Workbook()
     wb.remove(wb.active)
 
-    sheets = SHEETS + [sheet for sheet in HINDI_MATHS_SHEETS if sheet in data]
-    for sheet in sheets:
+    for group in course_groups:
+        sheet = group["sheet"]
         ws = wb.create_sheet(sheet)
         ws.freeze_panes = "A2"
         ws.auto_filter.ref = f"A1:{get_column_letter(len(COLUMNS))}1"
@@ -746,14 +670,19 @@ def write_workbook(data: Mapping[str, Sequence[Mapping[str, str]]], output: Path
             "A": 24,
             "B": 34,
             "C": 34,
-            "D": 24,
-            "E": 24,
-            "F": 78,
+            "D": 18,
+            "E": 30,
+            "F": 24,
+            "G": 34,
+            "H": 24,
+            "I": 24,
+            "J": 24,
+            "K": 78,
         }
         for col, width in widths.items():
             ws.column_dimensions[col].width = width
         ws.row_dimensions[1].height = 24
-        ws.auto_filter.ref = f"A1:F{max(1, ws.max_row)}"
+        ws.auto_filter.ref = f"A1:{get_column_letter(len(COLUMNS))}{max(1, ws.max_row)}"
 
     output.parent.mkdir(parents=True, exist_ok=True)
     wb.save(output)
@@ -761,10 +690,9 @@ def write_workbook(data: Mapping[str, Sequence[Mapping[str, str]]], output: Path
 
 def validate_output(data: Mapping[str, Sequence[Mapping[str, str]]], verify_assets: bool) -> None:
     errors: List[str] = []
-    sheets = SHEETS + [sheet for sheet in HINDI_MATHS_SHEETS if sheet in data]
-    for sheet in sheets:
+    for sheet, rows in data.items():
         ids = set()
-        for i, row in enumerate(data.get(sheet, []), start=2):
+        for i, row in enumerate(rows, start=2):
             for col in ("lesson_id", "title", "lesson_name"):
                 if not clean_text(row.get(col)):
                     errors.append(f"{sheet}!{i}: empty {col}")
@@ -789,93 +717,34 @@ def validate_output(data: Mapping[str, Sequence[Mapping[str, str]]], verify_asse
         raise ValueError(f"Output validation failed:\n{preview}{more}")
 
 
-def resolve_language(args: argparse.Namespace) -> None:
-    """Infer Hindi mode when Hindi Maths IDs are supplied."""
-    if args.language:
-        return
-
-    args.language = (
-        "hi"
-        if args.hindi_maths_grade_1_id or args.hindi_maths_grade_2_id
-        else "en"
-    )
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(
         description=__doc__,
         epilog=CLI_EXAMPLES,
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    source = parser.add_mutually_exclusive_group(required=True)
-    source.add_argument("--source-xlsx", type=Path, help="Existing Chimple dashboard XLSX export.")
-    source.add_argument("--api", action="store_true", help="Fetch fresh rows using curriculum/grade IDs.")
+    source = parser.add_mutually_exclusive_group()
+    source.add_argument(
+        "--source-xlsx",
+        type=Path,
+        help="Dashboard XLSX export with an All Courses sheet or configured group sheets.",
+    )
+    source.add_argument(
+        "--api",
+        action="store_true",
+        help="Fetch fresh rows using the course IDs in the configuration.",
+    )
     source.add_argument(
         "--supabase",
         action="store_true",
         help="Fetch fresh course, chapter, and lesson data directly from Supabase REST.",
     )
 
-    parser.add_argument("--curriculum-id", help="Chimple curriculum ID (API or Supabase mode).")
     parser.add_argument(
-        "--language",
-        choices=("en", "hi"),
-        default=None,
-        help=(
-            "Course language. If omitted, Hindi Maths IDs automatically select Hindi "
-            "mode; otherwise English mode is used."
-        ),
-    )
-    parser.add_argument(
-        "--grade-id",
-        action="append",
-        default=[],
-        metavar="SHEET=GRADE_ID",
-        help=(
-            "Per-sheet grade ID override. Repeat as needed. Example: "
-            "--grade-id 'English Grade 1=abc123'"
-        ),
-    )
-    parser.add_argument("--english-grade-1-id", help="English Grade 1 course ID.")
-    parser.add_argument("--english-grade-2-id", help="English Grade 2 course ID.")
-    parser.add_argument("--maths-grade-1-id", help="Maths Grade 1 course ID.")
-    parser.add_argument("--maths-grade-2-id", help="Maths Grade 2 course ID.")
-    parser.add_argument(
-        "--grade-1-id",
-        help="Legacy shortcut: use the same ID for English and Maths Grade 1.",
-    )
-    parser.add_argument(
-        "--grade-2-id",
-        help="Legacy shortcut: use the same ID for English and Maths Grade 2.",
-    )
-    parser.add_argument(
-        "--digital-grade-id",
-        help="Digital Skills course ID (for example the Below Grade 1 course ID).",
-    )
-    parser.add_argument(
-        "--hindi-maths-grade-1-id",
-        "--hindi-math-grade-1-id",
-        dest="hindi_maths_grade_1_id",
-        help="Hindi Maths Grade 1 course/grade ID; automatically enables Hindi mode.",
-    )
-    parser.add_argument(
-        "--hindi-maths-grade-2-id",
-        "--hindi-math-grade-2-id",
-        dest="hindi_maths_grade_2_id",
-        help="Hindi Maths Grade 2 course/grade ID; automatically enables Hindi mode.",
-    )
-    parser.add_argument(
-        "--hindi-maths-source-xlsx",
+        "--course-config",
         type=Path,
-        help="Separate XLSX containing Hindi Maths Grade 1 and 2 sheets.",
-    )
-    parser.add_argument(
-        "--existing-workbook",
-        type=Path,
-        help=(
-            "Existing workbook to preserve in Hindi API/Supabase mode. Only the "
-            "Hindi Maths sheets are fetched and appended."
-        ),
+        default=DEFAULT_COURSE_CONFIG,
+        help="JSON mapping languages, grades, subjects, and course IDs.",
     )
     parser.add_argument("--api-url", help="Course-details API URL; or set CHIMPLE_DASHBOARD_API_URL.")
     parser.add_argument("--api-token", help="Bearer token; or set CHIMPLE_DASHBOARD_API_TOKEN.")
@@ -892,40 +761,54 @@ def main() -> int:
     )
     parser.add_argument("--output", type=Path, default=Path(OUTPUT_NAME))
     args = parser.parse_args()
-    resolve_language(args)
+    course_groups = load_course_groups(args.course_config)
+    if not any(group["course_ids"] for group in course_groups):
+        raise ValueError("Add at least one course ID under a subject in the course configuration.")
 
-    if args.hindi_maths_source_xlsx and not args.source_xlsx:
-        raise ValueError("--hindi-maths-source-xlsx requires --source-xlsx.")
-    if args.hindi_maths_source_xlsx and args.language != "hi":
-        raise ValueError("--hindi-maths-source-xlsx requires --language hi.")
-    if args.existing_workbook and args.source_xlsx:
-        raise ValueError("Use either --source-xlsx or --existing-workbook, not both.")
-    if args.existing_workbook and args.language != "hi":
-        raise ValueError("--existing-workbook requires --language hi.")
-    if args.existing_workbook and not (args.api or args.supabase):
-        raise ValueError("--existing-workbook requires --api or --supabase.")
+    api_url = args.api_url or os.getenv("CHIMPLE_DASHBOARD_API_URL", "")
+    supabase_url = args.supabase_url or os.getenv("SUPABASE_URL", "")
+    supabase_key = (
+        args.supabase_key
+        or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+        or os.getenv("SUPABASE_ANON_KEY", "")
+    )
+    if not args.source_xlsx and not args.api and not args.supabase:
+        use_api = bool(api_url)
+        use_supabase = bool(supabase_url and supabase_key)
+        if use_api == use_supabase:
+            if use_api:
+                raise ValueError(
+                    "Both API and Supabase environments are configured; pass --api or --supabase."
+                )
+            raise ValueError(
+                "Set CHIMPLE_DASHBOARD_API_URL or SUPABASE_URL and a Supabase key, "
+                "or provide --source-xlsx."
+            )
+        args.api = use_api
+        args.supabase = use_supabase
+
     if args.source_xlsx:
-        data, selected = build_from_xlsx(
-            args.source_xlsx,
-            hindi_maths_path=args.hindi_maths_source_xlsx,
-            include_hindi=args.language == "hi",
-        )
+        data, selected = build_from_xlsx(args.source_xlsx, course_groups)
         if selected:
-            print("Selected dashboard course IDs:")
-            for s in ALL_SHEETS:
-                print(f"  {s}: {selected.get(s, '(not resolved)')}")
+            print("Configured course IDs:")
+            for sheet, course_ids in selected.items():
+                print(f"  {sheet}: {', '.join(course_ids) if course_ids else '(none)'}")
     elif args.supabase:
-        data = build_from_supabase(args)
+        data = build_from_supabase(args, course_groups)
     else:
-        data = build_from_api(args)
+        data = build_from_api(args, course_groups)
 
     validate_output(data, verify_assets=args.verify_assets)
-    write_workbook(data, args.output)
+    write_workbook(data, args.output, course_groups)
 
     print(f"Wrote: {args.output}")
-    print("Lesson rows:")
-    for sheet in SHEETS + [s for s in HINDI_MATHS_SHEETS if s in data]:
-        print(f"  {sheet}: {len(data.get(sheet, []))}")
+    print("Course and lesson counts:")
+    for group in course_groups:
+        sheet = group["sheet"]
+        print(
+            f"  {sheet}: {len(group['course_ids'])} courses, "
+            f"{len(data.get(sheet, []))} lessons"
+        )
     return 0
 
 

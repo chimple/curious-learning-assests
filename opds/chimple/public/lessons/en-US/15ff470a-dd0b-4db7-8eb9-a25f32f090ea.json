@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "http://schema.org/Game",
-    "title": "Division 1",
+    "title": "Sharing Equally",
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/15ff470a-dd0b-4db7-8eb9-a25f32f090ea",
     "language": "en",
-    "modified": "2026-09-11T06:25:36.049983+00:00",
-    "published": "2026-09-11T06:25:36.049983+00:00",
-    "description": "Interactive learning lesson: Division 1",
+    "modified": "2026-11-06T06:07:45.168124+00:00",
+    "published": "2026-11-06T06:07:45.168124+00:00",
+    "description": "Interactive learning lesson: Sharing Equally",
     "subject": [
       "Education",
       "Learning"
@@ -37,7 +37,7 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/3b42d7fd-f9e1-4285-8d5a-495125864e45.png",
       "type": "image/png",
       "height": 128,
       "width": 128
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_en4100",
-      "title": "Division 1"
+      "href": "https://chimple.cc/3b42d7fd-f9e1-4285-8d5a-495125864e45",
+      "title": "Sharing Equally"
     }
   ],
   "resources": [
     {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/3b42d7fd-f9e1-4285-8d5a-495125864e45.png",
       "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/default.png",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_en4100.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/3b42d7fd-f9e1-4285-8d5a-495125864e45.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

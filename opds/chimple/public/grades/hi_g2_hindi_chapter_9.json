@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "सर्वनाम",
+    "identifier": "85d159b5-212c-4973-8295-312e1a262a05"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g2_hindi_chapter_9.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "मैं, तू, वह, हम, मैंने",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/97440415-2318-4948-a11a-b98024995796",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.021376+00:00",
+        "subject": [
+          {
+            "name": "मैं, तू, वह, हम, मैंने",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi18"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/97440415-2318-4948-a11a-b98024995796.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/97440415-2318-4948-a11a-b98024995796/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/93c228bd-e60e-44fe-9f2a-ae7f18c5ce2b-72703a69.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "आप कोई कुछ कौन",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/21eaa81d-b732-4183-b248-987ec6ba43b5",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.023735+00:00",
+        "subject": [
+          {
+            "name": "आप कोई कुछ कौन",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi18"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/21eaa81d-b732-4183-b248-987ec6ba43b5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/21eaa81d-b732-4183-b248-987ec6ba43b5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/545fb635-c65d-479d-90ff-acf5e60119af-a024dede.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "कुछ और सर्वनाम",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/bd920f0e-7082-42b8-948e-ad8c28b8f32a",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.026691+00:00",
+        "subject": [
+          {
+            "name": "कुछ और सर्वनाम",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi18"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/bd920f0e-7082-42b8-948e-ad8c28b8f32a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/bd920f0e-7082-42b8-948e-ad8c28b8f32a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/bd920f0e-7082-42b8-948e-ad8c28b8f32a-24845c1b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

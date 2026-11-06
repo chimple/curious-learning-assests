@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಸಂಖ್ಯೆಯನ್ನು ಊಹಿಸಿ",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/88484e5f-626c-41b1-88fb-7e7f18e8f914",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.639927+00:00",
+    "published": "2026-11-06T06:07:52.639927+00:00",
+    "description": "Interactive learning lesson: ಸಂಖ್ಯೆಯನ್ನು ಊಹಿಸಿ",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/88484e5f-626c-41b1-88fb-7e7f18e8f914.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/88484e5f-626c-41b1-88fb-7e7f18e8f914/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/88484e5f-626c-41b1-88fb-7e7f18e8f914.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/88484e5f-626c-41b1-88fb-7e7f18e8f914",
+      "title": "ಸಂಖ್ಯೆಯನ್ನು ಊಹಿಸಿ"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/88484e5f-626c-41b1-88fb-7e7f18e8f914.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/88484e5f-626c-41b1-88fb-7e7f18e8f914.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/88484e5f-626c-41b1-88fb-7e7f18e8f914.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

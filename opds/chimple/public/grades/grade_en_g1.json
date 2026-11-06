@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "title": "Grade 1"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/grade_en_g1.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respect.web.app/grades/en_g1.json",
+      "title": "English",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/6796ee8f-a237-42a3-beda-94d61a7139a1-4de8f55c.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "English"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/maths_g1.json",
+      "title": "Maths",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/e5cda413-2f6c-485d-8985-27e3b6aad0d5-6cca9deb.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "Maths"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/puzzle.json",
+      "title": "Digital Skills",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/course-icons/19bb079f-bc69-44e4-bc1d-0b77f2683b6c-5a17f2ef.webp",
+          "rel": "icon",
+          "type": "image/webp",
+          "title": "Digital Skills"
+        }
+      ]
+    }
+  ]
+}

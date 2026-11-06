@@ -1,0 +1,917 @@
+{
+  "metadata": {
+    "title": "Subtraction Advanced",
+    "identifier": "1f6caf46-16ec-4508-879f-bb2590df6527"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_12.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Subtract - 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/859edd4c-33de-4b3c-94fd-5c419d4cc0a5",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.788463+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/859edd4c-33de-4b3c-94fd-5c419d4cc0a5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/859edd4c-33de-4b3c-94fd-5c419d4cc0a5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5b159ea5-b295-48da-96c6-206a16f40ed8-b1e81f01.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/25e72a59-e795-434d-a7a9-a1089e6ab214",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.791479+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/25e72a59-e795-434d-a7a9-a1089e6ab214.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/25e72a59-e795-434d-a7a9-a1089e6ab214/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/25e72a59-e795-434d-a7a9-a1089e6ab214-30a58dc3.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8c13297b-a568-48cf-8634-f0887ab097a1",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.795885+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8c13297b-a568-48cf-8634-f0887ab097a1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8c13297b-a568-48cf-8634-f0887ab097a1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8c13297b-a568-48cf-8634-f0887ab097a1-9cfc76e7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f90a0c5f-ee78-4f0d-b4c7-57dad5dc1a4f",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.798293+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f90a0c5f-ee78-4f0d-b4c7-57dad5dc1a4f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f90a0c5f-ee78-4f0d-b4c7-57dad5dc1a4f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/f90a0c5f-ee78-4f0d-b4c7-57dad5dc1a4f-c4b46c3b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e530bd80-e2b0-4279-a88e-29af788c19a0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.800469+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e530bd80-e2b0-4279-a88e-29af788c19a0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/e530bd80-e2b0-4279-a88e-29af788c19a0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e530bd80-e2b0-4279-a88e-29af788c19a0-aed018c0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/991442c6-f6f1-4aa9-95e0-53f5162f1c6b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.804205+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/991442c6-f6f1-4aa9-95e0-53f5162f1c6b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/991442c6-f6f1-4aa9-95e0-53f5162f1c6b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0c306daf-473b-4974-a9bb-badeb27ddcac-08dc81c3.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b47d96b2-c517-4623-9b47-d0799f5b3195",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.808003+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b47d96b2-c517-4623-9b47-d0799f5b3195.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/b47d96b2-c517-4623-9b47-d0799f5b3195/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/170ef5f2-dd47-490d-a97c-fb3e6f38f3f6-95f2bd43.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/588848b1-5eec-455c-aa55-06bae1dd7e94",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.810535+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/588848b1-5eec-455c-aa55-06bae1dd7e94.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/588848b1-5eec-455c-aa55-06bae1dd7e94/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/588848b1-5eec-455c-aa55-06bae1dd7e94-2dedc83b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract - 9",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/80c4b922-e101-4778-b472-5245ec570117",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.813287+00:00",
+        "subject": [
+          {
+            "name": "Subtract - 9",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/80c4b922-e101-4778-b472-5245ec570117.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/80c4b922-e101-4778-b472-5245ec570117/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/e63daeba-2555-4487-8e2f-345c17c91c47-6410d33a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/523e1897-d308-44cd-a4a3-1e0b65fb8e39",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.815527+00:00",
+        "subject": [
+          {
+            "name": "Practice",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/523e1897-d308-44cd-a4a3-1e0b65fb8e39.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/523e1897-d308-44cd-a4a3-1e0b65fb8e39/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/523e1897-d308-44cd-a4a3-1e0b65fb8e39-d1b93651.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract  10-70",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fe84612f-4f89-4739-bd96-47ff7f14ba40",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.817786+00:00",
+        "subject": [
+          {
+            "name": "Subtract  10-70",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe84612f-4f89-4739-bd96-47ff7f14ba40.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fe84612f-4f89-4739-bd96-47ff7f14ba40/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c60db651-335e-456b-beb4-bee428380099-2956113f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Subtract 20-90",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7a66ec9a-de18-4945-be61-4e27609a1ff7",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.820801+00:00",
+        "subject": [
+          {
+            "name": "Subtract 20-90",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7a66ec9a-de18-4945-be61-4e27609a1ff7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7a66ec9a-de18-4945-be61-4e27609a1ff7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/39570a98-436b-46f4-b340-47049ee5ad70-2e4fc696.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/cbd43cc0-1a05-4efd-86c4-66506f55d750",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.824313+00:00",
+        "subject": [
+          {
+            "name": "Practice 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/cbd43cc0-1a05-4efd-86c4-66506f55d750.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/cbd43cc0-1a05-4efd-86c4-66506f55d750/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/30528675-2f56-4a62-8007-f987f585d222-67fbe0f1.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3021f0ed-06d5-45ee-b378-a314d6c1ffdb",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.826769+00:00",
+        "subject": [
+          {
+            "name": "Practice 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3021f0ed-06d5-45ee-b378-a314d6c1ffdb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3021f0ed-06d5-45ee-b378-a314d6c1ffdb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/3021f0ed-06d5-45ee-b378-a314d6c1ffdb-c3506237.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f0edf26a-ec72-4079-a3df-bfabe3eb007b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.829382+00:00",
+        "subject": [
+          {
+            "name": "Practice 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f0edf26a-ec72-4079-a3df-bfabe3eb007b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/f0edf26a-ec72-4079-a3df-bfabe3eb007b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/787a2004-cafa-4482-95cb-bfa7a3659287-c92b79b4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Practice 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/30b92f81-14b4-4efd-aca1-642bd5fc9a5c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.831601+00:00",
+        "subject": [
+          {
+            "name": "Practice 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/30b92f81-14b4-4efd-aca1-642bd5fc9a5c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/30b92f81-14b4-4efd-aca1-642bd5fc9a5c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/2042f157-2ca0-40b1-9add-e38d45eef2b8-939ab74e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More Sums",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/95df6106-322e-4306-b98a-ae1980a7ec73",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.834693+00:00",
+        "subject": [
+          {
+            "name": "More Sums",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/95df6106-322e-4306-b98a-ae1980a7ec73.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/95df6106-322e-4306-b98a-ae1980a7ec73/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d3beb587-4a4d-40a6-95da-c26aad6c9ff3-ed5a6f62.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Exercise",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/44c062de-3a6d-41ac-8da9-6c608471ee4a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.837253+00:00",
+        "subject": [
+          {
+            "name": "Exercise",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/44c062de-3a6d-41ac-8da9-6c608471ee4a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/44c062de-3a6d-41ac-8da9-6c608471ee4a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/aaa18de3-7b99-44bc-94a0-d2ac87346b91-1375e484.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Exercise 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7bc19514-d4be-4e4e-9844-b880b8f6a38e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.840297+00:00",
+        "subject": [
+          {
+            "name": "Exercise 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7bc19514-d4be-4e4e-9844-b880b8f6a38e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/7bc19514-d4be-4e4e-9844-b880b8f6a38e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8f7a860e-410c-4ce1-99c6-e97d86d1087d-60d5597f.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Exercise 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/aa8c689d-b504-4d16-8c4c-a802ae69e10c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.842733+00:00",
+        "subject": [
+          {
+            "name": "Exercise 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/aa8c689d-b504-4d16-8c4c-a802ae69e10c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/aa8c689d-b504-4d16-8c4c-a802ae69e10c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/aa8c689d-b504-4d16-8c4c-a802ae69e10c-52a588d2.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Statement Sums 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ebd57e62-22bb-4eb8-960c-664d3248f337",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.845037+00:00",
+        "subject": [
+          {
+            "name": "Statement Sums 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ebd57e62-22bb-4eb8-960c-664d3248f337.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/ebd57e62-22bb-4eb8-960c-664d3248f337/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/ebd57e62-22bb-4eb8-960c-664d3248f337-804b503c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Comparison",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/215b8eb3-f2f9-4ffc-831d-9904e14e3d9f",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.847446+00:00",
+        "subject": [
+          {
+            "name": "Comparison",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths27"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/215b8eb3-f2f9-4ffc-831d-9904e14e3d9f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/215b8eb3-f2f9-4ffc-831d-9904e14e3d9f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0d2f125a-3bdf-4731-b7fa-5b150fdf86b5-086ffc3c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

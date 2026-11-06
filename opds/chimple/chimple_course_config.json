@@ -1,0 +1,159 @@
+{
+  "application": "Chimple Kids Learning",
+  "languages": [
+    {
+      "language": "English",
+      "grades": [
+        {
+          "grade": 1,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["63e40488-3c1a-47ab-aa8a-6f07ad21709f"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["9d2474bd-b9c6-43ea-8415-242668807ba0"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        },
+        {
+          "grade": 2,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["6796ee8f-a237-42a3-beda-94d61a7139a1"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["e5cda413-2f6c-485d-8985-27e3b6aad0d5"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "Kannada",
+      "grades": [
+        {
+          "grade": 1,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["63e40488-3c1a-47ab-aa8a-6f07ad21709f"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["e79ef8a8-8520-4253-8a63-704b55f7449c"]
+            },
+            {
+              "subject": "Kannada",
+              "courses": ["a90608de-4376-4baf-82c2-07760b2aa899"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        },
+        {
+          "grade": 2,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["6796ee8f-a237-42a3-beda-94d61a7139a1"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["40d9ea76-6b95-4c4f-9c20-ec03c1438058"]
+            },
+            {
+              "subject": "Kannada",
+              "courses": ["d1665221-7313-46b0-b5dc-76c850870c34"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        },
+        {
+          "grade": 3,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["51160226-fcde-44e5-899c-0139d6184709"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["778f25c8-4809-4b1e-9bdb-7adb22d2d503"]
+            },
+            {
+              "subject": "Kannada",
+              "courses": ["629c9813-fe46-4b41-abcd-5889d2817ca0"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "grades": [
+        {
+          "grade": 1,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["63e40488-3c1a-47ab-aa8a-6f07ad21709f"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["23eb300f-c877-4fd4-852f-60d5924c08ec"]
+            },
+            {
+              "subject": "Hindi",
+              "courses": ["7e9d65fa-ac2e-452e-bca4-1499d5c174e0"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        },
+        {
+          "grade": 2,
+          "subjects": [
+            {
+              "subject": "English",
+              "courses": ["6796ee8f-a237-42a3-beda-94d61a7139a1"]
+            },
+            {
+              "subject": "Maths",
+              "courses": ["4e733948-88d2-45da-aa1a-f22aa8b8dcbc"]
+            },
+            {
+              "subject": "Hindi",
+              "courses": ["4984f7c3-474c-452f-b7fd-f7a238d422cb"]
+            },
+            {
+              "subject": "Digital Skills",
+              "courses": ["19bb079f-bc69-44e4-bc1d-0b77f2683b6c"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

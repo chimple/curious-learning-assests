@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "title": "पढ़ने का अभ्यास",
+    "identifier": "3b2a243f-a5a6-412a-8edc-3e75367375c6"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g2_hindi_chapter_2.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "पाठ 1",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a657d3e0-e042-47a6-885d-3bea0d7302cb",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.813575+00:00",
+        "subject": [
+          {
+            "name": "पाठ 1",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a657d3e0-e042-47a6-885d-3bea0d7302cb.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/a657d3e0-e042-47a6-885d-3bea0d7302cb/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/04bdbcc7-e39f-4fd3-a16d-33330faa75eb-41960895.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7ff4f119-1091-4c9f-82ed-60e67370a733",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.816566+00:00",
+        "subject": [
+          {
+            "name": "पाठ 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/7ff4f119-1091-4c9f-82ed-60e67370a733.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/7ff4f119-1091-4c9f-82ed-60e67370a733/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7e3c7864-22db-4cc7-a44d-267924aa4117-7580b74a.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 3",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/6ae53339-b4f8-4a40-b79c-14dce6361e18",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.820556+00:00",
+        "subject": [
+          {
+            "name": "पाठ 3",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/6ae53339-b4f8-4a40-b79c-14dce6361e18.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/6ae53339-b4f8-4a40-b79c-14dce6361e18/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9b2999ee-2e3e-4be3-9a57-c583b14b0c8d-975747e6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 4",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fc51b61c-f0a4-4088-81ed-c665a218022e",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.825205+00:00",
+        "subject": [
+          {
+            "name": "पाठ 4",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fc51b61c-f0a4-4088-81ed-c665a218022e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fc51b61c-f0a4-4088-81ed-c665a218022e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fc51b61c-f0a4-4088-81ed-c665a218022e-96c7e844.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3c165694-e711-4374-996b-5f9ef5ddc5a7",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.827153+00:00",
+        "subject": [
+          {
+            "name": "पाठ 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3c165694-e711-4374-996b-5f9ef5ddc5a7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/3c165694-e711-4374-996b-5f9ef5ddc5a7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c3cabad0-ca29-4b86-8d98-17c9c2b4c177-d7b9fa11.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 6",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/33191279-0fea-41de-99dd-dc41e35266af",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.829339+00:00",
+        "subject": [
+          {
+            "name": "पाठ 6",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/33191279-0fea-41de-99dd-dc41e35266af.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/33191279-0fea-41de-99dd-dc41e35266af/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7fbd3556-2730-4eb4-9ec1-9cdb5cb61d51-0cfa9912.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 7",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/4e4782f1-3b0e-4f84-9583-935c7453627b",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.832063+00:00",
+        "subject": [
+          {
+            "name": "पाठ 7",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4e4782f1-3b0e-4f84-9583-935c7453627b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4e4782f1-3b0e-4f84-9583-935c7453627b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8b6d1e00-8395-4a11-bb84-67855e170e24-72a422e0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "पाठ 8",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8b68d3c3-154a-44df-97b5-1a0df496bbf6",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:57.836842+00:00",
+        "subject": [
+          {
+            "name": "पाठ 8",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "hi11"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8b68d3c3-154a-44df-97b5-1a0df496bbf6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8b68d3c3-154a-44df-97b5-1a0df496bbf6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/243d6205-0666-401e-8e47-d2a85cf35ca3-205c97bf.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "title": "Vowels",
+    "identifier": "a23edf3c-8a12-4cdd-a8ca-eaae510e6115"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g1_english_chapter_10.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Vowel Sounds",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1671bd31-e2db-4d28-8bc3-24805ac023e6",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:46.111042+00:00",
+        "subject": [
+          {
+            "name": "Vowel Sounds",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en05"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1671bd31-e2db-4d28-8bc3-24805ac023e6.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/1671bd31-e2db-4d28-8bc3-24805ac023e6/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1671bd31-e2db-4d28-8bc3-24805ac023e6-8ade00b0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Write Vowels",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0b1fa053-af41-4c05-8a79-e48355136ea0",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:46.113223+00:00",
+        "subject": [
+          {
+            "name": "Write Vowels",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en05"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0b1fa053-af41-4c05-8a79-e48355136ea0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/0b1fa053-af41-4c05-8a79-e48355136ea0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/7694578b-d28b-49fe-9458-4ee01df92509-964abb03.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Vowel words",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d31651d7-6843-475e-bff7-eac7602c96ce",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:46.116330+00:00",
+        "subject": [
+          {
+            "name": "Vowel words",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en05"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d31651d7-6843-475e-bff7-eac7602c96ce.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d31651d7-6843-475e-bff7-eac7602c96ce/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b014f360-7c10-4eb7-a5e0-d556607d8c95-861f9cf8.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Long Vowels",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5efa4200-a22b-4f78-b6ee-757a994b4a1a",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:46.118416+00:00",
+        "subject": [
+          {
+            "name": "Long Vowels",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en05"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5efa4200-a22b-4f78-b6ee-757a994b4a1a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5efa4200-a22b-4f78-b6ee-757a994b4a1a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/5efa4200-a22b-4f78-b6ee-757a994b4a1a-43ff8fb8.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

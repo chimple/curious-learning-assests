@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "title": "Addition Elementary",
+    "identifier": "0c63eaad-969b-43cb-a530-adebec16b175"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_6.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Regroup and Add",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8f89ae99-cf94-42b0-84d2-9c5a5153ec2c",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.498664+00:00",
+        "subject": [
+          {
+            "name": "Regroup and Add",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths21"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8f89ae99-cf94-42b0-84d2-9c5a5153ec2c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8f89ae99-cf94-42b0-84d2-9c5a5153ec2c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c91dc7f6-7036-4afe-b2e1-aa2135815296-d6bbe092.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Vertical  Addition Beginners",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3d402b32-7062-43d9-bc7b-ef95a1aeff4e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.501367+00:00",
+        "subject": [
+          {
+            "name": "Vertical  Addition Beginners",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths21"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d402b32-7062-43d9-bc7b-ef95a1aeff4e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3d402b32-7062-43d9-bc7b-ef95a1aeff4e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/905d22d7-8964-4e4f-8f4f-cb0f2434242a-a2719cb5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Vertical  Addition Basic",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/76eb42f6-920f-4416-91fe-c3401c1b9add",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.505180+00:00",
+        "subject": [
+          {
+            "name": "Vertical  Addition Basic",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths21"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/76eb42f6-920f-4416-91fe-c3401c1b9add.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/76eb42f6-920f-4416-91fe-c3401c1b9add/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/76eb42f6-920f-4416-91fe-c3401c1b9add-2f56ae3b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Vertical  Addition Medial",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9747d417-43f0-4512-bfce-fb96534a5915",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.507351+00:00",
+        "subject": [
+          {
+            "name": "Vertical  Addition Medial",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths21"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9747d417-43f0-4512-bfce-fb96534a5915.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/9747d417-43f0-4512-bfce-fb96534a5915/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9747d417-43f0-4512-bfce-fb96534a5915-67fc461e.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Addition Mastery",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/14088aec-0dd6-4cb8-af4b-ee7d55c214b7",
+        "language": "en",
+        "modified": "2026-11-06T06:07:44.511277+00:00",
+        "subject": [
+          {
+            "name": "Addition Mastery",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths21"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/14088aec-0dd6-4cb8-af4b-ee7d55c214b7.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/14088aec-0dd6-4cb8-af4b-ee7d55c214b7/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/83b44b0d-58ca-435d-99a1-eb1f1df844fb-0f410ab4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಗುರುತುಗಳಿಂದ ಎಣಿಕೆ",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/1e84cac6-1985-48f9-a8d0-34500bc87afe",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.375888+00:00",
+    "published": "2026-11-06T06:07:52.375888+00:00",
+    "description": "Interactive learning lesson: ಗುರುತುಗಳಿಂದ ಎಣಿಕೆ",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/1e84cac6-1985-48f9-a8d0-34500bc87afe.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/1e84cac6-1985-48f9-a8d0-34500bc87afe/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/1e84cac6-1985-48f9-a8d0-34500bc87afe.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/820016c4-8821-419a-9386-1e35b0d8b11a",
+      "title": "ಗುರುತುಗಳಿಂದ ಎಣಿಕೆ"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/1e84cac6-1985-48f9-a8d0-34500bc87afe.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/820016c4-8821-419a-9386-1e35b0d8b11a.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/820016c4-8821-419a-9386-1e35b0d8b11a.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

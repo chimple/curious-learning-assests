@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಅಭ್ಯಾಸ 2",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/9b6e2a7c-2dac-4443-8b40-67a5b8122b85",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:53.084021+00:00",
+    "published": "2026-11-06T06:07:53.084021+00:00",
+    "description": "Interactive learning lesson: ಅಭ್ಯಾಸ 2",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/9b6e2a7c-2dac-4443-8b40-67a5b8122b85.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/9b6e2a7c-2dac-4443-8b40-67a5b8122b85/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/9b6e2a7c-2dac-4443-8b40-67a5b8122b85.jpg",
+      "type": "image/jpeg",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/9b6e2a7c-2dac-4443-8b40-67a5b8122b85",
+      "title": "ಅಭ್ಯಾಸ 2"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/9b6e2a7c-2dac-4443-8b40-67a5b8122b85.jpg",
+      "type": "image/jpeg",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/9b6e2a7c-2dac-4443-8b40-67a5b8122b85.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/9b6e2a7c-2dac-4443-8b40-67a5b8122b85.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "Tiny Typist",
+    "identifier": "5d20a6f1-3783-43d5-91e0-339d4fa1191e"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/en_g1_chapter_25.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Type Alpahbet",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/a76004f9-7792-4da5-9ee2-e5aa9c2f38ba",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.215285+00:00",
+        "subject": [
+          {
+            "name": "Type Alpahbet",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a76004f9-7792-4da5-9ee2-e5aa9c2f38ba.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/a76004f9-7792-4da5-9ee2-e5aa9c2f38ba/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/64f96c7a-d62b-453f-ac57-a030ecf2e7b9-4b400943.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Type Words",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0a263ddd-fe6e-42fb-a7f0-76b05103881a",
+        "language": "en",
+        "modified": "2026-11-06T06:07:43.219538+00:00",
+        "subject": [
+          {
+            "name": "Type Words",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en22"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/0a263ddd-fe6e-42fb-a7f0-76b05103881a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/0a263ddd-fe6e-42fb-a7f0-76b05103881a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6538805f-747b-4bb5-a6b5-762efcb71a19-f959bf8c.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

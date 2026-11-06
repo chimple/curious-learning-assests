@@ -1,0 +1,876 @@
+{
+  "metadata": {
+    "title": "Picture Board",
+    "identifier": "7112d11f-263c-45f0-9095-1ebc5dacda77"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g2_digital_skills_chapter_4.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Bird",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/18bb838e-61f2-4a95-aba0-495a53342ef1",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.319528+00:00",
+        "subject": [
+          {
+            "name": "Bird",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/18bb838e-61f2-4a95-aba0-495a53342ef1.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/18bb838e-61f2-4a95-aba0-495a53342ef1/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a6040ae9-b1e5-42de-84e1-3ced67433d9a-e93c5483.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Lizard",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/84065c8b-01cf-4cde-a236-6879d289dbda",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.322946+00:00",
+        "subject": [
+          {
+            "name": "Lizard",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/84065c8b-01cf-4cde-a236-6879d289dbda.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/84065c8b-01cf-4cde-a236-6879d289dbda/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8449ff03-bc86-45f4-91ac-35c1f186da45-cef35c03.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Mouse",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/c3f419f1-b94b-4153-84ac-b95a0c296e7f",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.325545+00:00",
+        "subject": [
+          {
+            "name": "Mouse",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c3f419f1-b94b-4153-84ac-b95a0c296e7f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/c3f419f1-b94b-4153-84ac-b95a0c296e7f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/c3f419f1-b94b-4153-84ac-b95a0c296e7f-6ccd78c5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Turtle",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/512811c7-473f-4cb7-977d-07d762ef03de",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.328296+00:00",
+        "subject": [
+          {
+            "name": "Turtle",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/512811c7-473f-4cb7-977d-07d762ef03de.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/512811c7-473f-4cb7-977d-07d762ef03de/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/512811c7-473f-4cb7-977d-07d762ef03de-fb3cfc62.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Ball and Dog",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/abc2ee0d-b481-456c-ab6d-7265223ecb4a",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.333332+00:00",
+        "subject": [
+          {
+            "name": "Ball and Dog",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/abc2ee0d-b481-456c-ab6d-7265223ecb4a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/abc2ee0d-b481-456c-ab6d-7265223ecb4a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/abc2ee0d-b481-456c-ab6d-7265223ecb4a-d15dcb15.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Meerkats",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f08efa28-4437-4837-bdd1-4f3b5be07fcc",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.335743+00:00",
+        "subject": [
+          {
+            "name": "Meerkats",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/f08efa28-4437-4837-bdd1-4f3b5be07fcc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/f08efa28-4437-4837-bdd1-4f3b5be07fcc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/89ae3d19-0f9f-4714-8378-76a67693a52f-e0041272.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Insects",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fa11f2f0-515f-4766-843b-389a53cc442f",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.338990+00:00",
+        "subject": [
+          {
+            "name": "Insects",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fa11f2f0-515f-4766-843b-389a53cc442f.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/fa11f2f0-515f-4766-843b-389a53cc442f/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fa11f2f0-515f-4766-843b-389a53cc442f-d38f08ac.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Cat and Butterfly",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/b4b1b6cf-93cb-4fd4-a6cd-0a9126feedcc",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.341360+00:00",
+        "subject": [
+          {
+            "name": "Cat and Butterfly",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/b4b1b6cf-93cb-4fd4-a6cd-0a9126feedcc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/b4b1b6cf-93cb-4fd4-a6cd-0a9126feedcc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/86434183-a68f-4942-aed0-4f34b165a99c-d5c3b5dd.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Penguin",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1541ad07-53f5-4443-92c8-96a301abafac",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.343925+00:00",
+        "subject": [
+          {
+            "name": "Penguin",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1541ad07-53f5-4443-92c8-96a301abafac.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1541ad07-53f5-4443-92c8-96a301abafac/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1541ad07-53f5-4443-92c8-96a301abafac-07d42174.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Rabbit and Flower",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8d604f52-7cd5-432d-803e-e0b24246c517",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.347439+00:00",
+        "subject": [
+          {
+            "name": "Rabbit and Flower",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8d604f52-7cd5-432d-803e-e0b24246c517.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8d604f52-7cd5-432d-803e-e0b24246c517/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8d604f52-7cd5-432d-803e-e0b24246c517-59f9a160.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Gazelle",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/e5e56322-ab13-4075-9be1-33119670fc21",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.349970+00:00",
+        "subject": [
+          {
+            "name": "Gazelle",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e5e56322-ab13-4075-9be1-33119670fc21.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/e5e56322-ab13-4075-9be1-33119670fc21/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6f1d9a24-3ffe-431d-8611-a4e1e199099d-a6f654b9.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Goat",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/4d227baf-879d-427d-9dff-425cc6ae199e",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.353336+00:00",
+        "subject": [
+          {
+            "name": "Goat",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4d227baf-879d-427d-9dff-425cc6ae199e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/4d227baf-879d-427d-9dff-425cc6ae199e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/4d227baf-879d-427d-9dff-425cc6ae199e-c482f91b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Pig",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1802d154-10a5-480a-879f-7c8e6ccdea32",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.362841+00:00",
+        "subject": [
+          {
+            "name": "Pig",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1802d154-10a5-480a-879f-7c8e6ccdea32.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1802d154-10a5-480a-879f-7c8e6ccdea32/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1802d154-10a5-480a-879f-7c8e6ccdea32-b54a109b.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Zebra",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/758e2e95-f550-4e3b-b0ae-74a45b57d1d5",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.370116+00:00",
+        "subject": [
+          {
+            "name": "Zebra",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/758e2e95-f550-4e3b-b0ae-74a45b57d1d5.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/758e2e95-f550-4e3b-b0ae-74a45b57d1d5/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/758e2e95-f550-4e3b-b0ae-74a45b57d1d5-c2d04473.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "More Birds",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5cafc03b-5c66-48ef-8605-77430ed3da0c",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.374789+00:00",
+        "subject": [
+          {
+            "name": "More Birds",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/5cafc03b-5c66-48ef-8605-77430ed3da0c.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/5cafc03b-5c66-48ef-8605-77430ed3da0c/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/6de87205-4f69-4ace-9214-7012d6687cc6-35389aa5.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Elephants",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/9b62556c-57c2-4f00-9e63-a22a32a58b6b",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.378003+00:00",
+        "subject": [
+          {
+            "name": "Elephants",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/9b62556c-57c2-4f00-9e63-a22a32a58b6b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/9b62556c-57c2-4f00-9e63-a22a32a58b6b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9b62556c-57c2-4f00-9e63-a22a32a58b6b-67509d75.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Eagle",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/71a9b768-f8b7-4a0b-833a-fc3a42f98098",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.380988+00:00",
+        "subject": [
+          {
+            "name": "Eagle",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/71a9b768-f8b7-4a0b-833a-fc3a42f98098.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/71a9b768-f8b7-4a0b-833a-fc3a42f98098/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/71a9b768-f8b7-4a0b-833a-fc3a42f98098-03f79a53.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Hyena",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/dc6f7bf1-857a-4be7-b70a-a9ac13eaed2d",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.383942+00:00",
+        "subject": [
+          {
+            "name": "Hyena",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/dc6f7bf1-857a-4be7-b70a-a9ac13eaed2d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/dc6f7bf1-857a-4be7-b70a-a9ac13eaed2d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/dc6f7bf1-857a-4be7-b70a-a9ac13eaed2d-8f00ce12.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Cow",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/1f42ada1-8407-4770-911b-a392d18f66cd",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.388148+00:00",
+        "subject": [
+          {
+            "name": "Cow",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1f42ada1-8407-4770-911b-a392d18f66cd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/1f42ada1-8407-4770-911b-a392d18f66cd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1f42ada1-8407-4770-911b-a392d18f66cd-c9f6463a.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Squirrel",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/0de6f79a-a711-4928-9686-9913b0512a6d",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.391139+00:00",
+        "subject": [
+          {
+            "name": "Squirrel",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0de6f79a-a711-4928-9686-9913b0512a6d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/0de6f79a-a711-4928-9686-9913b0512a6d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/0de6f79a-a711-4928-9686-9913b0512a6d-8a2c6175.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Monkeys and Crocodile",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8219aa53-4e31-487e-8489-238423b7b401",
+        "language": "hi",
+        "modified": "2026-11-06T06:07:58.394317+00:00",
+        "subject": [
+          {
+            "name": "Monkeys and Crocodile",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "pictureboard00"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8219aa53-4e31-487e-8489-238423b7b401.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/hi-IN/8219aa53-4e31-487e-8489-238423b7b401/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-hi-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/8219aa53-4e31-487e-8489-238423b7b401-60ca73b6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

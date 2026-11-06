@@ -1,6 +1,8 @@
 {
   "name": {
-    "en-US": "Chimple Learning"
+    "en-US": "Chimple Kids Learning",
+    "kn-IN": "ಚಿಂಪಲ್ ಕಿಡ್ಸ್ ಲರ್ನಿಂಗ್",
+    "hi-IN": "चिम्पल किड्स ಲರ್ನಿಂಗ್"
   },
   "description": {
     "en-US": "A collection of interactive learning units for children."
@@ -9,7 +11,7 @@
   "website": "https://chimple-respect.web.app/",
   "icon": "https://chimple-respect.web.app/icon.webp",
   "learningUnits": "https://chimple-respect.web.app/opds.json",
-  "defaultLaunchUri": "https://chimple-respect.web.app/grades/en_g1.json",
+  "defaultLaunchUri": "https://chimple-respect.web.app/grades/grade_en_g1.json",
   "android": {
     "packageId": "org.chimple.cuba",
     "stores": [

@@ -2,13 +2,13 @@
   "metadata": {
     "@type": "https://id.openeel.org/schema/launchable-app",
     "title": "चिम्पल किड्स लर्निंग",
-    "description": "बच्चों के लिए इंटरैक्टिव सीखने की इकाइयों का संग्रह।",
+    "description": "बच्चों के लिए इंटरैक्टिव लर्निंग यूनिट्स।",
     "author": {
-      "name": "Chimple Learning"
+      "name": "Chimple Kids Learning"
     },
     "identifier": "https://chimple-respect.web.app/app/hi-IN",
     "language": "hi",
-    "modified": "2026-09-11T06:25:34.600049+00:00"
+    "modified": "2026-11-06T06:07:42.074362+00:00"
   },
   "links": [
     {
@@ -20,6 +20,11 @@
       "href": "https://chimple-respect.web.app/launchable-app.json",
       "rel": "alternate",
       "language": "en-US"
+    },
+    {
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "rel": "alternate",
+      "language": "kn-IN"
     },
     {
       "rel": "collection",

@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "title": "अंग्रेज़ी"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_1.json",
+      "title": "Identify Alphabets",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://db.chimple.net/storage/v1/object/sign/lesson-bundles/chapter-icons/63e40488-3c1a-47ab-aa8a-6f07ad21709f/738be20a-baa6-429c-b790-bae146bda868.png?token=eyJraWQiOiJiYjZmMTMzYS01OWM2LTQ1YWItYjViZC0xYThhZTExZDYxZWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsZXNzb24tYnVuZGxlcy9jaGFwdGVyLWljb25zLzYzZTQwNDg4LTNjMWEtNDdhYi1hYThhLTZmMDdhZDIxNzA5Zi83MzhiZTIwYS1iYWE2LTQyOWMtYjc5MC1iYWUxNDZiZGE4NjgucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4OTk3MDYyNCwiZXhwIjoyMTA1NTQ2NjI0fQ.36IpwhKc2UDayy0NfWcVBWYshYwMAw7Rk0tWSCiXw4o",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "Identify Alphabets"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_2.json",
+      "title": "Identify Uppercase Alphabets",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://db.chimple.net/storage/v1/object/sign/lesson-bundles/chapter-icons/63e40488-3c1a-47ab-aa8a-6f07ad21709f/cc483936-d7d8-41b7-96f9-2039c8eed7fc.png?token=eyJraWQiOiJiYjZmMTMzYS01OWM2LTQ1YWItYjViZC0xYThhZTExZDYxZWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsZXNzb24tYnVuZGxlcy9jaGFwdGVyLWljb25zLzYzZTQwNDg4LTNjMWEtNDdhYi1hYThhLTZmMDdhZDIxNzA5Zi9jYzQ4MzkzNi1kN2Q4LTQxYjctOTZmOS0yMDM5YzhlZWQ3ZmMucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4OTk3MDY0OSwiZXhwIjoyMTA1NTQ2NjQ5fQ.mUmSPhyjyMZKCvfTiOcRE9_caXvpNx30UaD4e7zbqes",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "Identify Uppercase Alphabets"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_3.json",
+      "title": "Alphabet a - f",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/6500f059-c866-446b-a669-ccc1a82225e6-d53ea990.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Alphabet a - f"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_4.json",
+      "title": "Alphabet g - l",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/6ade37bf-d16a-4e9d-8c50-0d23a08bbe79-d194a400.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Alphabet g - l"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_5.json",
+      "title": "Alphabet m - s",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/f80be885-ac2e-49af-8867-758ed18f5d41-03adc8d5.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Alphabet m - s"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_6.json",
+      "title": "Alphabet t - z",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/d44f3fd3-d502-428e-ba98-f76df14781f5-7ac0edca.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Alphabet t - z"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_7.json",
+      "title": "Uppercase Alphabet",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/50f7fe9b-2467-4eba-a0c1-f8cf1ff9c93c-240d9562.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Uppercase Alphabet"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_8.json",
+      "title": "Words and Sentences",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://db.chimple.net/storage/v1/object/sign/lesson-bundles/chapter-icons/63e40488-3c1a-47ab-aa8a-6f07ad21709f/79d2f213-b799-43d9-9df9-086cf49f5d1d.png?token=eyJraWQiOiJiYjZmMTMzYS01OWM2LTQ1YWItYjViZC0xYThhZTExZDYxZWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsZXNzb24tYnVuZGxlcy9jaGFwdGVyLWljb25zLzYzZTQwNDg4LTNjMWEtNDdhYi1hYThhLTZmMDdhZDIxNzA5Zi83OWQyZjIxMy1iNzk5LTQzZDktOWRmOS0wODZjZjQ5ZjVkMWQucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4OTk3MDU4MCwiZXhwIjoyMTA1NTQ2NTgwfQ.NQkKQSCmHuGjpmejqD6aFvPkP_CxT9UVfrqhmzyMPZA",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "Words and Sentences"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_9.json",
+      "title": "Phonic Practice",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/2e9a521c-493e-45af-b8e5-85627644142a-68761144.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Phonic Practice"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_10.json",
+      "title": "Vowels",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/a23edf3c-8a12-4cdd-a8ca-eaae510e6115-f411150f.png",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "Vowels"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_11.json",
+      "title": "Vowel Sounds",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/7b22177f-67b0-4d21-98a7-4348f9e9e895-3ef4fa04.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Vowel Sounds"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_12.json",
+      "title": "Phonic Sense",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/60106bdd-aec3-4137-8f6a-09eb347752d3-fbb964af.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Phonic Sense"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_13.json",
+      "title": "Word Phonics",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/add17554-d7a3-4840-9a35-5b6ad91382f6-23ae6afd.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Phonics"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_14.json",
+      "title": "Word Family - a",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/654b1f58-1731-4656-8bbe-b9205a2a900d-2d437397.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Family - a"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_15.json",
+      "title": "Word Family - e",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/1b1ef978-3d85-4f33-b889-fca7daac8cf0-2ea2d7b0.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Family - e"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_16.json",
+      "title": "Word Family - i",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/1290da66-e95b-4cda-b139-d3964374d78d-0662e6cc.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Family - i"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_17.json",
+      "title": "Word Family - o",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/3edbd329-6780-40d1-8a01-15f7c4a61ddd-8219dd29.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Family - o"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_18.json",
+      "title": "Word Family - u",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/7ae7873e-5888-4fca-bc3e-08d51e410289-9ba298db.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Word Family - u"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_19.json",
+      "title": "Sound Blends",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/2142d583-0341-4525-9910-150e1ef9ba3b-7ba1c8ec.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Sound Blends"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_20.json",
+      "title": "More Sound Blends",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/47e6f731-7a80-4007-83e6-778079dee63b-6e0968d2.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "More Sound Blends"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_21.json",
+      "title": "Sight Words",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://db.chimple.net/storage/v1/object/sign/lesson-bundles/chapter-icons/63e40488-3c1a-47ab-aa8a-6f07ad21709f/0f99376e-29b1-40f2-8048-1eee4f3504fc.png?token=eyJraWQiOiJiYjZmMTMzYS01OWM2LTQ1YWItYjViZC0xYThhZTExZDYxZWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsZXNzb24tYnVuZGxlcy9jaGFwdGVyLWljb25zLzYzZTQwNDg4LTNjMWEtNDdhYi1hYThhLTZmMDdhZDIxNzA5Zi8wZjk5Mzc2ZS0yOWIxLTQwZjItODA0OC0xZWVlNGYzNTA0ZmMucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4OTk3MDYwMiwiZXhwIjoyMTA1NTQ2NjAyfQ.GDr7wlXcKMuIFgTYbNCQnX7lWdT9LPK6otKMxJH9NAM",
+          "type": "image/png",
+          "rel": "icon",
+          "title": "Sight Words"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_22.json",
+      "title": "Simple Dictionary",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/7655da39-b945-4190-b5dc-318d4dceabb7-cb65604a.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Simple Dictionary"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_23.json",
+      "title": "Vocabulary Builder",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/1826c11c-e39e-4afb-a1bb-6eadfa466f1f-86526c84.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Vocabulary Builder"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_24.json",
+      "title": "Scribble Words",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/e761cfc8-c196-47d5-b5d0-267b63b13b29-49c7ff9f.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Scribble Words"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_25.json",
+      "title": "Tiny Typist",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/5d20a6f1-3783-43d5-91e0-339d4fa1191e-ffd65278.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Tiny Typist"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_26.json",
+      "title": "Spellings",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/45858206-816c-4146-a79d-59fadf1550dd-61de4832.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Spellings"
+        }
+      ]
+    },
+    {
+      "href": "https://chimple-respect.web.app/grades/hi_g1_english_chapter_27.json",
+      "title": "Simple Sentences",
+      "type": "application/opds+json",
+      "alternate": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/chapter-icons/b0727057-b6c8-4b29-a699-1d96d59bce02-9a2bf36a.webp",
+          "type": "image/webp",
+          "rel": "icon",
+          "title": "Simple Sentences"
+        }
+      ]
+    }
+  ]
+}

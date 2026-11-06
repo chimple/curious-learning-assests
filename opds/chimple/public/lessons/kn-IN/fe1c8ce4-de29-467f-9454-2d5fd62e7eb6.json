@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಅರ್ಧಗಳು",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.691040+00:00",
+    "published": "2026-11-06T06:07:52.691040+00:00",
+    "description": "Interactive learning lesson: ಅರ್ಧಗಳು",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6",
+      "title": "ಅರ್ಧಗಳು"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/fe1c8ce4-de29-467f-9454-2d5fd62e7eb6.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

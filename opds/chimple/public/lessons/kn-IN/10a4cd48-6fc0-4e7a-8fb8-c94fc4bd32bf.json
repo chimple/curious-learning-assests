@@ -1,0 +1,86 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld",
+    "https://schema.org"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Game",
+    "title": "ಕಾಲು ಭಾಗಗಳು",
+    "author": "Chimple",
+    "identifier": "https://chimple-respect.web.app/activities/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf",
+    "language": "kn",
+    "modified": "2026-11-06T06:07:52.701124+00:00",
+    "published": "2026-11-06T06:07:52.701124+00:00",
+    "description": "Interactive learning lesson: ಕಾಲು ಭಾಗಗಳು",
+    "subject": [
+      "Education",
+      "Learning"
+    ],
+    "readingProgression": "ltr"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf.json",
+      "type": "application/opds-publication+json"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/tincanxml",
+      "href": "https://chimple-respect.web.app/lessons/kn-IN/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf/tincan.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "https://id.openeel.org/rel/launchable-app",
+      "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+      "type": "application/opds-publication+json"
+    }
+  ],
+  "images": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf.png",
+      "type": "image/png",
+      "height": 128,
+      "width": 128
+    }
+  ],
+  "readingOrder": [
+    {
+      "type": "text/html",
+      "href": "https://chimple.cc/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf",
+      "title": "ಕಾಲು ಭಾಗಗಳು"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf.png",
+      "type": "image/png",
+      "properties": {
+        "width": 128,
+        "height": 128
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*",
+          "audio/*"
+        ]
+      }
+    },
+    {
+      "type": "application/zip",
+      "href": "https://raw.githubusercontent.com/chimple/chimple-zips/main/10a4cd48-6fc0-4e7a-8fb8-c94fc4bd32bf.zip",
+      "properties": {
+        "contains": [
+          "application/xhtml+xml",
+          "text/css",
+          "image/*"
+        ]
+      }
+    }
+  ]
+}

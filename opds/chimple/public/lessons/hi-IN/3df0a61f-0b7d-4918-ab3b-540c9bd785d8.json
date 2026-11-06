@@ -5,13 +5,13 @@
   ],
   "metadata": {
     "@type": "http://schema.org/Game",
-    "title": "\u0917\u0941\u0923\u0928 1",
+    "title": "गुणन 1",
     "author": "Chimple",
     "identifier": "https://chimple-respect.web.app/activities/3df0a61f-0b7d-4918-ab3b-540c9bd785d8",
     "language": "hi",
-    "modified": "2026-09-11T06:25:41.401848+00:00",
-    "published": "2026-09-11T06:25:41.401848+00:00",
-    "description": "Interactive learning lesson: \u0917\u0941\u0923\u0928 1",
+    "modified": "2026-11-06T06:07:57.482707+00:00",
+    "published": "2026-11-06T06:07:57.482707+00:00",
+    "description": "Interactive learning lesson: गुणन 1",
     "subject": [
       "Education",
       "Learning"
@@ -37,8 +37,8 @@
   ],
   "images": [
     {
-      "href": "https://chimple-respect.web.app/images/icons/maths3010.png",
-      "type": "image/png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/584aeaec-d964-408e-a238-3e71a4d8100d-7548dfd5.webp",
+      "type": "image/webp",
       "height": 128,
       "width": 128
     }
@@ -46,14 +46,14 @@
   "readingOrder": [
     {
       "type": "text/html",
-      "href": "https://chimple.cc/LIDO_maths3010_hi",
-      "title": "\u0917\u0941\u0923\u0928 1"
+      "href": "https://chimple.cc/eb655b0f-99d2-4ffd-a088-990e18991465",
+      "title": "गुणन 1"
     }
   ],
   "resources": [
     {
-      "type": "image/png",
-      "href": "https://chimple-respect.web.app/images/icons/maths3010.png",
+      "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/584aeaec-d964-408e-a238-3e71a4d8100d-7548dfd5.webp",
+      "type": "image/webp",
       "properties": {
         "width": 128,
         "height": 128
@@ -61,7 +61,7 @@
     },
     {
       "type": "application/zip",
-      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/LIDO_maths3010_hi.zip",
+      "href": "https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/eb655b0f-99d2-4ffd-a088-990e18991465.zip",
       "properties": {
         "contains": [
           "application/xhtml+xml",

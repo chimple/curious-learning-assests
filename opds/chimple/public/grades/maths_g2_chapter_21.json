@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "Division",
+    "identifier": "8cc04c10-1048-4bd4-bfef-9790dd47f7d7"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/maths_g2_chapter_21.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "Sharing Equally",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/15ff470a-dd0b-4db7-8eb9-a25f32f090ea",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.168124+00:00",
+        "subject": [
+          {
+            "name": "Sharing Equally",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "en41"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/15ff470a-dd0b-4db7-8eb9-a25f32f090ea.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/15ff470a-dd0b-4db7-8eb9-a25f32f090ea/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/3b42d7fd-f9e1-4285-8d5a-495125864e45.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Making Equal Groups",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8ebf60b8-af4e-4fd8-aae6-1862b425648e",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.172326+00:00",
+        "subject": [
+          {
+            "name": "Making Equal Groups",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8ebf60b8-af4e-4fd8-aae6-1862b425648e.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/8ebf60b8-af4e-4fd8-aae6-1862b425648e/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/6d593747-9cab-4955-952c-31e97c9ce6aa.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Groups of 2",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/3c889436-9e2f-47b7-9126-21fd65258998",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.174986+00:00",
+        "subject": [
+          {
+            "name": "Groups of 2",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "3c889436-9e2f-47b7-9126-21fd652589"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3c889436-9e2f-47b7-9126-21fd65258998.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/3c889436-9e2f-47b7-9126-21fd65258998/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/3c889436-9e2f-47b7-9126-21fd65258998.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Divide",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/fdb5e59b-1cc9-4be3-88cf-b28863401255",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.177858+00:00",
+        "subject": [
+          {
+            "name": "Divide",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "fdb5e59b-1cc9-4be3-88cf-b288634012"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fdb5e59b-1cc9-4be3-88cf-b28863401255.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/fdb5e59b-1cc9-4be3-88cf-b28863401255/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/fdb5e59b-1cc9-4be3-88cf-b28863401255.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Groups of 5",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/32642e42-fab3-4717-8d6b-cf32676b91a0",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.181086+00:00",
+        "subject": [
+          {
+            "name": "Groups of 5",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/32642e42-fab3-4717-8d6b-cf32676b91a0.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/32642e42-fab3-4717-8d6b-cf32676b91a0/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/32642e42-fab3-4717-8d6b-cf32676b91a0.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Groups of 10",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/56e4c3ac-1bef-4f71-9d3b-7208f508ec57",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.185404+00:00",
+        "subject": [
+          {
+            "name": "Groups of 10",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/56e4c3ac-1bef-4f71-9d3b-7208f508ec57.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/56e4c3ac-1bef-4f71-9d3b-7208f508ec57/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/56e4c3ac-1bef-4f71-9d3b-7208f508ec57.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Sharing and Grouping Problems",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/eebe461c-d69c-4390-b669-b00bbdf3e42b",
+        "language": "en",
+        "modified": "2026-11-06T06:07:45.190959+00:00",
+        "subject": [
+          {
+            "name": "Sharing and Grouping Problems",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "None"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eebe461c-d69c-4390-b669-b00bbdf3e42b.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/en-US/eebe461c-d69c-4390-b669-b00bbdf3e42b/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/lesson-covers/eebe461c-d69c-4390-b669-b00bbdf3e42b.png",
+          "type": "image/png",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}

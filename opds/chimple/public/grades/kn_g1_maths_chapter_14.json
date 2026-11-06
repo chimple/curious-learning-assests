@@ -1,0 +1,548 @@
+{
+  "metadata": {
+    "title": "ಆರಂಭಿಕ ಗಣಿತ ಜ್ಞಾನ",
+    "identifier": "d8e206ff-cbc5-4455-b1b2-93b85b7a5bd4"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://chimple-respect.web.app/grades/kn_g1_maths_chapter_14.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "title": "ಚಿಕ್ಕದರಿಂದ ದೊಡ್ಡದವರೆಗೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/7023064b-092f-4629-96cf-858b052bad42",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.426083+00:00",
+        "subject": [
+          {
+            "name": "ಚಿಕ್ಕದರಿಂದ ದೊಡ್ಡದವರೆಗೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/7023064b-092f-4629-96cf-858b052bad42.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/7023064b-092f-4629-96cf-858b052bad42/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/a6646333-4594-4207-a186-c689095050e7-b25e3f60.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ದೊಡ್ಡದರಿಂದ ಚಿಕ್ಕದಕ್ಕೆ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/37e0b7c8-6481-4dd9-ba82-15485d94f707",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.429734+00:00",
+        "subject": [
+          {
+            "name": "ದೊಡ್ಡದರಿಂದ ಚಿಕ್ಕದಕ್ಕೆ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/37e0b7c8-6481-4dd9-ba82-15485d94f707.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/37e0b7c8-6481-4dd9-ba82-15485d94f707/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1782ae7b-06ad-4346-89a8-846a1df8ef4c-9e5aea73.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2 ರಿಂದ ಮುಂದುವರಿಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/d06f00d9-8c82-40b6-80e9-f4bc97fa3482",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.433517+00:00",
+        "subject": [
+          {
+            "name": "2 ರಿಂದ ಮುಂದುವರಿಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d06f00d9-8c82-40b6-80e9-f4bc97fa3482.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/d06f00d9-8c82-40b6-80e9-f4bc97fa3482/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/d6f5a92f-e97e-42fb-8d16-8a2ac6a6a49c-a66dd8b7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2 ರಿಂದ ಇನ್ನಷ್ಟು ಮುಂದುವರಿಯಿರಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/ed635e64-67fc-43d4-bade-52b12681c672",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.436993+00:00",
+        "subject": [
+          {
+            "name": "2 ರಿಂದ ಇನ್ನಷ್ಟು ಮುಂದುವರಿಯಿರಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/ed635e64-67fc-43d4-bade-52b12681c672.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/ed635e64-67fc-43d4-bade-52b12681c672/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/4c5d3607-5d4d-4b6e-b939-79ea32d14d8b-5ca751b4.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಹಿಂದಕ್ಕೆ ಎಣಿಸಿ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/2f4eb50b-a365-4a28-a751-cba27b4219a9",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.442286+00:00",
+        "subject": [
+          {
+            "name": "ಹಿಂದಕ್ಕೆ ಎಣಿಸಿ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/2f4eb50b-a365-4a28-a751-cba27b4219a9.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/2f4eb50b-a365-4a28-a751-cba27b4219a9/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b9909ca6-1707-489d-8483-febd708322cb-2d5928f9.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಸ್ಥಳದ ಮೌಲ್ಯ 100 - 300",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/20a6f2dd-4403-4f3d-8d3a-ab60d6857fd3",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.446212+00:00",
+        "subject": [
+          {
+            "name": "ಸ್ಥಳದ ಮೌಲ್ಯ 100 - 300",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/20a6f2dd-4403-4f3d-8d3a-ab60d6857fd3.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/20a6f2dd-4403-4f3d-8d3a-ab60d6857fd3/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b025dfd6-9f58-497c-bfa6-76228a34ba55-84118443.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಸ್ಥಳದ ಮೌಲ್ಯ 300 - 500",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/4e7602c8-af30-494d-a7e4-59c3dfca3b4d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.449903+00:00",
+        "subject": [
+          {
+            "name": "ಸ್ಥಳದ ಮೌಲ್ಯ 300 - 500",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/4e7602c8-af30-494d-a7e4-59c3dfca3b4d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/4e7602c8-af30-494d-a7e4-59c3dfca3b4d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/06a41264-6253-4835-889f-93516d391291-8ef33594.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "100-500",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/639d35b4-6d88-46c5-9e42-c3a8938245fd",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.453623+00:00",
+        "subject": [
+          {
+            "name": "100-500",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/639d35b4-6d88-46c5-9e42-c3a8938245fd.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/639d35b4-6d88-46c5-9e42-c3a8938245fd/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/1bc0272e-2e0d-4428-b207-3f45c303018b-5fada8f0.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಸಮ ಸಂಖ್ಯೆಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/8d4343b4-53eb-40f4-9a36-c534b382225d",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.457734+00:00",
+        "subject": [
+          {
+            "name": "ಸಮ ಸಂಖ್ಯೆಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/8d4343b4-53eb-40f4-9a36-c534b382225d.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/8d4343b4-53eb-40f4-9a36-c534b382225d/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/bb6cecd6-93b6-41ae-8ef2-cd7aa0647dd6-4d4653d7.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಬೆಸ ಸಂಖ್ಯೆಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/cf3a12b8-0e9b-473a-8274-338658cfe485",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.461442+00:00",
+        "subject": [
+          {
+            "name": "ಬೆಸ ಸಂಖ್ಯೆಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/cf3a12b8-0e9b-473a-8274-338658cfe485.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/cf3a12b8-0e9b-473a-8274-338658cfe485/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/9e874cc5-8357-41e8-b9ce-57ba1ea846c7-4a06deeb.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಆಕಾರಗಳು ಸುಧಾರಿತ",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/eb8674f5-c52c-43f8-910a-491344f137bc",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.465810+00:00",
+        "subject": [
+          {
+            "name": "ಆಕಾರಗಳು ಸುಧಾರಿತ",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/eb8674f5-c52c-43f8-910a-491344f137bc.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/eb8674f5-c52c-43f8-910a-491344f137bc/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b9f90fc6-38d2-48c0-87e5-94e5bc2dd4e4-cde121d6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "2D ಮತ್ತು 3D ಆಕಾರಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/5d6c915e-8b15-4cde-88d3-a64ad4dd1ac8",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.469307+00:00",
+        "subject": [
+          {
+            "name": "2D ಮತ್ತು 3D ಆಕಾರಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5d6c915e-8b15-4cde-88d3-a64ad4dd1ac8.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/5d6c915e-8b15-4cde-88d3-a64ad4dd1ac8/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/b02ddcac-726b-40bd-8dec-f30848218070-2c9b0cb6.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "ಆಕಾರಗಳು ಮತ್ತು ಘನವಸ್ತುಗಳು",
+        "author": "Chimple",
+        "identifier": "https://chimple-respect.web.app/activities/f0783f3c-2efc-4d23-b563-6148a01dad7a",
+        "language": "kn",
+        "modified": "2026-11-06T06:07:47.472869+00:00",
+        "subject": [
+          {
+            "name": "ಆಕಾರಗಳು ಮತ್ತು ಘನವಸ್ತುಗಳು",
+            "scheme": "https://chimple.cc/curriculum",
+            "code": "maths13"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f0783f3c-2efc-4d23-b563-6148a01dad7a.json",
+          "type": "application/opds-publication+json"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/tincanxml",
+          "href": "https://chimple-respect.web.app/lessons/kn-IN/f0783f3c-2efc-4d23-b563-6148a01dad7a/tincan.xml",
+          "type": "application/xml"
+        },
+        {
+          "rel": "https://id.openeel.org/rel/launchable-app",
+          "href": "https://chimple-respect.web.app/launchable-app-kn-IN.json",
+          "type": "application/opds-publication+json"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://pub-3a82c17429da40d1989930ae7eb2f2d1.r2.dev/lesson-icons/fe29ce37-c10f-42ad-ae7b-66bc94a23baf-af303908.webp",
+          "type": "image/webp",
+          "height": 128,
+          "width": 128
+        }
+      ]
+    }
+  ]
+}
