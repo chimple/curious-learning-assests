@@ -67,9 +67,8 @@ LANGUAGES_BY_CODE = {
 # directly and sends missing-app cases to the app-store link in the manifest.
 CHIMPLE_LESSON_LAUNCH_BASE = f'{BASE_URL}respect/launch'
 CHIMPLE_PACKAGE_NAME = 'org.chimple.bahama'
-# RESPECT downloads only publication resources. Use the same Lido bundle host that
-# Cuba uses so an offline lesson always has a concrete, versioned ZIP to download.
-LIDO_BUNDLE_BASE_URL = 'https://pub-ea1c3bce75704acdadd2eb5e79dbdd04.r2.dev/'
+# Use production's host so OpenEEL caches the same URL Chimple requests.
+LIDO_BUNDLE_BASE_URL = 'https://pub-9d27d46558f64e93a979827424d3e766.r2.dev/'
 LEGACY_GRADE_KEYS = {
     ('English', '1', 'English'): 'en_g1',
     ('English', '2', 'English'): 'en_g2',
